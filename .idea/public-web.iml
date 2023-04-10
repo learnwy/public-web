@@ -5,6 +5,9 @@
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/common/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tools/format-toolchain/.rush/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tools/format-toolchain/lib" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
