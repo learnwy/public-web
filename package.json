@@ -1,0 +1,14 @@
+{
+  "name": "public-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "keywords": [],
+  "license": "GPL-3.0",
+  "author": "",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "prettier": "*"
+  }
+}
