@@ -6,8 +6,8 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/common/temp" />
-      <excludeFolder url="file://$MODULE_DIR$/tools/format-toolchain/.rush/temp" />
-      <excludeFolder url="file://$MODULE_DIR$/tools/format-toolchain/lib" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/tools/rush-toolchain/.rush/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/tools/rush-toolchain/lib" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

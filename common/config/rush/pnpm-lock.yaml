@@ -5,7 +5,30 @@ importers:
   .:
     specifiers: {}
 
-  ../../tools/format-toolchain:
+  ../../packages/apps/rush-demo-app:
+    specifiers:
+      '@learnwy/rush-demo-lib': workspace:*
+      '@learnwy/rush-toolchain': workspace:*
+      '@types/node': ^18
+      typescript: ^5
+    dependencies:
+      '@learnwy/rush-demo-lib': link:../../libs/rush-demo-lib
+    devDependencies:
+      '@learnwy/rush-toolchain': link:../../tools/rush-toolchain
+      '@types/node': 18.15.11
+      typescript: 5.0.4
+
+  ../../packages/libs/rush-demo-lib:
+    specifiers:
+      '@learnwy/rush-toolchain': workspace:*
+      '@types/node': ^18
+      typescript: ^5
+    devDependencies:
+      '@learnwy/rush-toolchain': link:../../tools/rush-toolchain
+      '@types/node': 18.15.11
+      typescript: 5.0.4
+
+  ../../packages/tools/rush-toolchain:
     specifiers:
       '@types/node': ^18
       colors: ^1

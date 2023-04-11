@@ -102,7 +102,7 @@
    * and set projectFolderMaxDepth to a large number.
    */
   // "projectFolderMinDepth": 2,
-  // "projectFolderMaxDepth": 2,
+   "projectFolderMaxDepth": 5,
 
   /**
    * Today the npmjs.com registry enforces fairly strict naming rules for packages, but in the early
@@ -430,8 +430,16 @@
     //   "tags": [ "tools" ]
     // },
     {
-      "packageName": "@learnwy/format-toolchain",
-      "projectFolder": "tools/format-toolchain"
+      "packageName": "@learnwy/rush-toolchain",
+      "projectFolder": "packages/tools/rush-toolchain"
+    },
+    {
+      "packageName": "@learnwy/rush-demo-app",
+      "projectFolder": "packages/apps/rush-demo-app"
+    },
+    {
+      "packageName": "@learnwy/rush-demo-lib",
+      "projectFolder": "packages/libs/rush-demo-lib"
     },
   ]
 }
