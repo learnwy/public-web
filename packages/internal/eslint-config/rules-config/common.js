@@ -26,7 +26,7 @@ function addCommonRules(config, options) {
   }
 
   if (config.rules) {
-      assignRules(config.rules, updateRules);
+    assignRules(config.rules, updateRules);
   }
   config.overrides?.forEach((overrideConfig) => {
     let isTS = false;

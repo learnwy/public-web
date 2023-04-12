@@ -5,12 +5,10 @@ module.exports = {
   parserOptions: { tsconfigRootDir: __dirname },
   overrides: [
     {
-      files: [
-          "*.ts"
-      ],
+      files: ["*.ts"],
       rules: {
-        "no-empty-function": ["error", { "allow": ["arrowFunctions"] }],
-      }
-    }
-  ]
+        "no-empty-function": ["error", { allow: ["arrowFunctions"] }],
+      },
+    },
+  ],
 };
