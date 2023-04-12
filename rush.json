@@ -142,7 +142,8 @@
       "production", // projects that ship to production
       "tools", // non-shipping projects that are part of the developer toolchain
       "prototypes", // experiments that should mostly be ignored by the review process
-      "tmp" // the tmp packages not need to review
+      "tmp", // the tmp packages not need to review
+      "internal", // the tmp packages not need to review
     ]
 
     /**
@@ -445,6 +446,11 @@
       "packageName": "@learnwy/rush-demo-lib",
       "projectFolder": "packages/libs/rush-demo-lib",
       "reviewCategory": "tmp"
+    },
+    {
+      "packageName": "@learnwy/eslint-config",
+      "projectFolder": "packages/internal/eslint-config",
+      "reviewCategory": "internal"
     }
   ]
 }

@@ -18,6 +18,7 @@
   "devDependencies": {
     "@types/node": "^18",
     "typescript": "^5",
-    "@learnwy/rush-toolchain": "workspace:*"
+    "@learnwy/rush-toolchain": "workspace:*",
+    "@learnwy/eslint-config": "workspace:*"
   }
 }

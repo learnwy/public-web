@@ -1,0 +1,13 @@
+{
+  "name": "rush-eslint",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@rushstack/eslint-config": "^3",
+    "@typescript-eslint/parser": "^5",
+    "@rushstack/eslint-plugin": "^0",
+    "@rushstack/eslint-plugin-packlets": "^0",
+    "@rushstack/eslint-plugin-security": "^0",
+    "eslint": "^8"
+  }
+}
