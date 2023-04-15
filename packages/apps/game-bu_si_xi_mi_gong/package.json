@@ -1,0 +1,25 @@
+{
+  "name": "@learnwy/game-bu_si_xi_mi_gong",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "scripts": {
+    "build": "my-build",
+    "my-bulk-command": "my-bulk-command",
+    "run": ""
+  },
+  "dependencies": {
+    "@learnwy/rush-demo-lib": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^18",
+    "typescript": "^5",
+    "@learnwy/rush-toolchain": "workspace:*",
+    "@learnwy/eslint-config": "workspace:*"
+  }
+}
