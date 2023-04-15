@@ -1,3 +1,0 @@
-{
-  "extends": "./node_modules/@learnwy/rush-toolchain/config/tsconfig.node.json"
-}
