@@ -1,0 +1,7172 @@
+{
+  "groups": [
+    [
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特殊地图说明"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "伊甸之境迷宫为随机地图，每10层会随机构架下列地图中的一种，刷新地图对应的小怪、夹层及boss，对应怪物技能可参考原地图介绍。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（1）冒险者之森：地图元素保留蜂巢"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（2）英雄之村：地图元素保留帐篷"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（3）遗落祭坛：地图元素保留元素祭坛，杀死元素后依旧掉落元素结晶，但祭坛只能放3个相同的结晶。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "火结晶：机甲+30攻击力"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "土结晶：机甲+300生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "气结晶：机甲+10魔力"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "水结晶：机甲+30魔法值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（4）废弃边陲：地图元素保留头骨祭坛，祭拜后随机给魂"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（5）古代竞技场：地图元素保留每5层的角斗场。角斗场打赢奖励是芯片，观众依然可以杀，掉落同原角斗场。角斗士的血量远高于正常水平，但观众血量不变。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（6）骷髅岛：地图元素保留幽灵船，攻击力和层数有关，船只保留了魔龙炮击的技能，效果是三炮连击相当于1.5倍攻击力的伤害，CD为8轮。触手小怪不会影响幽灵船行动，但会3轮给你一次倍数伤害。注意boss依然会有护盾，比较麻烦"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（7）沙漠绿洲：一层的阿拉丁尸体依旧给神灯和灯油，杀怪后只能拿到劣质灯油，许愿为特有："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "强化机甲：随机提升攻击+30/魔力+10/生命值+300/魔力值+30"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "修复机甲：恢复30%生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "物资援助：获得智能芯片*20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "协助作战：召唤神灯协助战斗"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（8）阿瓦隆要塞：地图元素保留阿瓦隆巨炮，每层几率出现，自带一发巨炮，伤害中上，可开19块地板。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（9）血腥要塞：怪物死后不掉落装备，5个雕像出现在特定层数，只可献祭4星及以上装备，而且只能获得机甲强化材料。4星装备给1个，5星给2个，6星给3个。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1层出现黑夜女士，献祭给纳米修复套件；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "3层出现半神巫妖，献祭给能量立方；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "5层出现第九骑士，献祭给合金刺刃；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "7层出现独眼暴君，献祭给复合装甲片；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "9层出现智慧之火，献祭给神经传感器。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（10）德古拉城堡：1层德古拉尸体翻找给3个暗影石以及鞋子（其他层再次随机出德古拉城堡时，翻找尸体只给1个暗影石），每次时光回溯退3层。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（11）诸神的棋盘：地图元素保留棋桌，只可召唤棋子，依然有替掉相同小怪的特性。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫特殊机制"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "金属风暴"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "进入机甲，属性将获得全面提升"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "并可使用强大的机甲技能"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "1. 基本规则"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "进入迷宫1层时，会出现\t【金属风暴\t】，可选择驾驶机甲。进入机甲后，属性将获得全面提升。魔法可对机甲造成影响，但部分专属技、称号以及物品，仅对冈布奥起效。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "如未选择驾驶机甲，机甲将跟随冈布奥每层出现。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "机甲初始属性：\t攻击+150、生命值+1000、魔力+60、魔法值+100、3格能量"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "机甲\t初始属性受【\t机甲研究手册\t】和【\t驾驶员冈布奥雕像\t】影响"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "机甲研究手册"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：金属风暴攻击及生命值提升10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "驾驶员雕像："
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "金属风暴攻击及魔力+30、生命值+300、魔法值+30"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "当机甲生命值降为0时将损坏并消失，冈布奥自动脱离机甲且剩余1点生命值，\t冈布奥复活会重新召唤一台新的机甲\t。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "2. 机甲的能力"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "进入机甲后，可选择\t程式强化\t、\t能量炮\t和\t离舱\t。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "程式强化\t消耗\t智能芯片\t来强化机甲。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "能量炮\t是机甲的攻击技能，初始为单体伤害，可使用\t武器强化\t转化为【\t光束炮】\t或【\t重力波】\t。每次施放技能需要消耗1格能量。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【光束波】为单体伤害，后续强化可附带控制效果"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【重力波】为群体伤害，后续强化可附带即死效果"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用\t离舱\t会使冈布奥离开机甲，机甲被放置在地图上。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "3. 机甲的强化"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "程式强化共有3页：\t武器强化、机体强化、感知系统\t强化\t。程式强化规则与称号规则相同：需要至少1点前置，且并列的路线只能选择其中一条。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【武器强化】主要强化\t机甲技能\t；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【机体强化】主要强化\t机甲物理特性\t；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【感知系统强化】主要强化\t机甲魔法特性\t。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏冈布奥"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "章鱼博士获得方法"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1. 在31~59层普通层概率遇到\"奇怪的传送门\"，使用5次机甲技能给其充能。(需要用能量立方或氪-3恢复机甲能量)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "2. 打开传送门后主动离开机甲，进入传送门，进入后有智能中枢BOSS和左右2个智能防御者小怪，击败boss后获得【破损的机械触手】"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "3. 在60+小怪层概率遇到章鱼博士，给他触手，帮他防守5轮小怪，成功后对话，首次获得章鱼博士冈布奥，后续获得碎片*20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫重要彩蛋"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "奇怪的机械师"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "需要机甲程式全部强化满才能遇到"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次在x1楼层遇到时，把金属风暴交给他研究，机甲消失，\t后续在x9楼层遇到时 (必须高于首次遇到楼层)，\t获得\t【微型金属风暴】僚机"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "储藏室"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "需要使用【遥控引爆装置】引爆金属风暴才能开锁"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次获得 \t伊甸/培育/维修\t加速器(60m)x3 \t \t(限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫特殊建筑"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "研究员的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(1层出现，普通层随机出现)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1层必定获得 智能芯片*10"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "非1层获得："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "20%概率获得 遥控引爆装置 (限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "遥控引爆装置"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：引爆金属风暴 (储藏室彩蛋道具)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "20%概率获得 探索点*50~150"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "30%概率获得 随机2~5阶装备*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "30%概率获得 随机1~4阶卷轴*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "重工厂"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(1层出现，普通层随机出现)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "恢复机甲 (当前层数*10+100)的生命值，最多1000点"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1层必定获得 智能芯片*10"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "非1层获得：\t 智能芯片*5~10"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "各类夹层入口"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "夹层内建筑为伊甸特有"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "可出现 合金储物箱、残破的机甲"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "合金储物箱"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（\t夹层\t）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "75%概率获得  智能芯片*10~30"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "25%概率获得 探索点*200~300"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "残破的机甲"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（\t夹层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "随机获得 合金刺刃/复合装甲片/神经传感器/能量立方/纳米修复套件*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "合金刺刃"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：金属风暴攻击+30、生命值+300"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "复合装甲片"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：金属风暴降低敌人攻击+5"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "神经传感器"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：金属风暴魔力+10、魔法值+30"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "能量立方"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：金属风暴恢复1格能量"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "纳米修复套件"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：金属风暴恢复35%生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "零配件商店"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(地图特色商店 货币：探索点)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在售商品 (4件)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "必定售卖1组智能芯片，第2~4个物品在所有物品内随机。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "--------------"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "智能芯片*20 (300)  \t合金刺刃*1 (300)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "复合装甲片*1 (300)  \t神经传感器*1 (300)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "能量立方*1 (300)  \t纳米修复套件*1 (300)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "全罩式头盔*1 (600，限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "减震作战服*1 (600，限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "超纤维护臂*1 (600，限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "自平衡护腰*1 (600，限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "推进式护腿*1 (600，限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "--------------"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊勒索"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "智能芯片\t*50 (限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "--------------"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "全罩式头盔"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【头盔】\t每层10%概率侦测钥匙的位置"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "赋予金属风暴额外效果：\t侦测敌人的详细信息"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "减震作战服"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【铠甲】\t降低敌人攻击+3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "赋予金属风暴额外效果：\t所受伤害降低10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "超纤维护臂"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【手腕】\t攻击BOSS时，造成额外伤害+5%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "赋予金属风暴额外效果：\t攻击+100"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "自平衡护腰"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【腰带】\t生命值+40、魔法值+20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "赋予金属风暴额外效果：生命值+1000"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "推进式护腿"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【鞋子】\t闪避+10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "赋予金属风暴额外效果：\t金属风暴损毁时，可满血逃离"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "驾驶员套装效果"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "赋予金属风暴额外效果：攻击+15%，生命值+15%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "提纯装置"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(陷阱)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "翻开距离1范围内的石板并对其中的敌人造成伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "防御系统"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在场时，所有显形的敌人攻击及生命提升50%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "摧毁获得 智能芯片*2~4"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "培养皿"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "出现一个克隆体召唤物"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "克隆体"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【克隆人军团】每5轮发动，召唤1个同伴"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "发电机组"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "驾驶金属风暴时，获得【过载】金属风暴攻击提升50%，持续10回合"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "未驾驶金属风暴时，若零式、终结者、机帝神、未来猫、重装卡车、蓝鲨、血狼、Cytus、开罗君、开罗姬、机械使徒 出战，获得攻击+2，否则受到20点伤害(不会致死)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "充能平台"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "金属风暴属性提升："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "攻击+15、生命值+150、恢复1点能量"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "储藏室"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "需要使用【遥控引爆装置】引爆金属风暴才能开锁"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次获得 (限1次)："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "伊甸加速器（60m）x3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "培育加速器（60m）x3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "维修加速器（60m）x3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "奇怪的机械师"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "需要机甲程式全部强化满才能遇到"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次在x1楼层遇到时，把金属风暴交给他研究，机甲消失"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "后续在x9楼层遇到时 (必须高于首次遇到楼层)，\t获得【微型金属风暴】僚机和【机甲研究手册】"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "机甲研究手册：\t金属风暴攻击及生命值提升10%（特殊道具，迷宫中自动生效），手册在首次获得后，后续进入迷宫自动获得"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "已获得僚机后，在之后的迷宫中遇到机械师，\t直接获得 \t金属风暴 \t攻击和生命值+10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "奇怪的传送门"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "31~59层遇到，大地不保存"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "需要在当前层使用5次机甲技能才能打开，\t需要离开机甲才能进入"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "进入后有智能中枢BOSS和左右2个智能防御者小怪，击败boss后获得【破损的机械触手】(隐藏冈布奥任务道具)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "智能中枢"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "机械系BOSS (攻血: 200/5000)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【能量炮】每3轮发动一次攻击，对敌人造成3倍伤害，并附带燃烧效果（每轮损失生命值，持续3轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【攻击程式】每轮提升20点攻击"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "智能防御者"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "机械系普通 (攻血: 150/800)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【防御矩阵】在场时，智能中枢所受伤害降低50%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "智能防御者"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "机械系普通 (攻血: 150/800)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【偏斜力场】在场时，智能中枢免疫所有控制状态"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "章鱼博士"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "需要携带破损的机械触手才能遇到"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "上交触手，帮助抵挡智能防御者的攻击。完成\t后对话获得章鱼博士冈布奥，后续为碎片*20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "智能防御者"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "机械系普通  (攻血: 300/2000)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【密集轰击】每轮发动一次攻击，对章鱼博士造成1.5倍伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "素子的尸体"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 素子的大脑*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "素子的大脑"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：冈布奥魔力+3、魔法值+30，所有魔法效果+10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "山姆的尸体"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 氦-3*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "氦-3"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：金属风暴恢复3格能量"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大卫的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 大卫的泰迪熊*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大卫的泰迪熊"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：冈布奥生命值+50，每进入下一层，恢复魔法值+10"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "阿童木的尸体"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 喷气引擎*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "喷气引擎"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【鞋子】\t闪避+15%\t，闪避上限+5%\t，\t升级战斗系称号时，探索点消耗降低10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "5号机器人的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 机械手臂*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "机械手臂"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【手套】\t强化金属风暴时，降低智能芯片消耗+2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大盗神"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏的储物箱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 智能芯片*50"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "散落的物件"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "随机获得 合金刺刃/复合装甲片/神经传感器/能量立方/纳米修复套件 其中2个*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "副武器搭载平台"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "改装后，每5轮自动发射火箭弹"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "零件堆"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 微型动力炉*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "微型动力炉"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：金属风暴生命值+100；金属风暴施放技能时，10%概率不消耗能量"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "能源仓库"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次获得 瓦斯+铀矿+电力*500"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "后续获得 瓦斯+铀矿+电力*50"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灯异界"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "研究员的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "残破的研究员之魂  使用：零配件商店中，探索点消耗降低1%（探索点消耗最多降低30%）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的研究员之魂  使用：零配件商店中，探索点消耗降低3%（探索点消耗最多降低30%）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "素子的尸体"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "素子的灵魂  使用：冈布奥闪避+10%、闪避上限+3%；攻击时，10%概率对敌人施放瓦解射线"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "山姆的尸体"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "山姆的灵魂  使用：每翻开一块石板，流失1点生命值，并获得2点探索点"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大卫的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "大卫的记忆碎片  使用：获得30枚智能芯片"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "阿童木的尸体"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "阿童木的记忆碎片  使用：百万马力状态（攻击提升150%、降低所受伤害75%，持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "5号机器人的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "机器人5号的记忆碎片  使用：所有气系魔法效果+10%，获得5张【闪电术】"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "厨师菜谱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "仅可制作构造地图的普通料理"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特殊照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "石巨像的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：冈布奥降低敌人攻击+1，所有土系魔法效果+10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：进入石巨像的BOSS层 30%概率 获取 (上限2)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "骷髅术士的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：施放强力地刺术"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：翻出骷髅术士 5%概率 获取 (上限3)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "木乃伊的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：永生状态（降低敌人攻击+10、每轮恢复300点生命值，持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：翻出木乃伊 4%概率 获取 (上限3)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "尖刺骸骨的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：攻击时，反射敌人伤害+2%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：翻出尖刺骸骨 3%概率 获取 (上限2)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "巫妖的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：冈布奥魔力+1、所有火系魔法效果+5%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：翻出巫妖 3%概率 获取 (上限2)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "幽灵的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：冈布奥攻击+1、闪避+3%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：翻出幽灵 3%概率 获取 (上限3)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "DP难点"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "驾驶员套装"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "商店里见到买就是了，不买以后还会出，探索点不够用的时候可以暂时略过以后再说~\t注意戴上头盔在机甲中可以看到怪物的详细血量和攻击，再也不怕被问号影响判断了"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "杀敌系列"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "贴吧有些老哥好像卡在了某几类敌人系列，这个时候除了需要洗脸之外可以合理运用暗影石的时光回溯来刷需要种类的敌人，还可以适当放任一些召唤怪来刷杀敌数（注意小心翻车），比如阿瓦隆的红怪、德古拉的骷髅法师、英雄村的帐篷等等"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "引爆提纯装置杀敌"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这个玩意出现几率低，旁边的怪也少，50+层的伤害基本打不死怪，需要暂离的操作来弥补这个东西的缺点"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "点满看怪的情况下，发现这玩意之后，把没有怪的地板翻开（注意清理远程的时候小心机甲的翻地板效果），只留下有怪的地板和这个玩意周围的八块地板（周围的地板越多操作量越低），然后暂离再进入，小怪的位置都重新排列，只留下有怪的地板和这个玩意周围的八块地板再次暂离进入反复直到怪物全部聚集在装置周围，然后——"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "可以直接炸死的情况——直接引爆"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "直接炸不死的情况——地震开地板，利用卷轴控血线再引爆"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "光束炮5w伤害"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "程式强化第一张点精确制导程式，第二张点到聚能打击程式，这些全部点满后静电瓦解毁灭一炮爆出双倍肯定5w+了，还不够的话再点满暗物质湮灭程式，一炮99999不是梦"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "因为需要很多东西点满，推荐和点满机甲那个一起做"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "重力波杀九人"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "不推荐阿瓦隆，会被禁魔"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "英雄村的帐篷很方便，记得注意下刺客"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "注意角斗场的观众也算数！所以最方便的就是角斗场了，一个重力波砸下去死光光贼舒服"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "机甲强化满级"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "点位面的情况下不难，一路无脑点点点还很爽，没有大地鞋子的情况下位面先知962魔力可以飞53层（未来猫雕像），所以未来猫雕像+大地鞋子情况下大地最多60层，各位大神就不要再吹什么626364层了，有图可以来打我脸，说不定1000+魔力的情况下可以飞更多了呢"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "跑题了……一般双大地（算50+50层）加上暗影石三连（9层）足够满级了，不至于多肝那么多，没啥必要"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "注意强化时装备上机械手臂，虽然一次只省下了两个芯片，但积少成多哟"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "还有个前提就是商店里的芯片记得扫空哦，否则需要多肝几层"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "帮派干部抢劫商店可能额外抢出50芯片，异界大卫的灵魂有20芯片，大盗神几率洞内拿50芯片"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "不驾驶机甲前进10层、引爆机甲"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "尸体随机翻出遥控器，使用之后机甲就炸了"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这俩一起做比较方便，也可以分开做来完成彩蛋（后述）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "低层做会比较方便，自己属性可以打得过小怪，而且由于boss已经打完了可以少打一只boss很轻松"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "高层的话，建议点异界，小怪全靠灯芯，至于boss，只能看你的卷轴数量了……毕竟随随便便几十万血……"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏冈布奥"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在30—59层小怪层几率碰到灰色的传送门，使用重力波或光束炮五次之后会给其充能，打开后主动脱离机甲（不是引爆，脱离就行，等会儿回来再上去），钻进传送门，打赢boss，拿走破损的触手，之后在60+小怪层几率碰见章鱼博士，给他触手，然后帮他打5轮小怪保他不死，即可获得隐藏冈布奥——章鱼博士冈布奥"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "注意碰见传送门时身上至少要有两个能量立方或者一个氪-3，不然能量不够用，脸黑没有的情况下碰见就只能大sl了……（不推荐大sl，太墨迹，干脆重开吧……我这样脸黑的大sl了3次也救不了……）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "传送门里的boss很难打，没了机甲你会发现自己很废，boss5000血高伤害，两个800血的小弟一个提供减伤一个提供免疫异常状态，建议点异界进门两个灯芯送走小弟，有阿童木的灵魂提供75%减伤打起来也会很方便，没有异界的话就至少需要一个时停了……"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "之后获取方式不变，一次20片。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "速刷阵容"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "(来源:论坛-宅之小天)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "王昭君，帝释天，夜叉。有机甲的帝王叉不要太爽….不点称号100层都很多是这里做的吧，不赘述。"
+            }
+          ]
+        ]
+      }
+    ]
+  ],
+  "cur_group": [
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特殊地图说明"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "伊甸之境迷宫为随机地图，每10层会随机构架下列地图中的一种，刷新地图对应的小怪、夹层及boss，对应怪物技能可参考原地图介绍。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（1）冒险者之森：地图元素保留蜂巢"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（2）英雄之村：地图元素保留帐篷"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（3）遗落祭坛：地图元素保留元素祭坛，杀死元素后依旧掉落元素结晶，但祭坛只能放3个相同的结晶。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "火结晶：机甲+30攻击力"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "土结晶：机甲+300生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "气结晶：机甲+10魔力"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "水结晶：机甲+30魔法值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（4）废弃边陲：地图元素保留头骨祭坛，祭拜后随机给魂"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（5）古代竞技场：地图元素保留每5层的角斗场。角斗场打赢奖励是芯片，观众依然可以杀，掉落同原角斗场。角斗士的血量远高于正常水平，但观众血量不变。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（6）骷髅岛：地图元素保留幽灵船，攻击力和层数有关，船只保留了魔龙炮击的技能，效果是三炮连击相当于1.5倍攻击力的伤害，CD为8轮。触手小怪不会影响幽灵船行动，但会3轮给你一次倍数伤害。注意boss依然会有护盾，比较麻烦"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（7）沙漠绿洲：一层的阿拉丁尸体依旧给神灯和灯油，杀怪后只能拿到劣质灯油，许愿为特有："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "强化机甲：随机提升攻击+30/魔力+10/生命值+300/魔力值+30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "修复机甲：恢复30%生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "物资援助：获得智能芯片*20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "协助作战：召唤神灯协助战斗"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（8）阿瓦隆要塞：地图元素保留阿瓦隆巨炮，每层几率出现，自带一发巨炮，伤害中上，可开19块地板。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（9）血腥要塞：怪物死后不掉落装备，5个雕像出现在特定层数，只可献祭4星及以上装备，而且只能获得机甲强化材料。4星装备给1个，5星给2个，6星给3个。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1层出现黑夜女士，献祭给纳米修复套件；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "3层出现半神巫妖，献祭给能量立方；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "5层出现第九骑士，献祭给合金刺刃；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "7层出现独眼暴君，献祭给复合装甲片；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "9层出现智慧之火，献祭给神经传感器。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（10）德古拉城堡：1层德古拉尸体翻找给3个暗影石以及鞋子（其他层再次随机出德古拉城堡时，翻找尸体只给1个暗影石），每次时光回溯退3层。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（11）诸神的棋盘：地图元素保留棋桌，只可召唤棋子，依然有替掉相同小怪的特性。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫特殊机制"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "金属风暴"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "进入机甲，属性将获得全面提升"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "并可使用强大的机甲技能"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "1. 基本规则"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "进入迷宫1层时，会出现\t【金属风暴\t】，可选择驾驶机甲。进入机甲后，属性将获得全面提升。魔法可对机甲造成影响，但部分专属技、称号以及物品，仅对冈布奥起效。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "如未选择驾驶机甲，机甲将跟随冈布奥每层出现。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "机甲初始属性：\t攻击+150、生命值+1000、魔力+60、魔法值+100、3格能量"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "机甲\t初始属性受【\t机甲研究手册\t】和【\t驾驶员冈布奥雕像\t】影响"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "机甲研究手册"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：金属风暴攻击及生命值提升10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "驾驶员雕像："
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "金属风暴攻击及魔力+30、生命值+300、魔法值+30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "当机甲生命值降为0时将损坏并消失，冈布奥自动脱离机甲且剩余1点生命值，\t冈布奥复活会重新召唤一台新的机甲\t。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "2. 机甲的能力"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "进入机甲后，可选择\t程式强化\t、\t能量炮\t和\t离舱\t。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "程式强化\t消耗\t智能芯片\t来强化机甲。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "能量炮\t是机甲的攻击技能，初始为单体伤害，可使用\t武器强化\t转化为【\t光束炮】\t或【\t重力波】\t。每次施放技能需要消耗1格能量。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【光束波】为单体伤害，后续强化可附带控制效果"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【重力波】为群体伤害，后续强化可附带即死效果"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用\t离舱\t会使冈布奥离开机甲，机甲被放置在地图上。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "3. 机甲的强化"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "程式强化共有3页：\t武器强化、机体强化、感知系统\t强化\t。程式强化规则与称号规则相同：需要至少1点前置，且并列的路线只能选择其中一条。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【武器强化】主要强化\t机甲技能\t；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【机体强化】主要强化\t机甲物理特性\t；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【感知系统强化】主要强化\t机甲魔法特性\t。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏冈布奥"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "章鱼博士获得方法"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1. 在31~59层普通层概率遇到\"奇怪的传送门\"，使用5次机甲技能给其充能。(需要用能量立方或氪-3恢复机甲能量)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "2. 打开传送门后主动离开机甲，进入传送门，进入后有智能中枢BOSS和左右2个智能防御者小怪，击败boss后获得【破损的机械触手】"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "3. 在60+小怪层概率遇到章鱼博士，给他触手，帮他防守5轮小怪，成功后对话，首次获得章鱼博士冈布奥，后续获得碎片*20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫重要彩蛋"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "奇怪的机械师"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "需要机甲程式全部强化满才能遇到"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次在x1楼层遇到时，把金属风暴交给他研究，机甲消失，\t后续在x9楼层遇到时 (必须高于首次遇到楼层)，\t获得\t【微型金属风暴】僚机"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "储藏室"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "需要使用【遥控引爆装置】引爆金属风暴才能开锁"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次获得 \t伊甸/培育/维修\t加速器(60m)x3 \t \t(限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫特殊建筑"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "研究员的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(1层出现，普通层随机出现)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1层必定获得 智能芯片*10"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "非1层获得："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "20%概率获得 遥控引爆装置 (限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "遥控引爆装置"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：引爆金属风暴 (储藏室彩蛋道具)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "20%概率获得 探索点*50~150"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "30%概率获得 随机2~5阶装备*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "30%概率获得 随机1~4阶卷轴*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "重工厂"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(1层出现，普通层随机出现)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "恢复机甲 (当前层数*10+100)的生命值，最多1000点"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1层必定获得 智能芯片*10"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "非1层获得：\t 智能芯片*5~10"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "各类夹层入口"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "夹层内建筑为伊甸特有"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "可出现 合金储物箱、残破的机甲"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "合金储物箱"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（\t夹层\t）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "75%概率获得  智能芯片*10~30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "25%概率获得 探索点*200~300"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "残破的机甲"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（\t夹层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "随机获得 合金刺刃/复合装甲片/神经传感器/能量立方/纳米修复套件*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "合金刺刃"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：金属风暴攻击+30、生命值+300"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "复合装甲片"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：金属风暴降低敌人攻击+5"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "神经传感器"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：金属风暴魔力+10、魔法值+30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "能量立方"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：金属风暴恢复1格能量"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "纳米修复套件"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：金属风暴恢复35%生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "零配件商店"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(地图特色商店 货币：探索点)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在售商品 (4件)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "必定售卖1组智能芯片，第2~4个物品在所有物品内随机。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "--------------"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "智能芯片*20 (300)  \t合金刺刃*1 (300)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "复合装甲片*1 (300)  \t神经传感器*1 (300)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "能量立方*1 (300)  \t纳米修复套件*1 (300)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "全罩式头盔*1 (600，限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "减震作战服*1 (600，限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "超纤维护臂*1 (600，限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "自平衡护腰*1 (600，限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "推进式护腿*1 (600，限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "--------------"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊勒索"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "智能芯片\t*50 (限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "--------------"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "全罩式头盔"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【头盔】\t每层10%概率侦测钥匙的位置"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "赋予金属风暴额外效果：\t侦测敌人的详细信息"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "减震作战服"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【铠甲】\t降低敌人攻击+3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "赋予金属风暴额外效果：\t所受伤害降低10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "超纤维护臂"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【手腕】\t攻击BOSS时，造成额外伤害+5%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "赋予金属风暴额外效果：\t攻击+100"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "自平衡护腰"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【腰带】\t生命值+40、魔法值+20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "赋予金属风暴额外效果：生命值+1000"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "推进式护腿"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【鞋子】\t闪避+10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "赋予金属风暴额外效果：\t金属风暴损毁时，可满血逃离"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "驾驶员套装效果"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "赋予金属风暴额外效果：攻击+15%，生命值+15%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "提纯装置"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(陷阱)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "翻开距离1范围内的石板并对其中的敌人造成伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "防御系统"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在场时，所有显形的敌人攻击及生命提升50%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "摧毁获得 智能芯片*2~4"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "培养皿"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "出现一个克隆体召唤物"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "克隆体"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【克隆人军团】每5轮发动，召唤1个同伴"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "发电机组"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "驾驶金属风暴时，获得【过载】金属风暴攻击提升50%，持续10回合"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "未驾驶金属风暴时，若零式、终结者、机帝神、未来猫、重装卡车、蓝鲨、血狼、Cytus、开罗君、开罗姬、机械使徒 出战，获得攻击+2，否则受到20点伤害(不会致死)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "充能平台"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "金属风暴属性提升："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "攻击+15、生命值+150、恢复1点能量"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "储藏室"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "需要使用【遥控引爆装置】引爆金属风暴才能开锁"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次获得 (限1次)："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "伊甸加速器（60m）x3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "培育加速器（60m）x3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "维修加速器（60m）x3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "奇怪的机械师"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "需要机甲程式全部强化满才能遇到"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次在x1楼层遇到时，把金属风暴交给他研究，机甲消失"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "后续在x9楼层遇到时 (必须高于首次遇到楼层)，\t获得【微型金属风暴】僚机和【机甲研究手册】"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "机甲研究手册：\t金属风暴攻击及生命值提升10%（特殊道具，迷宫中自动生效），手册在首次获得后，后续进入迷宫自动获得"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "已获得僚机后，在之后的迷宫中遇到机械师，\t直接获得 \t金属风暴 \t攻击和生命值+10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "奇怪的传送门"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "31~59层遇到，大地不保存"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "需要在当前层使用5次机甲技能才能打开，\t需要离开机甲才能进入"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "进入后有智能中枢BOSS和左右2个智能防御者小怪，击败boss后获得【破损的机械触手】(隐藏冈布奥任务道具)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "智能中枢"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "机械系BOSS (攻血: 200/5000)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【能量炮】每3轮发动一次攻击，对敌人造成3倍伤害，并附带燃烧效果（每轮损失生命值，持续3轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【攻击程式】每轮提升20点攻击"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "智能防御者"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "机械系普通 (攻血: 150/800)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【防御矩阵】在场时，智能中枢所受伤害降低50%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "智能防御者"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "机械系普通 (攻血: 150/800)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【偏斜力场】在场时，智能中枢免疫所有控制状态"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "章鱼博士"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "需要携带破损的机械触手才能遇到"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "上交触手，帮助抵挡智能防御者的攻击。完成\t后对话获得章鱼博士冈布奥，后续为碎片*20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "智能防御者"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "机械系普通  (攻血: 300/2000)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【密集轰击】每轮发动一次攻击，对章鱼博士造成1.5倍伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "素子的尸体"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 素子的大脑*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "素子的大脑"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：冈布奥魔力+3、魔法值+30，所有魔法效果+10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "山姆的尸体"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 氦-3*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "氦-3"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：金属风暴恢复3格能量"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大卫的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 大卫的泰迪熊*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大卫的泰迪熊"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：冈布奥生命值+50，每进入下一层，恢复魔法值+10"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "阿童木的尸体"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 喷气引擎*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "喷气引擎"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【鞋子】\t闪避+15%\t，闪避上限+5%\t，\t升级战斗系称号时，探索点消耗降低10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "5号机器人的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 机械手臂*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "机械手臂"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【手套】\t强化金属风暴时，降低智能芯片消耗+2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大盗神"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏的储物箱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 智能芯片*50"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "散落的物件"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "随机获得 合金刺刃/复合装甲片/神经传感器/能量立方/纳米修复套件 其中2个*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "副武器搭载平台"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "改装后，每5轮自动发射火箭弹"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "零件堆"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 微型动力炉*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "微型动力炉"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：金属风暴生命值+100；金属风暴施放技能时，10%概率不消耗能量"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "能源仓库"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次获得 瓦斯+铀矿+电力*500"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "后续获得 瓦斯+铀矿+电力*50"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灯异界"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "研究员的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "残破的研究员之魂  使用：零配件商店中，探索点消耗降低1%（探索点消耗最多降低30%）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的研究员之魂  使用：零配件商店中，探索点消耗降低3%（探索点消耗最多降低30%）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "素子的尸体"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "素子的灵魂  使用：冈布奥闪避+10%、闪避上限+3%；攻击时，10%概率对敌人施放瓦解射线"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "山姆的尸体"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "山姆的灵魂  使用：每翻开一块石板，流失1点生命值，并获得2点探索点"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大卫的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "大卫的记忆碎片  使用：获得30枚智能芯片"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "阿童木的尸体"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "阿童木的记忆碎片  使用：百万马力状态（攻击提升150%、降低所受伤害75%，持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "5号机器人的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "机器人5号的记忆碎片  使用：所有气系魔法效果+10%，获得5张【闪电术】"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "厨师菜谱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "仅可制作构造地图的普通料理"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特殊照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "石巨像的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：冈布奥降低敌人攻击+1，所有土系魔法效果+10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：进入石巨像的BOSS层 30%概率 获取 (上限2)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "骷髅术士的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：施放强力地刺术"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：翻出骷髅术士 5%概率 获取 (上限3)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "木乃伊的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：永生状态（降低敌人攻击+10、每轮恢复300点生命值，持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：翻出木乃伊 4%概率 获取 (上限3)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "尖刺骸骨的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：攻击时，反射敌人伤害+2%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：翻出尖刺骸骨 3%概率 获取 (上限2)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "巫妖的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：冈布奥魔力+1、所有火系魔法效果+5%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：翻出巫妖 3%概率 获取 (上限2)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "幽灵的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：冈布奥攻击+1、闪避+3%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：翻出幽灵 3%概率 获取 (上限3)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "DP难点"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "驾驶员套装"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "商店里见到买就是了，不买以后还会出，探索点不够用的时候可以暂时略过以后再说~\t注意戴上头盔在机甲中可以看到怪物的详细血量和攻击，再也不怕被问号影响判断了"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "杀敌系列"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "贴吧有些老哥好像卡在了某几类敌人系列，这个时候除了需要洗脸之外可以合理运用暗影石的时光回溯来刷需要种类的敌人，还可以适当放任一些召唤怪来刷杀敌数（注意小心翻车），比如阿瓦隆的红怪、德古拉的骷髅法师、英雄村的帐篷等等"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "引爆提纯装置杀敌"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这个玩意出现几率低，旁边的怪也少，50+层的伤害基本打不死怪，需要暂离的操作来弥补这个东西的缺点"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "点满看怪的情况下，发现这玩意之后，把没有怪的地板翻开（注意清理远程的时候小心机甲的翻地板效果），只留下有怪的地板和这个玩意周围的八块地板（周围的地板越多操作量越低），然后暂离再进入，小怪的位置都重新排列，只留下有怪的地板和这个玩意周围的八块地板再次暂离进入反复直到怪物全部聚集在装置周围，然后——"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "可以直接炸死的情况——直接引爆"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "直接炸不死的情况——地震开地板，利用卷轴控血线再引爆"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "光束炮5w伤害"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "程式强化第一张点精确制导程式，第二张点到聚能打击程式，这些全部点满后静电瓦解毁灭一炮爆出双倍肯定5w+了，还不够的话再点满暗物质湮灭程式，一炮99999不是梦"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "因为需要很多东西点满，推荐和点满机甲那个一起做"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "重力波杀九人"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "不推荐阿瓦隆，会被禁魔"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "英雄村的帐篷很方便，记得注意下刺客"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "注意角斗场的观众也算数！所以最方便的就是角斗场了，一个重力波砸下去死光光贼舒服"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "机甲强化满级"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "点位面的情况下不难，一路无脑点点点还很爽，没有大地鞋子的情况下位面先知962魔力可以飞53层（未来猫雕像），所以未来猫雕像+大地鞋子情况下大地最多60层，各位大神就不要再吹什么626364层了，有图可以来打我脸，说不定1000+魔力的情况下可以飞更多了呢"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "跑题了……一般双大地（算50+50层）加上暗影石三连（9层）足够满级了，不至于多肝那么多，没啥必要"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "注意强化时装备上机械手臂，虽然一次只省下了两个芯片，但积少成多哟"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "还有个前提就是商店里的芯片记得扫空哦，否则需要多肝几层"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "帮派干部抢劫商店可能额外抢出50芯片，异界大卫的灵魂有20芯片，大盗神几率洞内拿50芯片"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "不驾驶机甲前进10层、引爆机甲"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "尸体随机翻出遥控器，使用之后机甲就炸了"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这俩一起做比较方便，也可以分开做来完成彩蛋（后述）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "低层做会比较方便，自己属性可以打得过小怪，而且由于boss已经打完了可以少打一只boss很轻松"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "高层的话，建议点异界，小怪全靠灯芯，至于boss，只能看你的卷轴数量了……毕竟随随便便几十万血……"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏冈布奥"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在30—59层小怪层几率碰到灰色的传送门，使用重力波或光束炮五次之后会给其充能，打开后主动脱离机甲（不是引爆，脱离就行，等会儿回来再上去），钻进传送门，打赢boss，拿走破损的触手，之后在60+小怪层几率碰见章鱼博士，给他触手，然后帮他打5轮小怪保他不死，即可获得隐藏冈布奥——章鱼博士冈布奥"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "注意碰见传送门时身上至少要有两个能量立方或者一个氪-3，不然能量不够用，脸黑没有的情况下碰见就只能大sl了……（不推荐大sl，太墨迹，干脆重开吧……我这样脸黑的大sl了3次也救不了……）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "传送门里的boss很难打，没了机甲你会发现自己很废，boss5000血高伤害，两个800血的小弟一个提供减伤一个提供免疫异常状态，建议点异界进门两个灯芯送走小弟，有阿童木的灵魂提供75%减伤打起来也会很方便，没有异界的话就至少需要一个时停了……"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "之后获取方式不变，一次20片。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "速刷阵容"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "(来源:论坛-宅之小天)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "王昭君，帝释天，夜叉。有机甲的帝王叉不要太爽….不点称号100层都很多是这里做的吧，不赘述。"
+          }
+        ]
+      ]
+    }
+  ]
+}

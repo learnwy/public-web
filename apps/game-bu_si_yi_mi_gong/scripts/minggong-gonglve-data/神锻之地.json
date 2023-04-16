@@ -1,0 +1,5676 @@
+{
+  "groups": [
+    [
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "地图机制介绍"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "进入迷宫后，地图左下角固定出现"
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灵魂铠甲"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "灵魂铠甲类似机甲，通过杀怪和道具升级属性"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "同时还允许你额外灵魂链接一个同阵营冈布奥"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "是本迷宫最特色的系统"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "注：额外灵魂链接无法获得入场道具"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "灵魂铠甲拥有两种资源"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "group",
+                    "value": [
+                      [
+                        {
+                          "type": "text",
+                          "value": "神性"
+                        }
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "：使铠甲升级，击败小怪和使用部分道具可获得"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "group",
+                    "value": [
+                      [
+                        {
+                          "type": "text",
+                          "value": "魂能"
+                        }
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "：用于穿戴盔甲消耗和施放铠甲技能，下楼和使用部分道具可获得"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "选择灵魂链接后，你可以穿戴盔甲使盔甲属性和技能生效，穿戴盔甲会"
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "每轮消耗3点魂能"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "，魂能不足时自动脱离盔甲"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "注：是否穿戴盔甲不影响灵魂链接效果"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灵魂铠甲"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "链接技能详解"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "灵魂链接选择不同的系别冈布奥，将获得不同的铠甲属性和技能，战斗系偏向攻击和生命值，魔法系偏向魔力和魔法值，冒险系则均衡成长。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "每系都有4个独特技能，包括2个被动和2个主动技能，被动技能只需要穿戴盔甲即可生效，主动技能需要消耗魂能进行施放。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "战斗系技能"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "致残打击(被动)：对敌人发起的首次攻击，造成3倍伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "血腥曼舞(被动)：每击败一名敌人，攻击提升10%，持续本层"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "战意爆发(30魂能)：提升x点攻击，攻击附带20%吸血效果，且攻击时有50%概率造成2倍伤害，持续5轮"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "收割之刃(50魂能)：对敌人造成m点伤害，如果将敌人击败，则恢复n点生命值，并使下一次施放收割之刃造成的伤害提升50%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "魔法系技能"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "魔力爆发(被动)：施放魔法时，对所有敌人造成m点伤害，魔法阶位每增加一阶，伤害+n"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "魔能之刃(被动)：攻击敌人时，额外造成m点伤害，效果与冈布奥魔力相关"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "元素过载(30魂能)：提升m点魔力，且施放伤害及恢复类魔法时有60%概率连续施放2次，持续5轮"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "魔力潮汐(50魂能)：令所有敌人陷入魔力潮汐，使其所受伤害增加50%，持续4轮。4轮后，对所有陷入魔力潮汐的敌人造成m点伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "冒险系技能"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "全知之眼(被动)：场上每存在一名敌人，攻击及魔力提升10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "祝福之体(被动)：每轮恢复m点生命值，且免疫所有负面效果"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "迅捷之风(30魂能)：闪避及闪避上限+50%，且闪避成功时，对敌人造成m点伤害，持续8轮"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "灵魂冲击(50魂能)：令所有敌人每轮损失m点生命值，且无法行动，持续4轮"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "神力刻印"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用铠甲进行灵魂链接后"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "可在左下角使用神力刻印"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "镶嵌刻印可提升铠甲或冈布奥的能力"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "重复获得刻印可使镶嵌的刻印属性翻倍"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "主线和隐藏冈布奥"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "主线: 器灵 (深渊战斗系)"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏: 英雄王 (奥刃战斗系)"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏拿法"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1. 遇到封印之门 (保底102)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "2. 按下图位置击杀小怪"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "注意：召唤物和脱离的铠甲无法进入封印之门，但可以穿戴铠甲进入。小怪反击会禁魔，建议使用毁灭之刃或灯芯进行击杀。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "地图怪物介绍"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "本图怪物全部为机械怪，无反伤。Boss技能特点，玩家需要穿插使用法术和物理攻击、或使用特殊技能进行攻击，Boss会召唤小怪。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "地图建筑介绍"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "橙色为dp相关"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大风箱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "启动：翻开本层所有石板"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "加大风力：对本层敌人造成飓风状态"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "飓风(1层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "命中降低15%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "飓风(2层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "命中降低20%，且每轮损失2点生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "飓风(3层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "命中降低25%，且每轮损失3点生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "继续使用加大风力时爆炸：对所有在场生物造成伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "刻印熔炉"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "可将放入的神力刻印，熔炼为神性结晶。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "普通刻印换3个，20%获得 [滚烫的刻印]"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊刻印换10个，50%获得 [滚烫的刻印]"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "淬火之池"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "浸泡铠甲"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：随机获得生命+30、攻击+3 或 魔法值+30、魔力+3；40%概率额外获得大量神性，数量与层数相关"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "身上带有滚烫的刻印时，可选淬炼刻印，获得 淬火刻印"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "煅火熔炉"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "可将放入的装备，熔炼为神性结晶，获得神性结晶的数量为装备的阶数。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "熔炼有概率额外获得1个随机普通刻印 (1星15% 2星30% 3星45% 4星60% 5星80% 6星100%)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "分解6阶装备可获得 煅火刻印"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "洗炼祭坛"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "洗炼铠甲"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：神性获取速度+5%，同时获得大量神性，数值与层数相关。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "累计洗练5次时，出现怪物黑暗铠甲，击败掉落黑暗刻印"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "火神的雕像"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "供奉"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(消耗1颗神性结晶)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得火神的祝福 (所有火系魔法效果+75%，持续本层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "随机获得属性提升: 攻击/魔力+1~2 /生命/魔法+15"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "偷取贡品"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得火神的诅咒 (攻击及魔力降低25%，持续本层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "随机获得神性结晶x1~2 信仰之证x1 魂能结晶x1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "累计偷取5次会出现火神的化身 击败获得火神的凭依"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "火神的凭依 使用：冈布奥攻击+3、魔力+3；进入火神状态（攻击及魔力提升150%，且攻击时，施放末日审判，持续5轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "工匠之神出战时"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "只能选择收取 同时获得神性结晶x1~2 信仰之证x1 魂能结晶x1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "破碎的兵器"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "随机获得 普通刻印x1 或 神性结晶x1~3 或 失败之器x1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "失败之器  使用：随机提升冈布奥某项属性"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "20%概率获得破碎刻印，6次保底"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "废铁堆"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "随机获得 锻渣x1~2 或 失败之器x1~2，20%概率额外获得随机普通刻印x1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "锻渣 使用：投掷后，对敌人造成1点伤害，并使其陷入愤怒（攻击提升50%，所受伤害提升100%，持续4轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "锻造商店"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "出售5件商品，包括随机普通刻印、锻造笔记、神性结晶、魂能结晶、信仰之证等"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "勒索可获得随机普通刻印x1 或 锻造笔记x1 ，各上限2次"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "额外出售无用刻印，买够5个镶嵌后击杀Boss，可合成猎王者刻印"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "冶炼工坊：夹层入口"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "内有储物箱、寻宝者的残骸、火神信徒的残骸"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "翻找储物箱可随机获得神性结晶、魂能结晶、锻造笔记、锻渣、失败之器"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "40%概率获得 铸铁刻印，3次保底"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "残骸和异界彩蛋"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "寻宝者的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "翻找："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 普通刻印x1、概率获得 魂能结晶x1~2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "20%概率获得贪婪刻印，6次保底"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "异界："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【残破的寻宝者灵魂】使用：冈布奥闪避+20%（持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【完整的寻宝者灵魂】使用：降低敌人攻击+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "火神信徒的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "翻找："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "随机获得 信仰之证x1、锻造笔记x1、信徒刻印x1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "异界："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【残破的信徒灵魂】使用：获得50点神性"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【完整的信徒灵魂】使用：神性获取速度+1%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "矮人王的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "翻找："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【王权刻印】 可用于镶嵌灵魂铠甲"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "异界："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "【"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "矮人王的灵魂】使用：王权刻印，能力提升"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "巨人的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "翻找："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【巨人余烬】每前进9层，随机获得1个神力刻印（你只需要将它放在包裹里）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "异界："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【巨人的灵魂】使用：冈布奥攻击+5、生命值+50"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "干将的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "翻找："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【莫邪】(法宝)  魔力+8"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "异界："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【干将的灵魂】使用：莫邪，能力提升"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【干将·莫邪】(法宝) 攻击及魔力+8；攻击时，造成双倍伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "山羊的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "翻找："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【炙热风箱】分解装备时，额外获得50点探索点（你只需要将它放在包裹里）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "异界："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【山羊的灵魂】使用：获得易碎之火"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【易碎之火】使用：对敌人造成最大生命值24%的伤害，并使其陷入易碎状态（被攻击时，额外受到最大生命值12%的伤害，持续3轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "圣骑士的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "翻找："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【纯白圣剑】使用：对所有敌人造成1000点伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "异界："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【圣骑士的灵魂】使用：纯白圣剑，能力提升"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【杜兰德尔】使用：对所有敌人造成1500点伤害；进入圣骑士状态（攻击提升75%，攻击时，将100%伤害溅射到周围敌人，持续15轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "大盗神彩蛋"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "奇怪的鸟笼"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这个外形奇特的鸟笼里面，封印着一个古怪的立方体，其似乎与此处的兵器们一样，被神明赋予了意识，或许你可以尝试唤醒它。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "唤醒："
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "召唤亚德"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "架空骑士的腰带"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这个科幻感十足的机械腰带，似乎来自某个平行世界，当你望着它时，总是想要试着将它穿戴在身上……"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "穿戴"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：获得攻击、魔力+2、生命值、魔法值+20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "喵喵锤"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这个外观像个猫爪的锤子，在其锤柄上刻着一行字：“凡是拥有资格之人，举起雷神之锤，将获得雷神之力。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "拔出(攻击≥150)"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：变成"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【喵喵锤的碎片】"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "翻找获得 【雷神刻印】"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "隐藏食谱"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灵魂披萨"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：生命值+50、魔法值+50；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "魂能获取速度+20%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏食材【神之酒】"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "进入封印之门 (隐藏冈布奥那里) 获得"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "抓拍照片"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "巨剑的照片 (限3次)"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "照片中的巨剑，正准备向你发起攻击。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "途径：遇到巨剑抓拍"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：冈布奥攻击及魔力+2；获得300点神性"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "英雄王的照片 (限1次)"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "照片中的英雄王，正在封印中沉睡。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "途径：进入封印之门"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：冈布奥攻击+3；灵魂铠甲神性获取速度提升10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "最终兵器的照片 (限1次)"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "照片中的最终兵器，正在与其他兵器融合。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "途径：进入BOSS层抓拍"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：随机获得2个神力刻印"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "扫荡 和 DP"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "本图特产为恒金+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "金币经验较高，还算不错"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "下图排序为扫荡金币"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "比遗落之城差一点就是经验特产了"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "最后来看一下特殊DP"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这个迷宫非常简单，大家也可以选自己喜欢的打，比如盘丝猴、放狗之类的，没有强力单杀技能的队伍可以用铠甲链接战士系，用铠甲技能收割打Boss。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "选阵容的时候注意一点：场内链接是无法带入场道具的。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "推荐阵容：王昭君出战 链接帝释天 + 大侦探 场内链接宇宙刑警  神器竖琴，圣者的凝视，称号 异界 + 毁灭 + 大地，优点是异界大盗神都有，打的快，资源也比较多。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这里先说一下拿15刻印的dp，这个dp目前来说不需要大盗神那个就能完成，猜测是无用和猎王算两个。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "淬炼滚烫的刻印"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在刻印熔炉分解刻印概率获得 [滚烫的刻印]"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "然后在淬火之池进行淬炼"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "铠甲技能系列"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "技能就是点开铠甲界面点技能直接用就好"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "前边能打的动就不用穿铠甲"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "省点魂能后边用技能"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "杀Boss穿上铠甲直接4技能收割就好"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "击败火神的化身"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "火神的雕像累计偷取贡品5次出火神的化身"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "一局只会出一次"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "击败黑暗铠甲"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "35层的x5层开始出洗炼祭坛，需要洗5次"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "后边45 55 65 75"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "不漏的话到75层就会出黑暗铠甲"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "15个不同刻印"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这个就是最麻烦的dp，记得要进洞"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "普通的6个一般不会少，注意看一下特殊的"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "铸铁：洞里储物箱"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "锻火：锻火熔炉分解6星装备"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "贪婪：翻寻宝者的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "破碎：翻破碎的兵器"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "王权：翻矮人王的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "无用/猎王者：商店买够5个无用后镶嵌了去杀Boss"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "淬火：刻印熔炉分解刻印拿到[滚烫的刻印]再去淬火之池淬炼"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "黑暗：使用5次洗练祭坛"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "雷神：大盗神翻喵喵锤"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  ],
+  "cur_group": [
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "地图机制介绍"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "进入迷宫后，地图左下角固定出现"
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灵魂铠甲"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "灵魂铠甲类似机甲，通过杀怪和道具升级属性"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "同时还允许你额外灵魂链接一个同阵营冈布奥"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "是本迷宫最特色的系统"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "注：额外灵魂链接无法获得入场道具"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "灵魂铠甲拥有两种资源"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "group",
+                  "value": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "神性"
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "：使铠甲升级，击败小怪和使用部分道具可获得"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "group",
+                  "value": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "魂能"
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "：用于穿戴盔甲消耗和施放铠甲技能，下楼和使用部分道具可获得"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "选择灵魂链接后，你可以穿戴盔甲使盔甲属性和技能生效，穿戴盔甲会"
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "每轮消耗3点魂能"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "，魂能不足时自动脱离盔甲"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "注：是否穿戴盔甲不影响灵魂链接效果"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灵魂铠甲"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "链接技能详解"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "灵魂链接选择不同的系别冈布奥，将获得不同的铠甲属性和技能，战斗系偏向攻击和生命值，魔法系偏向魔力和魔法值，冒险系则均衡成长。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "每系都有4个独特技能，包括2个被动和2个主动技能，被动技能只需要穿戴盔甲即可生效，主动技能需要消耗魂能进行施放。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "战斗系技能"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "致残打击(被动)：对敌人发起的首次攻击，造成3倍伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "血腥曼舞(被动)：每击败一名敌人，攻击提升10%，持续本层"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "战意爆发(30魂能)：提升x点攻击，攻击附带20%吸血效果，且攻击时有50%概率造成2倍伤害，持续5轮"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "收割之刃(50魂能)：对敌人造成m点伤害，如果将敌人击败，则恢复n点生命值，并使下一次施放收割之刃造成的伤害提升50%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "魔法系技能"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "魔力爆发(被动)：施放魔法时，对所有敌人造成m点伤害，魔法阶位每增加一阶，伤害+n"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "魔能之刃(被动)：攻击敌人时，额外造成m点伤害，效果与冈布奥魔力相关"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "元素过载(30魂能)：提升m点魔力，且施放伤害及恢复类魔法时有60%概率连续施放2次，持续5轮"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "魔力潮汐(50魂能)：令所有敌人陷入魔力潮汐，使其所受伤害增加50%，持续4轮。4轮后，对所有陷入魔力潮汐的敌人造成m点伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "冒险系技能"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "全知之眼(被动)：场上每存在一名敌人，攻击及魔力提升10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "祝福之体(被动)：每轮恢复m点生命值，且免疫所有负面效果"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "迅捷之风(30魂能)：闪避及闪避上限+50%，且闪避成功时，对敌人造成m点伤害，持续8轮"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "灵魂冲击(50魂能)：令所有敌人每轮损失m点生命值，且无法行动，持续4轮"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "神力刻印"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用铠甲进行灵魂链接后"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "可在左下角使用神力刻印"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "镶嵌刻印可提升铠甲或冈布奥的能力"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "重复获得刻印可使镶嵌的刻印属性翻倍"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "主线和隐藏冈布奥"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "主线: 器灵 (深渊战斗系)"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏: 英雄王 (奥刃战斗系)"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏拿法"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1. 遇到封印之门 (保底102)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "2. 按下图位置击杀小怪"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "注意：召唤物和脱离的铠甲无法进入封印之门，但可以穿戴铠甲进入。小怪反击会禁魔，建议使用毁灭之刃或灯芯进行击杀。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "地图怪物介绍"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "本图怪物全部为机械怪，无反伤。Boss技能特点，玩家需要穿插使用法术和物理攻击、或使用特殊技能进行攻击，Boss会召唤小怪。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "地图建筑介绍"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "橙色为dp相关"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大风箱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "启动：翻开本层所有石板"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "加大风力：对本层敌人造成飓风状态"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "飓风(1层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "命中降低15%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "飓风(2层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "命中降低20%，且每轮损失2点生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "飓风(3层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "命中降低25%，且每轮损失3点生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "继续使用加大风力时爆炸：对所有在场生物造成伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "刻印熔炉"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "可将放入的神力刻印，熔炼为神性结晶。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "普通刻印换3个，20%获得 [滚烫的刻印]"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊刻印换10个，50%获得 [滚烫的刻印]"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "淬火之池"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "浸泡铠甲"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：随机获得生命+30、攻击+3 或 魔法值+30、魔力+3；40%概率额外获得大量神性，数量与层数相关"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "身上带有滚烫的刻印时，可选淬炼刻印，获得 淬火刻印"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "煅火熔炉"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "可将放入的装备，熔炼为神性结晶，获得神性结晶的数量为装备的阶数。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "熔炼有概率额外获得1个随机普通刻印 (1星15% 2星30% 3星45% 4星60% 5星80% 6星100%)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "分解6阶装备可获得 煅火刻印"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "洗炼祭坛"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "洗炼铠甲"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：神性获取速度+5%，同时获得大量神性，数值与层数相关。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "累计洗练5次时，出现怪物黑暗铠甲，击败掉落黑暗刻印"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "火神的雕像"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "供奉"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(消耗1颗神性结晶)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得火神的祝福 (所有火系魔法效果+75%，持续本层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "随机获得属性提升: 攻击/魔力+1~2 /生命/魔法+15"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "偷取贡品"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得火神的诅咒 (攻击及魔力降低25%，持续本层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "随机获得神性结晶x1~2 信仰之证x1 魂能结晶x1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "累计偷取5次会出现火神的化身 击败获得火神的凭依"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "火神的凭依 使用：冈布奥攻击+3、魔力+3；进入火神状态（攻击及魔力提升150%，且攻击时，施放末日审判，持续5轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "工匠之神出战时"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "只能选择收取 同时获得神性结晶x1~2 信仰之证x1 魂能结晶x1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "破碎的兵器"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "随机获得 普通刻印x1 或 神性结晶x1~3 或 失败之器x1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "失败之器  使用：随机提升冈布奥某项属性"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "20%概率获得破碎刻印，6次保底"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "废铁堆"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "随机获得 锻渣x1~2 或 失败之器x1~2，20%概率额外获得随机普通刻印x1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "锻渣 使用：投掷后，对敌人造成1点伤害，并使其陷入愤怒（攻击提升50%，所受伤害提升100%，持续4轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "锻造商店"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "出售5件商品，包括随机普通刻印、锻造笔记、神性结晶、魂能结晶、信仰之证等"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "勒索可获得随机普通刻印x1 或 锻造笔记x1 ，各上限2次"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "额外出售无用刻印，买够5个镶嵌后击杀Boss，可合成猎王者刻印"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "冶炼工坊：夹层入口"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "内有储物箱、寻宝者的残骸、火神信徒的残骸"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "翻找储物箱可随机获得神性结晶、魂能结晶、锻造笔记、锻渣、失败之器"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "40%概率获得 铸铁刻印，3次保底"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "残骸和异界彩蛋"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "寻宝者的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "翻找："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 普通刻印x1、概率获得 魂能结晶x1~2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "20%概率获得贪婪刻印，6次保底"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "异界："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【残破的寻宝者灵魂】使用：冈布奥闪避+20%（持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【完整的寻宝者灵魂】使用：降低敌人攻击+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "火神信徒的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "翻找："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "随机获得 信仰之证x1、锻造笔记x1、信徒刻印x1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "异界："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【残破的信徒灵魂】使用：获得50点神性"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【完整的信徒灵魂】使用：神性获取速度+1%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "矮人王的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "翻找："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【王权刻印】 可用于镶嵌灵魂铠甲"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "异界："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "【"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "矮人王的灵魂】使用：王权刻印，能力提升"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "巨人的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "翻找："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【巨人余烬】每前进9层，随机获得1个神力刻印（你只需要将它放在包裹里）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "异界："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【巨人的灵魂】使用：冈布奥攻击+5、生命值+50"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "干将的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "翻找："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【莫邪】(法宝)  魔力+8"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "异界："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【干将的灵魂】使用：莫邪，能力提升"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【干将·莫邪】(法宝) 攻击及魔力+8；攻击时，造成双倍伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "山羊的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "翻找："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【炙热风箱】分解装备时，额外获得50点探索点（你只需要将它放在包裹里）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "异界："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【山羊的灵魂】使用：获得易碎之火"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【易碎之火】使用：对敌人造成最大生命值24%的伤害，并使其陷入易碎状态（被攻击时，额外受到最大生命值12%的伤害，持续3轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "圣骑士的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "翻找："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【纯白圣剑】使用：对所有敌人造成1000点伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "异界："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【圣骑士的灵魂】使用：纯白圣剑，能力提升"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【杜兰德尔】使用：对所有敌人造成1500点伤害；进入圣骑士状态（攻击提升75%，攻击时，将100%伤害溅射到周围敌人，持续15轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "大盗神彩蛋"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "奇怪的鸟笼"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这个外形奇特的鸟笼里面，封印着一个古怪的立方体，其似乎与此处的兵器们一样，被神明赋予了意识，或许你可以尝试唤醒它。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "唤醒："
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "召唤亚德"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "架空骑士的腰带"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这个科幻感十足的机械腰带，似乎来自某个平行世界，当你望着它时，总是想要试着将它穿戴在身上……"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "穿戴"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：获得攻击、魔力+2、生命值、魔法值+20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "喵喵锤"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这个外观像个猫爪的锤子，在其锤柄上刻着一行字：“凡是拥有资格之人，举起雷神之锤，将获得雷神之力。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "拔出(攻击≥150)"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：变成"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【喵喵锤的碎片】"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "翻找获得 【雷神刻印】"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "隐藏食谱"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灵魂披萨"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：生命值+50、魔法值+50；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "魂能获取速度+20%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏食材【神之酒】"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "进入封印之门 (隐藏冈布奥那里) 获得"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "抓拍照片"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "巨剑的照片 (限3次)"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "照片中的巨剑，正准备向你发起攻击。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "途径：遇到巨剑抓拍"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：冈布奥攻击及魔力+2；获得300点神性"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "英雄王的照片 (限1次)"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "照片中的英雄王，正在封印中沉睡。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "途径：进入封印之门"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：冈布奥攻击+3；灵魂铠甲神性获取速度提升10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "最终兵器的照片 (限1次)"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "照片中的最终兵器，正在与其他兵器融合。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "途径：进入BOSS层抓拍"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：随机获得2个神力刻印"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "扫荡 和 DP"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "本图特产为恒金+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "金币经验较高，还算不错"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "下图排序为扫荡金币"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "比遗落之城差一点就是经验特产了"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "最后来看一下特殊DP"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这个迷宫非常简单，大家也可以选自己喜欢的打，比如盘丝猴、放狗之类的，没有强力单杀技能的队伍可以用铠甲链接战士系，用铠甲技能收割打Boss。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "选阵容的时候注意一点：场内链接是无法带入场道具的。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "推荐阵容：王昭君出战 链接帝释天 + 大侦探 场内链接宇宙刑警  神器竖琴，圣者的凝视，称号 异界 + 毁灭 + 大地，优点是异界大盗神都有，打的快，资源也比较多。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这里先说一下拿15刻印的dp，这个dp目前来说不需要大盗神那个就能完成，猜测是无用和猎王算两个。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "淬炼滚烫的刻印"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在刻印熔炉分解刻印概率获得 [滚烫的刻印]"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "然后在淬火之池进行淬炼"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "铠甲技能系列"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "技能就是点开铠甲界面点技能直接用就好"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "前边能打的动就不用穿铠甲"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "省点魂能后边用技能"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "杀Boss穿上铠甲直接4技能收割就好"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "击败火神的化身"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "火神的雕像累计偷取贡品5次出火神的化身"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "一局只会出一次"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "击败黑暗铠甲"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "35层的x5层开始出洗炼祭坛，需要洗5次"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "后边45 55 65 75"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "不漏的话到75层就会出黑暗铠甲"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "15个不同刻印"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这个就是最麻烦的dp，记得要进洞"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "普通的6个一般不会少，注意看一下特殊的"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "铸铁：洞里储物箱"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "锻火：锻火熔炉分解6星装备"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "贪婪：翻寻宝者的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "破碎：翻破碎的兵器"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "王权：翻矮人王的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "无用/猎王者：商店买够5个无用后镶嵌了去杀Boss"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "淬火：刻印熔炉分解刻印拿到[滚烫的刻印]再去淬火之池淬炼"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "黑暗：使用5次洗练祭坛"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "雷神：大盗神翻喵喵锤"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

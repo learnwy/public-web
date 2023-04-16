@@ -1,0 +1,7520 @@
+{
+  "groups": [
+    [
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "怪物图鉴"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫特殊机制"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "修真"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "通过修真可获得强大的属性加成"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "1. 基本规则"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "迷宫1层会遇到\"修真者的残骸\"，翻找获得山海秘录，使用后开启修真系统。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "修真能力包括境界、灵根、锻体、功法四部分，同时冈布奥需要通过炼丹和炼器获取提升修真能力的资源。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "2. 境界"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "开启修真系统后，可以通过击败迷宫怪物获得修为。修为提升可以突破境界，共有10个大境界：练气 - 筑基 - 金丹 - 元婴 - 化神 - 练虚 - 合体 - 大乘 - 渡劫 - 真仙，除真仙外，每个境界又分初期、中期、后期三个小境界。提升境界可提升四维加成和灵气上限。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在进阶大境界时，需要经受劫雷考验，劫雷的次数与当前大境界等级相同。劫雷可以使用七宝渡劫丹、流云斗篷、护盾、免死类技能进行防御，但不受减伤类法术 (如石肤) 影响。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "劫雷伤害公式：(境界等级-1)^2*50 + 500 + 最大生命值*(境界等级*3 +3)/100，场上每存在一个单位(包括怪物和召唤兽)，劫雷伤害额外提高10%。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "3. 灵根"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "灵根分为 \t下品 - 中品 - 上品 - 天品 - 仙品\t 5个等级，\t升级灵根需要\t五行之气\t，主要来源是探索洞府。灵根\t影响修为的获取速度、丹药的品质和获取量、炼器的成功率、以及藏经阁的功法领悟品级。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "下品灵根"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(提升灵根需要五行之气各3个)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "所有魔法效果+5%，修为获取速度+10%；每进入下一层，恢复灵气值+3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "中品灵根"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(提升灵根需要五行之气各5个)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "所有魔法效果+15%，修为获取速度+30%；每进入下一层，恢复灵气值+6"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "上品灵根"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(提升灵根需要五行之气各8个)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "所有魔法效果+30%，修为获取速度+60%；每进入下一层，恢复灵气值+10"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "天品灵根"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(提升灵根需要五行之气各12个)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "所有魔法效果+50%，修为获取速度+100%；每进入下一层，恢复灵气值+18"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "仙品灵根"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "所有魔法效果+75%，修为获取速度+150%；每进入下一层，恢复灵气值+30"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "4. 锻体"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "开启修真系统后，可以通过使用\t淬体丹\t提升锻体境界。锻体同样有10个大境界，每个境界分初期、中期、后期三个阶段。提升锻体境界可以获得特殊能力加成。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "5. 功法"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "开启修真系统后，可以学习功法。功法分为主动和被动，可以同时激活6个功法\t，主动功法激活后在特殊法术栏释放，需要消耗灵气。除红色标注外，其余功法均在藏经阁领悟。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "功法分为 下品 - 中品 - 上品 - 天品 - 仙品 。领悟功法与灵根品质相关，在无尽模式下，最多只能跨1个等级领悟 (即下品灵根最多只能领悟到中品功法 )，通过道具获得的两种功法不受灵根限制。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "6. 炼丹"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "开启修真系统后，可以在\t丹房\t使用\t星辰草\t炼制丹药。星辰草主要在\t药园\t获得，每次炼丹可放入1~9个星辰草，\t炼丹品质受 \t大境界、灵根品质 \t和\t 八卦炉 \t影响。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "炼丹品质越高，获得高品丹药的几率越高 (品级范围与草药数量相关)。化神境界以上可炼制七品丹药\t九转还魂丹"
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "(隐藏相关\t\t，限1次)"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "炼制丹药时，有\t60%概率获得普通丹药和少量淬体丹，40%概率仅获得大量淬体丹\t。丹药数量受炼丹品质影响，获得任何丹药最少为1颗，且有低几率在原有基础上额外获得1颗 (概率为丹药获得量，比如获得10颗某丹药，概率即为10%) 。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "7. 炼器"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "开启修真系统后，可以在\t天工坊\t使用玄晶沙炼制丹药。玄晶沙主要在玄晶矿脉获得，\t境界和灵根\t影响炼器的成功率。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "炼器提供\t一整套装备\t，装备初始为1星，最高可升级为\t7星\t，\t装备在到达3星和7星时会各获得一条特殊属性。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏冈布奥"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "剑仙获得方法"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1. 境界升到化神以上(含)，在丹房使用9颗灵草炼制丹药 [九转还魂丹] (3次保底)。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "2. 在藏经阁领悟天品剑诀功法 (需要至少上品灵根)，激活一下。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "3. 普通层遇到剑之石碑，悟剑后传送到特殊空间，上交九转还魂丹，获得隐藏冈布奥剑仙，后续获得碎片x20。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "* 使用剑仙出战无需领悟功法即可进剑"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "* 没有拿到九转还魂丹不要进剑，不能重复进"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫重要彩蛋"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "广寒宫 (需要灯异界)"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "翻找 \t后羿的残骸\t 获得后羿的灵魂，使用获得不死药，使用后传送到广寒宫，遇到猪八戒。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "唐玄奘出战对话获得5钻，限1次"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "孙悟空出战对话获得5钻，限1次"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "非师徒4人出战，打死八戒有3钻，限3次"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫特殊建筑"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "修真者的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1层必定出现，普通层、夹层概率出现"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次获得 山海秘录*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "后续获得 灵石*2~3 20%概率额外获得 玄晶沙 / 星辰灵草 *4~ 6 (可同时获得)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "山海秘录"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：踏入修真之路"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灵石"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：获得50点修为"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "妖兽洞穴"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层入口）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "可出现 修真者的残骸、储物箱、妖兽的残骸"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "储物箱"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "20%获得 星辰灵草*5 + 玄晶沙*5 + 灵石*5"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "80%获得 星辰灵草/玄晶沙*3 + 灵石*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "妖兽的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "必定获得 妖兽晶核*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "50%额外获得 妖兽蛋*1 (在灵泉孵化)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "妖兽晶核  使用：进入狂暴状态（攻击及魔力+80%，每轮流失80点生命值，持续3轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "多宝阁"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(地图特色商店 货币：探索点)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在售商品 (5件)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "必定售卖 星辰灵草*3 和 玄晶沙*3"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "星辰灵草*3 (200)  \t玄晶沙*3 (200)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "必定售卖 随机2组五行之气"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "庚金之气*1 (100)  \t庚金之气*2 (200)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "丁火之气*1 (100)  \t丁火之气*2 (200)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "乙木之气*1 (100)  \t乙木之气*2 (200)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "癸水之气*1 (100)  \t癸水之气*2 (200)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "戊土之气*1 (100)  \t戊土之气*2 (200)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "第5个商品为随机丹药"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "淬体丹*5 (200)  \t培元丹*2 (150)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "气神丹*1 (150)  \t玄元丹*1 (150)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "安魂丹*1 (250)  \t合气丹*1 (250)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "灵魄丹*1 (400)  \t皇极丹*1 (400)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "菩提丹*1 (600)  \t续命丹*1 (600)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "三纹天灵丹*1 (800)  \t七宝渡劫丹*1 (800)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "--------------"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊勒索"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "三纹天灵丹*1 或 七宝渡劫丹*1 (限2次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "--------------"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "洞府"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "30%概率触发禁制，受到20%生命值的伤害或中毒、诅咒"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "必定获得 随机两种五行之气x2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "75%概率额外获得以下一种道具："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "星辰灵草/玄晶沙/灵石*5~6"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "妖兽晶核*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "气神丹/玄元丹*2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "安魂丹/合气丹*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "藏经阁"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "80%领悟一本修真功法，否则获得修为*50~120 (受层数加成)。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "所有建筑获取修为均受装备加成，后边不再赘述"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "无尽模式下可领悟功法品级为灵根品级+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "具体介绍见迷宫机制<功法>部分。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "药园"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "30%概率出现3~5只小怪"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 星辰灵草*2~8"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "玄晶矿脉"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 玄晶沙*2~7"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "50%概率额外获得 灵石*2~3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灵泉"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "浸 泡"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "恢复20%的生命魔法值 和 40%的灵气值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得修为*50~150 (受层数加成)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "孵化妖兽蛋 (需要包里有妖兽蛋)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得召唤兽"
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "妖兽"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【蛮力】攻击时，50%概率造成双倍伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【嗜血术】攻击时，将所造成伤害的10%恢复到生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "丹房"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用星辰灵草炼制丹药"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "具体介绍见迷宫机制<炼丹>部分。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "天工坊"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用\t玄晶沙炼制装备"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "具体介绍\t见迷宫机制<炼器>部分。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "剑之石碑"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "悟剑\t效果与当前激活剑诀功法数量相关，剑仙出战相当于已激活全部剑诀"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "已激活天品剑诀后，首次悟剑进入剑意空间，在水晶棺喂入九转还魂丹，获得剑仙冈布奥或碎片*20，剑意空间仅能进入一次。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "激活0~1个剑诀功法"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "无奖励"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "激活2-3个剑诀功法"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得修为*120"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "激活4-5个剑诀功法"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得召唤兽"
+            },
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "剑灵"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【剑气】 每轮发动一次攻击，且50%伤害溅射在场所有敌人"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【灵体】 受到的伤害降低30%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【聚灵】 每轮恢复1%生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "血公子的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得  烧火棍*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "烧火棍"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【手套】攻击+3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "何仙姑的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得  荷花*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "荷花"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【法宝】魔力+15、灵气值+30"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "后羿的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得  落日神弓*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "落日神弓"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【手套】攻击+5%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "炎帝的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得  焚诀*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "焚诀"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：使用后，习得下品功法【焚诀】"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "男子的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得  掌天瓶*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "掌天瓶"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【法宝】\t生命值+50、魔法值+50，每进入下一层，50%概率获得1份星辰灵草"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大盗神"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏的储物箱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 淬体丹*15"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "松动的地砖"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 灵石*8"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "散落的物件"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 星辰灵草*6 + 玄晶沙*6"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "残破的巢穴"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 妖兽晶核*2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "二郎真君的雕像"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 八九玄功*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "二郎神出战时，额外获得 东方剪纸*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "八九玄功"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：使用后，习得仙品功法【八九玄功】"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "东方剪纸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：召唤哮天犬（迷宫内起效）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "璇玑阵"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "花费7枚灵石，可启动阵法"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 攻击及魔力+5、生命及魔法值+30、灵气值+20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 修为*500"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "八卦炉"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 八卦炉*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "八卦炉"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "炼丹效果+20%（你只需要将它放在包裹里）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灯异界"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "修真者的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1层必定出现，普通层、夹层概率出现"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "残破的修真者之魂  使用：施放石肤术（持续5轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的修真者之魂  使用：施放毁灭之刃（持续5轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "妖兽的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "残破的野兽之魂  使用：攻击+10（持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的野兽之魂  使用：冈布奥攻击+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "血公子的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "血公子的灵魂  使用：烧火棍，能力提升"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "噬魂"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【手套】攻击\t+30，攻击附带吸血效果（将所造成伤害的5%恢复到生命值），且攻击时，5%概率消除敌人的特性（对BOSS无效）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "何仙姑的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "何仙姑的灵魂  使用：荷花，能力提升"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "荷花"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【法宝】魔力\t+30\t、灵气值\t+60，攻击时，8%概率使所有敌人陷入睡眠（持续3轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "后羿的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "后羿的灵魂  使用：获得不死药"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "不死药"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：会发生意想不到的效果"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "猪悟能出战：你一口吞了这些药丸……也没吃出什么味来！"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "其它出战：传送进入广寒宫"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "广寒宫"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "内有猪八戒"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "唐三藏/孙悟空出战\t，获得 钻石x5 (各1次，后续为探索点x500) + 灵石x15 + 五种五行之气x3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "沙悟净出战，获得 灵石x15 或 随机一\t种五行之气x3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "非师徒四人出战，\t猪八戒变为敌对，击败后掉落 钻石x3 (限3次，后续为探索点x300) + 灵石x10 + 五种五行之气x2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "炎帝的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "炎帝的灵魂  使用：下品功法焚诀，品阶提升(至天品)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "男子的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "天尊的灵魂  使用：冈布奥攻击+3、生命值+300"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "厨师菜谱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "红烧熊掌"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊食材："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "九香虫*1 (邪修掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "妖熊掌*2 (黑风怪掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：冈布奥攻击+5"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "麻辣肉丝"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊食材："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "狐皮*1 (三尾灵狐掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "狼妖肉*2 (赤焰狼妖掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：食用：冈布奥生命值+30；获得100点修为"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "爆炒狐皮"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊食材："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "九香虫*1 (邪修掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "狐皮*1 (三尾灵狐掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：食用：冈布奥魔力+3、魔法值+30"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "月宫火锅(隐藏)"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊食材："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "玉兔精血*1 (灯异界翻后羿的残骸获得魂，拿不死药进入广寒宫获得)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "妖熊掌*2 (黑风怪掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "狼妖肉*3 (赤焰狼妖)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：食用：生命值+100、灵气值+30；修为获取速度+20%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特殊照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "心魔的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：使用：冈布奥攻击及魔力+3；获得300点修为"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：进入BOSS层 30%概率 获取 (上限1)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "猪八戒的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：冈布奥魔力+5、灵气值+20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：进入广寒宫 100%概率 获取 (上限1)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "邪修的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：冈布奥攻击+5，流失50点生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：翻出邪修 3%概率 获取 (上限3)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "DP难点"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "因为异界彩蛋次数太多 建议在小关卡做一部分"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "阵容1: \t唐玄奘出战 + 冒险者 + 雅典娜"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "阵容2: \t孙悟空出战 + 冒险者 + 雅典娜"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "阵容3: \t王昭君出战 + 夜叉 + 帝释天"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "小关卡全部点灯异界，\t做猪八戒彩蛋\t，遇到几次后羿尸体就做几次\t，剩下的无尽第一把大盗神做完继续用阵容3异界打即可。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "30层前不提升境界"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "建议在小关卡完成"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "利用劫雷杀死BOSS"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "建议在小关卡最后一关完成，留着筑基升金丹，把Boss打到剩1500血渡劫即可，血少可以用冰盾挡一下雷"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "无尽DP组合："
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "商人(出战) + 帮派 +神灯"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "神器："
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "竖琴"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "药水："
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "探索点药剂"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "DP称号："
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "大盗神(至少一局)、大地、毁灭"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "炼制六品丹药"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "先把灵根和境界提升一下再练，放9个草药。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "使用妖兽晶核 & 孵化妖兽蛋"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "妖兽晶核和妖兽蛋来源都是洞里的妖兽残骸，拿到妖兽蛋后在灵泉孵化，注意召唤兽不要达到2个上限，会导致无法孵化。实在拿不到妖兽蛋可以偷野兽怪也能拿到。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "习得所有仙品功法"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "注意有一本八九玄功是大盗神出的，其余仙品功法都在藏经阁，需要至少天品灵根才能领悟。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "使用功法击败怪物/BOSS"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "用天品和仙品剑诀打就好了"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "仙品灵根 & 修真大乘 & 锻体罡劲 & 炼器全满"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "优先升满灵根，洞府和商店出五行材料，初期一定要买五行材料，后期主要买草药，矿石和淬体丹。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "大乘主要靠杀怪，有菩提丹一定要用，前期有功法每回合加10修为可用，吃灵石的时候注意给璇玑阵留7个。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "炼器，注意平均升级即可，仙品灵根+大乘可以保证6星必成，7星需要拼一下脸，如果缺材料可以尝试小sl。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "锻体最难，好在只需要到罡劲，除了九转还魂丹的27个保底草药外，其余草药全部留到最后，大乘和练气相比产量大约是1.5倍。八卦炉必备，掌天瓶必带。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "然后是淬体丹怎么练出的比较多的问题，这个也和境界有关，初期1个1个练会比较多，从仙品灵根+八卦炉+练虚 (没有八卦炉则需要到大乘) 之后，就是9个练比较多。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "但是最多的方法还是先单练，当出了全淬体丹时记下次数小sl换成9个草药。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏冈布奥"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "境界升到化神以上，在丹房使用9颗灵草炼制九转还魂丹(3次保底)。在藏经阁领悟一本天品以上的剑诀功法 (需要至少上品灵根)，拿到后激活一下。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "普通层遇到剑之石碑，悟剑后传送到特殊空间，上交九转还魂丹，获得隐藏冈布奥剑仙，后续获得碎片x20。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "如果用剑仙出战无需领悟功法即可进剑，另外注意没有拿到九转还魂丹不要进剑，不能重复进，如果不小心进了小sl出来。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "速刷阵容"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "剑仙出站，链接 宙斯 +寄生体(王子)\t。宙斯最好，没有可以用雅典娜、大祭司。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "神器竖琴，药剂用三清露。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "一层点出3级看怪，魔法系水系神官拿盾，路上泉水要点，商店优先买加修为的，装备只做一件3星披风。洞可以用仙剑技能清。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "第一次雷不用盾能硬抗，后面靠披风和盾，草药化神前留27个保底，其他单练拿加修为的丹药。注意没拿到九转还魂丹前不要点剑。"
+            }
+          ]
+        ]
+      }
+    ]
+  ],
+  "cur_group": [
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "怪物图鉴"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫特殊机制"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "修真"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "通过修真可获得强大的属性加成"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "1. 基本规则"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "迷宫1层会遇到\"修真者的残骸\"，翻找获得山海秘录，使用后开启修真系统。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "修真能力包括境界、灵根、锻体、功法四部分，同时冈布奥需要通过炼丹和炼器获取提升修真能力的资源。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "2. 境界"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "开启修真系统后，可以通过击败迷宫怪物获得修为。修为提升可以突破境界，共有10个大境界：练气 - 筑基 - 金丹 - 元婴 - 化神 - 练虚 - 合体 - 大乘 - 渡劫 - 真仙，除真仙外，每个境界又分初期、中期、后期三个小境界。提升境界可提升四维加成和灵气上限。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在进阶大境界时，需要经受劫雷考验，劫雷的次数与当前大境界等级相同。劫雷可以使用七宝渡劫丹、流云斗篷、护盾、免死类技能进行防御，但不受减伤类法术 (如石肤) 影响。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "劫雷伤害公式：(境界等级-1)^2*50 + 500 + 最大生命值*(境界等级*3 +3)/100，场上每存在一个单位(包括怪物和召唤兽)，劫雷伤害额外提高10%。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "3. 灵根"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "灵根分为 \t下品 - 中品 - 上品 - 天品 - 仙品\t 5个等级，\t升级灵根需要\t五行之气\t，主要来源是探索洞府。灵根\t影响修为的获取速度、丹药的品质和获取量、炼器的成功率、以及藏经阁的功法领悟品级。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "下品灵根"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(提升灵根需要五行之气各3个)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "所有魔法效果+5%，修为获取速度+10%；每进入下一层，恢复灵气值+3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "中品灵根"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(提升灵根需要五行之气各5个)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "所有魔法效果+15%，修为获取速度+30%；每进入下一层，恢复灵气值+6"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "上品灵根"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(提升灵根需要五行之气各8个)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "所有魔法效果+30%，修为获取速度+60%；每进入下一层，恢复灵气值+10"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "天品灵根"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(提升灵根需要五行之气各12个)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "所有魔法效果+50%，修为获取速度+100%；每进入下一层，恢复灵气值+18"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "仙品灵根"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "所有魔法效果+75%，修为获取速度+150%；每进入下一层，恢复灵气值+30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "4. 锻体"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "开启修真系统后，可以通过使用\t淬体丹\t提升锻体境界。锻体同样有10个大境界，每个境界分初期、中期、后期三个阶段。提升锻体境界可以获得特殊能力加成。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "5. 功法"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "开启修真系统后，可以学习功法。功法分为主动和被动，可以同时激活6个功法\t，主动功法激活后在特殊法术栏释放，需要消耗灵气。除红色标注外，其余功法均在藏经阁领悟。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "功法分为 下品 - 中品 - 上品 - 天品 - 仙品 。领悟功法与灵根品质相关，在无尽模式下，最多只能跨1个等级领悟 (即下品灵根最多只能领悟到中品功法 )，通过道具获得的两种功法不受灵根限制。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "6. 炼丹"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "开启修真系统后，可以在\t丹房\t使用\t星辰草\t炼制丹药。星辰草主要在\t药园\t获得，每次炼丹可放入1~9个星辰草，\t炼丹品质受 \t大境界、灵根品质 \t和\t 八卦炉 \t影响。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "炼丹品质越高，获得高品丹药的几率越高 (品级范围与草药数量相关)。化神境界以上可炼制七品丹药\t九转还魂丹"
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "(隐藏相关\t\t，限1次)"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "炼制丹药时，有\t60%概率获得普通丹药和少量淬体丹，40%概率仅获得大量淬体丹\t。丹药数量受炼丹品质影响，获得任何丹药最少为1颗，且有低几率在原有基础上额外获得1颗 (概率为丹药获得量，比如获得10颗某丹药，概率即为10%) 。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "7. 炼器"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "开启修真系统后，可以在\t天工坊\t使用玄晶沙炼制丹药。玄晶沙主要在玄晶矿脉获得，\t境界和灵根\t影响炼器的成功率。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "炼器提供\t一整套装备\t，装备初始为1星，最高可升级为\t7星\t，\t装备在到达3星和7星时会各获得一条特殊属性。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏冈布奥"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "剑仙获得方法"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1. 境界升到化神以上(含)，在丹房使用9颗灵草炼制丹药 [九转还魂丹] (3次保底)。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "2. 在藏经阁领悟天品剑诀功法 (需要至少上品灵根)，激活一下。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "3. 普通层遇到剑之石碑，悟剑后传送到特殊空间，上交九转还魂丹，获得隐藏冈布奥剑仙，后续获得碎片x20。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "* 使用剑仙出战无需领悟功法即可进剑"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "* 没有拿到九转还魂丹不要进剑，不能重复进"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫重要彩蛋"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "广寒宫 (需要灯异界)"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "翻找 \t后羿的残骸\t 获得后羿的灵魂，使用获得不死药，使用后传送到广寒宫，遇到猪八戒。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "唐玄奘出战对话获得5钻，限1次"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "孙悟空出战对话获得5钻，限1次"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "非师徒4人出战，打死八戒有3钻，限3次"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫特殊建筑"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "修真者的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1层必定出现，普通层、夹层概率出现"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次获得 山海秘录*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "后续获得 灵石*2~3 20%概率额外获得 玄晶沙 / 星辰灵草 *4~ 6 (可同时获得)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "山海秘录"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：踏入修真之路"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灵石"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：获得50点修为"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "妖兽洞穴"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层入口）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "可出现 修真者的残骸、储物箱、妖兽的残骸"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "储物箱"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "20%获得 星辰灵草*5 + 玄晶沙*5 + 灵石*5"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "80%获得 星辰灵草/玄晶沙*3 + 灵石*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "妖兽的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "必定获得 妖兽晶核*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "50%额外获得 妖兽蛋*1 (在灵泉孵化)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "妖兽晶核  使用：进入狂暴状态（攻击及魔力+80%，每轮流失80点生命值，持续3轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "多宝阁"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(地图特色商店 货币：探索点)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在售商品 (5件)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "必定售卖 星辰灵草*3 和 玄晶沙*3"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "星辰灵草*3 (200)  \t玄晶沙*3 (200)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "必定售卖 随机2组五行之气"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "庚金之气*1 (100)  \t庚金之气*2 (200)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "丁火之气*1 (100)  \t丁火之气*2 (200)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "乙木之气*1 (100)  \t乙木之气*2 (200)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "癸水之气*1 (100)  \t癸水之气*2 (200)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "戊土之气*1 (100)  \t戊土之气*2 (200)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "第5个商品为随机丹药"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "淬体丹*5 (200)  \t培元丹*2 (150)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "气神丹*1 (150)  \t玄元丹*1 (150)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "安魂丹*1 (250)  \t合气丹*1 (250)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "灵魄丹*1 (400)  \t皇极丹*1 (400)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "菩提丹*1 (600)  \t续命丹*1 (600)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "三纹天灵丹*1 (800)  \t七宝渡劫丹*1 (800)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "--------------"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊勒索"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "三纹天灵丹*1 或 七宝渡劫丹*1 (限2次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "--------------"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "洞府"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "30%概率触发禁制，受到20%生命值的伤害或中毒、诅咒"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "必定获得 随机两种五行之气x2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "75%概率额外获得以下一种道具："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "星辰灵草/玄晶沙/灵石*5~6"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "妖兽晶核*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "气神丹/玄元丹*2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "安魂丹/合气丹*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "藏经阁"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "80%领悟一本修真功法，否则获得修为*50~120 (受层数加成)。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "所有建筑获取修为均受装备加成，后边不再赘述"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "无尽模式下可领悟功法品级为灵根品级+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "具体介绍见迷宫机制<功法>部分。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "药园"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "30%概率出现3~5只小怪"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 星辰灵草*2~8"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "玄晶矿脉"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 玄晶沙*2~7"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "50%概率额外获得 灵石*2~3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灵泉"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "浸 泡"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "恢复20%的生命魔法值 和 40%的灵气值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得修为*50~150 (受层数加成)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "孵化妖兽蛋 (需要包里有妖兽蛋)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得召唤兽"
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "妖兽"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【蛮力】攻击时，50%概率造成双倍伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【嗜血术】攻击时，将所造成伤害的10%恢复到生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "丹房"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用星辰灵草炼制丹药"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "具体介绍见迷宫机制<炼丹>部分。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "天工坊"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用\t玄晶沙炼制装备"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "具体介绍\t见迷宫机制<炼器>部分。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "剑之石碑"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "悟剑\t效果与当前激活剑诀功法数量相关，剑仙出战相当于已激活全部剑诀"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "已激活天品剑诀后，首次悟剑进入剑意空间，在水晶棺喂入九转还魂丹，获得剑仙冈布奥或碎片*20，剑意空间仅能进入一次。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "激活0~1个剑诀功法"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "无奖励"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "激活2-3个剑诀功法"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得修为*120"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "激活4-5个剑诀功法"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得召唤兽"
+          },
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "剑灵"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【剑气】 每轮发动一次攻击，且50%伤害溅射在场所有敌人"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【灵体】 受到的伤害降低30%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【聚灵】 每轮恢复1%生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "血公子的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得  烧火棍*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "烧火棍"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【手套】攻击+3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "何仙姑的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得  荷花*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "荷花"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【法宝】魔力+15、灵气值+30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "后羿的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得  落日神弓*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "落日神弓"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【手套】攻击+5%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "炎帝的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得  焚诀*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "焚诀"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：使用后，习得下品功法【焚诀】"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "男子的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得  掌天瓶*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "掌天瓶"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【法宝】\t生命值+50、魔法值+50，每进入下一层，50%概率获得1份星辰灵草"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大盗神"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏的储物箱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 淬体丹*15"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "松动的地砖"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 灵石*8"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "散落的物件"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 星辰灵草*6 + 玄晶沙*6"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "残破的巢穴"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 妖兽晶核*2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "二郎真君的雕像"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 八九玄功*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "二郎神出战时，额外获得 东方剪纸*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "八九玄功"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：使用后，习得仙品功法【八九玄功】"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "东方剪纸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：召唤哮天犬（迷宫内起效）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "璇玑阵"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "花费7枚灵石，可启动阵法"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 攻击及魔力+5、生命及魔法值+30、灵气值+20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 修为*500"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "八卦炉"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 八卦炉*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "八卦炉"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "炼丹效果+20%（你只需要将它放在包裹里）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灯异界"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "修真者的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1层必定出现，普通层、夹层概率出现"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "残破的修真者之魂  使用：施放石肤术（持续5轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的修真者之魂  使用：施放毁灭之刃（持续5轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "妖兽的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "残破的野兽之魂  使用：攻击+10（持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的野兽之魂  使用：冈布奥攻击+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "血公子的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "血公子的灵魂  使用：烧火棍，能力提升"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "噬魂"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【手套】攻击\t+30，攻击附带吸血效果（将所造成伤害的5%恢复到生命值），且攻击时，5%概率消除敌人的特性（对BOSS无效）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "何仙姑的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "何仙姑的灵魂  使用：荷花，能力提升"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "荷花"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【法宝】魔力\t+30\t、灵气值\t+60，攻击时，8%概率使所有敌人陷入睡眠（持续3轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "后羿的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "后羿的灵魂  使用：获得不死药"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "不死药"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：会发生意想不到的效果"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "猪悟能出战：你一口吞了这些药丸……也没吃出什么味来！"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "其它出战：传送进入广寒宫"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "广寒宫"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "内有猪八戒"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "唐三藏/孙悟空出战\t，获得 钻石x5 (各1次，后续为探索点x500) + 灵石x15 + 五种五行之气x3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "沙悟净出战，获得 灵石x15 或 随机一\t种五行之气x3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "非师徒四人出战，\t猪八戒变为敌对，击败后掉落 钻石x3 (限3次，后续为探索点x300) + 灵石x10 + 五种五行之气x2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "炎帝的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "炎帝的灵魂  使用：下品功法焚诀，品阶提升(至天品)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "男子的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "天尊的灵魂  使用：冈布奥攻击+3、生命值+300"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "厨师菜谱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "红烧熊掌"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊食材："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "九香虫*1 (邪修掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "妖熊掌*2 (黑风怪掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：冈布奥攻击+5"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "麻辣肉丝"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊食材："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "狐皮*1 (三尾灵狐掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "狼妖肉*2 (赤焰狼妖掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：食用：冈布奥生命值+30；获得100点修为"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "爆炒狐皮"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊食材："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "九香虫*1 (邪修掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "狐皮*1 (三尾灵狐掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：食用：冈布奥魔力+3、魔法值+30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "月宫火锅(隐藏)"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊食材："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "玉兔精血*1 (灯异界翻后羿的残骸获得魂，拿不死药进入广寒宫获得)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "妖熊掌*2 (黑风怪掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "狼妖肉*3 (赤焰狼妖)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：食用：生命值+100、灵气值+30；修为获取速度+20%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特殊照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "心魔的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：使用：冈布奥攻击及魔力+3；获得300点修为"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：进入BOSS层 30%概率 获取 (上限1)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "猪八戒的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：冈布奥魔力+5、灵气值+20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：进入广寒宫 100%概率 获取 (上限1)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "邪修的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：冈布奥攻击+5，流失50点生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：翻出邪修 3%概率 获取 (上限3)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "DP难点"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "因为异界彩蛋次数太多 建议在小关卡做一部分"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "阵容1: \t唐玄奘出战 + 冒险者 + 雅典娜"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "阵容2: \t孙悟空出战 + 冒险者 + 雅典娜"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "阵容3: \t王昭君出战 + 夜叉 + 帝释天"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "小关卡全部点灯异界，\t做猪八戒彩蛋\t，遇到几次后羿尸体就做几次\t，剩下的无尽第一把大盗神做完继续用阵容3异界打即可。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "30层前不提升境界"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "建议在小关卡完成"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "利用劫雷杀死BOSS"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "建议在小关卡最后一关完成，留着筑基升金丹，把Boss打到剩1500血渡劫即可，血少可以用冰盾挡一下雷"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "无尽DP组合："
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "商人(出战) + 帮派 +神灯"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "神器："
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "竖琴"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "药水："
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "探索点药剂"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "DP称号："
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "大盗神(至少一局)、大地、毁灭"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "炼制六品丹药"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "先把灵根和境界提升一下再练，放9个草药。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "使用妖兽晶核 & 孵化妖兽蛋"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "妖兽晶核和妖兽蛋来源都是洞里的妖兽残骸，拿到妖兽蛋后在灵泉孵化，注意召唤兽不要达到2个上限，会导致无法孵化。实在拿不到妖兽蛋可以偷野兽怪也能拿到。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "习得所有仙品功法"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "注意有一本八九玄功是大盗神出的，其余仙品功法都在藏经阁，需要至少天品灵根才能领悟。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "使用功法击败怪物/BOSS"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "用天品和仙品剑诀打就好了"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "仙品灵根 & 修真大乘 & 锻体罡劲 & 炼器全满"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "优先升满灵根，洞府和商店出五行材料，初期一定要买五行材料，后期主要买草药，矿石和淬体丹。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "大乘主要靠杀怪，有菩提丹一定要用，前期有功法每回合加10修为可用，吃灵石的时候注意给璇玑阵留7个。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "炼器，注意平均升级即可，仙品灵根+大乘可以保证6星必成，7星需要拼一下脸，如果缺材料可以尝试小sl。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "锻体最难，好在只需要到罡劲，除了九转还魂丹的27个保底草药外，其余草药全部留到最后，大乘和练气相比产量大约是1.5倍。八卦炉必备，掌天瓶必带。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "然后是淬体丹怎么练出的比较多的问题，这个也和境界有关，初期1个1个练会比较多，从仙品灵根+八卦炉+练虚 (没有八卦炉则需要到大乘) 之后，就是9个练比较多。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "但是最多的方法还是先单练，当出了全淬体丹时记下次数小sl换成9个草药。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏冈布奥"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "境界升到化神以上，在丹房使用9颗灵草炼制九转还魂丹(3次保底)。在藏经阁领悟一本天品以上的剑诀功法 (需要至少上品灵根)，拿到后激活一下。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "普通层遇到剑之石碑，悟剑后传送到特殊空间，上交九转还魂丹，获得隐藏冈布奥剑仙，后续获得碎片x20。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "如果用剑仙出战无需领悟功法即可进剑，另外注意没有拿到九转还魂丹不要进剑，不能重复进，如果不小心进了小sl出来。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "速刷阵容"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "剑仙出站，链接 宙斯 +寄生体(王子)\t。宙斯最好，没有可以用雅典娜、大祭司。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "神器竖琴，药剂用三清露。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "一层点出3级看怪，魔法系水系神官拿盾，路上泉水要点，商店优先买加修为的，装备只做一件3星披风。洞可以用仙剑技能清。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "第一次雷不用盾能硬抗，后面靠披风和盾，草药化神前留27个保底，其他单练拿加修为的丹药。注意没拿到九转还魂丹前不要点剑。"
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4118 @@
+{
+  "groups": [
+    [
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "怪物图鉴"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫特殊机制"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "死灵实验台"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "共有4种实验台 制作骨杖 / 天灾骨钟 / 巫妖骨靴 / 亡灵骨铠"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "装备最高升级到+10，从+4开始有几率失败，失败材料不返还"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "1. 骨杖（制作需求：颅骨、胸骨、胫骨1个）"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：召唤骷髅哈士奇（本层有效，穿戴死灵装备后，对召唤效果有额外加成）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【天灾骨钟】吸血效果加成"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【巫妖骨靴】攻击加成"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "【亡灵骨铠】生命值加成"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "同时装备天灾骨钟(+10)、亡灵骨铠(+10)、巫妖骨靴(+10)，可召唤骷髅幼龙。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "骷髅哈士奇  撕咬：攻击时，概率附加吸血效果（将所造成伤害的100%恢复到生命值）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "骷髅幼龙 撕咬：攻击时，概率附加吸血效果（将所造成伤害的100%恢复到生命值）；重击：攻击时，25%概率造成2倍伤害；死亡后概率掉落【幼龙头骨】"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "幼龙头骨和亡灵契约(死亡骑士出战自带)组成黑暗熔炉套装"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "幼龙头骨【头盔】 魔力+2、降低敌人攻击+1；死亡骑士冈布奥装备时，攻击+10；黑暗龙冈布奥装备时，魔力+10"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "亡灵契约【宝物】 免疫中毒；攻击亡灵时，造成额外伤害+30%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "黑暗熔炉【套装】 魔力+10、魔法值+100；所有暗系魔法效果+100%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "2.天灾骨钟【宝物】（制作需求：颅骨、胸骨3个"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "魔力+(level)；降低所受中毒伤害+(20*level)% (+5后免疫中毒)；攻击时，10%概率令敌人中毒"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "3.巫妖骨靴【鞋子】（制作需求：颅骨、胫骨3个）"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "攻击+(level)；降低所受诅咒效果+(20*level)%  (+5后免疫诅咒)；攻击时，10%概率令敌人受到诅咒"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "4.亡灵骨铠【铠甲】（制作需求：胸骨、胫骨3个）"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "降低敌人攻击+(level)；攻击时，10%概率施放瓦解射线"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏冈布奥"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "黑暗龙获得方法"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1. 死亡骑士出战 (血腥要塞主线冈布奥)，获得自带装备亡灵契约。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "2. 穿戴三件+10死灵装备，使用骨杖召唤骷髅幼龙，骷髅幼龙死亡后概率掉落幼龙头骨。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "3. 拿到幼龙头骨5层后(普通层)会遇到“黑暗龙雕像”，提交亡灵契约和幼龙头骨，获得黑暗龙冈布奥。之后是20碎片。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫重要彩蛋"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "艾米丽的坟墓"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "，骸骨堆20%获得\"钻石戒指\"，在艾米丽的坟墓提交钻石戒指：如果已经获得了潘多拉冈布奥，且未获得鬼魂新娘装束，会得到婚纱，结算获得潘多拉鬼魂新娘装束"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "爆裂南瓜雕像后出战"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "，遇到小怪灾祸南瓜，拖回合等它自爆，会掉落\"灾祸之火\"，结算获得爆裂南瓜灾祸装束"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫特殊建筑"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "埋骨地"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层入口）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "进入可出现骸骨堆、头骨祭坛、巨大的残骸"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "骸骨堆"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 2~3个某类骨头【翻找后中毒（持续2轮）】，20%概率获得钻石戒指（如一直未获得，90层后的第一个骸骨堆必出）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "钻石戒指: 魔力+3，艾米丽的坟墓彩蛋道具"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "艾米丽的坟墓"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(可提交戒指类装备)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "提交钻石戒指：如已有潘多拉冈布奥，且未获得鬼魂新娘装束，获得 婚纱(结算获得潘多拉鬼魂新娘装束)，否则获得 变形术*3 + 内爆术*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "提交1-3阶戒指：获得 探索点*150"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "提交4-5阶戒指：获得 随机某类骨头*6 + 十字架*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "提交6阶以上戒指：获得 变形术*3 + 内爆术*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "头骨祭坛"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "50%概率：生命值或魔法值+10"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "30%概率：生命值或魔法值+20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "20%概率：攻击或魔力+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "祭拜后受到诅咒状态（攻击降低50%（持续3轮））"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "巨大的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得电气学头盔*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "电气学头盔【头盔】魔力+2、魔法值+20；静电场持续轮数+2；瓦解射线持续轮数+2；时间停止持续轮数+2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "冒险者残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得怀特的假腿*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "怀特的假腿  使用：获得胫骨、颅骨、胸骨各5个"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "女人的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得T病毒*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "T病毒  使用：冈布奥攻击及魔力+2、食用后中毒"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "黑暗龙雕像"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(提交亡灵契约和幼龙头骨)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次获得黑暗龙冈布奥，之后为黑暗龙碎片*20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大盗神"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏的储物箱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 邪恶祭祀套装"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "祭祀头骨【头盔】 每进入下一层，恢复魔法值+2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "祭祀之珠【项链】 每进入下一层，恢复魔法值+3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "祭祀指轮【戒指】 每进入下一层，恢复魔法值+5"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "邪恶祭祀【套装】魔力+3，魔法值+50； 每进入下一层，恢复魔法值+5"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "松动的地砖"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 骨杖*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "散落的物件"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 加赫雷斯的卷轴/拉莫洛克的卷轴/兰斯洛特的卷轴*1 + 黑龙之纹章/凤凰之纹章*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "加赫雷斯的卷轴  使用：冈布奥攻击+4；神恩术魔法效果+10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "拉莫洛克的卷轴  使用：冈布奥攻击+3；祝福术持续轮数+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "兰斯洛特的卷轴  使用：冈布奥攻击+3；瓦解射线持续轮数+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "黑龙之纹章 使用：冈布奥魔力+3；末日审判魔法效果+15%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "凤凰之纹章  使用：施放神圣重生；冈布奥魔力+3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "残破的巢穴"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 胸骨*3+胫骨*3+颅骨*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "废弃的货车"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 魔铁/水晶*30 或 暗钢/魂晶*15"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灵魂祭坛"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": ":"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 完整的野兽之魂*3 / 完整的法师之魂*3 / 完整的兽人之魂*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的野兽之魂 使用：冈布奥攻击+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的法师之魂  使用：冈布奥魔力+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的兽人之魂  使用：冈布奥降低敌人攻击+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "散落的录像带"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 录像带"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "录像带  使用：亡灵猎手状态（攻击亡灵时，造成额外伤害+500%，持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灯异界"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "骸骨堆"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "残破的恶徒之魂  使用：施放石肤术"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "残破的佣兵之魂  使用：恢复30点生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "残破的法师之魂  使用：魔力+10（持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "头骨祭坛"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的恶徒之魂  使用：施放毁灭之刃"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的佣兵之魂  使用：冈布奥生命值+20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的法师之魂  使用：冈布奥魔力+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "巨大的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "弗兰肯斯坦的灵魂  使用：科学怪人状态（操作死灵实验台，强化成功概率+100%，持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "冒险者残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "怀特的灵魂  使用：怀特的假腿，效果转换"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "怀特的假腿  使用：开启崔斯特瑞姆的传送门 (进入奶牛关)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "奶牛关中可获得牛魔王套装，奶牛最多只会掉一件，箱子里必出一件，无法集齐"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "牛魔王之角【头盔】 生命值+80"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "牛魔王之皮【铠甲】 降低敌人攻击+3、生命值+50"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "牛魔王之蹄【鞋子】 闪避+15%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "牛魔王【套装】攻击+30，魔力+30；额外获得探索点+100%；魔法物品发现几率+100%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "女人的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "吉尔的灵魂 使用：攻击亡灵时，造成额外伤害+20%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "厨师菜谱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "油炸脆骨"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊食材："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "碎裂的骨头*3 (骷髅剑士/骷髅术士/骷髅犬掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：召唤生物攻击+3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "帝王南瓜炖排骨"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊食材："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "烂掉的南瓜*2 (灾祸南瓜掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "碎裂的骨头*3 (骷髅剑士/骷髅术士/骷髅犬掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：冈布奥攻击+1、生命值+10；攻击亡灵时，造成额外伤害+2%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "奶香龙翼大餐(隐藏)"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊食材："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "幼龙之翼*2 (骷髅幼龙掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "过期的牛奶*8 (奶牛关里的奶牛掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：冈布奥闪避+10%、闪避上限+5%；降低敌人攻击+3；降低所受腐蚀效果+15%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特殊照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "骷髅术士的照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用：施放强力地刺术"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "来源：翻出骷髅术士 5% 获取 (上限5)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "DP难点"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "(来源:贴吧-云尘尽转c)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫特色"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：全亡灵地图，可利用死灵混合液，战士系光明仲裁官，魔法系走教皇一路扔圣光蛋和天堂小拳拳秒上去；对于萌新的三件特色强力装备，boss的四个卵蛋"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫优点"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：boss四轮行动可实现无限控制，蛋蛋没了脆如纸"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫缺点"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：自爆南瓜后期伤害不俗，boss的蛋蛋打不动，孵出龙还加boss攻击力，亡灵的毒和诅咒烦人"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "有关三件套"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "绿骷髅、红骷髅、骷髅狗各对应了一种骨头；洞里几率出科学怪人的尸体，冒险系点出灯系异界可以获得一个当前层强化成功率100%的灵魂，能直接送满一件装备；强化一件装备失败可以小sl不强化这个，在下一层强化另一件装备，但如果只剩下了一件没强化满，小sl就没法改变结果了，大sl可以但非特殊情况实在没必要= =。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "幼龙头骨"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "三种装备全部升满之后穿上，用骨杖叫的小弟就不是汪了，进化成暴龙兽了（骨龙）， 80之前的小怪层基本不会死，挺强力的助手。死后低几率（非常感人）爆出幼龙头骨。这个是获取隐藏的必须品之一"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "幼龙头骨拾取之后不会再爆出，但是我们可以不捡啊嘿嘿，只要不捡就会一直几率爆，所以刷头骨的问题就可以简化为如何把大量的骨龙小弟弄死啦。骨龙小弟的能力受身上装备的加成，脱下装备其能力就会下降一部分，就容易死了，但是龙毕竟是龙，在小怪层依然是爸爸，所以目标就是在boss层弄死它们"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "推荐在60、70、80层的boss层（低了龙不一定死而且也不一定能叫得出龙，高了你自己撑不住boss攻击），攒齐10~50骨杖（欧皇和非酋自行增城），进图穿好三件套，先叫龙，合力打掉四个蛋，穿插控一下boss，四个蛋都打掉之后，脱下亡灵骨铠（减少小弟大量的血，加boss攻击，小弟死的快），用石肤冰盾什么的拖回合保证自身安全，小弟撞死了就穿上衣服叫出来再脱下衣服等它撞死，当骨杖全用完或者boss被你的小弟打死的时候，基本幼龙头骨能爆好多了"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "注意：为求速度脱掉骨铠就行了，多脱鞋子和骨钟换来换去太麻烦；别控boss，不然小弟撞不死；想快点刷完的话头骨爆三个就可以杀boss走人了；觉得自己快扛不住了就弄死boss走人，生命要紧；掉落的头骨千万不要捡！打完boss再捡！"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "按这个方式，情况允许的话最多可以拿到11个头骨，有兴趣可以试试"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏冈布奥"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "死亡骑士出战，拿到幼龙头骨之后，接下来的第五层必出黑暗龙雕像（比如70拿了头骨，75必出其雕像，75拿头骨，则打完boss后在81层必出雕像）。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "给雕像献祭幼龙头骨和亡灵契约，即可获得隐藏冈布奥——黑暗龙冈布奥，之后获取方式不变，一次获得20碎片"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "速刷阵容"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "(来源:论坛-宅之小天)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "限定死骑出战，令人崩溃的强化成功率，多少人是扫荡完的，但是扫荡太亏了，所以，我还想选择手刷"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "阵容：死骑，暗影刺客，寄生体寄生哈文的魔偶。竖琴航海士药剂。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "哈文的魔偶天空出，400层以上天空事件，选择注入全部体力（≥7）概率获得。在废弃边陲隐藏效果是每下一层楼给一骨头。这样就完全不缺骨头了（完爆寄生王子宝宝）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "因为要魔偶，所以实际上能刷的时间比较晚了..."
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "称号先点贵族套异界，如果能摸到弗兰克的魂能省很多骨头（当前层强化成功率100%），没有也不强求。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "战士称号一路点第一个（暗影，死波），攻击触发死波加上暗影刺客天赋70%概率，顺便有白棋挂树的暗影魂清层效果极佳。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "法系没拿到大地就补大地，一次20多层大地就行，如果给了大地可以气传。59大地，60层前全装备强满15根骨杖，一路地震死波，65拿隐藏，70骨杖时停A死boss走人。"
+            }
+          ]
+        ]
+      }
+    ]
+  ],
+  "cur_group": [
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "怪物图鉴"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫特殊机制"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "死灵实验台"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "共有4种实验台 制作骨杖 / 天灾骨钟 / 巫妖骨靴 / 亡灵骨铠"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "装备最高升级到+10，从+4开始有几率失败，失败材料不返还"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "1. 骨杖（制作需求：颅骨、胸骨、胫骨1个）"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：召唤骷髅哈士奇（本层有效，穿戴死灵装备后，对召唤效果有额外加成）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【天灾骨钟】吸血效果加成"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【巫妖骨靴】攻击加成"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "【亡灵骨铠】生命值加成"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "同时装备天灾骨钟(+10)、亡灵骨铠(+10)、巫妖骨靴(+10)，可召唤骷髅幼龙。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "骷髅哈士奇  撕咬：攻击时，概率附加吸血效果（将所造成伤害的100%恢复到生命值）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "骷髅幼龙 撕咬：攻击时，概率附加吸血效果（将所造成伤害的100%恢复到生命值）；重击：攻击时，25%概率造成2倍伤害；死亡后概率掉落【幼龙头骨】"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "幼龙头骨和亡灵契约(死亡骑士出战自带)组成黑暗熔炉套装"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "幼龙头骨【头盔】 魔力+2、降低敌人攻击+1；死亡骑士冈布奥装备时，攻击+10；黑暗龙冈布奥装备时，魔力+10"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "亡灵契约【宝物】 免疫中毒；攻击亡灵时，造成额外伤害+30%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "黑暗熔炉【套装】 魔力+10、魔法值+100；所有暗系魔法效果+100%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "2.天灾骨钟【宝物】（制作需求：颅骨、胸骨3个"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "魔力+(level)；降低所受中毒伤害+(20*level)% (+5后免疫中毒)；攻击时，10%概率令敌人中毒"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "3.巫妖骨靴【鞋子】（制作需求：颅骨、胫骨3个）"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "攻击+(level)；降低所受诅咒效果+(20*level)%  (+5后免疫诅咒)；攻击时，10%概率令敌人受到诅咒"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "4.亡灵骨铠【铠甲】（制作需求：胸骨、胫骨3个）"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "降低敌人攻击+(level)；攻击时，10%概率施放瓦解射线"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏冈布奥"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "黑暗龙获得方法"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1. 死亡骑士出战 (血腥要塞主线冈布奥)，获得自带装备亡灵契约。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "2. 穿戴三件+10死灵装备，使用骨杖召唤骷髅幼龙，骷髅幼龙死亡后概率掉落幼龙头骨。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "3. 拿到幼龙头骨5层后(普通层)会遇到“黑暗龙雕像”，提交亡灵契约和幼龙头骨，获得黑暗龙冈布奥。之后是20碎片。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫重要彩蛋"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "艾米丽的坟墓"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "，骸骨堆20%获得\"钻石戒指\"，在艾米丽的坟墓提交钻石戒指：如果已经获得了潘多拉冈布奥，且未获得鬼魂新娘装束，会得到婚纱，结算获得潘多拉鬼魂新娘装束"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "爆裂南瓜雕像后出战"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "，遇到小怪灾祸南瓜，拖回合等它自爆，会掉落\"灾祸之火\"，结算获得爆裂南瓜灾祸装束"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫特殊建筑"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "埋骨地"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层入口）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "进入可出现骸骨堆、头骨祭坛、巨大的残骸"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "骸骨堆"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 2~3个某类骨头【翻找后中毒（持续2轮）】，20%概率获得钻石戒指（如一直未获得，90层后的第一个骸骨堆必出）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "钻石戒指: 魔力+3，艾米丽的坟墓彩蛋道具"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "艾米丽的坟墓"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(可提交戒指类装备)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "提交钻石戒指：如已有潘多拉冈布奥，且未获得鬼魂新娘装束，获得 婚纱(结算获得潘多拉鬼魂新娘装束)，否则获得 变形术*3 + 内爆术*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "提交1-3阶戒指：获得 探索点*150"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "提交4-5阶戒指：获得 随机某类骨头*6 + 十字架*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "提交6阶以上戒指：获得 变形术*3 + 内爆术*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "头骨祭坛"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "50%概率：生命值或魔法值+10"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "30%概率：生命值或魔法值+20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "20%概率：攻击或魔力+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "祭拜后受到诅咒状态（攻击降低50%（持续3轮））"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "巨大的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得电气学头盔*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "电气学头盔【头盔】魔力+2、魔法值+20；静电场持续轮数+2；瓦解射线持续轮数+2；时间停止持续轮数+2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "冒险者残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得怀特的假腿*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "怀特的假腿  使用：获得胫骨、颅骨、胸骨各5个"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "女人的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得T病毒*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "T病毒  使用：冈布奥攻击及魔力+2、食用后中毒"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "黑暗龙雕像"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(提交亡灵契约和幼龙头骨)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次获得黑暗龙冈布奥，之后为黑暗龙碎片*20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大盗神"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏的储物箱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 邪恶祭祀套装"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "祭祀头骨【头盔】 每进入下一层，恢复魔法值+2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "祭祀之珠【项链】 每进入下一层，恢复魔法值+3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "祭祀指轮【戒指】 每进入下一层，恢复魔法值+5"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "邪恶祭祀【套装】魔力+3，魔法值+50； 每进入下一层，恢复魔法值+5"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "松动的地砖"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 骨杖*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "散落的物件"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 加赫雷斯的卷轴/拉莫洛克的卷轴/兰斯洛特的卷轴*1 + 黑龙之纹章/凤凰之纹章*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "加赫雷斯的卷轴  使用：冈布奥攻击+4；神恩术魔法效果+10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "拉莫洛克的卷轴  使用：冈布奥攻击+3；祝福术持续轮数+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "兰斯洛特的卷轴  使用：冈布奥攻击+3；瓦解射线持续轮数+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "黑龙之纹章 使用：冈布奥魔力+3；末日审判魔法效果+15%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "凤凰之纹章  使用：施放神圣重生；冈布奥魔力+3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "残破的巢穴"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 胸骨*3+胫骨*3+颅骨*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "废弃的货车"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 魔铁/水晶*30 或 暗钢/魂晶*15"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灵魂祭坛"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": ":"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 完整的野兽之魂*3 / 完整的法师之魂*3 / 完整的兽人之魂*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的野兽之魂 使用：冈布奥攻击+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的法师之魂  使用：冈布奥魔力+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的兽人之魂  使用：冈布奥降低敌人攻击+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "散落的录像带"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 录像带"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "录像带  使用：亡灵猎手状态（攻击亡灵时，造成额外伤害+500%，持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灯异界"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "骸骨堆"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "残破的恶徒之魂  使用：施放石肤术"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "残破的佣兵之魂  使用：恢复30点生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "残破的法师之魂  使用：魔力+10（持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "头骨祭坛"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的恶徒之魂  使用：施放毁灭之刃"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的佣兵之魂  使用：冈布奥生命值+20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的法师之魂  使用：冈布奥魔力+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "巨大的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "弗兰肯斯坦的灵魂  使用：科学怪人状态（操作死灵实验台，强化成功概率+100%，持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "冒险者残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "怀特的灵魂  使用：怀特的假腿，效果转换"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "怀特的假腿  使用：开启崔斯特瑞姆的传送门 (进入奶牛关)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "奶牛关中可获得牛魔王套装，奶牛最多只会掉一件，箱子里必出一件，无法集齐"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "牛魔王之角【头盔】 生命值+80"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "牛魔王之皮【铠甲】 降低敌人攻击+3、生命值+50"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "牛魔王之蹄【鞋子】 闪避+15%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "牛魔王【套装】攻击+30，魔力+30；额外获得探索点+100%；魔法物品发现几率+100%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "女人的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "吉尔的灵魂 使用：攻击亡灵时，造成额外伤害+20%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "厨师菜谱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "油炸脆骨"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊食材："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "碎裂的骨头*3 (骷髅剑士/骷髅术士/骷髅犬掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：召唤生物攻击+3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "帝王南瓜炖排骨"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊食材："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "烂掉的南瓜*2 (灾祸南瓜掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "碎裂的骨头*3 (骷髅剑士/骷髅术士/骷髅犬掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：冈布奥攻击+1、生命值+10；攻击亡灵时，造成额外伤害+2%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "奶香龙翼大餐(隐藏)"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊食材："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "幼龙之翼*2 (骷髅幼龙掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "过期的牛奶*8 (奶牛关里的奶牛掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：冈布奥闪避+10%、闪避上限+5%；降低敌人攻击+3；降低所受腐蚀效果+15%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特殊照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "骷髅术士的照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用：施放强力地刺术"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "来源：翻出骷髅术士 5% 获取 (上限5)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "DP难点"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "(来源:贴吧-云尘尽转c)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫特色"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：全亡灵地图，可利用死灵混合液，战士系光明仲裁官，魔法系走教皇一路扔圣光蛋和天堂小拳拳秒上去；对于萌新的三件特色强力装备，boss的四个卵蛋"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫优点"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：boss四轮行动可实现无限控制，蛋蛋没了脆如纸"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫缺点"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：自爆南瓜后期伤害不俗，boss的蛋蛋打不动，孵出龙还加boss攻击力，亡灵的毒和诅咒烦人"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "有关三件套"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "绿骷髅、红骷髅、骷髅狗各对应了一种骨头；洞里几率出科学怪人的尸体，冒险系点出灯系异界可以获得一个当前层强化成功率100%的灵魂，能直接送满一件装备；强化一件装备失败可以小sl不强化这个，在下一层强化另一件装备，但如果只剩下了一件没强化满，小sl就没法改变结果了，大sl可以但非特殊情况实在没必要= =。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "幼龙头骨"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "三种装备全部升满之后穿上，用骨杖叫的小弟就不是汪了，进化成暴龙兽了（骨龙）， 80之前的小怪层基本不会死，挺强力的助手。死后低几率（非常感人）爆出幼龙头骨。这个是获取隐藏的必须品之一"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "幼龙头骨拾取之后不会再爆出，但是我们可以不捡啊嘿嘿，只要不捡就会一直几率爆，所以刷头骨的问题就可以简化为如何把大量的骨龙小弟弄死啦。骨龙小弟的能力受身上装备的加成，脱下装备其能力就会下降一部分，就容易死了，但是龙毕竟是龙，在小怪层依然是爸爸，所以目标就是在boss层弄死它们"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "推荐在60、70、80层的boss层（低了龙不一定死而且也不一定能叫得出龙，高了你自己撑不住boss攻击），攒齐10~50骨杖（欧皇和非酋自行增城），进图穿好三件套，先叫龙，合力打掉四个蛋，穿插控一下boss，四个蛋都打掉之后，脱下亡灵骨铠（减少小弟大量的血，加boss攻击，小弟死的快），用石肤冰盾什么的拖回合保证自身安全，小弟撞死了就穿上衣服叫出来再脱下衣服等它撞死，当骨杖全用完或者boss被你的小弟打死的时候，基本幼龙头骨能爆好多了"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "注意：为求速度脱掉骨铠就行了，多脱鞋子和骨钟换来换去太麻烦；别控boss，不然小弟撞不死；想快点刷完的话头骨爆三个就可以杀boss走人了；觉得自己快扛不住了就弄死boss走人，生命要紧；掉落的头骨千万不要捡！打完boss再捡！"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "按这个方式，情况允许的话最多可以拿到11个头骨，有兴趣可以试试"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏冈布奥"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "死亡骑士出战，拿到幼龙头骨之后，接下来的第五层必出黑暗龙雕像（比如70拿了头骨，75必出其雕像，75拿头骨，则打完boss后在81层必出雕像）。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "给雕像献祭幼龙头骨和亡灵契约，即可获得隐藏冈布奥——黑暗龙冈布奥，之后获取方式不变，一次获得20碎片"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "速刷阵容"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "(来源:论坛-宅之小天)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "限定死骑出战，令人崩溃的强化成功率，多少人是扫荡完的，但是扫荡太亏了，所以，我还想选择手刷"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "阵容：死骑，暗影刺客，寄生体寄生哈文的魔偶。竖琴航海士药剂。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "哈文的魔偶天空出，400层以上天空事件，选择注入全部体力（≥7）概率获得。在废弃边陲隐藏效果是每下一层楼给一骨头。这样就完全不缺骨头了（完爆寄生王子宝宝）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "因为要魔偶，所以实际上能刷的时间比较晚了..."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "称号先点贵族套异界，如果能摸到弗兰克的魂能省很多骨头（当前层强化成功率100%），没有也不强求。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "战士称号一路点第一个（暗影，死波），攻击触发死波加上暗影刺客天赋70%概率，顺便有白棋挂树的暗影魂清层效果极佳。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "法系没拿到大地就补大地，一次20多层大地就行，如果给了大地可以气传。59大地，60层前全装备强满15根骨杖，一路地震死波，65拿隐藏，70骨杖时停A死boss走人。"
+          }
+        ]
+      ]
+    }
+  ]
+}

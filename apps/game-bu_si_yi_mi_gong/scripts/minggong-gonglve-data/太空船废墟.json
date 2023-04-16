@@ -1,0 +1,9622 @@
+{
+  "groups": [
+    [
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "怪物图鉴"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫特殊机制"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "操作台"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "在操作台可大幅强化警用装备"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "1. 警用装备来源"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1层翻找空投物资获得\"指令单\"。指令单会随机生成一个特殊指令：楼层尾号为X时，输入XXX。(例: 楼层尾号为8时，输入特殊指令888)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在指定尾号的楼层输入特殊指令，随机获得一件尚未获得的警用装备。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "警用装备共有5件：合金防暴盾【宝物】、动力锤【手套】、外骨骼装甲【盔甲】、机械动力假腿【鞋子】、电磁斗篷【披风】"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "2. 强化装备规则"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "操作台强化装备有两个选项"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "升级基本属性"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：每次消耗10个齿轮，装备最高升级到+10，从+4开始有几率失败，失败材料不返还。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "强化动力核心"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "：在基本属性+3、+6、+9时可强化动力核心，每次消耗1个动力齿轮，最多强化三次，必定成功。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "2. 警用装备介绍"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "1. 合金防暴盾【宝物】"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "初始：降低敌人攻击+1；降低所受燃烧伤害+3%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+1-9\t每级增加：降低敌人攻击+1；降低所受燃烧伤害+3%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+10：降低敌人攻击+12；降低所受燃烧伤害+35%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心1："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "降低自爆效果+\t33%\t；攻击时，反射敌人伤害+\t10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心2："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "降低自爆效果+\t66%\t；攻击时，反射敌人伤害+\t20%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心3："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "降低自爆效果+\t99%\t；攻击时，反射敌人伤害+\t30%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "2. 动力锤【手套】"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "初始：攻击+1；忽视敌人物理抗性+3%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+1-9每级增加：攻击+1；忽视敌人物理抗性+3%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+10：攻击+12；忽视敌人物理抗性+35%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核\t心1："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "攻击提升\t3%\t；攻击时，\t10%\t概率造成双倍伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心2："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "攻击提升\t6%\t；攻击时，\t20%\t概率造成双倍伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心3："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "攻击提升\t10%\t；攻击时，\t30%\t概率造成双倍伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "3. 外骨骼装甲【盔甲】"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "初始：降低远程攻击伤害+5%；\t每进入下一层，恢复生命值+2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+1-9每级增加：降低远程攻击伤害+3%；\t每进入下一层，恢复生命值+2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+10：降低远程攻击伤害+40%；\t每进入下一层，恢复生命值+25"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心1："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "降低所受突击伤害+\t33%\t；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用枪械类道具时，造成额外伤害+\t33%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心2："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "降低所受突击伤害+\t66%\t；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用枪械类道具时，造成额外伤害+\t66%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心3："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "降低所受突击伤害+\t99%\t；"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "使用枪械类道具时，造成额外伤害+\t99%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "4. 机械动力假腿【鞋子】"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "初始：闪避+3%；闪避上限+1%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+1-9每级增加：闪避+3%；闪避上限+1%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+10：闪避+35%；闪避上限+12%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心1："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "忽视敌人闪避+\t10%\t；攻击时，\t5%\t概率不受反击"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心2："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "忽视敌人闪避+\t20%\t；攻击时，\t10%\t概率不受反击"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心3："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "忽视敌人闪避+\t30%\t；攻击时，\t15%\t概率不受反击"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "5. 电磁斗篷【披风】"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "初始：魔力+1；忽视敌人魔法抗性+3%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+1-9每级增加：魔力+1；忽视敌人魔法抗性+3%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "+10：魔力+12，忽视敌人魔法抗性+35%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心1："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "魔力提升\t3%\t；所有伤害类魔法效果+\t10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心2："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "魔力提升\t6%\t；所有伤害类魔法效果+\t20%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "动力核心3："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "魔力提升\t10%\t；所有伤害类魔法效果+\t30%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏冈布奥"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "血狼获得方法"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1. 翻找\"警司的残骸\"获得\"破旧的手机\"，破旧的手机带有随机指令，在终端使用后获得\"电子密钥\""
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "2. 50+普通层概率出现\"隐秘之门\"，使用电子密钥进入"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "3. 击败血狼\t获得血狼冈布奥，之后为20碎片"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "*拥有血狼后也可以通过偷窃获得血狼碎片"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫重要彩蛋"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "天空战雷达+1"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "大偷血狼\t\t\t，获得\t奇怪的笔记本，在终端使用笔记中的指令，获得矩阵芯片，结算后飞艇雷达位+1。可以暂离保存门然后大SL偷盗物品。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这里推荐2种不需要大SL的做法："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "1.怪盗用小怪测技能的大偷，出大偷后小sl留着，大偷偷血狼"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "2.机器猫存多个魔术手，偷血狼不是大偷就小sl出来偷小怪，用掉1个进洞再试，还不对继续小sl，用掉2个进洞再试，直到全部试完"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大偷BOSS"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "，获得\"取款密码\"，在终端使用指令，首次获得\t3钻 (限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "血狼的通缉令"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "，1层\"告示牌\"概率获得\"血狼的通缉令\"，击败血狼后使用获得\t3钻 (限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灯异界称号"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "，翻找\"警司的残骸\"获得\"警司的灵魂\" 使用获得\"行动指令\"，在终端使用指令后进入特殊空间\"警察行动\"，击败警察后可打开宝箱，首次获得\t3钻 (限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大盗神称号"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "，洞里概率遇到\"深思\"，翻找获得\"终极答案\"，在42层使用终极答案，进入未知空间，用里边的终端输入指令\"42\"，获得\"银河漫游指南\"，使用获得\t3钻 (限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "枪械商出战或链接"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "，翻找\"星际警长的残骸\"获得\"塞拉炯\"，售卖塞拉炯获得\t2钻 (限1次)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "迷宫特殊建筑"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "告示牌"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（1层出现）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 杰森的通缉令 / 弗兰克的通缉令 / 血狼的通缉令*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "赏金猎人出战时，获得2张通缉令(不会相同)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "杰森的通缉令"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：完成任务后，冈布奥魔力+3 (任务：击败杰森)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "弗兰克的通缉令"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：完成任务后，冈布奥攻击+3 (任务：击败弗兰克)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "血狼的通缉令"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(首次)  使用：完成任务后，获得3颗钻石 (任务：击败血狼)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "血狼的通缉令"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(后续)  使用：完成任务后，获得10~20个齿轮 (任务：击败血狼)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "空投物资"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "一层必定出现，联络终端使用普通指令概率出现"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "必定获得 指令单*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "随机获得 火焰喷射器M2 / 肩扛火箭筒LAW80 / 榴弹发射器MGL *1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "后续："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 医疗包*1 / 齿轮*3 / 探索点*50"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "医疗包"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：获得急救状态（恢复20点魔法值、每轮恢复5点生命值，持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "弹药箱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "联络终端使用普通指令概率出现"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "可将一件枪械类道具的弹药补满（塞拉炯除外）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "联络终端"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "输入密码，可获得奖励"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "普通指令：输入当前楼层编号+F，召唤 空投物资 或 弹药箱"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊指令：楼层尾号为X时，输入XXX，获得随机未获得的警用装备"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "以下指令固定，可直接使用 (限1次)："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "715：获得 连发霰弹枪M1887 / 榴弹发射器MM1*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "240：获得 医疗包*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "417：获得 齿轮*10"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "27149：获得 超级电脑*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "4927：获得 治安官荣誉书*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "608917：获得 随机海贼系列食物*2~3  (海盗黑啤、烧烤鱿鱼、烟熏三文鱼、芝士龙虾、炸鳕鱼排、炖菜牡蛎汤、鲑鱼浓汤)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "353127：获得 尖刺闹钟*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "525357：获得 随机马戏团系列道具*1  (杂技彩球、驯兽师皮鞭、杂技飞镖、小丑的面具、魔术师拐杖、杂技独轮车)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "101875：获得 遛狗机器人*1，20%额外召唤一只\"骷髅哈士奇\""
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "142857：获得 法老面具*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "指令无需获得物品，来源只作为介绍："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "715,240,417 来源于翻找\"警员的残骸\"获得的警徽编号"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "27149 来源于\"杰森的日记\""
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "4927 来源于智能电脑\"警署人员资料\"中蓝鲨的编号"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "608917,353127,525357 来源于智能电脑\"赞助广告\""
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "101875 来源于智能电脑\"赞助广告\"(机帝神、骷髅王、蓝鲨、二郎神出战)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "142857 来源于智能电脑\"社会新闻\"(考古家、法老王、大祭祀出战)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "连发霰弹枪M1887"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：对敌人造成50点伤害（子弹7/7）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "榴弹发射器MM1"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：对敌人造成50点伤害，附带眩晕效果（持续3轮，子弹5/12）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "超级电脑"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【宝物】魔力+2，魔法值+20；齿轮掉落概率+20%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "治安官荣誉书"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：冈布奥攻击+1；蓝鲨冈布奥使用时，立即化身罪恶克星"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "遛狗机器人"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：召唤生物能力提升10%（限犬类）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "以下指令随机，需获得道具才能使用："
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "奇怪的笔记本(大偷血狼)：首次获得 矩阵芯片*1 (天空雷达+1)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "破旧的手机(警司的残骸)：获得 电子密钥*1 (用于进入隐秘之门-血狼BOSS)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "行动指令(警司的灵魂)：进入特殊空间\"警察行动\"，首次获得 钻石*3，后续获得 金币*10k"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "取款密码(大偷BOSS)：首次获得 钻石*3，后续获得 金币*10k"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "纸条(冒险者村民)：获得 火焰喷射器M2*2 + 破片手雷M67*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "纸条(入侵智脑电脑)：机密资料*1，首次获得 金币*100k，后续获得 闪避+10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "奇怪的联络终端"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "奇怪的联络终端也可使用普通终端的指令"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "穿戴 沃斯巴克的真实透镜 / 经典太阳镜 / 魔之右眼 / 战斗力探测器 时可发现随机指令："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 \t随机2~4阶卷轴 (共10张)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "作战平台"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "普通层每层出现其中一个，可用1个齿轮关闭"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "作战平台A"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在场时，所有敌方机械生物生命值提升100%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "作战平台B"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在场时，所有敌方机械生物攻击力提升100%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "超导充能平台"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "每5轮发动一次，所有敌方机械生物获得充能护盾特性：\t受创时，将所受伤害转换为恢复生命值"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "废弃舱室"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层入口）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "可出现 智能电脑、警员的残骸、特种兵的残骸(两种之一)、复制人的残骸、机械生物的残骸"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "智能电脑"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "选择 下载学习资料，随机获得属性："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "攻击+1/2/3，生命值+10/20/30"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "魔力+1/2/3，魔法值+10/20/30"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "间谍、机械师、终结者、机帝神 出战，可选\"入侵电脑\" ："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 纸条*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在终端输入纸条的指令，获得 机密资料*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "机密资料"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(首次)：使用：完成任务后，获得100K金币 (任务：到达70层迷宫)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "机密资料"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(后续)：使用：完成任务后，冈布奥闪避+10% (任务：到达70层迷宫)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "选择 看点别的："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "随机播放一些新闻，是一次性指令的来源，但这部分指令不需要获得也可直接使用"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "警员的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 警徽*1 / \t动力齿轮*1 / \t警员的日记*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "警徽"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：随机获得50～100点探索点"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "有三种带编号的警徽，是一次性指令的来源，但这部分指令不需要获得也可直接使用"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "警员的日记"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：随机获得100～200点探索点"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特种兵的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(高压电击)（夹层，两种特种兵互斥)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 秃鹫战车*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "秃鹫战车"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：冈布奥闪避+5%、闪避上限+3%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特种兵的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(头部弹孔)（夹层，两种特种兵互斥)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 CMC动力战斗服*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "CMC动力战斗服"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【铠甲】攻击+3、降低敌人攻击+2；特种兵冈布奥装备时，获得1支兴奋剂"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "复制人的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 独角兽折纸*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "独角兽折纸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：冈布奥生命值及魔法值+30\t；攻击机械生物时，造成额外伤害+10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "机械生物的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 万用工具*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "万用工具"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：关闭充能平台（剩余能量3/3）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "机械研究所"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(地图特色商店 货币：探索点)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在售商品 (5件)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "必定售卖齿轮*5/齿轮*10/动力齿轮*1，剩下2个商品为随机枪械"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "齿轮*5 (100)  \t齿轮*10 (200)  动力齿轮*1 (500)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "火焰喷射器M2*1 (200)  \t肩扛火箭筒LAW80*1 (300)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "破片手雷M67*1 (300)  \t榴弹发射器MGL*1 (200)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "--------------"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊勒索 无"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "--------------"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "火焰喷射器M2"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：对同列所有敌人造成250点伤害，并翻开整列石板（燃料30/30，可用3次）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "肩扛火箭筒LAW80"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：对敌人造成200点伤害，50%伤害溅射在场全体敌人（火箭弹3/3）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "破片手雷M67"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：投掷后，对敌人造成300点伤害，100%伤害溅射距离2范围内敌人"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "榴弹发射器MGL"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：对敌人造成100点伤害（子弹6/6）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "警司的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得  警司的日记*1 + 破旧的手机*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "警司的日记"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：冈布奥攻击及魔力+2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "破旧的手机"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "带有随机指令，在终端使用后获得 电子密钥*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "杀手的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(额头上有弹孔)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得  杀手的日记*1 + 动力齿轮*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "杀手的日记"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：冈布奥攻击+1、降低敌人攻击+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "杀手的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(后脑勺条形码)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得  柯尔特1911*2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "柯尔特1911"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：对敌人造成100点伤害（子弹2/7）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "柯尔特1911"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：对敌人造成100点伤害（子弹3/7）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "星际警长的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得  塞拉炯*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "塞拉炯"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：对敌人造成600点伤害，100%%伤害溅射距离1范围内敌人（能量30/30，可用3次，无法补充弹药）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "枪械商出战或链接，售卖塞拉炯可获得钻石*2，限1次"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐秘之门"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "需要电子密钥：翻找\"警司的残骸\"获得\"破旧的手机\"，在终端使用指令获得"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "内有BOSS血狼 和 2个作战平台 (分别提升攻击/生命)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "作战平台每个需要使用齿轮*3进行关闭"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次战胜血狼，获得血狼冈布奥"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "拥有血狼后，小偷或战胜血狼可获得20碎片"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "大偷\t血狼\t，获得\t奇怪的笔记本，带有随机指令，在终端使用指令，\t首次获得 矩阵芯片*1，后续为探索点*100"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "矩阵芯片"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "通关结算时，额外增加1个飞艇雷达位"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特殊村民"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(冒险者出战或链接)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 纸条*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "纸条"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "带有随机指令，在终端使用后获得 火焰喷射器M2*2 + 破片手雷M67*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "大盗神"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏的储物箱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 齿轮*20"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "松动的地砖"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 医疗包*3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "散落的物件"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 榴弹发射器MM1/火焰喷射器M2/肩扛火箭筒LAW80/破片手雷M67 随机一种*2"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "残破的巢穴"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 动力齿轮*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "深思"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 终极答案*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "终极答案  使用：攻击机械生物时，造成额外42点伤害；某些特定情况下使用，进入未知空间"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "在42层使用，进入未知空间，用里边的联络终端输入指令\"42\""
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 银河漫游指南*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "银河漫游指南"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(首次) 使用：获得3颗钻石"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "银河漫游指南"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(后续) 使用：冈布奥生命值及魔法值+20；时间停止持续轮数+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "金属柜"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 (金属鱼骨*1 + 电气陀螺*1) 或 (\t发条老鼠*1 + 发条蜘蛛*1)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "金属鱼骨"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：施放强力地刺术"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "电气陀螺"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：施放力场护盾（持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "发条老鼠"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：获得200点探索点"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "发条蜘蛛"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：冈布奥攻击+1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "奇怪的充能平台"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "需要先杀怪，建议使用万用工具关闭"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "获得 护盾发生装置*1"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "护盾发生装置"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：施放充能护盾（持续10轮）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "灯异界"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "警员的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "残破的警员之魂  使用：枪械类道具，造成额外伤害+1%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的警员之魂  使用：枪械类道具，造成额外伤害+5%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特种兵的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(高压电击)（夹层，两种特种兵互斥)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "雷诺的灵魂  使用：召唤休伯利安号炮火支援（翻开所有石板，并对所有敌人造成大量伤害）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特种兵的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(头部弹孔)（夹层，两种特种兵互斥)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "泰凯斯的灵魂  使用：CMC动力战斗服，效果转换"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "CMC动力战斗服"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "【铠甲】攻击+\t6\t，降低敌人攻击+\t3\t；\t生命值低于50%时，攻击提升10%\t；特种兵冈布奥装备时，获得\t3\t支兴奋剂"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "复制人的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "罗伊的灵魂  使用：流失100点生命值；冈布奥攻击+5、魔力+3"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "机械生物的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "（夹层)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "军团的记忆碎片  使用：冈布奥魔力+2；所有气系魔法效果+5%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "警司的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "警司的灵魂  使用：获得行动指令"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "行动指令"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "带有随机指令，在终端使用后进入特殊空间\"警察行动\"，内有两列6个警察和1个宝箱，击败警察后可打开宝箱"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "首次获得 钻石*3，后续获得 金币*10k"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "杀手的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(额头上有弹孔)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "完整的恶徒之魂  使用：施放毁灭之刃"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "杀手的残骸"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "(后脑勺条形码)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "47的灵魂  使用：柯尔特1911，威力提升"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "柯尔特1911"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "value": "使用：对敌人造成\t300点\t伤害（子弹\t7\t/7）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "星际警长的残骸"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "布雷斯塔的灵魂  使用：随机获得一项能力（持续本层）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "鹰的眼睛  攻击时，80%概率造成双倍伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "狼的耳朵  忽视敌人物理抗性及闪避+50%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "熊的力量  提升100点攻击，降低所受伤害50%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "豹的速度  闪避提升40%、闪避上限提升30%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "厨师菜谱"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "补给液"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊食材："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "机械培养液*1 (机械小怪掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "燃油添加剂*1 (机械小怪掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：冈布奥攻击及魔力+1、闪避+1%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "装甲改造液(隐藏)"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "特殊食材："
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "钛合金溶液*1 (弗兰克掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "纳米合金溶液*1 (杰森掉落)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "食用：降低所受伤害+5%、降低所受燃烧伤害+10%"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "特殊照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "本迷宫无抓拍照片"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "DP难点"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "(来源:\t贴吧-云尘尽转c)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "警员的日记"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "注意和警司的日记不是一个东西，这个是随机在洞内的警员尸体翻出来的"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "CMC动力战斗服 和 秃鹫战车"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "洞里2种特种兵残骸出，但2个残骸互斥，每局迷宫只会出一种"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "如果进洞发现不是需要的\t特种兵，可以小sl不进洞直接下楼，但这种方法有局限，如果是大sl之后第一个洞出\t特种兵那就改不了。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "这个涉及到序列激活问题，这里就不展开讲了，如果发现连续几个洞都是同一个\t特种兵就说明小sl改不了，只能大sl。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "万用工具"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "好东西，盗神彩蛋中帮助很大（不过没有也没关系），做dp等准备跳楼时没用完再用完吧，对着空气用也算次数"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "杀死敌人系列"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "柯尔特，两把一共5发子弹（每把7发满）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "异界翻尸体得灵魂可以直接满子弹并且加伤害"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "塞拉炯3发子弹，一发600伤害（强无敌）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "异界翻尸体是出不来强化这把枪的灵魂的，别想美事了"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "此枪子弹无法在补给箱处补给"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "另——用弓系异界或法老面具或恶魔技能等打boss几率出一个灵魂，使用后塞拉炯子弹无限持续一层"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "不关闭作战平台上30"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "血和攻击的平台头铁一点撞过去就可以了，注意攻击双倍的图里，自爆怪翻出来别急着杀，弄死其他小怪把其攻击降到很低（最好是1）再杀，没别的办法记得诅咒或石肤"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "对于免伤平台，趁着套罩罩的间隙出手，如果带狗猫小弟的，记得看准平台剩余轮数再翻开小怪地板"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "输入10种不同密码"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "建议新人在探索各种不同的日记尸体资料时自己找一找，乐趣比较大"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "当然也可以直接输入下面的这些——"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "417，240，715，142857，27149，4927，353127，525357，608917，101875"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "五件警械装备&升级"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "进迷宫送的指令尾层（该层必出终端机器）每层拿一次，50层之内稳出五件"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "升级比较麻烦，机制和德古拉城堡的装备升级类似，慢慢来就是了，商店全买资源全拿一般刷到100能做3个+9+3了，如果想一局满的话，大体注意事项如下——"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（1）位面，不解释"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（2）盾+9+3之前自爆怪不急着杀，杀别的怪使他降攻击再杀，太疼了"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（3）升级顺序：盾——衣服/锤子——假腿——斗篷，\t根据情况而定，升完盾后突击小怪其实也没有多疼"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（4）召唤小弟的怪，让他召唤满再杀，多拿点齿轮"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（5）大地回层尽量低，缺探索点（买商店齿轮就肯定缺探索点）必要的话可以把142857的法老面具分解掉"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "通缉令"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "本图最让萌新们头疼的dp，且是悬赏里经常遇到的dp，虽然出的几率相同，但就是很玄学就是不同就是皮，但是——赏金猎人出战，可以翻两张通缉令"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（别激动，两张也不一定是这两张，还有血狼呢，比如你需要弗兰克，脸黑出血狼+杰森也是很正常的）"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "隐藏冈布奥"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "警司尸体可翻出联络密码，在终端机中输入可获得电子密钥"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "51—101层的小怪层几率遇到隐秘之门，进入和血狼打一架，打赢即可加入"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "之后获得方式不变，一次20碎"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "几点需要注意的事情——"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（1）血狼的加血加攻击平台提供了太多的加成，建议关掉，每个需要3齿轮"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（2）80+的血狼难度超过了相应层数的boss，进图就冰锥变形时停控住或上个石肤，不然可能被秒"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "（3）血狼无视灯芯，但带有偷盗技能的冈布奥或物品偷他会直接出20碎，偷完打死不会再出碎片"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "group",
+              "value": [
+                [
+                  {
+                    "type": "text",
+                    "value": "速刷阵容"
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "(来源:论坛-宅之小天)"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "阵容：狗贵族龙宝宝。\t狼人竖琴。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "称号\t：气系毁灭公爵，灯系大精灵王，邪龙。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "需要特殊层拿到合金防爆盾强化防自爆，必要的时候可用精灵的灯芯回血。倒数两个指令是遛狗机器人和法老头可以加强狗。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "Boss受到哪种伤害就会加对应抗性减另外的，所以人丢一下火球流星雨上瓦解龙威，狗子咬死就行。100boss失明时停龙威保一下狗。血狼一个龙威关加血装置就死。"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "group",
+        "value": [
+          [
+            {
+              "type": "text",
+              "value": "点满龙系加血，冒险系2阶和毁灭除了持续轮数的全部。就可以招狗了。邪龙大精灵王后面补。"
+            }
+          ]
+        ]
+      }
+    ]
+  ],
+  "cur_group": [
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "怪物图鉴"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫特殊机制"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "value": "data:,"
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "操作台"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "在操作台可大幅强化警用装备"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "1. 警用装备来源"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1层翻找空投物资获得\"指令单\"。指令单会随机生成一个特殊指令：楼层尾号为X时，输入XXX。(例: 楼层尾号为8时，输入特殊指令888)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在指定尾号的楼层输入特殊指令，随机获得一件尚未获得的警用装备。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "警用装备共有5件：合金防暴盾【宝物】、动力锤【手套】、外骨骼装甲【盔甲】、机械动力假腿【鞋子】、电磁斗篷【披风】"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "2. 强化装备规则"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "操作台强化装备有两个选项"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "升级基本属性"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：每次消耗10个齿轮，装备最高升级到+10，从+4开始有几率失败，失败材料不返还。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "强化动力核心"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "：在基本属性+3、+6、+9时可强化动力核心，每次消耗1个动力齿轮，最多强化三次，必定成功。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "2. 警用装备介绍"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "1. 合金防暴盾【宝物】"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "初始：降低敌人攻击+1；降低所受燃烧伤害+3%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+1-9\t每级增加：降低敌人攻击+1；降低所受燃烧伤害+3%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+10：降低敌人攻击+12；降低所受燃烧伤害+35%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心1："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "降低自爆效果+\t33%\t；攻击时，反射敌人伤害+\t10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心2："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "降低自爆效果+\t66%\t；攻击时，反射敌人伤害+\t20%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心3："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "降低自爆效果+\t99%\t；攻击时，反射敌人伤害+\t30%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "2. 动力锤【手套】"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "初始：攻击+1；忽视敌人物理抗性+3%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+1-9每级增加：攻击+1；忽视敌人物理抗性+3%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+10：攻击+12；忽视敌人物理抗性+35%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核\t心1："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "攻击提升\t3%\t；攻击时，\t10%\t概率造成双倍伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心2："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "攻击提升\t6%\t；攻击时，\t20%\t概率造成双倍伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心3："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "攻击提升\t10%\t；攻击时，\t30%\t概率造成双倍伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "3. 外骨骼装甲【盔甲】"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "初始：降低远程攻击伤害+5%；\t每进入下一层，恢复生命值+2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+1-9每级增加：降低远程攻击伤害+3%；\t每进入下一层，恢复生命值+2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+10：降低远程攻击伤害+40%；\t每进入下一层，恢复生命值+25"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心1："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "降低所受突击伤害+\t33%\t；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用枪械类道具时，造成额外伤害+\t33%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心2："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "降低所受突击伤害+\t66%\t；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用枪械类道具时，造成额外伤害+\t66%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心3："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "降低所受突击伤害+\t99%\t；"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "使用枪械类道具时，造成额外伤害+\t99%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "4. 机械动力假腿【鞋子】"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "初始：闪避+3%；闪避上限+1%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+1-9每级增加：闪避+3%；闪避上限+1%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+10：闪避+35%；闪避上限+12%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心1："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "忽视敌人闪避+\t10%\t；攻击时，\t5%\t概率不受反击"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心2："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "忽视敌人闪避+\t20%\t；攻击时，\t10%\t概率不受反击"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心3："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "忽视敌人闪避+\t30%\t；攻击时，\t15%\t概率不受反击"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "5. 电磁斗篷【披风】"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "初始：魔力+1；忽视敌人魔法抗性+3%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+1-9每级增加：魔力+1；忽视敌人魔法抗性+3%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "+10：魔力+12，忽视敌人魔法抗性+35%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心1："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "魔力提升\t3%\t；所有伤害类魔法效果+\t10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心2："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "魔力提升\t6%\t；所有伤害类魔法效果+\t20%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "动力核心3："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "魔力提升\t10%\t；所有伤害类魔法效果+\t30%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏冈布奥"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "血狼获得方法"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1. 翻找\"警司的残骸\"获得\"破旧的手机\"，破旧的手机带有随机指令，在终端使用后获得\"电子密钥\""
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "2. 50+普通层概率出现\"隐秘之门\"，使用电子密钥进入"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "3. 击败血狼\t获得血狼冈布奥，之后为20碎片"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "*拥有血狼后也可以通过偷窃获得血狼碎片"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫重要彩蛋"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "天空战雷达+1"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "大偷血狼\t\t\t，获得\t奇怪的笔记本，在终端使用笔记中的指令，获得矩阵芯片，结算后飞艇雷达位+1。可以暂离保存门然后大SL偷盗物品。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这里推荐2种不需要大SL的做法："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "1.怪盗用小怪测技能的大偷，出大偷后小sl留着，大偷偷血狼"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "2.机器猫存多个魔术手，偷血狼不是大偷就小sl出来偷小怪，用掉1个进洞再试，还不对继续小sl，用掉2个进洞再试，直到全部试完"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大偷BOSS"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "，获得\"取款密码\"，在终端使用指令，首次获得\t3钻 (限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "血狼的通缉令"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "，1层\"告示牌\"概率获得\"血狼的通缉令\"，击败血狼后使用获得\t3钻 (限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灯异界称号"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "，翻找\"警司的残骸\"获得\"警司的灵魂\" 使用获得\"行动指令\"，在终端使用指令后进入特殊空间\"警察行动\"，击败警察后可打开宝箱，首次获得\t3钻 (限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大盗神称号"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "，洞里概率遇到\"深思\"，翻找获得\"终极答案\"，在42层使用终极答案，进入未知空间，用里边的终端输入指令\"42\"，获得\"银河漫游指南\"，使用获得\t3钻 (限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "枪械商出战或链接"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "，翻找\"星际警长的残骸\"获得\"塞拉炯\"，售卖塞拉炯获得\t2钻 (限1次)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "迷宫特殊建筑"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "告示牌"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（1层出现）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 杰森的通缉令 / 弗兰克的通缉令 / 血狼的通缉令*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "赏金猎人出战时，获得2张通缉令(不会相同)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "杰森的通缉令"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：完成任务后，冈布奥魔力+3 (任务：击败杰森)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "弗兰克的通缉令"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：完成任务后，冈布奥攻击+3 (任务：击败弗兰克)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "血狼的通缉令"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(首次)  使用：完成任务后，获得3颗钻石 (任务：击败血狼)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "血狼的通缉令"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(后续)  使用：完成任务后，获得10~20个齿轮 (任务：击败血狼)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "空投物资"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "一层必定出现，联络终端使用普通指令概率出现"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "必定获得 指令单*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "随机获得 火焰喷射器M2 / 肩扛火箭筒LAW80 / 榴弹发射器MGL *1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "后续："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 医疗包*1 / 齿轮*3 / 探索点*50"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "医疗包"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：获得急救状态（恢复20点魔法值、每轮恢复5点生命值，持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "弹药箱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "联络终端使用普通指令概率出现"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "可将一件枪械类道具的弹药补满（塞拉炯除外）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "联络终端"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "输入密码，可获得奖励"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "普通指令：输入当前楼层编号+F，召唤 空投物资 或 弹药箱"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊指令：楼层尾号为X时，输入XXX，获得随机未获得的警用装备"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "以下指令固定，可直接使用 (限1次)："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "715：获得 连发霰弹枪M1887 / 榴弹发射器MM1*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "240：获得 医疗包*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "417：获得 齿轮*10"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "27149：获得 超级电脑*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "4927：获得 治安官荣誉书*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "608917：获得 随机海贼系列食物*2~3  (海盗黑啤、烧烤鱿鱼、烟熏三文鱼、芝士龙虾、炸鳕鱼排、炖菜牡蛎汤、鲑鱼浓汤)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "353127：获得 尖刺闹钟*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "525357：获得 随机马戏团系列道具*1  (杂技彩球、驯兽师皮鞭、杂技飞镖、小丑的面具、魔术师拐杖、杂技独轮车)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "101875：获得 遛狗机器人*1，20%额外召唤一只\"骷髅哈士奇\""
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "142857：获得 法老面具*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "指令无需获得物品，来源只作为介绍："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "715,240,417 来源于翻找\"警员的残骸\"获得的警徽编号"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "27149 来源于\"杰森的日记\""
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "4927 来源于智能电脑\"警署人员资料\"中蓝鲨的编号"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "608917,353127,525357 来源于智能电脑\"赞助广告\""
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "101875 来源于智能电脑\"赞助广告\"(机帝神、骷髅王、蓝鲨、二郎神出战)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "142857 来源于智能电脑\"社会新闻\"(考古家、法老王、大祭祀出战)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "连发霰弹枪M1887"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：对敌人造成50点伤害（子弹7/7）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "榴弹发射器MM1"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：对敌人造成50点伤害，附带眩晕效果（持续3轮，子弹5/12）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "超级电脑"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【宝物】魔力+2，魔法值+20；齿轮掉落概率+20%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "治安官荣誉书"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：冈布奥攻击+1；蓝鲨冈布奥使用时，立即化身罪恶克星"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "遛狗机器人"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：召唤生物能力提升10%（限犬类）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "以下指令随机，需获得道具才能使用："
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "奇怪的笔记本(大偷血狼)：首次获得 矩阵芯片*1 (天空雷达+1)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "破旧的手机(警司的残骸)：获得 电子密钥*1 (用于进入隐秘之门-血狼BOSS)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "行动指令(警司的灵魂)：进入特殊空间\"警察行动\"，首次获得 钻石*3，后续获得 金币*10k"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "取款密码(大偷BOSS)：首次获得 钻石*3，后续获得 金币*10k"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "纸条(冒险者村民)：获得 火焰喷射器M2*2 + 破片手雷M67*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "纸条(入侵智脑电脑)：机密资料*1，首次获得 金币*100k，后续获得 闪避+10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "奇怪的联络终端"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "奇怪的联络终端也可使用普通终端的指令"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "穿戴 沃斯巴克的真实透镜 / 经典太阳镜 / 魔之右眼 / 战斗力探测器 时可发现随机指令："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 \t随机2~4阶卷轴 (共10张)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "作战平台"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "普通层每层出现其中一个，可用1个齿轮关闭"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "作战平台A"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在场时，所有敌方机械生物生命值提升100%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "作战平台B"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在场时，所有敌方机械生物攻击力提升100%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "超导充能平台"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "每5轮发动一次，所有敌方机械生物获得充能护盾特性：\t受创时，将所受伤害转换为恢复生命值"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "废弃舱室"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层入口）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "可出现 智能电脑、警员的残骸、特种兵的残骸(两种之一)、复制人的残骸、机械生物的残骸"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "智能电脑"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "选择 下载学习资料，随机获得属性："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "攻击+1/2/3，生命值+10/20/30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "魔力+1/2/3，魔法值+10/20/30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "间谍、机械师、终结者、机帝神 出战，可选\"入侵电脑\" ："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 纸条*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在终端输入纸条的指令，获得 机密资料*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "机密资料"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(首次)：使用：完成任务后，获得100K金币 (任务：到达70层迷宫)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "机密资料"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(后续)：使用：完成任务后，冈布奥闪避+10% (任务：到达70层迷宫)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "选择 看点别的："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "随机播放一些新闻，是一次性指令的来源，但这部分指令不需要获得也可直接使用"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "警员的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 警徽*1 / \t动力齿轮*1 / \t警员的日记*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "警徽"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：随机获得50～100点探索点"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "有三种带编号的警徽，是一次性指令的来源，但这部分指令不需要获得也可直接使用"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "警员的日记"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：随机获得100～200点探索点"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特种兵的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(高压电击)（夹层，两种特种兵互斥)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 秃鹫战车*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "秃鹫战车"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：冈布奥闪避+5%、闪避上限+3%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特种兵的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(头部弹孔)（夹层，两种特种兵互斥)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 CMC动力战斗服*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "CMC动力战斗服"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【铠甲】攻击+3、降低敌人攻击+2；特种兵冈布奥装备时，获得1支兴奋剂"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "复制人的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 独角兽折纸*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "独角兽折纸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：冈布奥生命值及魔法值+30\t；攻击机械生物时，造成额外伤害+10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "机械生物的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 万用工具*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "万用工具"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：关闭充能平台（剩余能量3/3）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "机械研究所"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(地图特色商店 货币：探索点)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在售商品 (5件)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "必定售卖齿轮*5/齿轮*10/动力齿轮*1，剩下2个商品为随机枪械"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "齿轮*5 (100)  \t齿轮*10 (200)  动力齿轮*1 (500)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "火焰喷射器M2*1 (200)  \t肩扛火箭筒LAW80*1 (300)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "破片手雷M67*1 (300)  \t榴弹发射器MGL*1 (200)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "--------------"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊勒索 无"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "--------------"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "火焰喷射器M2"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：对同列所有敌人造成250点伤害，并翻开整列石板（燃料30/30，可用3次）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "肩扛火箭筒LAW80"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：对敌人造成200点伤害，50%伤害溅射在场全体敌人（火箭弹3/3）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "破片手雷M67"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：投掷后，对敌人造成300点伤害，100%伤害溅射距离2范围内敌人"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "榴弹发射器MGL"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：对敌人造成100点伤害（子弹6/6）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "警司的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得  警司的日记*1 + 破旧的手机*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "警司的日记"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：冈布奥攻击及魔力+2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "破旧的手机"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "带有随机指令，在终端使用后获得 电子密钥*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "杀手的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(额头上有弹孔)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得  杀手的日记*1 + 动力齿轮*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "杀手的日记"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：冈布奥攻击+1、降低敌人攻击+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "杀手的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(后脑勺条形码)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得  柯尔特1911*2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "柯尔特1911"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：对敌人造成100点伤害（子弹2/7）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "柯尔特1911"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：对敌人造成100点伤害（子弹3/7）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "星际警长的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得  塞拉炯*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "塞拉炯"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：对敌人造成600点伤害，100%%伤害溅射距离1范围内敌人（能量30/30，可用3次，无法补充弹药）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "枪械商出战或链接，售卖塞拉炯可获得钻石*2，限1次"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐秘之门"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "需要电子密钥：翻找\"警司的残骸\"获得\"破旧的手机\"，在终端使用指令获得"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "内有BOSS血狼 和 2个作战平台 (分别提升攻击/生命)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "作战平台每个需要使用齿轮*3进行关闭"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次战胜血狼，获得血狼冈布奥"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "拥有血狼后，小偷或战胜血狼可获得20碎片"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "大偷\t血狼\t，获得\t奇怪的笔记本，带有随机指令，在终端使用指令，\t首次获得 矩阵芯片*1，后续为探索点*100"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "矩阵芯片"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "通关结算时，额外增加1个飞艇雷达位"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特殊村民"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(冒险者出战或链接)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 纸条*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "纸条"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "带有随机指令，在终端使用后获得 火焰喷射器M2*2 + 破片手雷M67*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "大盗神"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏的储物箱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 齿轮*20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "松动的地砖"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 医疗包*3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "散落的物件"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 榴弹发射器MM1/火焰喷射器M2/肩扛火箭筒LAW80/破片手雷M67 随机一种*2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "残破的巢穴"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 动力齿轮*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "深思"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 终极答案*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "终极答案  使用：攻击机械生物时，造成额外42点伤害；某些特定情况下使用，进入未知空间"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "在42层使用，进入未知空间，用里边的联络终端输入指令\"42\""
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 银河漫游指南*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "银河漫游指南"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(首次) 使用：获得3颗钻石"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "银河漫游指南"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(后续) 使用：冈布奥生命值及魔法值+20；时间停止持续轮数+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "金属柜"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 (金属鱼骨*1 + 电气陀螺*1) 或 (\t发条老鼠*1 + 发条蜘蛛*1)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "金属鱼骨"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：施放强力地刺术"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "电气陀螺"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：施放力场护盾（持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "发条老鼠"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：获得200点探索点"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "发条蜘蛛"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：冈布奥攻击+1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "奇怪的充能平台"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "需要先杀怪，建议使用万用工具关闭"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "获得 护盾发生装置*1"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "护盾发生装置"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：施放充能护盾（持续10轮）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "灯异界"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "警员的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "残破的警员之魂  使用：枪械类道具，造成额外伤害+1%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的警员之魂  使用：枪械类道具，造成额外伤害+5%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特种兵的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(高压电击)（夹层，两种特种兵互斥)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "雷诺的灵魂  使用：召唤休伯利安号炮火支援（翻开所有石板，并对所有敌人造成大量伤害）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特种兵的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(头部弹孔)（夹层，两种特种兵互斥)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "泰凯斯的灵魂  使用：CMC动力战斗服，效果转换"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "CMC动力战斗服"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "【铠甲】攻击+\t6\t，降低敌人攻击+\t3\t；\t生命值低于50%时，攻击提升10%\t；特种兵冈布奥装备时，获得\t3\t支兴奋剂"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "复制人的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "罗伊的灵魂  使用：流失100点生命值；冈布奥攻击+5、魔力+3"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "机械生物的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "（夹层)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "军团的记忆碎片  使用：冈布奥魔力+2；所有气系魔法效果+5%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "警司的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "警司的灵魂  使用：获得行动指令"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "行动指令"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "带有随机指令，在终端使用后进入特殊空间\"警察行动\"，内有两列6个警察和1个宝箱，击败警察后可打开宝箱"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "首次获得 钻石*3，后续获得 金币*10k"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "杀手的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(额头上有弹孔)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "完整的恶徒之魂  使用：施放毁灭之刃"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "杀手的残骸"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "(后脑勺条形码)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "47的灵魂  使用：柯尔特1911，威力提升"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "柯尔特1911"
+                }
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "value": "使用：对敌人造成\t300点\t伤害（子弹\t7\t/7）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "星际警长的残骸"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "布雷斯塔的灵魂  使用：随机获得一项能力（持续本层）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "鹰的眼睛  攻击时，80%概率造成双倍伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "狼的耳朵  忽视敌人物理抗性及闪避+50%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "熊的力量  提升100点攻击，降低所受伤害50%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "豹的速度  闪避提升40%、闪避上限提升30%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "厨师菜谱"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "补给液"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊食材："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "机械培养液*1 (机械小怪掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "燃油添加剂*1 (机械小怪掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：冈布奥攻击及魔力+1、闪避+1%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "装甲改造液(隐藏)"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "特殊食材："
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "钛合金溶液*1 (弗兰克掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "纳米合金溶液*1 (杰森掉落)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "食用：降低所受伤害+5%、降低所受燃烧伤害+10%"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "特殊照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "本迷宫无抓拍照片"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "DP难点"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "(来源:\t贴吧-云尘尽转c)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "警员的日记"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "注意和警司的日记不是一个东西，这个是随机在洞内的警员尸体翻出来的"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "CMC动力战斗服 和 秃鹫战车"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "洞里2种特种兵残骸出，但2个残骸互斥，每局迷宫只会出一种"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "如果进洞发现不是需要的\t特种兵，可以小sl不进洞直接下楼，但这种方法有局限，如果是大sl之后第一个洞出\t特种兵那就改不了。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "这个涉及到序列激活问题，这里就不展开讲了，如果发现连续几个洞都是同一个\t特种兵就说明小sl改不了，只能大sl。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "万用工具"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "好东西，盗神彩蛋中帮助很大（不过没有也没关系），做dp等准备跳楼时没用完再用完吧，对着空气用也算次数"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "杀死敌人系列"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "柯尔特，两把一共5发子弹（每把7发满）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "异界翻尸体得灵魂可以直接满子弹并且加伤害"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "塞拉炯3发子弹，一发600伤害（强无敌）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "异界翻尸体是出不来强化这把枪的灵魂的，别想美事了"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "此枪子弹无法在补给箱处补给"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "另——用弓系异界或法老面具或恶魔技能等打boss几率出一个灵魂，使用后塞拉炯子弹无限持续一层"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "不关闭作战平台上30"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "血和攻击的平台头铁一点撞过去就可以了，注意攻击双倍的图里，自爆怪翻出来别急着杀，弄死其他小怪把其攻击降到很低（最好是1）再杀，没别的办法记得诅咒或石肤"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "对于免伤平台，趁着套罩罩的间隙出手，如果带狗猫小弟的，记得看准平台剩余轮数再翻开小怪地板"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "输入10种不同密码"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "建议新人在探索各种不同的日记尸体资料时自己找一找，乐趣比较大"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "当然也可以直接输入下面的这些——"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "417，240，715，142857，27149，4927，353127，525357，608917，101875"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "五件警械装备&升级"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "进迷宫送的指令尾层（该层必出终端机器）每层拿一次，50层之内稳出五件"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "升级比较麻烦，机制和德古拉城堡的装备升级类似，慢慢来就是了，商店全买资源全拿一般刷到100能做3个+9+3了，如果想一局满的话，大体注意事项如下——"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（1）位面，不解释"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（2）盾+9+3之前自爆怪不急着杀，杀别的怪使他降攻击再杀，太疼了"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（3）升级顺序：盾——衣服/锤子——假腿——斗篷，\t根据情况而定，升完盾后突击小怪其实也没有多疼"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（4）召唤小弟的怪，让他召唤满再杀，多拿点齿轮"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（5）大地回层尽量低，缺探索点（买商店齿轮就肯定缺探索点）必要的话可以把142857的法老面具分解掉"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "通缉令"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "本图最让萌新们头疼的dp，且是悬赏里经常遇到的dp，虽然出的几率相同，但就是很玄学就是不同就是皮，但是——赏金猎人出战，可以翻两张通缉令"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（别激动，两张也不一定是这两张，还有血狼呢，比如你需要弗兰克，脸黑出血狼+杰森也是很正常的）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "隐藏冈布奥"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "警司尸体可翻出联络密码，在终端机中输入可获得电子密钥"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "51—101层的小怪层几率遇到隐秘之门，进入和血狼打一架，打赢即可加入"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "之后获得方式不变，一次20碎"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "几点需要注意的事情——"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（1）血狼的加血加攻击平台提供了太多的加成，建议关掉，每个需要3齿轮"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（2）80+的血狼难度超过了相应层数的boss，进图就冰锥变形时停控住或上个石肤，不然可能被秒"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "（3）血狼无视灯芯，但带有偷盗技能的冈布奥或物品偷他会直接出20碎，偷完打死不会再出碎片"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "group",
+            "value": [
+              [
+                {
+                  "type": "text",
+                  "value": "速刷阵容"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "(来源:论坛-宅之小天)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "阵容：狗贵族龙宝宝。\t狼人竖琴。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "称号\t：气系毁灭公爵，灯系大精灵王，邪龙。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "需要特殊层拿到合金防爆盾强化防自爆，必要的时候可用精灵的灯芯回血。倒数两个指令是遛狗机器人和法老头可以加强狗。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "Boss受到哪种伤害就会加对应抗性减另外的，所以人丢一下火球流星雨上瓦解龙威，狗子咬死就行。100boss失明时停龙威保一下狗。血狼一个龙威关加血装置就死。"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "group",
+      "value": [
+        [
+          {
+            "type": "text",
+            "value": "点满龙系加血，冒险系2阶和毁灭除了持续轮数的全部。就可以招狗了。邪龙大精灵王后面补。"
+          }
+        ]
+      ]
+    }
+  ]
+}
