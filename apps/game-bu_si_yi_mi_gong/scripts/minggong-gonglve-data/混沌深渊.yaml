@@ -1,0 +1,1318 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制"
+    - type: image
+      value: data:,
+    - type: text
+      value: "神秘法台"
+    - type: text
+      value: "可将混沌之力融入魔法书中，以强化魔法"
+    - type: text
+      value: "1. 心智值 (迷宫特殊资源)"
+    - type: group
+    - value:
+      - type: text
+        value: "心智低于一定数值时，将获得负面状态，"
+      - type: text
+        value: "迷宫建筑在心智处于不同范围时也会有不同表现"
+      - type: text
+        value: "。"
+    - type: group
+    - value:
+      - type: text
+        value: "调控心智，主要靠光明之石/黑暗之石 和 迷宫建筑\"祷告室\"，"
+      - type: text
+        value: "点击右上角心智图标，可使用光明之石/黑暗之石。"
+    - type: text
+      value: "光明之石  特殊物品，可提升5点心智"
+    - type: text
+      value: "黑暗之石  特殊物品，可降低5点心智"
+    - type: text
+      value: "祷告室-光明之神， 可提升10点心智"
+    - type: text
+      value: "祷告室-黑暗之神， 可降低10点心智"
+    - type: text
+      value: "75>心智>50：烦躁"
+    - type: text
+      value: "拾取恢复瓶时，降低30%恢复量"
+    - type: text
+      value: "50≥心智≥25：混乱"
+    - type: text
+      value: "拾取恢复瓶时，降低30%恢复量；遭遇更多种类的陷阱"
+    - type: text
+      value: "心智<25：疯狂"
+    - type: text
+      value: "拾取恢复瓶时，降低30%恢复量；遭遇更多种类的陷阱；攻击时，伤害值在70%～200%间波动"
+    - type: text
+      value: "心智==0：直接死亡，重生可恢复20点心智"
+    - type: text
+      value: "陷阱"
+    - type: group
+    - value:
+      - type: text
+        value: "使用岗哨守卫可以看到陷阱位置，主动点开陷阱地板会触发陷阱，"
+      - type: text
+        value: "不点开陷阱并完美击杀时，陷阱解除。"
+    - type: text
+      value: "心智>50只会遇到尖刺陷阱"
+    - type: text
+      value: "心智≤50额外遇到爆炸陷阱 和 腐蚀蜂群"
+    - type: text
+      value: "尖刺陷阱：造成伤害并扣除1点心智"
+    - type: text
+      value: "爆炸陷阱：造成伤害并扣除1点心智，附带燃烧效果，每轮损失10点生命值，持续2轮"
+    - type: text
+      value: "腐蚀蜂群：造成伤害并扣除1点心智，额外扣除15%的魔法值"
+    - type: text
+      value: "2. 混沌之力"
+    - type: text
+      value: "混沌之力分为4大类 和 特殊类"
+    - type: text
+      value: "4大类各有4种混沌之力，可通过背包里的混沌之力包裹进行升阶，每2个次阶合成1个高阶，最高5阶。"
+    - type: text
+      value: "特殊混沌之力只能获得1次且无法升阶。"
+    - type: text
+      value: "混沌之力可在神秘法台融入魔法书"
+    - type: text
+      value: "赋予对应魔法特殊能力（仅在使用对应的魔法卷轴时生效），已\t融入的混沌之力可继续升阶，如需替换为其他效果会摧毁已融入的混沌之力。"
+    - type: text
+      value: "A类 追加法术"
+    - type: text
+      value: "可连锁追加，但概率递减，每触发一次概率/2"
+    - type: text
+      value: "克图格亚之息"
+    - type: text
+      value: "施法后，20/40/60/80/100%概率追加施放【火球术】"
+    - type: text
+      value: "亚弗姆之息"
+    - type: text
+      value: "施法后，20/40/60/80/100%概率追加施放【冰锥术】"
+    - type: text
+      value: "夏科洛斯之息"
+    - type: text
+      value: "施法后，20/40/60/80/100%概率追加施放【治疗术】"
+    - type: text
+      value: "帕祖尼亚之息"
+    - type: text
+      value: "施法后，20/40/60/80/100%概率追加施放【闪电链】"
+    - type: text
+      value: "B类 累计次数加属性"
+    - type: text
+      value: "莫尔迪基安之触"
+    - type: text
+      value: "累计击败30/25/20/15/10个敌人，攻击+1"
+    - type: text
+      value: "加塔诺托亚之触"
+    - type: text
+      value: "累计击败30/25/20/15/10个敌人，魔力+1"
+    - type: text
+      value: "法格恩之触"
+    - type: text
+      value: "累计施放30/25/20/15/10次魔法，攻击+1"
+    - type: text
+      value: "纳克亚之触"
+    - type: text
+      value: "累计施放30/25/20/15/10次魔法，魔力+1"
+    - type: text
+      value: "C类 增加魔法效果"
+    - type: text
+      value: "尼约格达的意志"
+    - type: text
+      value: "施放伤害类魔法时，魔法效果+60/120/180/240/300%，自身获得禁魔效果（持续3轮）"
+    - type: text
+      value: "克萨诺斯的意志"
+    - type: text
+      value: "施放伤害类魔法时，魔法效果+40/80/120/160/200%，魔法卷轴消耗+1"
+    - type: text
+      value: "亚弗戈蒙的意志"
+    - type: text
+      value: "施放辅助类魔法时，魔法效果+10/20/30/40/50%"
+    - type: text
+      value: "修德梅尔的意志"
+    - type: text
+      value: "施放治疗类魔法时，20/40/60/80/100%概率附加护盾"
+    - type: text
+      value: "D类  增加特效"
+    - type: text
+      value: "伊塔库亚的凝视"
+    - type: text
+      value: "施法后，获得4/6/8/10/12点探索点"
+    - type: text
+      value: "巴萨坦的凝视"
+    - type: text
+      value: "施法后，40/55/70/85/100%概率恢复2点心智值"
+    - type: text
+      value: "赫格拉的凝视"
+    - type: text
+      value: "施法后，8/12/16/20/24%概率随机获得1张魔法卷轴"
+    - type: text
+      value: "艾霍特的凝视"
+    - type: text
+      value: "施法后，60/70/80/90/100%概率放置岗哨守卫"
+    - type: text
+      value: "特殊混沌之力 (每种只能获得1个)"
+    - type: text
+      value: "魔兽之血"
+    - type: text
+      value: "来源：心智<25，超度魔兽的尸体时25%概率获得"
+    - type: text
+      value: "效果：施放伤害类魔法时，魔法攻击范围+1"
+    - type: text
+      value: "人血蜡块"
+    - type: text
+      value: "来源：尖刺洞穴中观察蜡像获得 (需要大盗神/岗哨图腾)"
+    - type: text
+      value: "效果：被追加施法时（限伤害类魔法），优先攻击生命值最低的敌人"
+    - type: text
+      value: "藤蔓之种"
+    - type: text
+      value: "来源：植物系出战，心智≥50，触摸恶魔藤蔓获得"
+    - type: text
+      value: "效果：施法后，恢复10点专属技能量（累计施法50次后，自动销毁）"
+    - type: text
+      value: "光明契约"
+    - type: text
+      value: "来源：心智≥50，祷告室选择光明之神，30%获得"
+    - type: text
+      value: "效果：施法后，20%概率获得1个光明之石"
+    - type: text
+      value: "黑暗契约"
+    - type: text
+      value: "来源：心智<50，祷告室选择黑暗之神，30%获得"
+    - type: text
+      value: "效果：施法后，20%概率获得1个黑暗之石"
+    - type: text
+      value: "巨龙鳞片"
+    - type: text
+      value: "来源：冒险者出战，25≤心智<50，砍伐恶魔藤蔓，50%发现村民获得"
+    - type: text
+      value: "效果：击败敌人后，1%概率获得龙珠"
+    - type: text
+      value: "Peter的金手指"
+    - type: text
+      value: "来源：\t击败\tPeter\t后对话获得"
+    - type: text
+      value: "效果：魔法持续轮数+2"
+    - type: text
+      value: "支配者源力"
+    - type: text
+      value: "来源：大偷BOSS (或用藤蔓杀死BOSS) 获得"
+    - type: text
+      value: "效果：施法后，下次施法时所有魔法效果+50%"
+    - type: text
+      value: "原始能量"
+    - type: text
+      value: "来源：心智<50，深渊熔炉献祭七阶装备获得"
+    - type: text
+      value: "效果：施法后，25%概率追加施放【内爆术】"
+    - type: group
+    - value:
+      - type: text
+        value: "使用"
+      - type: text
+        value: "沾血的笔记"
+      - type: text
+        value: "后，神秘法台增加新功能："
+    - type: group
+    - value:
+      - type: text
+        value: "魔法可以"
+      - type: text
+        value: "吸收混沌之力的能量提升魔法效果"
+    - type: group
+    - value:
+      - type: text
+        value: "能量吸收"
+      - type: text
+        value: "：最高999级"
+    - type: text
+      value: "升级需要能量：(当前等级+10)*(法术阶位*5 + 15)"
+    - type: text
+      value: "魔法升级效果：当前法术魔法效果+(等级*5)%"
+    - type: text
+      value: "混沌之力能量：20/40/80/160/320/480(特殊)"
+    - type: text
+      value: "3. 六阶魔法"
+    - type: text
+      value: "混沌深渊特有的各系六阶魔法"
+    - type: text
+      value: "火系：毁灭终章"
+    - type: text
+      value: "来源：收集并穿戴四件魔器\t (限1次)"
+    - type: text
+      value: "效果：击穿5层迷宫，并斩杀所有敌人（对BOSS效果减半）"
+    - type: text
+      value: "水系：精灵赞歌"
+    - type: text
+      value: "来源：心智≥50，在圣泉出现精灵后，提交三阶以上混沌之力 \t(限1次)"
+    - type: text
+      value: "效果：召唤守护兽水精灵（持续10层）"
+    - type: text
+      value: "精灵赞歌状态：每5轮随机施放1个魔法"
+    - type: text
+      value: "土系：盖亚的祝福"
+    - type: text
+      value: "来源：卷轴商店30%概率刷出，1000探索点购买 (限1次)"
+    - type: text
+      value: "效果：立即进入未知空间 [大地之母的试练]（特殊层禁用）"
+    - type: text
+      value: "气系：时间加速"
+    - type: text
+      value: "来源：心智<25，在混乱实验室熔炼六阶以上装备50%概率获得 (限3次)"
+    - type: text
+      value: "效果：施放伤害类魔法时，1轮内连续施放3次（持续5轮）"
+    - type: text
+      value: "光系：圣光守护"
+    - type: text
+      value: "来源：收集全部杖节合成后获得 (限1次 ，杖节来源见dp篇)"
+    - type: text
+      value: "效果：提升20点攻击及魔力，且免疫所有伤害（持续本层）"
+    - type: text
+      value: "暗系：亡者召唤"
+    - type: text
+      value: "来源：尖刺洞穴中死神雕像获得道具 (需要大盗神/岗哨图腾)，使用道具学会魔法"
+    - type: text
+      value: "效果：召唤亡灵生物，根据灵魂能量数量，召唤生物不同（击败敌人获得灵魂能量，当前：0/200）"
+    - type: text
+      value: "灵魂能量10：骷髅犬"
+    - type: text
+      value: "【无技能】"
+    - type: text
+      value: "灵\t魂能量20：骷髅剑士"
+    - type: text
+      value: "【诅咒之剑】攻击时，附带诅咒效果（攻击降低，持续3轮）"
+    - type: text
+      value: "灵魂能量30：骷髅术士"
+    - type: text
+      value: "【死亡契约】死亡时，为冈布奥恢复生命值"
+    - type: text
+      value: "灵魂能量40：尖刺骸骨"
+    - type: text
+      value: "【骨刺】攻击时，附带流血效果（每轮损失生命值，持续3轮）"
+    - type: text
+      value: "【自爆】死亡时自爆，对场上所有敌人造成2倍伤害"
+    - type: text
+      value: "灵魂能量60：骷髅幼龙"
+    - type: text
+      value: "【重击】攻击时，50%概率造成2倍伤害"
+    - type: text
+      value: "【吐息】攻击时，30%概率溅射距离2范围内敌人"
+    - type: text
+      value: "灵魂能量90：骷髅王"
+    - type: text
+      value: "【重生】死亡时可复活一次，恢复50%生命值"
+    - type: text
+      value: "【致命一击】攻击BOSS时，额外造成100%伤害"
+    - type: text
+      value: "【骸骨盾】所受伤害降低30%"
+    - type: text
+      value: "灵魂能量200：魔王"
+    - type: text
+      value: "【魔王之怒】每5轮发动，施放魔王之怒(群体内爆术)"
+    - type: text
+      value: "【黑暗之力】攻击时，30%概率施放死亡波纹"
+    - type: text
+      value: "【亡灵结界】50%概率免疫所有伤害"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "独眼巨人获得方法"
+    - type: text
+      value: "1. 遇到5只猴子，全部对话后，在最后一只猴子处获得\"邀请函\""
+    - type: group
+    - value:
+      - type: text
+        value: "Peter"
+      - type: text
+        value: ": 随机出现在普通层，需要1轮击杀否则逃跑，逃跑后会再次出现。"
+    - type: group
+    - value:
+      - type: text
+        value: "Vincent"
+      - type: text
+        value: ": 心智<25，哀嚎刑具中概率出现，可以通过改变打怪次数小SL。"
+    - type: group
+    - value:
+      - type: text
+        value: "Yorick"
+      - type: text
+        value: ": 夹层中概率出现，大盗神能看到猴子，但不能对话，必须使用岗哨守卫后对话。"
+    - type: group
+    - value:
+      - type: text
+        value: "Ben"
+      - type: text
+        value: ":  恶魔商人累计消费3000探索点触发事件，再花费1000探索点购买特殊物品后出现。"
+    - type: group
+    - value:
+      - type: text
+        value: "Danny"
+      - type: text
+        value: ": 60+BOSS层概率出现，保底100层。"
+    - type: text
+      value: "2. 使用邀请函，进入研发会议室，点击桌上设计图纸，获得独眼巨人冈布奥，之后为20碎片"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: text
+      value: "大地之母的试练"
+    - type: text
+      value: "卷轴商店概率刷出土系六阶魔法\t盖亚的祝福\t，1000探索点购买 (限1次)，使用后进入未知空间 [大地之母的试练]。"
+    - type: group
+    - value:
+      - type: text
+        value: "5轮内攻击土元素领主，"
+      - type: text
+        value: "累积伤害≥"
+      - type: text
+        value: "30000，"
+      - type: text
+        value: "获得 \t钻石*5\t(限1次)，\t大地之盾僚机\t(限1次)"
+    - type: text
+      value: "打法：\t静电 + 瓦解 + 气系六阶 + 内爆术x2 (附魔200%伤害消耗卷轴+1的)，静电瓦解可以附魔加效果的"
+    - type: text
+      value: "粉笔画的门"
+    - type: text
+      value: "心智值<25调查邪恶古树，出现巨蟾，\t提交腐烂的肉块*3 或 \t使用范围伤害攻击并杀掉\t巨蟾\t， 获得\t金钥匙"
+    - type: text
+      value: "60+普通层概率出现粉笔画的门，用金钥匙进入，首次进入获得\t钻石*10\t和金币*200k"
+    - type: text
+      value: "炼金实验室"
+    - type: text
+      value: "熔炼六星以上装备，20%概率获得1钻。实验室在普通和混乱状态都可以获得，共享上限3次。"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: group
+    - value:
+      - type: text
+        value: "尖刺洞穴"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "可出现 储物箱、魔兽的尸体"
+    - type: group
+    - value:
+      - type: text
+        value: "储物箱"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "随机获得 光明之石*1 / 黑暗之石*1 / 岗哨守卫*1"
+    - type: text
+      value: "30%概率获得 杖节Ⅲ*1"
+    - type: text
+      value: "杖节Ⅲ【宝物】 每前进2层迷宫，获得1张【火球术】"
+    - type: group
+    - value:
+      - type: text
+        value: "魔兽的尸体"
+      - type: text
+        value: "（夹层、普通层都会出现)"
+    - type: text
+      value: "心智值\t≥50：翻找"
+    - type: text
+      value: "随机获得 腐烂的肉块*1 / 獠牙*1 / 巨大的眼球*1"
+    - type: text
+      value: "腐烂的肉块  使用：恢复50点生命值、食用后中毒"
+    - type: text
+      value: "獠牙 使用：攻击时，反射敌人伤害+1%"
+    - type: text
+      value: "巨大的眼球(上限20个)  使用：混沌之力发现几率+1%"
+    - type: text
+      value: "25≤心智值<50：翻找"
+    - type: text
+      value: "随机获得 xx之触/xx的凝视 类1阶混沌之力*1~2"
+    - type: text
+      value: "50%获得 腐烂的肉块*1"
+    - type: text
+      value: "心智值<25：超度"
+    - type: group
+    - value:
+      - type: text
+        value: "心智值+1，"
+      - type: text
+        value: "攻击+1~2"
+    - type: text
+      value: "25%概率获得特殊混沌之力 \t魔兽之血 \t(限1次)"
+    - type: text
+      value: "冒险者的残骸"
+    - type: text
+      value: "心智值\t≥50：翻找"
+    - type: text
+      value: "探索点*100~150"
+    - type: text
+      value: "25≤心智值<50：翻找"
+    - type: text
+      value: "60%获得 锻造 / 符文 / 猎人 / 贵族 套装部件*1"
+    - type: text
+      value: "40%获得  暗影 / 龙鳞 套装部件*1"
+    - type: text
+      value: "心智值<25：超度"
+    - type: group
+    - value:
+      - type: text
+        value: "心智值+1，"
+      - type: text
+        value: "生命、魔法值+10~20"
+    - type: text
+      value: "10%概率获得 随机3阶混沌之力\t (限1次)"
+    - type: text
+      value: "魔法师的残骸"
+    - type: text
+      value: "心智值\t≥50：翻找"
+    - type: text
+      value: "获得随机魔法卷轴1~3个"
+    - type: text
+      value: "25≤心智值<50：翻找"
+    - type: text
+      value: "获得随机 xx之息/xx的意志 类1阶混沌之力*1~2"
+    - type: text
+      value: "心智值<25：超度"
+    - type: group
+    - value:
+      - type: text
+        value: "心智值+1"
+      - type: text
+        value: "，"
+      - type: text
+        value: "魔力+1~2"
+    - type: text
+      value: "30%概率获得 \t杖节Ⅳ\t*1\t \t(限1次)"
+    - type: text
+      value: "杖节Ⅳ【宝物】 每前进2层迷宫，获得1张【闪电链】"
+    - type: group
+    - value:
+      - type: text
+        value: "恶魔商人"
+      - type: text
+        value: "(地图特色商店 货币：探索点)"
+    - type: text
+      value: "在售商品 (6件)"
+    - type: text
+      value: "前3件为道具"
+    - type: text
+      value: "后3件为混沌之力，\t20%概率刷出 \t杖节Ⅵ\t*1"
+    - type: text
+      value: "杖节Ⅵ【宝物】 每前进2层迷宫，获得1张【寒冰护盾】"
+    - type: text
+      value: "商店首次累计花费3000探索点，会出现\"特殊物品\"事件，花费1000探索点购买后\tBen\t出现，对话获得随机4阶混沌之力*1(限1次) 。若选择不理会，后续每累计花费1500探索点会重复出现该事件，直到购买为止。"
+    - type: text
+      value: "光明之石*1 (50)  \t黑暗之石*1 (50)"
+    - type: text
+      value: "岗哨守卫*1 (50)  杖节Ⅵ*1 (300 上限1)"
+    - type: text
+      value: "随机混沌之力Ⅰ*1 (100)  随机混沌之力\tⅠ*2 (200)"
+    - type: text
+      value: "随机混沌之力Ⅰ*3 (300)  随机混沌之力\tⅢ*1 (400)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索  光明、黑暗之石\t*5  (限1次)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "岗哨守卫  使用：放置一个岗哨守卫（持续本层），可以看到所有隐形怪物、陷阱和大盗神物品"
+    - type: text
+      value: "混沌祭坛"
+    - type: text
+      value: "心智值\t≥50：献祭混沌之力"
+    - type: text
+      value: "心智值-1"
+    - type: text
+      value: "获得\t随机 光明之石 和 黑暗之石"
+    - type: text
+      value: "获得数量之和为献祭混沌之力的阶数 (特殊获得7个)"
+    - type: text
+      value: "25≤心智值<50：献祭混沌之力"
+    - type: text
+      value: "心智值-1"
+    - type: text
+      value: "1~4阶：随机属性略微提升"
+    - type: text
+      value: "5阶：攻击、魔力+3，生命、魔法值+30"
+    - type: text
+      value: "特殊：攻击、魔力+5，生命、魔法值+50"
+    - type: text
+      value: "心智值<25：献祭5阶或特殊混沌之力"
+    - type: text
+      value: "心智值-1"
+    - type: text
+      value: "获得 \t魔器套装\t部件*1，\t拿齐后不再出现此状态"
+    - type: text
+      value: "魔器：灾厄之源/霜火之心/邪纹斗篷/末日行者"
+    - type: text
+      value: "灾厄之源【项链】忽视敌人魔法抗性+10%；攻击时，10%概率施放流星雨"
+    - type: text
+      value: "霜火之心【戒指】所有火系魔法效果+20%；所有水系魔法效果+20%"
+    - type: text
+      value: "邪纹斗篷【披风】首次穿戴该装备，心智值-10；每进入下一层，恢复魔法值+10"
+    - type: text
+      value: "末日行者【鞋子】闪避+10%，闪避上限+5%，降低所受陷阱伤害+20%"
+    - type: text
+      value: "套装属性：每击败30个敌人，攻击及魔力+1；心智值低于30时，所有魔法效果+60%；掌握毁灭终章魔法（可施放1次）"
+    - type: text
+      value: "祷告室"
+    - type: group
+    - value:
+      - type: text
+        value: "光明之神"
+      - type: text
+        value: "心智值+10"
+    - type: group
+    - value:
+      - type: text
+        value: "心智值"
+      - type: text
+        value: "≥"
+      - type: text
+        value: "75"
+    - type: text
+      value: "获得 \t杖节Ⅶ\t*1 (限1次)"
+    - type: text
+      value: "杖节Ⅶ【宝物】 每前进2层迷宫，获得1张【圣光弹】"
+    - type: group
+    - value:
+      - type: text
+        value: "心智值"
+      - type: text
+        value: "≥"
+      - type: text
+        value: "50"
+    - type: text
+      value: "获得 随机2~4阶光系卷轴*1，30%概率获得特殊混沌之力 光明契约 (限1次)"
+    - type: text
+      value: "牧师、天使神、阿波罗、贤者出战时，概率获得 圣杯*1/十字架*1/光系套装部件*1"
+    - type: text
+      value: "心智值<50"
+    - type: text
+      value: "堕天使、撒旦之子、破坏神、恶魔、哈迪斯出战时，受到10%生命值的伤害"
+    - type: text
+      value: "黑暗之神  \t心智值-10"
+    - type: group
+    - value:
+      - type: text
+        value: "心智值"
+      - type: text
+        value: "≥"
+      - type: text
+        value: "50"
+    - type: text
+      value: "牧师、天使神、阿波罗、贤者出战时，受到10%生命值的伤害"
+    - type: text
+      value: "心智值<50"
+    - type: text
+      value: "获得 随机2~4阶暗系卷轴*1，30%概率获得特殊混沌之力 黑暗契约 (限1次)"
+    - type: text
+      value: "堕天使、撒旦之子、破坏神、恶魔、哈迪斯出战时，概率获得 眼球酊剂*1/鲜血之瓶*1/暗系套装部件*1"
+    - type: text
+      value: "恐怖图腾 (3种效果)"
+    - type: text
+      value: "心智值\t≥50：可净化，心智值-1"
+    - type: text
+      value: "在场时，所有敌人所受伤害降低20%"
+    - type: text
+      value: "在场时，所有敌人攻击提升20%"
+    - type: text
+      value: "在场时，所有敌人每轮恢复10%生命值"
+    - type: text
+      value: "净化效果："
+    - type: text
+      value: "30%概率获得 杖节Ⅱ*1 (限1次)"
+    - type: text
+      value: "杖节Ⅱ【宝物】 每前进2层迷宫，获得1张【死亡波纹】"
+    - type: text
+      value: "在场时，所有敌人所受伤害增加10%"
+    - type: text
+      value: "在场时，所有敌人攻击降低10%"
+    - type: text
+      value: "在场时，冈布奥每轮恢复2点生命值"
+    - type: text
+      value: "25≤心智值<50：可摧毁，心智值-1"
+    - type: text
+      value: "在场时，所有敌人所受伤害降低30%"
+    - type: text
+      value: "在场时，所有敌人攻击提升50%"
+    - type: text
+      value: "在场时，所有敌人每轮恢复20%生命值"
+    - type: text
+      value: "心智值<25：无法摧毁"
+    - type: text
+      value: "在场时，所有敌人所受伤害降低50%"
+    - type: text
+      value: "在场时，所有敌人攻击提升80%"
+    - type: text
+      value: "在场时，所有敌人每轮恢复30%生命值"
+    - type: text
+      value: "恶魔藤蔓"
+    - type: text
+      value: "(可用5、6阶火系魔法直接摧毁，掉落藤蔓*1)"
+    - type: text
+      value: "心智值\t≥50："
+    - type: group
+    - value:
+      - type: text
+        value: "挖掘："
+      - type: text
+        value: "心智值-1"
+      - type: text
+        value: "获得 藤蔓*1"
+    - type: text
+      value: "藤蔓  使用：对敌人造成100点伤害，附带能力汲取效果（被击败的敌人，掉落混沌之力）"
+    - type: group
+    - value:
+      - type: text
+        value: "触摸 (植物系出战，限1次)："
+      - type: text
+        value: "获得 特殊混沌之力 藤蔓之种"
+    - type: text
+      value: "25≤心智值<50："
+    - type: text
+      value: "冒险者出战时，50%概率转化为村民，获得特殊混沌之力 巨龙之鳞 (限1次)"
+    - type: group
+    - value:
+      - type: text
+        value: "砍伐(被刮伤)："
+      - type: text
+        value: "受到最大生命值5%的伤害"
+    - type: text
+      value: "砍伐：心智值-1"
+    - type: text
+      value: "30%概率获得 杖节Ⅴ*1 (限1次)"
+    - type: text
+      value: "杖节Ⅴ【宝物】 每前进2层迷宫，获得1张【地刺术】"
+    - type: text
+      value: "未获得杖节Ⅴ时："
+    - type: text
+      value: "60%获得 锻造 / 符文 / 猎人 / 贵族 套装部件*1"
+    - type: text
+      value: "40%获得  暗影 / 龙鳞 套装部件*1"
+    - type: text
+      value: "心智值<25：死亡藤蔓"
+    - type: text
+      value: "藤蔓每轮召唤1根藤蔓触须，最多召唤20次"
+    - type: text
+      value: "投食肉类道具，可令其停止生长"
+    - type: text
+      value: "圣泉"
+    - type: text
+      value: "心智值\t≥50：圣泉"
+    - type: text
+      value: "恢复30%的生命和魔法值"
+    - type: text
+      value: "概率出现精灵，赠与3阶以上混沌之力，获得水系六阶魔法 精灵赞歌 (限1次)"
+    - type: text
+      value: "心智越高，精灵出现概率越高，90以上心智必出"
+    - type: text
+      value: "25≤心智值<50：被污染的泉水"
+    - type: text
+      value: "心智\t值-1"
+    - type: text
+      value: "狂暴状态\t：攻击提升100%，受到伤害能加30%，持续本层"
+    - type: text
+      value: "心智值<25：憎恶之泉"
+    - type: group
+    - value:
+      - type: text
+        value: "心智值-5"
+      - type: text
+        value: "，且降低30点生命值上限"
+    - type: text
+      value: "获得 攻击 或 魔力+3"
+    - type: group
+    - value:
+      - type: text
+        value: "炼金实验室"
+      - type: text
+        value: "熔炼装备，转化为同阶卷轴"
+    - type: text
+      value: "心智值\t≥50：炼金实验室"
+    - type: text
+      value: "熔炼1/2阶装备：获得1~3张1/2阶卷轴"
+    - type: text
+      value: "熔炼3/4阶装备：获得1~2张3/4阶卷轴"
+    - type: text
+      value: "熔炼5阶装备：获得1张5阶卷轴"
+    - type: text
+      value: "熔炼6阶以上装备：20%\t概率获得1钻(共享上限3)，否则获得2张5阶卷轴"
+    - type: text
+      value: "炼金实验室概率出现发黄的手稿，替代熔炼功能 (限1次)"
+    - type: text
+      value: "拿走获得\t \t爱德华的手稿*1"
+    - type: text
+      value: "爱德华的手稿  使用：施展炼金术"
+    - type: text
+      value: "炼金术：受到50点伤害，获得 机械手臂*1"
+    - type: text
+      value: "机械手臂\t【手套】攻击+5%；首次穿戴该装备，生命值-30；攻击时，10%概率造成双倍伤害"
+    - type: text
+      value: "心智值<50：混乱实验室"
+    - type: text
+      value: "熔炼1/2阶装备：获得1~5张1/2阶卷轴"
+    - type: text
+      value: "熔炼3/4阶装备：获得1~3张3/4阶卷轴"
+    - type: text
+      value: "熔炼5阶装备：获得1~2张5阶卷轴"
+    - type: text
+      value: "熔炼6阶以上装备：50%概率获得气系六阶魔法 时间加速(熔炼6阶保底3/6/9次，熔炼7阶必出，总上限3次) ，\t未获得六阶卷轴时\t\t，\t20%\t概率获得1钻(共享上限3)，否则获得2张5星卷轴"
+    - type: text
+      value: "混乱实验室完成熔炼后20%概率发生爆炸，对所有目标造成伤害"
+    - type: text
+      value: "枯树"
+    - type: text
+      value: "心智值\t≥50：枯树"
+    - type: group
+    - value:
+      - type: text
+        value: "折断"
+      - type: text
+        value: "获得 树枝*1"
+    - type: text
+      value: "树枝【手套】攻击+1，魔力+1，生命值+1，魔法值+1"
+    - type: text
+      value: "25≤心智值<50：厄运古树"
+    - type: group
+    - value:
+      - type: text
+        value: "摇晃古树(最多3次)"
+      - type: text
+        value: "对所有目标造成伤害"
+    - type: text
+      value: "心智值<25：邪恶古树"
+    - type: group
+    - value:
+      - type: text
+        value: "摘取"
+      - type: text
+        value: "获得 邪恶果实*1"
+    - type: text
+      value: "邪恶果实 使用：随机提升冈布奥某项属性，心智值-2"
+    - type: group
+    - value:
+      - type: text
+        value: "调查(未获得金钥匙) ："
+      - type: text
+        value: "转化为巨蟾"
+    - type: text
+      value: "1. 提交腐烂的肉块*3，获得 金钥匙*1"
+    - type: text
+      value: "2. 使用范围伤害，巨蟾进入战斗，击杀后获得 肮脏的癞皮*1 + 金钥匙*1"
+    - type: text
+      value: "金钥匙 彩蛋道具，用于进入粉笔画的门"
+    - type: text
+      value: "肮脏的癞皮【披风】 生命值+50；受到攻击时，令敌人中毒"
+    - type: text
+      value: "刑具 (心智值≥25下楼时可遇到)"
+    - type: group
+    - value:
+      - type: text
+        value: "使用："
+      - type: text
+        value: "随机关押一只已显形的怪物"
+    - type: text
+      value: "哀嚎刑具 (心智值<25下楼时可遇到)"
+    - type: group
+    - value:
+      - type: text
+        value: "使用："
+      - type: text
+        value: "放出一只受伤的怪物"
+    - type: text
+      value: "20%概率放出猴子Vicent (限1次)，对话获得杖节Ⅰ*1"
+    - type: text
+      value: "杖节Ⅰ 使用：合成七节权杖 (需要集齐全部7个杖节)"
+    - type: text
+      value: "七节权杖【宝物】魔力+10、魔法值+100；所有魔法效果+20%；每进入下一层，随机获得卷轴（1～5阶）；掌握【圣光守护】魔法（施法后，七节权杖将自动销毁）"
+    - type: text
+      value: "深渊熔炉"
+    - type: text
+      value: "心智值\t≥50：强化装备"
+    - type: text
+      value: "升级战士/法师套装备部件 (不消耗探索点)"
+    - type: text
+      value: "心智值<50：将装备熔炼为混沌之力"
+    - type: text
+      value: "1阶装备：获得随机1阶混沌之力*1"
+    - type: text
+      value: "2阶装备：获得随机1阶混沌之力*1~2"
+    - type: text
+      value: "3阶装备：获得随机1阶混沌之力*1~3"
+    - type: text
+      value: "4阶装备：获得随机2阶混沌之力*1"
+    - type: text
+      value: "5阶装备：获得随机2阶混沌之力*1~2"
+    - type: text
+      value: "6阶装备：获得随机3阶混沌之力*1~2"
+    - type: text
+      value: "7阶装备：首次获得特殊混沌之力 原始能量，之后为随机4阶混沌之力*1"
+    - type: text
+      value: "熵船"
+    - type: text
+      value: "投入混沌之力，可进行楼层穿梭"
+    - type: text
+      value: "1~5阶混沌之力：立即回退3/6/9/12/15层迷宫"
+    - type: text
+      value: "特殊混沌之力：立即回退20层迷宫"
+    - type: text
+      value: "Peter"
+    - type: text
+      value: "必须一回合打死，不然会逃跑，逃跑后还会遇到。"
+    - type: text
+      value: "击败后对话 获得特殊混沌之力 Peter的金手指"
+    - type: text
+      value: "Danny"
+    - type: group
+    - value:
+      - type: text
+        value: "60+BOSS层出现，"
+      - type: text
+        value: "对话获得 龙珠雷达*1"
+    - type: text
+      value: "龙珠雷达 使用：随机获得2～4颗龙珠（特殊层禁用）"
+    - type: text
+      value: "粉笔画的门"
+    - type: group
+    - value:
+      - type: text
+        value: "60+普通层出现，"
+      - type: text
+        value: "使用巨蟾获得的金钥匙进入"
+    - type: text
+      value: "首次进入，获得钻石*10，金币*200k"
+    - type: text
+      value: "之后进入，获得3~5阶装备*2，3~5阶卷轴*2，光明/黑暗之石*2，随机2阶混沌之力*3"
+    - type: text
+      value: "未知空间 (大地之母的试练)"
+    - type: text
+      value: "使用 盖亚的祝福 (卷轴商店购买) 进入"
+    - type: text
+      value: "5轮内攻击土元素领主，按照伤害获得奖励"
+    - type: text
+      value: "伤害≥2500"
+    - type: text
+      value: "获得 随机4阶魔法*3，随机5阶魔法*2"
+    - type: text
+      value: "伤害≥5000"
+    - type: text
+      value: "额外获得 随机5星装备*1，随机6星装备*1"
+    - type: text
+      value: "伤害≥8000"
+    - type: text
+      value: "额外获得 攻击+5，魔法+5"
+    - type: text
+      value: "伤害≥12000"
+    - type: text
+      value: "额外获得 恒金*10，圣晶*10"
+    - type: text
+      value: "伤害≥18000"
+    - type: text
+      value: "额外获得 钻石*5(限1次)，之后为 金币*10k"
+    - type: text
+      value: "伤害≥30000"
+    - type: text
+      value: "额外获得 大地之盾僚机(限1次) ，之后为 土罐*1"
+    - type: text
+      value: "研发会议室 (第5只猴子给予邀请函进入)"
+    - type: text
+      value: "首次获得 独眼巨人冈布奥，后续获得 碎片*20"
+    - type: text
+      value: "骑士的残骸 (固定1层出现)"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 光明之石*3 + 黑暗之石*3 +随机6个1阶混沌之力"
+    - type: text
+      value: "奥菲丽娅的残骸"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 \t任务书*1"
+    - type: text
+      value: "任务书  使用：完成任务后，冈布奥攻击及魔力+3 (任务：获得金钥匙 1/0)"
+    - type: text
+      value: "人偶的尸体"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 泪滴神血宝石*1"
+    - type: text
+      value: "泪滴神血宝石  使用：每进入下一层，恢复5%生命值"
+    - type: text
+      value: "钉子头的残骸"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 地狱魔方*1"
+    - type: text
+      value: "地狱魔方  使用：掌握前3阶【恶魔系】称号，心智值-10"
+    - type: text
+      value: "猛鬼的尸体"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 钢爪手套*1"
+    - type: text
+      value: "钢爪手套【手套】攻击+3；攻击时，10%概率令敌人进入梦境"
+    - type: text
+      value: "银发少女的尸体"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 撬棍*1"
+    - type: text
+      value: "撬棍【宝物】攻击+5；攻击时，5%概率造成双倍伤害"
+    - type: text
+      value: "魔导士的残骸"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 沾血的笔记*1"
+    - type: text
+      value: "沾血的笔记  使用：掌握混沌之力的其他使用方式（神秘法台中，解锁能量吸收功能）"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "(大盗神物品可使用岗哨守卫发现)"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 随机4阶混沌之力*1"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 岗哨守卫*3"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 光明之石*2 + 黑暗之石*2"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 腐烂的肉块*2 + 獠牙*1"
+    - type: text
+      value: "蜡像"
+    - type: text
+      value: "心智值-5，获得特殊混沌之力 人血蜡块"
+    - type: text
+      value: "打字机"
+    - type: text
+      value: "心智值-5，获得 印满字的稿纸*1"
+    - type: text
+      value: "印满字的稿纸【手套】心智上限-10，所有冈布奥技能，能量累积速度+20%"
+    - type: text
+      value: "死神雕像"
+    - type: text
+      value: "获得 亡者之书*1"
+    - type: text
+      value: "亡者之书  使用：掌握【亡者召唤】魔法（主动施放）"
+    - type: text
+      value: "Yorick (必须使用岗哨守卫才能对话)"
+    - type: text
+      value: "获得 随机3-5阶法术卷轴*1"
+    - type: text
+      value: "灯异界"
+    - type: group
+    - value:
+      - type: text
+        value: "骑士的残骸"
+      - type: text
+        value: "(固定1层出现)"
+    - type: text
+      value: "骑士的灵魂  使用：获得200点探索点"
+    - type: text
+      value: "奥菲丽娅的残骸"
+    - type: text
+      value: "奥菲丽娅的灵魂  使用：幻想状态（拥有心智值为100时的视野，持续本层）"
+    - type: text
+      value: "人偶的尸体"
+    - type: text
+      value: "人偶的灵魂  使用：冈布奥生命值及魔法值+50，升级魔法系称号时，探索点消耗降低10%"
+    - type: text
+      value: "钉子头的残骸"
+    - type: text
+      value: "钉子头的灵魂  使用：冈布奥攻击+5，心智值-20"
+    - type: text
+      value: "猛鬼的尸体"
+    - type: text
+      value: "弗莱迪的灵魂  使用：钢爪手套，能力提升"
+    - type: text
+      value: "钢爪手套【手套】攻击+5；攻击时，15%概率令敌人进入梦境"
+    - type: text
+      value: "银发少女的尸体"
+    - type: text
+      value: "奈亚子的灵魂  使用：撬棍，能力提升"
+    - type: text
+      value: "撬棍【宝物】攻击+8；攻击时，5%概率造成3倍伤害"
+    - type: text
+      value: "魔导士的残骸"
+    - type: text
+      value: "魔导士的灵魂  使用：获得5个低阶(1~2阶)混沌之力"
+    - type: text
+      value: "魔兽的尸体"
+    - type: text
+      value: "心智值≥25：翻找"
+    - type: text
+      value: "残破的恶魔之魂  使用：所有魔法效果+15%（持续本层）"
+    - type: text
+      value: "完整的恶魔之魂  使用：所有伤害类魔法效果+1%"
+    - type: text
+      value: "冒险者的残骸"
+    - type: text
+      value: "心智值\t≥25：翻找"
+    - type: text
+      value: "残破的旅者之魂  使用：随机获得50～100点探索点"
+    - type: text
+      value: "完整的旅者之魂  使用：随机获得100～200点探索点"
+    - type: text
+      value: "魔法师的残骸"
+    - type: text
+      value: "心智值\t≥25：翻找"
+    - type: text
+      value: "残破的法师之魂  使用：魔力+10（持续本层）"
+    - type: text
+      value: "完整的法师之魂  使用：冈布奥魔力+1"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "深渊毛血旺"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "新鲜的血液*2 (血魔掉落)"
+    - type: text
+      value: "眼球*1 (眼魔掉落)"
+    - type: text
+      value: "章鱼脚*1 (黑暗触须掉落)"
+    - type: text
+      value: "食用：血之狂暴状态（生命值低于50%时，攻击提升100%，持续本层）"
+    - type: text
+      value: "怪味章鱼烧"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "藤蔓根须*1  (恶魔藤蔓挖掘、砍伐、击杀藤蔓触须)"
+    - type: text
+      value: "章鱼脚*2  (黑暗触须掉落)"
+    - type: text
+      value: "食用：冈布奥魔力+1；所有水系魔法效果+2%"
+    - type: text
+      value: "秘制素食色拉"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "藤蔓根须*2  (恶魔藤蔓挖掘、砍伐、击杀藤蔓触须)"
+    - type: text
+      value: "食用：攻击恶魔时，造成额外伤害+2%"
+    - type: text
+      value: "浓香蛙腿汤(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "蛤蟆腿*4 (心智<25调查邪恶古树后，使用范围伤害法术激活巨蟾，击杀后掉落)"
+    - type: text
+      value: "腐烂的碎肉*1 (心智≥25刑具关押小怪)"
+    - type: text
+      value: "新鲜的血液*2 (血魔掉落)"
+    - type: text
+      value: "眼球*1 (眼魔掉落)"
+    - type: text
+      value: "食用：恢复20%魔法值；魔力提升5%（以使用时的魔力数值为准，最小提升1点）"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "幽灵的照片"
+    - type: text
+      value: "使用：冈布奥魔力+1；所有暗系魔法效果+3%"
+    - type: text
+      value: "来源：心智<25，超度魔兽/冒险者/魔法师残骸 15% 获取 (上限3)"
+    - type: text
+      value: "隐魔的照片"
+    - type: text
+      value: "使用：隐身状态（闪避及闪避上限+100%，持续3轮）"
+    - type: text
+      value: "来源：心智<=50，翻出隐魔 5% 获取 (上限3)"
+    - type: text
+      value: "DP难点"
+    - type: group
+    - value:
+      - type: text
+        value: "阵容："
+      - type: text
+        value: "商帮灯"
+    - type: group
+    - value:
+      - type: text
+        value: "神器："
+      - type: text
+        value: "竖琴"
+    - type: group
+    - value:
+      - type: text
+        value: "称号："
+      - type: text
+        value: "异界毁灭位面 (本图可使用岗哨守卫，无需大盗神)"
+    - type: group
+    - value:
+      - type: text
+        value: "打法："
+      - type: text
+        value: "使用光明/黑暗之石和祷告室控制心智完成各项DP。心智高的时候隐魔比较烦人，推荐前期先做心智<50的建筑事件，后边可以在死波、祝福术之类附魔100%触发岗哨再补心智>50的DP。"
+    - type: text
+      value: "心智50以上深渊熔炉可以升级做一套龙鳞，打起来比较简单。"
+    - type: text
+      value: "完成奥菲丽娅的任务"
+    - type: text
+      value: "翻奥菲丽娅的残骸拿到任务书，需要金钥匙，心智<25，调查邪恶古树，出现巨蟾"
+    - type: text
+      value: "1. 提交腐烂的肉块*3，获得 金钥匙"
+    - type: text
+      value: "2. 使用范围伤害攻击并杀掉巨蟾，获得 金钥匙"
+    - type: text
+      value: "凑齐并装备【魔器】套装"
+    - type: text
+      value: "心智值<25，在混沌祭坛献祭5阶或特殊混沌之力，每次1件，共4件，拿完记得都装备上才能完成dp"
+    - type: text
+      value: "使用腐烂的肉块/巨大的眼球/獠牙"
+    - type: text
+      value: "3种都是心智≥50 翻找 魔兽的尸体 获得，记得使用"
+    - type: text
+      value: "使用邪恶果实"
+    - type: text
+      value: "心智值<25 邪恶古树 摘取获得，记得使用"
+    - type: text
+      value: "使用藤蔓击败敌人"
+    - type: text
+      value: "心智值≥50 挖掘 恶魔藤蔓 获得 藤蔓"
+    - type: text
+      value: "可用5、6阶火系魔法直接摧毁藤蔓，无视心智"
+    - type: text
+      value: "建议用藤蔓杀一次boss 可以拿一个特殊混沌之力"
+    - type: text
+      value: "单轮施法累计造成30000点伤害"
+    - type: text
+      value: "静电 + 瓦解 + 气系六阶 + 内爆术"
+    - type: text
+      value: "静电瓦解附魔加效果的，内爆术附魔200%伤害消耗卷轴+1的"
+    - type: text
+      value: "建议和大地之母的试练一起做，不推荐3倍伤害附魔，试练时准备4张内爆连放2次"
+    - type: text
+      value: "获得任意5种特殊混沌之力"
+    - type: text
+      value: "以下7种无需特殊出战，可任选5种完成"
+    - type: group
+    - value:
+      - type: text
+        value: "魔兽之血"
+      - type: text
+        value: "心智<25，超度\t魔兽的尸体\t时25%概率获得"
+    - type: group
+    - value:
+      - type: text
+        value: "人血蜡块"
+      - type: text
+        value: "尖刺洞穴中\t蜡像\t获得 (需要大盗神/岗哨图腾)"
+    - type: group
+    - value:
+      - type: text
+        value: "光明契约"
+      - type: text
+        value: "心智≥50，\t祷告室\t选择光明之神，30%获得"
+    - type: group
+    - value:
+      - type: text
+        value: "黑暗契约"
+      - type: text
+        value: "心智<50，\t祷告室\t选择黑暗之神，30%获得"
+    - type: group
+    - value:
+      - type: text
+        value: "Peter的金手指"
+      - type: text
+        value: "击败\tPeter\t后对话获得"
+    - type: group
+    - value:
+      - type: text
+        value: "支配者源力"
+      - type: text
+        value: "用\t藤蔓\t杀死BOSS获得"
+    - type: group
+    - value:
+      - type: text
+        value: "原始能量"
+      - type: text
+        value: "心智<50，\t深渊熔炉\t献祭七阶装备获得"
+    - type: text
+      value: "掌握各系6阶魔法"
+    - type: group
+    - value:
+      - type: text
+        value: "火系"
+      - type: text
+        value: "：\t心智值<25，在混沌祭坛献祭5阶或特殊混沌之力获得魔器套装部件，收集并穿戴四件\t魔器\t后获得"
+    - type: group
+    - value:
+      - type: text
+        value: "水系"
+      - type: text
+        value: "：心智≥50，使用\t圣泉\t出现精灵后，提交三阶以上混沌之力 (心智越高，精灵越容易出，90以上心智必出)"
+    - type: group
+    - value:
+      - type: text
+        value: "土系"
+      - type: text
+        value: "：\t卷轴商店\t30%概率刷出，\t1000探索点购买 (如一直没买到，100层后的第一个卷轴商店必出)"
+    - type: group
+    - value:
+      - type: text
+        value: "气系"
+      - type: text
+        value: "：心智<25，在\t混乱实验室\t熔炼\t六阶以上装备50%概率获得 (6阶3次保底，7阶必得)"
+    - type: group
+    - value:
+      - type: text
+        value: "光系"
+      - type: text
+        value: "：收集全部杖节\t，使用杖节Ⅰ合成后获得"
+    - type: text
+      value: "杖节Ⅰ\t：心智值<25，打开\t哀嚎刑具\t，20%概率放出猴子\tVicent\t获得 (可以通过改变打怪次数小sl)"
+    - type: text
+      value: "杖节Ⅱ\t：心智值≥50，净化\t恐怖图腾\t，30%概率获得"
+    - type: text
+      value: "杖节Ⅲ\t：尖刺洞穴中翻找\t储物箱\t，30%概率获得"
+    - type: text
+      value: "杖节Ⅳ\t：心智值<25，超度\t魔法师的残骸\t30%概率获得"
+    - type: text
+      value: "杖节Ⅴ\t：25≤心智值<50，砍伐\t恶魔藤蔓\t30%概率获得"
+    - type: text
+      value: "杖节Ⅵ\t：\t恶魔商人\t20%概率刷出，300探索点购买"
+    - type: text
+      value: "杖节Ⅶ\t：心智值≥75，\t祷告室选光明之神\t获得"
+    - type: group
+    - value:
+      - type: text
+        value: "暗系"
+      - type: text
+        value: "：\t尖刺洞穴中死神雕像获得道具 (需要大盗神/岗哨图腾)，使用道具后获得"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "必扫图，不建议浪费体力速刷"
+    - type: text
+      value: "要刷的话可以国王狗、撒雕王，走黑暗祭祀，主要用来秒peter。但是本图隐藏还是太看脸，刑具不出猴子sl浪费时间，或者boss的猴子出到100也比较麻烦，所以还是建议扫荡为主。"

@@ -1,0 +1,446 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制"
+    - type: image
+      value: data:,
+    - type: text
+      value: "排炮"
+    - type: text
+      value: "每层出现3个排炮，使用弹药发动"
+    - type: text
+      value: "翻开同列地板，并对其中敌人造成伤害"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "海怪船长获得方法"
+    - type: text
+      value: "1. 海盗酒馆购买5个\"烧烤鱿鱼\""
+    - type: text
+      value: "2. 60+boss层，概率获得\"亡灵宝藏\"，使用亡灵宝藏后，获得\"戴维琼斯的心脏\"，使用戴维琼斯的心脏，出现海怪船长协战"
+    - type: text
+      value: "3. 点击船长，喂食5个烧烤鱿鱼，获得海怪船长冈布奥"
+    - type: text
+      value: "4. 拥有海怪船长冈布奥后，获得碎片方式改变：召唤海怪船长后无需喂食，在它死亡后掉落碎片*10"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: group
+    - value:
+      - type: text
+        value: "大盗神"
+      - type: text
+        value: "，走私者洞窟内概率发现走私物品，40%概率获\t得钻石*3 (上限3次)"
+    - type: group
+    - value:
+      - type: text
+        value: "海贼船，"
+      - type: text
+        value: "40+层在完美击杀后概率刷新3~6个海贼船，\t使用排炮击杀\t，\t前2船掉落钻石*2(限1次，后续为金币*2k)，龙珠*1"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: group
+    - value:
+      - type: text
+        value: "走私者洞窟"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "可出现 弹药箱、机枪兵的残骸、走私者残骸、海贼的残骸"
+    - type: group
+    - value:
+      - type: text
+        value: "弹药箱"
+      - type: text
+        value: "（夹层、普通层均可出现)"
+    - type: text
+      value: "随机获得 3~5个弹药"
+    - type: group
+    - value:
+      - type: text
+        value: "机枪兵的残骸"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "获得 重型机枪*1"
+    - type: text
+      value: "重型机枪 使用：对敌人造成33点伤害（子弹99/99），可用3次"
+    - type: group
+    - value:
+      - type: text
+        value: "走私者残骸"
+      - type: text
+        value: "（夹层、普通层均可出现)"
+    - type: text
+      value: "随机获得 50~150探索点 / 500~1000金币"
+    - type: group
+    - value:
+      - type: text
+        value: "海贼的残骸 [杰克船长]"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "获得 黑珍珠号*1"
+    - type: text
+      value: "黑珍珠号  使用：获得1000点探索点"
+    - type: group
+    - value:
+      - type: text
+        value: "海贼的残骸 [路飞]"
+      - type: text
+        value: "（普通层)"
+    - type: text
+      value: "获得 海贼的草帽*1"
+    - type: text
+      value: "海贼的草帽【头盔】攻击+3（海贼王冈布奥装备时，效果翻倍）；海盗酒馆中，探索点消耗降低10%"
+    - type: group
+    - value:
+      - type: text
+        value: "海盗酒馆"
+      - type: text
+        value: "(地图特色商店之一 货币：探索点)"
+    - type: text
+      value: "在售商品 (3件)"
+    - type: text
+      value: "获得海怪船长前，无尽关卡固定售卖烧烤鱿鱼；获得后随机刷新。"
+    - type: text
+      value: "海盗黑啤*1 (100)  炖菜牡蛎汤*1 (100)"
+    - type: text
+      value: "鲑鱼浓汤*1 (100)   烧烤鱿鱼*1 (150)"
+    - type: text
+      value: "烟熏三文鱼*1 (150)  \t芝士龙虾*1 (300)"
+    - type: text
+      value: "炸鳕鱼排*1 (300)  神奇的菠菜*1 (200，限1次，不会重复出现)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索 无"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "海盗黑啤  使用：冈布奥生命值+10、魔法值+10、冈布奥操控陷阱、火炮时，威力+1"
+    - type: text
+      value: "炖菜牡蛎汤  使用：冈布奥生命值+20、冈布奥操控陷阱、火炮时，威力+1"
+    - type: text
+      value: "鲑鱼浓汤  使用：冈布奥魔法值+20\t、冈布奥操控陷阱、火炮时，威力+1"
+    - type: text
+      value: "烧烤鱿鱼  使用：冈布奥攻击+1\t、冈布奥操控陷阱、火炮时，威力+1"
+    - type: text
+      value: "烟熏三文鱼  使用：冈布奥魔力+1\t、冈布奥操控陷阱、火炮时，威力+1"
+    - type: text
+      value: "芝士龙虾  使用：冈布奥攻击+2\t、冈布奥操控陷阱、火炮时，威力+2"
+    - type: text
+      value: "炸鳕鱼排  使用：冈布奥魔力+2\t、冈布奥操控陷阱、火炮时，威力+2"
+    - type: text
+      value: "神奇的菠菜  使用：冈布奥攻击+3、生命值+50"
+    - type: group
+    - value:
+      - type: text
+        value: "走私者商铺"
+      - type: text
+        value: "(地图特色商店\t之二 货币：探索点)"
+    - type: text
+      value: "在售商品 (4件)"
+    - type: text
+      value: "售卖1~4阶战士或法师系全套套装，商铺首次出现时额外售卖女人的素描画。"
+    - type: text
+      value: "通过使用走私者之魂和海贼的草帽可以显著降低售价。"
+    - type: text
+      value: "女人的素描画*1 (100，首次，上限1)"
+    - type: text
+      value: "骑士：头盔 (60)锁甲(100)手套(80)腰带(60)"
+    - type: text
+      value: "秩序：头盔(150)铠甲(250)手套(200)腰带(150)"
+    - type: text
+      value: "暗影：头盔(250)铠甲(400)护腕(300)腰带(250)"
+    - type: text
+      value: "龙鳞：头盔(500)\t铠甲\t(700)护腕(600)腰带(500)"
+    - type: text
+      value: "学徒：护符(60)鞋子(80)戒指(100)斗篷(60)"
+    - type: text
+      value: "法师：护符(150)鞋子(200)戒指(200)斗篷(150)"
+    - type: text
+      value: "真理：挂坠(250)鞋子(300)戒指(300)披肩(250)"
+    - type: text
+      value: "恶魔：挂坠(500)\t鞋子(600)戒指(600)披肩(500)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索  排炮提货单\t*1  (限1次)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "女人的素描画  使用：获得500点探索点"
+    - type: text
+      value: "排炮提货单  使用：数个工作日内，将有专业人员上门，为您额外安装一门排炮"
+    - type: text
+      value: "海盗铁匠铺"
+    - type: text
+      value: "消耗探索点，升级战士/法师套装备部件"
+    - type: group
+    - value:
+      - type: text
+        value: "漂流瓶"
+      - type: text
+        value: "(蓝色)"
+    - type: text
+      value: "随机获得 10~100探索点"
+    - type: group
+    - value:
+      - type: text
+        value: "漂流瓶"
+      - type: text
+        value: "(红色)"
+      - type: text
+        value: "*数据里有，但好像不会出，此建筑存疑"
+    - type: text
+      value: "获得 鲁滨逊的漂流瓶*1"
+    - type: text
+      value: "鲁滨逊的漂流瓶  使用：获得1000点探索点"
+    - type: group
+    - value:
+      - type: text
+        value: "鲨鱼的尸体"
+      - type: text
+        value: "(共有3种，每局只出其中1种)"
+    - type: text
+      value: "获得大白鲨的胃*1"
+    - type: text
+      value: "1. 苏兰特的圣衣*1"
+    - type: text
+      value: "苏兰特的圣衣【铠甲】降低敌人攻击+2；每进入下一层，恢复生命值+10"
+    - type: text
+      value: "2. 龟仙人的壳*1"
+    - type: text
+      value: "龟仙人的壳【铠甲】穿戴后，进入训练模式：连续前进10层（中途不能脱下）迷宫，之后龟壳消失，冈布奥攻击+5，闪避+10%（进度0/10）"
+    - type: text
+      value: "3. Gark3*1"
+    - type: text
+      value: "Gark3【铠甲】降低敌人攻击+2；攻击时，5%概率施放冲击光波；装甲冈布奥装备时，攻击+2"
+    - type: group
+    - value:
+      - type: text
+        value: "亡灵宝藏"
+      - type: text
+        value: "(出现在60+BOSS层)"
+    - type: text
+      value: "亡灵宝藏 使用：获得4件戴维琼斯的遗物"
+    - type: text
+      value: "戴维琼斯的心脏  使用：召唤海怪船长（迷宫内有效）"
+    - type: text
+      value: "未拥有海怪船长冈布奥时，喂食5个烧烤鱿鱼，获得海怪船长冈布奥；拥有后，海怪船长死亡时掉落碎片*10"
+    - type: text
+      value: "另外3件为海怪船长的装备："
+    - type: text
+      value: "戴维琼斯的船长帽  降低全场敌人攻击+10，冈布奥操控排炮时，50%概率不消耗弹药"
+    - type: text
+      value: "戴维琼斯的蟹钳  攻击+20，冈布奥操控排炮时，威力+100"
+    - type: text
+      value: "戴维琼斯的烟斗  生命值+500，每进入下一层，恢复生命值+20%"
+    - type: text
+      value: "海贼团的袭击"
+    - type: text
+      value: "40+层在完美击杀后概率刷新3~6个海贼船 (每次迷宫限1次)"
+    - type: text
+      value: "使用排炮击杀，\t前2船掉落钻石*2(限1次，后续为金币*2k)，龙珠*1，3~6船随机掉落4~6阶装备，4~5阶法术卷轴，芝士龙虾/炸鳕鱼排*2，探索点*400"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 弹药*20"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 暗影徽章*3"
+    - type: text
+      value: "暗影徽章  使用：消除全场敌人的特性（对BOSS无效）"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 海盗黑啤*5"
+    - type: text
+      value: "海盗黑啤  使用：冈布奥生命值+10、魔法值+10，冈布奥操控陷阱、火炮时，威力+1"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 \t恶魔的拥抱套装*1"
+    - type: text
+      value: "恶魔的腰带【腰带】每杀死一个敌人，攻击+1，当层起效"
+    - type: text
+      value: "恶魔的护腕【手套】每杀死一个敌人，攻击+2，当层起效"
+    - type: text
+      value: "恶魔的肉翼【披风】每杀死一个敌人，攻击+3，当层起效"
+    - type: text
+      value: "套装属性：攻击+10"
+    - type: text
+      value: "走私物品"
+    - type: text
+      value: "40%概率获得钻石*3 (上限3次)，否则获得金币*10k/20k"
+    - type: text
+      value: "隐秘的酒柜"
+    - type: text
+      value: "获得 大副的烈酒*1~2"
+    - type: text
+      value: "大副的烈酒  使用：冈布奥攻击+2，冈布奥操控陷阱、火炮时，威力+10，海怪船长冈布奥使用时，效果翻倍"
+    - type: text
+      value: "棋桌"
+    - type: text
+      value: "获得 塔楼雕像*2 或 黑豹雕像*2"
+    - type: text
+      value: "塔楼雕像  使用：召唤塔楼（迷宫内起效）"
+    - type: text
+      value: "黑豹雕像  使用：召唤黑豹（迷宫内起效）"
+    - type: text
+      value: "灯异界"
+    - type: group
+    - value:
+      - type: text
+        value: "机枪兵的残骸"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "机枪兵的灵魂  使用：重型机枪，威力提升"
+    - type: text
+      value: "重型机枪 使用：对敌人造成330点伤害（子弹99/99），可用3次"
+    - type: group
+    - value:
+      - type: text
+        value: "走私者残骸"
+      - type: text
+        value: "（夹层、普通层均可出现)"
+    - type: text
+      value: "残破的走私者之魂  使用：走私者商店中，探索点消耗降低1%（探索点消耗最多降低30%）"
+    - type: text
+      value: "完整的走私者之魂  使用：走私者商店中，探索点消耗降低3%（探索点消耗最多降低30%）"
+    - type: group
+    - value:
+      - type: text
+        value: "海贼的残骸 [杰克船长]"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "杰克船长的灵魂  使用：冈布奥操控排炮时，威力+30"
+    - type: group
+    - value:
+      - type: text
+        value: "海贼的残骸 [路飞]"
+      - type: text
+        value: "（普通层)"
+    - type: text
+      value: "路飞的灵魂  使用：获得3颗奇怪的果实"
+    - type: text
+      value: "奇怪的果实*2 使用：冈布奥攻击及魔力+1"
+    - type: text
+      value: "奇怪的果实*1 使用：冈布奥生命值及魔法值+20"
+    - type: group
+    - value:
+      - type: text
+        value: "鲨鱼的尸体"
+      - type: text
+        value: "(共有3种，每局只出其中1种)"
+    - type: text
+      value: "大白鲨的灵魂(共有)  使用：冈布奥攻击+1"
+    - type: text
+      value: "1. 苏兰特的灵魂  使用：所有水系魔法效果+5%"
+    - type: text
+      value: "2. 龟仙人的灵魂  使用：获得1颗龙珠（特殊层禁用）"
+    - type: text
+      value: "3. 斯塔克的灵魂  使用：获得600点探索点"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "串烧糟鱼"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "劣质酒*2 (酗酒大副掉落)"
+    - type: text
+      value: "生锈的铁签*3 (刺客掉落)"
+    - type: text
+      value: "新鲜的鱼*2 (兽人船工掉落)"
+    - type: text
+      value: "食用：冈布奥攻击+1、生命值+10；冈布奥操控排炮时，威力+3"
+    - type: text
+      value: "香辣海味套餐"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "新鲜的鱼*2 (兽人船工掉落)"
+    - type: text
+      value: "海兽肉罐头*3 (海盗掉落)"
+    - type: text
+      value: "食用：冈布奥魔力+1、魔法值+10；冈布奥操控排炮时，威力+3"
+    - type: text
+      value: "浓香蟹爪鱼翅羹(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "腐烂的鱼翅*1 (翻找鲨鱼的尸体)"
+    - type: text
+      value: "幽灵蟹钳*2 (使用亡灵宝藏)"
+    - type: text
+      value: "食用：冈布奥攻击及魔力+2；冈布奥操控排炮时，10%概率造成双倍伤害"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "海盗的照片"
+    - type: text
+      value: "使用：随机获得1份食物"
+    - type: text
+      value: "来源：进入夹层走私者洞窟时 20% 获取 (上限3)"
+    - type: text
+      value: "漂流瓶的照片"
+    - type: text
+      value: "使用：获得100点探索点"
+    - type: text
+      value: "来源：翻出漂流瓶时 15% 获取 (上限3)"
+    - type: text
+      value: "DP难点"
+    - type: text
+      value: "Gark3、苏兰特的圣衣和龟仙人的壳"
+    - type: text
+      value: "大白鲨尸体几率翻出随机之一"
+    - type: text
+      value: "大多数人都会卡在三个dp之间，出自己想要东西的几率很感人，\t如果不是需要的，直接大sl，如此反复直到出现自己需要的东西为止，\t注意不能暂离锁定尸体，会同时锁死物品"
+    - type: text
+      value: "神奇的菠菜"
+    - type: text
+      value: "每次迷宫特色商店仅出一次，看到记得买"
+    - type: text
+      value: "各种食物"
+    - type: text
+      value: "买买买买买买，带上帮派干部，一路抢啊抢"
+    - type: text
+      value: "重型机枪杀敌"
+    - type: text
+      value: "同杀敌类dp，异界翻出灵魂可以满子弹并加伤害"
+    - type: text
+      value: "喂食海怪船长"
+    - type: text
+      value: "帮派干部抢的食物少吃几个，给人家留点，这哥们要死好多次呢，挺不容易的"
+    - type: text
+      value: "海怪船长杀死敌人"
+    - type: text
+      value: "召唤出来大地飞个低层让他尽情输出吧，低层打架还是挺猛的，让他爽够这50个杀敌之后基本就没什么机会杀敌了……"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "60-90的boss层，几率出现一个金色的盒子，即亡灵宝藏"
+    - type: text
+      value: "使用亡灵宝藏后，获得戴维琼斯的心脏和三个看起来很厉害的装备（放心，这么厉害的装备你肯定是没法装备的）"
+    - type: text
+      value: "使用戴维琼斯的心脏，出现海怪船长戴维琼斯，帮你打架，装备可以给他装备上，剩下一个位置用来给他喂食增加能力"
+    - type: text
+      value: "喂食的位置给他五个烤串串（就是+1攻击的那个红色的食物），海怪船长冈布奥加入"
+    - type: text
+      value: "之后获得方式改变（注意，是改变）——"
+    - type: text
+      value: "出现海怪船长后，让他撞死，掉落10碎（没错，只有10碎，唯一每次只能拿10碎的隐藏……）"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "手动刷只出10碎，建议直接扫荡 (金币收益排名第二)。\t本图比较适合刷神龙工资，相关套路请回复\"\t工资\t\"进行查看\t。"

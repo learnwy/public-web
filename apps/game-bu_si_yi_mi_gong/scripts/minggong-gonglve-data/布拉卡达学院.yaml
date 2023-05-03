@@ -1,0 +1,910 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制"
+    - type: image
+      value: data:,
+    - type: text
+      value: "原石"
+    - type: text
+      value: "原石可嵌入实验套装"
+    - type: text
+      value: "1. 地图特色"
+    - type: text
+      value: "本迷宫内不产出常规装备 (通过天赋、称号、药剂等获得的装备不受影响)，只可在学员的残骸获得一整套实验套装。\t本迷宫\t内\t不存在装备和卷轴商店\t。"
+    - type: text
+      value: "2. 实验套装"
+    - type: text
+      value: "实验套装初始无属性，每个装备可镶嵌任意三颗原石。未获得共鸣时，将显示为劣质装备，仅获得原石的本身属性。"
+    - type: text
+      value: "迷宫内可获得炼金笔记，通过炼金笔记可以激活共鸣记录，之后通过镶嵌记录对应的原石产生原石共鸣，可使实验装备变为特定装备，部分装备可组成套装。"
+    - type: group
+    - value:
+      - type: text
+        value: "3"
+      - type: text
+        value: ". 原石属性"
+    - type: text
+      value: "原石共10种，可升10级，升级提升原石本身属性。"
+    - type: text
+      value: "乌鲁原石：攻击+1~10"
+    - type: text
+      value: "安斯原石：魔力+1~10"
+    - type: text
+      value: "哈卡原石：生命值+10~100"
+    - type: text
+      value: "莱德原石：魔法值+10~100"
+    - type: text
+      value: "培尔原石：所有土系魔法效果+1~10%"
+    - type: text
+      value: "索维原石：所有水系魔法效果+1~10%"
+    - type: text
+      value: "卡纳原石：所有火系魔法效果+1~10%"
+    - type: text
+      value: "提瓦原石：所有气系魔法效果+1~10%"
+    - type: text
+      value: "艾尔原石：所有光系魔法效果+1~10%"
+    - type: text
+      value: "艾伊原石：所有暗系魔法效果+1~10%"
+    - type: group
+    - value:
+      - type: text
+        value: "4"
+      - type: text
+        value: ". 原石共鸣"
+    - type: image
+      value: data:,
+    - type: text
+      value: "5. 共鸣套装"
+    - type: group
+    - value:
+      - type: text
+        value: "第一行是套装名+套装效果，之后是部件名、星级、组合、部件效果"
+      - type: text
+        value: "(摘自NGA-半成品攻略)"
+    - type: text
+      value: "紫罗兰徽记-施放伤害类魔法时，20%概率造成双倍伤害"
+    - type: text
+      value: "紫罗兰之环 5 莱德 提瓦 艾尔 魔力+25%"
+    - type: text
+      value: "紫罗兰之誓 5 莱德 卡纳 艾尔 魔法值+25%"
+    - type: text
+      value: "狂暴者之怒-生命值低于 35%时，攻击提升 50%"
+    - type: text
+      value: "愤怒腰带 5 乌鲁 卡纳 卡纳 生命值每降低 20% 攻击提升 10%"
+    - type: text
+      value: "狂暴铠甲 5 哈卡 卡纳 卡纳 攻击+25%"
+    - type: text
+      value: "贤者的祝福-每层赋予祝福术效果，持续 99 轮"
+    - type: text
+      value: "贤者之握 3 莱德 艾尔 艾尔 施放祝福术时，恢复冈布奥 200 点生命值"
+    - type: text
+      value: "贤者之链 3 莱德 索维 艾尔 所有辅助类魔法效果+40%"
+    - type: text
+      value: "贤者之靴 3 提瓦 艾尔 艾尔 魔法值+200，闪避+10%"
+    - type: text
+      value: "守护者的应变-闪避+15%，每进入下一层，恢复生命值+30"
+    - type: text
+      value: "守护者腰带 4 培尔 培尔 艾尔 生命值+300，降低敌人攻击+10"
+    - type: text
+      value: "守护者护掌 4 乌鲁 培尔 艾尔 攻击时，20%概率不被反击"
+    - type: text
+      value: "守护者头盔 4 哈卡 提瓦 艾尔 降低远程攻击伤害+25%"
+    - type: text
+      value: "暗影之力-攻击时，25%概率斩杀生命值低于 25%的敌人，对BOSS 无效"
+    - type: text
+      value: "暗影之面 3 乌鲁 提瓦 艾伊 每杀死一个敌人攻击+20，持续本层"
+    - type: text
+      value: "暗影之戒 3 安斯 哈卡 艾伊 新敌人出现时，25%概率对其造成一次伤害"
+    - type: text
+      value: "暗影之拥 3 哈卡 莱德 艾伊 100%概率免疫诅咒"
+    - type: text
+      value: "暗影之缚 3 莱德 艾伊 艾伊 攻击时，25%概率施令敌人眩晕3轮"
+    - type: text
+      value: "剑圣的传承-攻击+20%，0%概率直接斩杀敌人，对BOSS无效"
+    - type: text
+      value: "科雷的护腕 4 乌鲁 卡纳 提瓦 攻击时，15%概率造成三倍伤害"
+    - type: text
+      value: "科雷的意志 4 培尔 卡纳 提瓦 攻击+30，生命值+200"
+    - type: text
+      value: "科雷的领悟 4 哈卡 卡纳 艾尔 15%概率免疫所有伤害"
+    - type: text
+      value: "科雷的迅捷束带 4 安斯 哈卡 提瓦 攻击生命值高于50%的敌人时，造成额外伤害+30%"
+    - type: text
+      value: "科雷的真理甲胄 4 乌鲁 乌鲁 卡纳 受创时，20%概率恢复30 点生命值"
+    - type: text
+      value: "魔导师的传承-所有魔法效果+15%，每进入下一层，随机获得 1-2 张魔法卷轴"
+    - type: text
+      value: "梅林的智慧 5 安斯 安斯 莱德 每 3 点基础魔力，提升 5 点魔法值"
+    - type: text
+      value: "梅林的充能项圈 5 莱德 莱德 艾伊 魔力+30，魔法值+300"
+    - type: text
+      value: "梅林的藐视印戒 5 安斯 安斯 艾伊 攻击时，25%概率降低敌人 30%攻击(每个敌人限触发 1 次)"
+    - type: text
+      value: "梅林的符文斗篷 5 培尔 索维 提瓦 施放魔法时，30%概率不消耗魔法值"
+    - type: text
+      value: "梅林的奥术长靴 5 卡纳 艾尔 艾伊 施放低阶魔法时，30%概率不消耗卷轴"
+    - type: text
+      value: "黑棘的战铠-免疫所有异常状态"
+    - type: text
+      value: "黑棘的战袍 4 哈卡 培尔 艾伊 攻击+25，降低远程攻击伤害+15%"
+    - type: text
+      value: "黑棘的马刺靴 4 莱德 培尔 艾伊 攻击 BOSS 时，造成额外伤害+25%"
+    - type: text
+      value: "黑棘的刻痕腰带 4 乌鲁 哈卡 艾伊 降低所受 BOSS 伤害25%"
+    - type: text
+      value: "黑棘的敦克雷十字勋章 4 安斯 莱德 艾伊 原石掉落概率+30%"
+    - type: text
+      value: "海洋之神宝珠 6 安斯 提瓦 艾尔 施放水系法术时，不受卷轴阶位限制，获得其他魔法卷轴时，30%概率转化为同阶位的水系魔法卷轴"
+    - type: text
+      value: "神圣武装-每层赋予神圣武装效果，持续10轮"
+    - type: text
+      value: "神圣之握 6 乌鲁 索维 艾尔 攻击时，25%概率施放天堂之拳"
+    - type: text
+      value: "神圣壁垒 6 哈卡 莱德 艾尔 降低所受伤害+30%"
+    - type: text
+      value: "神圣冠冕 6 哈卡 艾尔 艾尔 魔法值+300，所有辅助类魔法效果+40%"
+    - type: text
+      value: "神圣风暴 6 莱德 培尔 艾尔 攻击+40，魔力+20"
+    - type: text
+      value: "神圣步伐 6 莱德 莱德 艾尔 闪避+15%，圣光弹魔法效果+75%"
+    - type: text
+      value: "神圣祝福 6 索维 艾尔 艾尔 祝福术魔法效果+75%，施放祝福术时，恢复 5%生命值"
+    - type: text
+      value: "魔王的低语：所有暗系魔法效果+30%，每进入下一层，随机获得 1-3 张暗系卷轴"
+    - type: text
+      value: "恶魔术带 6 哈卡 索维 艾伊 攻击中毒的敌人，造成额外伤害+80%"
+    - type: text
+      value: "地狱使者 6 乌鲁 安斯 艾伊 攻击时，30%概率令敌人受到诅咒"
+    - type: text
+      value: "鲜血仪式 6 莱德 提瓦 艾伊 杀死敌人时，40%概率恢复 150 点生命值"
+    - type: text
+      value: "黑暗之舞 6 安斯 艾伊 艾伊 死亡波纹魔法效果+100%"
+    - type: text
+      value: "不洁披风 6 莱德 卡纳 艾伊 攻击时，30%概率令敌人中毒"
+    - type: text
+      value: "死亡新星 6 培尔 艾伊 艾伊 攻击时，40%概率施放死亡波纹"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "复仇射手获得方法"
+    - type: text
+      value: "1.  \t\"\t教学楼\t\"选\"\t调查\t\"可获得\"\t宝箱钥匙\t\"，一局迷宫可获得2把。"
+    - type: group
+    - value:
+      - type: text
+        value: "2.  \t50+BOSS层会出\"\t诅咒宝箱\t\"，一次只会出一个，一局迷宫会出两次。和宝箱对话后需要15轮内杀三波蝎狮，注意"
+      - type: text
+        value: "不能用时停"
+      - type: text
+        value: "，会判定失败\t。"
+    - type: text
+      value: "3. 成功打完三波怪后用\"宝箱钥匙\"打开箱子，首次获得复仇射手冈布奥，后续每个箱子获得碎片*10。"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: text
+      value: "神器 - 全能法戒"
+    - type: text
+      value: "遇到\t损坏的魔法阵\t，灌注能量 或 放入全能法戒，可激活魔法阵，激活后嵌入三颗特殊宝石，并继续灌注能量对宝石进行升级，宝石最高可升15级，最终结算时，根据宝石总等级*2获得全能法戒神器碎片 (最多90个碎片)。"
+    - type: group
+    - value:
+      - type: text
+        value: "特殊宝石来源"
+      - type: text
+        value: "：炼金实验室放入3颗原石全部在6级(含)以上时，可获得特殊宝石。"
+    - type: text
+      value: "1w5机器人黑白熊"
+    - type: group
+    - value:
+      - type: text
+        value: "大盗神"
+      - type: text
+        value: "洞里遇到\t破损的机械人\t，机械系出战修复获得 \t【4星机械人】黑白熊\t，限1次"
+    - type: group
+    - value:
+      - type: text
+        value: "可出战"
+      - type: text
+        value: "：机械师、零式、终结者、机帝神、装甲、未来猫、重装卡车、黑武士、Peter、蓝鲨、血狼、Cytus、凯瑟琳、开罗君、开罗姬、机械使徒"
+    - type: text
+      value: "奇怪的章鱼"
+    - type: group
+    - value:
+      - type: text
+        value: "大盗神"
+      - type: text
+        value: "洞里遇到\t奇怪的章鱼\t，击败后获得 \t2钻\t，限3次"
+    - type: text
+      value: "地精传送门"
+    - type: text
+      value: "击败盗宝地精会出现传送门，进入后击败小滑头地精掉落4钻，限3次"
+    - type: text
+      value: "狗仔出战或链接"
+    - type: text
+      value: "概率抓拍 盗宝地精的照片，使用获得3钻，限1次"
+    - type: text
+      value: "诅咒宝箱"
+    - type: text
+      value: "刷隐藏冈布奥送钻石，每次2钻，\t限3次"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: text
+      value: "学员的残骸"
+    - type: text
+      value: "1层必定出现，普通层、夹层概率出现"
+    - type: text
+      value: "首次获得 破旧的行囊*1 + 原石容器*1"
+    - type: text
+      value: "共鸣记录未全部激活时获得：炼金笔记*3"
+    - type: text
+      value: "实验套装未全部获得时获得：实验套装部件*1 (不会重复)，否则获得探索点*100~150"
+    - type: text
+      value: "60%概率额外获得1颗随机原石"
+    - type: group
+    - value:
+      - type: text
+        value: "破旧的行囊"
+      - type: text
+        value: "使用：获得10颗原石"
+    - type: group
+    - value:
+      - type: text
+        value: "炼金笔记"
+      - type: text
+        value: "使用：随机激活一条共鸣记录"
+    - type: text
+      value: "可获得原石等级 (建筑获得原石均为此规则)："
+    - type: text
+      value: "1~20层 50%3级 35%4级 15%5级"
+    - type: text
+      value: "21~50层  30%3级 35%4级 35%5级"
+    - type: text
+      value: "51~80层  50%4级 40%5级  10%6级"
+    - type: text
+      value: "80+层  30%4级  40%5级  30%6级"
+    - type: group
+    - value:
+      - type: text
+        value: "教师的残骸"
+      - type: text
+        value: "(普通层、夹层概率出现)"
+    - type: text
+      value: "获得 1~2阶卷轴*2~3  \t/ 3~4阶卷轴*1~2  / 5阶卷轴*1 (不会获得大地之门)"
+    - type: text
+      value: "60%概率额外获得1颗随机原石"
+    - type: group
+    - value:
+      - type: text
+        value: "学院商店"
+      - type: text
+        value: "(地图特色商店 货币：探索点)"
+    - type: text
+      value: "在售商品 (6件)"
+    - type: text
+      value: "必定售卖3颗原石"
+    - type: text
+      value: "20层以下，40%售卖2级，40%售卖3级，20%售卖4级"
+    - type: text
+      value: "21~50层，15%售卖2级，40%售卖3级，45%售卖4级"
+    - type: text
+      value: "51~80层，40%售卖3级，45%售卖4级，15%售卖5级"
+    - type: text
+      value: "80层以上，20%售卖3级，40%售卖4级，40%售卖5级"
+    - type: text
+      value: "2级原石(80)  3级原石(150)  4级原石(280) 5级原石(500)"
+    - type: text
+      value: "后3个商品在以下物品中随机"
+    - type: text
+      value: "能量晶体*1 (150)  能量晶体*2 (300)  能量残渣*5 (150)"
+    - type: text
+      value: "魔法药水*1 (150)  能量药水*1 (150)  \t止痛药*1 (300)"
+    - type: text
+      value: "全面恢复药水*1 (500)   \t1阶卷轴*1 (5)  2阶卷轴*1 (10)"
+    - type: text
+      value: "3阶卷轴*1 (25)  4阶卷轴*1 (100)  \t5阶卷轴*1 (400)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索"
+    - type: text
+      value: "随机7或8级原石*1  (限2次)"
+    - type: text
+      value: "--------------"
+    - type: group
+    - value:
+      - type: text
+        value: "能量晶体"
+      - type: text
+        value: "使用：恢复60点魔法值，30%概率提升冈布奥1点魔力"
+    - type: group
+    - value:
+      - type: text
+        value: "能量残渣"
+      - type: text
+        value: "使用：恢复15点魔法值"
+    - type: group
+    - value:
+      - type: text
+        value: "魔法药水"
+      - type: text
+        value: "使用：冈布奥魔力+1"
+    - type: group
+    - value:
+      - type: text
+        value: "能量药水"
+      - type: text
+        value: "使用：冈布奥攻击+1"
+    - type: group
+    - value:
+      - type: text
+        value: "止痛药"
+      - type: text
+        value: "使用：降低敌人攻击+1"
+    - type: group
+    - value:
+      - type: text
+        value: "全面恢复药水"
+      - type: text
+        value: "使用：恢复100%生命值及魔法值"
+    - type: group
+    - value:
+      - type: text
+        value: "宿舍"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "可出现 学员的残骸、教师的残骸、床铺、杂物堆、书桌"
+    - type: group
+    - value:
+      - type: text
+        value: "床铺"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "80%概率美梦：恢复25%的生命和魔法值"
+    - type: text
+      value: "20%概率噩梦：魔法值-10"
+    - type: group
+    - value:
+      - type: text
+        value: "杂物堆"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "随机获得以下一类物品"
+    - type: text
+      value: "随机原石*1 (等级同残骸规则)"
+    - type: text
+      value: "高级原石*1 (残骸规则等级+2)"
+    - type: text
+      value: "探索点*200~300"
+    - type: text
+      value: "随机道具 (发条音乐盒*1 / 十字架*2 / 旧扑克*3 / 烧焦羊皮卷*1 / 魔法扫帚*1)"
+    - type: group
+    - value:
+      - type: text
+        value: "书桌"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "随机获得以下一类物品"
+    - type: text
+      value: "炼金笔记*2~3 (全满后不再出现)"
+    - type: text
+      value: "能量晶体*2~3"
+    - type: text
+      value: "能量残渣*2~3"
+    - type: text
+      value: "随机卷轴 (1~2阶*2~3  \t/ 3~4阶*1~2  / 5阶*1)"
+    - type: text
+      value: "炼金实验室"
+    - type: text
+      value: "放入3颗原石进行调和（进行能量调和后，将返还所有原石）"
+    - type: group
+    - value:
+      - type: text
+        value: "放入原石全部在6级(含)以上时，可获得3种特殊原石："
+      - type: text
+        value: "迅捷勾玉、囤宝者的恩惠、\t活力宝石"
+      - type: text
+        value: "，每种限1次，本次嵌入的原石返还时等级-5。"
+    - type: text
+      value: "炼金实验室有固定15%概率发生爆炸，翻开石板并造成10%生命值的伤害，掉落6个\t能量残渣。"
+    - type: text
+      value: "未发生爆炸时，炼金实验室有 (50+放入原石总等级*1.2)% 调和成功，获得 \t能量晶体*2~3，否则获得 能量残渣*4~5"
+    - type: text
+      value: "教学楼"
+    - type: text
+      value: "必定出现调查选项，并随机抽取3个课程"
+    - type: text
+      value: "调查"
+    - type: group
+    - value:
+      - type: text
+        value: "30%获得 宝箱钥匙"
+      - type: text
+        value: "(隐藏冈布奥道具)"
+      - type: text
+        value: "，限2次"
+    - type: text
+      value: "否则获得 随机不同系魔法卷轴*2 或 随机原石*1"
+    - type: text
+      value: "魔法课"
+    - type: text
+      value: "获得 魔力+2 或 魔法值+30"
+    - type: text
+      value: "体术课"
+    - type: text
+      value: "获得 攻击+2 或 生命值+30"
+    - type: text
+      value: "炼金课"
+    - type: text
+      value: "共鸣未全部激活时 获得 炼金笔记*2~3"
+    - type: text
+      value: "否则获得 随机原石*1"
+    - type: text
+      value: "美食课"
+    - type: text
+      value: "随机获得 烤肉块*3/烤蜘蛛*1~2/烤蜥蜴*1~2/烧烤鱿鱼*1/烟熏三文鱼*1/芝士龙虾*1/炸鳕鱼排*1/炖菜牡蛎汤*1/鲑鱼浓汤*1"
+    - type: group
+    - value:
+      - type: text
+        value: "金融课"
+      - type: text
+        value: "(限3次)"
+    - type: text
+      value: "学院商店探索点消耗降低10%"
+    - type: text
+      value: "药剂课"
+    - type: text
+      value: "随机获得 魔法药水*1~2/能量药水*1~2/止痛药*1/全面恢复药水*1"
+    - type: text
+      value: "占卜课"
+    - type: text
+      value: "随机获得 1张塔罗牌 (愚者/祭司/塔楼/恋人/教皇/世界)"
+    - type: text
+      value: "图书馆"
+    - type: text
+      value: "随机获得以下道具："
+    - type: text
+      value: "历史片段*1"
+    - type: text
+      value: "老旧的手札*1 (限1次)"
+    - type: text
+      value: "原石手札*1 (限1次)"
+    - type: text
+      value: "遗落的王朝*1 (限1次)"
+    - type: text
+      value: "第一次黎明战争*1 (限1次)"
+    - type: text
+      value: "第二次黎明战争*1 (限1次)"
+    - type: text
+      value: "随机系遗物*1 (永久限5次)"
+    - type: group
+    - value:
+      - type: text
+        value: "历史片段"
+      - type: text
+        value: "使用：获得100点探索点"
+    - type: group
+    - value:
+      - type: text
+        value: "老旧的手札"
+      - type: text
+        value: "使用：流失30%魔法值，随机获得10颗原石"
+    - type: group
+    - value:
+      - type: text
+        value: "原石手札"
+      - type: text
+        value: "使用：获得10颗3级原石"
+    - type: group
+    - value:
+      - type: text
+        value: "遗落的王朝"
+      - type: text
+        value: "使用：冈布奥攻击及魔力+3"
+    - type: group
+    - value:
+      - type: text
+        value: "第一次黎明战争"
+      - type: text
+        value: "使用：冈布奥魔力+2、获得300点探索点"
+    - type: group
+    - value:
+      - type: text
+        value: "第二次黎明战争"
+      - type: text
+        value: "使用：冈布奥攻击+2、获得300点探索点"
+    - type: text
+      value: "医务室"
+    - type: text
+      value: "疗伤"
+    - type: text
+      value: "恢复 30%生命值 和 10%魔法值"
+    - type: text
+      value: "翻找"
+    - type: text
+      value: "15%获得 原素瓶，限1次"
+    - type: text
+      value: "否则获得 魔法药水*1/能量药水*1/止痛药*1/全面恢复药水*1"
+    - type: group
+    - value:
+      - type: text
+        value: "原素瓶"
+      - type: text
+        value: "使用：恢复10%生命值，每进入下一层，恢复1次使用次数（剩余次数3/5）"
+    - type: text
+      value: "魔法实验室"
+    - type: text
+      value: "使用魔法值换取随机魔法卷轴"
+    - type: text
+      value: "换取1阶卷轴*8，消耗魔法值80点"
+    - type: text
+      value: "换取2阶卷轴*6，消耗魔法值100点"
+    - type: text
+      value: "换取3阶卷轴*4，消耗魔法值120点"
+    - type: text
+      value: "换取4阶卷轴*3，消耗魔法值150点"
+    - type: text
+      value: "换取5阶卷轴*2，消耗魔法值200点"
+    - type: text
+      value: "能量转化仪"
+    - type: text
+      value: "可自选一颗原石，转化为任意同级原石"
+    - type: text
+      value: "损坏的魔法阵"
+    - type: text
+      value: "灌注能量 或 放入全能法戒，可重新激活魔法阵"
+    - type: text
+      value: "灌注激活需要能量1000，放入能量残渣或能量晶体可增加能量：能量\t残渣+10能量，能量晶体+50能量，放入全能法戒可直接激活魔法阵"
+    - type: text
+      value: "激活后魔法阵转换为全能法戒，初始攻击50，每8轮发动一次攻击。全能法戒可以嵌入三颗特殊宝石，并继续灌注能量对宝石进行升级，提升全能法戒能力："
+    - type: group
+    - value:
+      - type: text
+        value: "迅捷勾玉"
+      - type: text
+        value: "伤害+(等级*20)%，攻击间隔-(等级/5+1)"
+    - type: group
+    - value:
+      - type: text
+        value: "囤宝者的恩惠"
+      - type: text
+        value: "击败怪物时，(等级*2)%概率额外获得原石（该效果对冈布奥也起效）"
+    - type: group
+    - value:
+      - type: text
+        value: "活力宝石"
+      - type: text
+        value: "冈布奥恢复效果提升(等级*4)%（限道具及魔法）"
+    - type: text
+      value: "特殊宝石最高可升15级，最终结算时，根据宝石总等级*2获得全能法戒神器碎片 (即最多90个碎片)。"
+    - type: group
+    - value:
+      - type: text
+        value: "地精传送门"
+      - type: text
+        value: "(击败盗宝地精可进入)"
+    - type: text
+      value: "内有盗宝地精、金领地精、小滑头地精"
+    - type: text
+      value: "盗宝地精掉落 随机原石*4 或 探索点*600~1000"
+    - type: text
+      value: "金领地精掉落 金币*4000 (限3次)，后续获得随机原石*4"
+    - type: text
+      value: "小滑头地精掉落 钻石*4 (限3次)，后续获得随机4~5阶卷轴*4(不含大地之门)"
+    - type: text
+      value: "结晶化的残骸"
+    - type: text
+      value: "获得  虚空基因组*1"
+    - type: group
+    - value:
+      - type: text
+        value: "虚空基因组"
+      - type: text
+        value: "使用：冈布奥攻击及魔力+3"
+    - type: text
+      value: "老巫师的残骸"
+    - type: text
+      value: "获得  冈特的戒指*1 + 接骨木魔棒*1"
+    - type: group
+    - value:
+      - type: text
+        value: "冈特的戒指"
+      - type: text
+        value: "【戒指】\t魔力+8\t，神圣重生魔法效果+50%"
+    - type: group
+    - value:
+      - type: text
+        value: "接骨木魔棒"
+      - type: text
+        value: "【宝物】魔力+6、魔法值+60；所有暗系魔法效果+30%"
+    - type: text
+      value: "少年的残骸"
+    - type: text
+      value: "获得  令咒*1"
+    - type: group
+    - value:
+      - type: text
+        value: "令咒"
+      - type: text
+        value: "使用：召唤英灵（令咒3/3）"
+    - type: text
+      value: "变种人的残骸"
+    - type: text
+      value: "获得  镭射眼的眼镜*1"
+    - type: group
+    - value:
+      - type: text
+        value: "镭射眼的眼镜"
+      - type: text
+        value: "【头盔】攻击+5、生命值+30"
+    - type: text
+      value: "少女的残骸"
+    - type: text
+      value: "获得  奢侈的修道服*1"
+    - type: group
+    - value:
+      - type: text
+        value: "奢侈的修道服"
+      - type: text
+        value: "【铠甲】受创时，5%概率施放终极防御结界（吸收300点伤害，每层最多触发3次）"
+    - type: text
+      value: "魔剑使的残骸"
+    - type: text
+      value: "获得  魔剑*1"
+    - type: group
+    - value:
+      - type: text
+        value: "魔剑"
+      - type: text
+        value: "【手套】 \t攻击\t+4、魔力+4"
+    - type: text
+      value: "诅咒宝箱"
+    - type: text
+      value: "50+BOSS层出现，每次迷宫出现2次 (不会出现在同1层)。开启后\t15轮内击败3波\t怪物 (每波4、5、6只蝎狮，共计15只怪) \t，\t可\t使用学院钥匙打开并获得奖励"
+    - type: text
+      value: "首次获得 复仇射手冈布奥，后续获得复仇射手碎片*10"
+    - type: text
+      value: "获得2钻 (限3次)，否则获得探索点*100~300"
+    - type: text
+      value: "获得2~3k金币(上限12k金币)，否则获得随机3级原石*3~4"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 魔法药水*2 + 能量药水*2"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 止痛药*2"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 随机7级原石*1"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 能量晶体*5"
+    - type: text
+      value: "奇怪的章鱼"
+    - type: text
+      value: "隐藏怪物，属性见图鉴，可放逐"
+    - type: text
+      value: "击败后获得 钻石*2 (限3次) + 随机7级原石*1"
+    - type: text
+      value: "破损的机械人"
+    - type: text
+      value: "翻找 获得 随机1阶飞艇材料*3 + 古遗迹碎片*2000"
+    - type: text
+      value: "修复 (需要特定出战) 获得 【机械人】黑白熊*1"
+    - type: group
+    - value:
+      - type: text
+        value: "可修复出战"
+      - type: text
+        value: "：机械师、零式、终结者、机帝神、装甲、未来猫、重装卡车、黑武士、Peter、蓝鲨、血狼、Cytus、凯瑟琳、开罗君、开罗姬、机械使徒"
+    - type: text
+      value: "奇怪的纸符"
+    - type: text
+      value: "获得 奇怪的纸符*1"
+    - type: group
+    - value:
+      - type: text
+        value: "奇怪的纸符"
+      - type: text
+        value: "使用：流失50%生命值；立即回退20层迷宫（特殊层无效）"
+    - type: text
+      value: "灯异界"
+    - type: text
+      value: "学员的残骸"
+    - type: text
+      value: "1层必定出现，普通层、夹层概率出现"
+    - type: text
+      value: "残破的法师之魂  使用：魔力+10（持续本层）"
+    - type: text
+      value: "完整的法师之魂  使用：冈布奥魔力+1"
+    - type: group
+    - value:
+      - type: text
+        value: "教师的残骸"
+      - type: text
+        value: "(普通层、夹层概率出现)"
+    - type: text
+      value: "残破的法师之魂  使用：魔力+10（持续本层）"
+    - type: text
+      value: "完整的法师之魂  使用：冈布奥魔力+1"
+    - type: text
+      value: "结晶化的残骸"
+    - type: text
+      value: "樱满集的灵魂  使用：虚空基因组，能力提升"
+    - type: group
+    - value:
+      - type: text
+        value: "虚空基因组"
+      - type: text
+        value: "使用：冈布奥攻击及魔力+3\t；击败敌人时，5%概率额外获得1颗原石"
+    - type: text
+      value: "老巫师的残骸"
+    - type: text
+      value: "邓布利多的灵魂  使用：所有魔法效果+5%"
+    - type: text
+      value: "少年的残骸"
+    - type: text
+      value: "卫宫士郎的灵魂  使用：英灵能力提升 \t (攻击及生命值提升25%，攻击\t溅射同列其它敌人\t)"
+    - type: text
+      value: "变种人的残骸"
+    - type: text
+      value: "斯科特的灵魂  使用：冈布奥攻击+2；忽视敌人物理抗性+5%"
+    - type: text
+      value: "少女的残骸"
+    - type: text
+      value: "茵蒂克丝的灵魂  使用：冈布奥魔力+3；施放所有魔法时，不受卷轴阶位限制"
+    - type: text
+      value: "魔剑使的残骸"
+    - type: text
+      value: "柊莲司的灵魂  使用：魔剑，能力提升"
+    - type: group
+    - value:
+      - type: text
+        value: "魔剑"
+      - type: text
+        value: "【手套】 \t攻击\t+4、魔力+4\t；攻击时，20%概率造成双倍伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "破损的机械人"
+      - type: text
+        value: "(大盗神)"
+    - type: text
+      value: "黑白熊的记忆碎片  使用：冈布奥攻击+3；攻击人类时，造成额外伤害+5%"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "魔法叉烧肉"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "变异肉块*1 (3种实验体小怪掉落)"
+    - type: text
+      value: "魔法书残页*2 (堕化教工\t掉落\t)"
+    - type: text
+      value: "食用：恢复10%魔法值"
+    - type: text
+      value: "怪味魔法派"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "腐烂的心脏*1 (诅咒魔裔掉落)"
+    - type: text
+      value: "魔法书残页*1 (堕化教工\t掉落\t)"
+    - type: text
+      value: "炼金溶液*2 (堕化学员\t掉落\t)"
+    - type: text
+      value: "食用：冈布奥魔法值+30；降低敌人攻击+1"
+    - type: text
+      value: "秘制烤肉套餐"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "变异肉块*1 (3种实验体小怪掉落)"
+    - type: text
+      value: "腐烂的心脏*1 (诅咒魔裔掉落)"
+    - type: text
+      value: "食用：冈布奥魔力+1；每进入下一层，恢复魔法值+2"
+    - type: text
+      value: "怪味原石汤(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "原石精华*1 (目标改造10级原石 [此处有bug，原意为升级10级原石时获得，目前直接快速改造即可获得，如有修正可自行尝试] )"
+    - type: text
+      value: "空间碎片*1 (进入地精传送门)"
+    - type: text
+      value: "炼金溶液*2 (堕化学员\t掉落)"
+    - type: text
+      value: "食用：每前进10层迷宫，获得1颗高级(5或6级)原石"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "盗宝地精的照片"
+    - type: text
+      value: "使用：获得3颗钻石 (限1次) / 获得500点探索点"
+    - type: text
+      value: "来源：翻出盗宝地精 30%概率 获取 (上限1)"
+    - type: text
+      value: "诅咒魔裔的照片"
+    - type: text
+      value: "使用：冈布奥魔力+2、所有暗系魔法效果+5%"
+    - type: text
+      value: "来源：遇到诅咒魔裔 5%概率 获取 (上限3)"
+    - type: text
+      value: "杀老师的照片"
+    - type: text
+      value: "使用：防御状态（降低所受伤害+100%，攻击降低99%，持续5轮）"
+    - type: text
+      value: "来源：大盗神遇到奇怪的章鱼 100%概率 获取 (上限1)"
+    - type: text
+      value: "血腥教授的照片"
+    - type: text
+      value: "使用：冈布奥攻击及魔力+3、攻击实验体时，20%概率造成双倍伤害"
+    - type: text
+      value: "来源：进入BOSS层 30%概率 获取 (上限1)"
+    - type: text
+      value: "DP难点"
+    - type: text
+      value: "DP组合：商帮灯 / 猫狗奥"
+    - type: text
+      value: "DP称号：大盗神、毁灭、位面"
+    - type: text
+      value: "杀死吞噬了3只实验体的BOSS"
+    - type: text
+      value: "做这个不能带狗，最好在小关卡就做完，BOSS每5轮吃一个小弟，苟回合即可"
+    - type: text
+      value: "累计激活100条共鸣属性"
+    - type: text
+      value: "炼金笔记的主要来源是翻 学员尸体 和 教学楼 的 炼金课，在调查拿到2把钥匙后一直选这个直到做满。"
+    - type: text
+      value: "装备任意一套原力共鸣套装"
+    - type: text
+      value: "宝石的等级不会影响制作套装，先多激活共鸣，之后选简单的套装做即可"
+    - type: text
+      value: "在全能法戒中嵌入全部宝石"
+    - type: text
+      value: "炼金实验室放入原石全部在6级(含)以上时，可获得3种特殊原石：迅捷勾玉、囤宝者的恩惠、活力宝石。之后激活损坏的魔法阵，把三颗特殊原石放入。"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "调查教学楼可获得两把宝箱钥匙。"
+    - type: group
+    - value:
+      - type: text
+        value: "50+BOSS层会出诅咒的箱子，一次只会出一个，每次迷宫会出两次。和宝箱对话后\t需要15轮内杀三波\t蝎狮，注意"
+      - type: text
+        value: "不能用时停"
+      - type: text
+        value: "，会判定失败\t。"
+    - type: text
+      value: "打完三波怪后用宝箱钥匙打开箱子，首次获得隐藏，后续每个箱子获得碎片*10。"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "(来源:论坛-宅之小天)"
+    - type: text
+      value: "很烦的一张图....刷神器全能法戒不好带竖琴需要大地，刷隐藏保底100出。各种装备自己组比较费劲。远程怪限制召唤物行动。"
+    - type: text
+      value: "1.单纯速刷全能法戒碎片阵容：建筑师，斯巴达，猴子。神器带全能法戒药水随意。大盗神，战士随意可暗影系毁灭。建筑师做巨大雕像。配合回能量的护手可以除了前2层要自己点开图之外，全程技能开地板+伤害。大盗神洞里有个回退道具，加上一次大地，在70前来回刷，刷完走人...."
+    - type: text
+      value: "2.养狗上100层刷隐藏：狗，贵族，末影之主。竖琴狼人。毁灭公爵，灯系异界，传奇法师。大约41层招狗，利用地图装备招一只高攻能咬100箱子怪，高血能抗100箱子怪的狗....然后配合地震眩晕封怪的受伤加血和灯芯。"
+    - type: text
+      value: "前期末影3层一个清地板加快速度。用魔力换祝福，地震，圣光弹，变形，痊愈术（雪人挂树），时停。"
+    - type: text
+      value: "高层普通层末影技能、变形、圣光弹/毁灭天眼等配合着处理远程怪。"
+    - type: text
+      value: "3.法戒和隐藏我全都要：昭君，帝释天，兔子。兔子彩蛋可以直接出能量晶体。"

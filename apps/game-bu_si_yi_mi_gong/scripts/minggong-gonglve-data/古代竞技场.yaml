@@ -1,0 +1,880 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制 - 角斗台"
+    - type: text
+      value: "前百层的x5层出现，共10次"
+    - type: text
+      value: "进入后有一个待挑战的冈布奥，后面十个观众"
+    - type: text
+      value: "观众可使用群攻类技能杀死，掉落钻石和金罐碎片"
+    - type: text
+      value: "1. 观众"
+    - type: text
+      value: "击杀普通观众概率获得钻石/金币/探索点/1-2阶食材"
+    - type: text
+      value: "钻石单次迷宫上限6钻，总上限30钻"
+    - type: text
+      value: "击杀特殊观众掉落对应碎片，部分为金罐碎片"
+    - type: text
+      value: "奥刃：孙悟空、装甲、黑夜骑士、守护者、圣域斗士"
+    - type: text
+      value: "启示：国王、生化、矮人王、恶魔猎手、世界树"
+    - type: text
+      value: "游荡：武藏、信长、改造者、十字军、政宗"
+    - type: text
+      value: "深渊：破坏神、美杜莎、药剂师、特种兵、圣堂武士、恶魔"
+    - type: text
+      value: "击杀特殊观众\"怪盗\"，根据上场选手获得奖励"
+    - type: text
+      value: "1. 海格力斯冈布奥：金苹果*1"
+    - type: text
+      value: "金苹果(3选1)  使用：冈布奥 攻击/魔力/生命值 及魔法值 提升5%（以使用时的数值为准，最小提升1点）"
+    - type: text
+      value: "2. 阿波罗冈布奥：光系魔法书*1"
+    - type: text
+      value: "光系魔法书【宝物】魔力 8、生命值 40，施放光系魔法时，不受卷轴阶位限制，每进入下一层，随机获得1张光系卷轴"
+    - type: text
+      value: "3. 波塞冬冈布奥：海神之冠*1"
+    - type: text
+      value: "海神之冠【头盔】攻击 4、魔力 6"
+    - type: text
+      value: "4. 雅典娜冈布奥：神盾埃癸斯*1"
+    - type: text
+      value: "神盾埃葵斯【宝物】攻击 1、降低敌人攻击 1；武装一定数量村民，可升级盾牌（0/5）"
+    - type: text
+      value: "5. 哈迪斯冈布奥：灵魂之瓶*1"
+    - type: text
+      value: "灵魂之瓶 【宝物】所有暗系魔法效果 30%；施放暗系魔法时，不受卷轴阶位限制；杀死敌人后，3%概率拘禁其灵魂（对亡灵及元素等无生命敌人无效，并根据哈迪斯冈布奥技能，额外提升概率）"
+    - type: text
+      value: "6. 创世神冈布奥：知识之钥*1"
+    - type: text
+      value: "知识之钥 【宝物】魔力 8、攻击 6；所有光系魔法效果 10%；每前进2层迷宫，获得1张【圣光弹】"
+    - type: text
+      value: "2.选手"
+    - type: text
+      value: "选手不会重复出现，除了斯巴达冈布奥以外，不会和玩家出战或链接的冈布奥相同"
+    - type: group
+    - value:
+      - type: text
+        value: "拘魂"
+      - type: text
+        value: "：\t残破的冈布奥之魂 使用：获得50点探索点"
+    - type: group
+    - value:
+      - type: text
+        value: "照片"
+      - type: text
+        value: "：模糊/清晰的冈布奥照片"
+    - type: text
+      value: "模糊的冈布奥照片  使用：随机提升冈布奥某项属性"
+    - type: text
+      value: "清晰的冈布奥照片  使用：攻击时，2%概率造成双倍伤害"
+    - type: text
+      value: "偷窃物品与掉落相同，掉落不是必掉"
+    - type: text
+      value: "【5、15、25层出现】"
+    - type: group
+    - value:
+      - type: text
+        value: "勇者冈布奥"
+      - type: text
+        value: "掉落 勇者之盾*1"
+    - type: text
+      value: "勇者之盾【宝物】降低敌人攻击 1；冒险者冈布奥装备时，攻击 2；勇者冈布奥装备时，攻击 4"
+    - type: group
+    - value:
+      - type: text
+        value: "武藏冈布奥"
+      - type: text
+        value: "掉落  五轮书*1"
+    - type: text
+      value: "五轮书  使用：冈布奥攻击提升5%（以使用时的攻击数值为准，最小提升1点）"
+    - type: group
+    - value:
+      - type: text
+        value: "佐罗冈布奥"
+      - type: text
+        value: "掉落  佐罗的面罩*1"
+    - type: text
+      value: "佐罗的面罩【头盔】攻击 1、生命 10；攻击强盗时，造成额外伤害 50%"
+    - type: group
+    - value:
+      - type: text
+        value: "十字军冈布奥"
+      - type: text
+        value: "掉落  亚瑟王的卷轴*1"
+    - type: text
+      value: "亚瑟王的卷轴 使用：冈布奥攻击 5，天堂之拳魔法效果 15%"
+    - type: group
+    - value:
+      - type: text
+        value: "男巫冈布奥"
+      - type: text
+        value: "掉落  死掉的猫*1"
+    - type: text
+      value: "死掉的猫  使用：复活阿兹猫（消耗100探索点）"
+    - type: group
+    - value:
+      - type: text
+        value: "熊猫冈布奥"
+      - type: text
+        value: "掉落  酒仙烈酒*2"
+    - type: text
+      value: "酒仙烈酒  使用：冈布奥攻击 1、食用后醉酒（攻击提升300%，命中降低30%，持续本层）"
+    - type: text
+      value: "【35、45、55层出现】"
+    - type: group
+    - value:
+      - type: text
+        value: "黑武士冈布奥"
+      - type: text
+        value: "掉落"
+      - type: text
+        value: "黑武士头盔 *1"
+    - type: text
+      value: "黑武士头盔【头盔】攻击 2、降低敌人攻击 1；每进入下一层，恢复生命值 3"
+    - type: group
+    - value:
+      - type: text
+        value: "铁血战士冈布奥"
+      - type: text
+        value: "掉落  掠食者基因*1"
+    - type: text
+      value: "掠食者基因 使用：冈布奥攻击 2、魔力 1"
+    - type: group
+    - value:
+      - type: text
+        value: "守护者冈布奥"
+      - type: text
+        value: "掉落  合金盾牌\t*1"
+    - type: text
+      value: "合金盾牌【宝物】攻击 3、降低敌人攻击 3"
+    - type: group
+    - value:
+      - type: text
+        value: "装甲冈布奥"
+      - type: text
+        value: "掉落  Gark3 *1"
+    - type: text
+      value: "Gark3 【铠甲】降低敌人攻击 2；攻击时，5%概率施放冲击光波；装甲冈布奥装备时，攻击 2"
+    - type: group
+    - value:
+      - type: text
+        value: "黑夜骑士冈布奥"
+      - type: text
+        value: "掉落  夜刃*2"
+    - type: text
+      value: "夜刃  使用：投掷后，对敌人造成50点伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "恶魔猎手冈布奥"
+      - type: text
+        value: "掉落  诅咒视界*1"
+    - type: text
+      value: "诅咒视界【头盔】攻击 1、闪避 3%；每层侦测敌人的初始位置 1；升级魔法系称号时，探索点消耗降低10%"
+    - type: text
+      value: "【65、75、85层出现】"
+    - type: group
+    - value:
+      - type: text
+        value: "海格力斯冈布奥"
+      - type: text
+        value: "掉落  蛮牛之纹章*1"
+    - type: text
+      value: "蛮牛之纹章  使用：冈布奥魔力 2；超重力魔法效果 10%"
+    - type: group
+    - value:
+      - type: text
+        value: "阿波罗冈布奥"
+      - type: text
+        value: "掉落  狮鹫之纹章*2"
+    - type: text
+      value: "狮鹫之纹章  使用：冈布奥攻击及魔力 1"
+    - type: group
+    - value:
+      - type: text
+        value: "波塞冬冈布奥"
+      - type: text
+        value: "掉落  海神之冠*1"
+    - type: text
+      value: "海神之冠【头盔】攻击 4、魔力 6"
+    - type: group
+    - value:
+      - type: text
+        value: "雅典娜冈布奥"
+      - type: text
+        value: "掉落  神盾埃癸斯*1"
+    - type: text
+      value: "神盾埃葵斯【宝物】攻击 1、降低敌人攻击 1；武装一定数量村民，可升级盾牌（0/5）"
+    - type: group
+    - value:
+      - type: text
+        value: "圣域斗士"
+      - type: text
+        value: "掉落  雅典娜之泪*1"
+    - type: text
+      value: "雅典娜之泪【项链】攻击 2、生命值 20、降低敌人攻击 2"
+    - type: group
+    - value:
+      - type: text
+        value: "哈迪斯冈布奥"
+      - type: text
+        value: "掉落  黑龙之纹章*1"
+    - type: text
+      value: "黑龙之纹章  使用：冈布奥魔力 3、末日审判魔法效果 15%"
+    - type: group
+    - value:
+      - type: text
+        value: "创世神冈布奥"
+      - type: text
+        value: "掉落  命运之钥*1"
+    - type: text
+      value: "命运之钥 使用：施放神圣重生【使用后变成任务道具】"
+    - type: text
+      value: "【95层出现】"
+    - type: group
+    - value:
+      - type: text
+        value: "斯巴达冈布奥"
+      - type: text
+        value: "掉落  斯巴达碎片*20"
+    - type: text
+      value: "需要装备斯巴达头盔，且5-85层角斗台全部通过才能进入，首次获得 斯巴达冈布奥"
+    - type: text
+      value: "【斯巴达雕像后出战时出现】"
+    - type: group
+    - value:
+      - type: text
+        value: "战神冈布奥"
+      - type: text
+        value: "掉落  战神之刃*1"
+    - type: text
+      value: "战神之刃(首次)  通关结算时，获得斯巴达装束【战神】"
+    - type: text
+      value: "战神之刃(后续)  使用：冈布奥攻击 2、降低敌人攻击 2"
+    - type: group
+    - value:
+      - type: text
+        value: "3.储物箱"
+      - type: text
+        value: "(\t击败选手后可打开)"
+    - type: text
+      value: "首次获得冠军之证"
+    - type: text
+      value: "获得3~5个【折弯的铜币】"
+    - type: text
+      value: "冈布奥属性提升：攻击及魔力 1、生命值及魔法值 20"
+    - type: text
+      value: "冠军之证【宝物】角斗赛胜利可升级证书，最高10级"
+    - type: text
+      value: "攻击、魔力 (level)（角斗场上效果翻倍）"
+    - type: text
+      value: "启动胜利者石柱时，所获奖励增加(10*level)%"
+    - type: text
+      value: "(level.10)通关结算时，额外增加100000金币"
+    - type: text
+      value: "4.白旗"
+    - type: text
+      value: "投降，投降后，将无法回到这场角斗赛"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "斯巴达获得方法"
+    - type: text
+      value: "1. 普通层遇到斯巴达人尸体，翻找获得\"斯巴达头盔\"。"
+    - type: text
+      value: "2. x5层会出现角斗台，不要漏掉，打败5-85的全部角斗士（杀不杀观众不影响隐藏）。"
+    - type: text
+      value: "3. 在95层戴上斯巴达头盔进角斗台击败斯巴达，获得斯巴达冈布奥。之后是20碎片。"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: group
+    - value:
+      - type: text
+        value: "击杀普通观众"
+      - type: text
+        value: "，概率获得钻石，单次迷宫上限6钻，总上限30钻"
+    - type: group
+    - value:
+      - type: text
+        value: "击杀特殊观众"
+      - type: text
+        value: "，可获得金罐碎片"
+    - type: text
+      value: "奥刃：孙悟空、装甲、黑夜骑士、守护者、圣域斗士"
+    - type: text
+      value: "启示：国王、生化、矮人王、恶魔猎手、世界树"
+    - type: text
+      value: "游荡：武藏、信长、改造者、十字军、政宗"
+    - type: text
+      value: "深渊：破坏神、美杜莎、药剂师、特种兵、圣堂武士、恶魔"
+    - type: group
+    - value:
+      - type: text
+        value: "斯巴达雕像后出战"
+      - type: text
+        value: "，角斗台概率遇到战神，击败后会掉落\"战神之刃\"，结算获得斯巴达战神装束"
+    - type: text
+      value: "---------------------------------------------"
+    - type: text
+      value: "以下彩蛋为全图通用彩蛋，但通常会在竞技场遇到。"
+    - type: group
+    - value:
+      - type: text
+        value: "阴影雕像"
+      - type: text
+        value: "，\t带上"
+      - type: text
+        value: "诅咒视界"
+      - type: text
+        value: "，可调查雕像进入阴影空间\t，获得\t25钻石\t。上限1次"
+    - type: group
+    - value:
+      - type: text
+        value: "东方的神龛"
+      - type: text
+        value: "，提交"
+      - type: text
+        value: "酒仙烈酒"
+      - type: text
+        value: "，获得\t30钻\t，最多只能提交3次，不要提交别的东西浪费次数，类似的还有"
+      - type: text
+        value: "机械祭坛"
+      - type: text
+        value: "。(具体奖励在公众号回复 \"\t东方的神龛\t\" 或 \"\t机械祭坛\t\" 获取)"
+    - type: group
+    - value:
+      - type: text
+        value: "创世之门"
+      - type: text
+        value: "，提交钥匙可获得金罐x3\t(上限3次)，\t土罐x3\t(上限3次)，三种遗物x3\t(各自上限3次)。"
+    - type: text
+      value: "提交全部钥匙可进入创世之门，获得\tpeter冈布\t奥\t、世界之源(首次获得\t10\t0\t钻\t)\t等大量奖励。(具体攻略可在公众号回复 \"创世之门\" 或 \"Peter\" 获取)"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: group
+    - value:
+      - type: text
+        value: "休息室"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "进入可出现8种角斗士战队、储物箱"
+    - type: text
+      value: "1. 绿野仙踪战队 (仅出现1次)"
+    - type: text
+      value: "桃萝茜 人类"
+    - type: text
+      value: "照片：清晰的恶徒照片"
+    - type: text
+      value: "拘魂：桃罗茜的灵魂  使用：冈布奥魔力 1、魔法值 20"
+    - type: text
+      value: "物品：桃萝茜的日记  使用：获得600点探索点"
+    - type: text
+      value: "稻草人 元素类"
+    - type: text
+      value: "照片：清晰的元素生物照片"
+    - type: text
+      value: "拘魂：稻草人的灵魂  使用：冈布奥闪避 6%"
+    - type: text
+      value: "物品：稻草人的大脑  使用：冈布奥魔力 3"
+    - type: text
+      value: "铁皮人 机械类"
+    - type: text
+      value: "照片：清晰的机械生物照片"
+    - type: text
+      value: "拘魂：铁皮人的灵魂  使用：冈布奥降低敌人攻击 1"
+    - type: text
+      value: "物品：铁皮人的心脏 使用：冈布奥攻击 3"
+    - type: text
+      value: "狮子 野兽类"
+    - type: text
+      value: "照片：清晰的野兽照片"
+    - type: text
+      value: "拘魂：狮子的灵魂  使用：冈布奥攻击 1、生命值 20"
+    - type: text
+      value: "物品：狮子的日记  使用：获得500点探索点"
+    - type: text
+      value: "2.暗黑武道会战队 (仅出现1次)"
+    - type: text
+      value: "铠武士冈布奥 冈布奥类"
+    - type: text
+      value: "照片：模糊的冈布奥照片 / 清晰的冈布奥照片"
+    - type: text
+      value: "拘魂：武威的灵魂  使用：角斗场上，攻击及魔力 10"
+    - type: text
+      value: "物品：武士的重铠【铠甲】攻击-3、降低敌人攻击 3"
+    - type: text
+      value: "筋肉冈布奥  \t\t冈布奥类"
+    - type: text
+      value: "照片：模糊的冈布奥照片 / 清晰的冈布奥照片"
+    - type: text
+      value: "拘魂：户愚吕弟的灵魂  使用：爆肉钢体状态（攻击 30、降低所受伤害99%，持续10轮）"
+    - type: text
+      value: "物品：肌肉强化细胞  使用：冈布奥攻击 1、降低敌人攻击 1"
+    - type: text
+      value: "再生冈布奥\t\t 冈布奥类"
+    - type: text
+      value: "照片：模糊的冈布奥照片 / 清晰的冈布奥照片"
+    - type: text
+      value: "拘魂：户愚吕兄的灵魂  使用：施放神圣重生"
+    - type: text
+      value: "物品：肌肉再生细胞  使用：每进入下一层，恢复生命值 10"
+    - type: text
+      value: "炸弹师冈布奥\t\t 冈布奥类"
+    - type: text
+      value: "照片：模糊的冈布奥照片 / 清晰的冈布奥照片"
+    - type: text
+      value: "拘魂：鸦的灵魂  使用：施放灵魂爆弹（翻开所有石板，并对所有敌人造成大量伤害，对BOSS无效）"
+    - type: text
+      value: "物品：支配炸弹  使用：投掷后，对敌人造成100点伤害(魔力低于15时，无法使用)"
+    - type: text
+      value: "3. 狙击王战队"
+    - type: text
+      value: "大炮  机械类"
+    - type: text
+      value: "照片：模糊的机械生物照片 / 清晰的机械生物照片"
+    - type: text
+      value: "拘魂：无"
+    - type: text
+      value: "物品：弹药x1 / 弹药x3"
+    - type: text
+      value: "火枪手 人\t\t类"
+    - type: text
+      value: "照片：模糊的佣兵照片 / 清晰的佣兵照片"
+    - type: text
+      value: "拘魂：残破的佣兵之魂 / 完整的佣兵之魂"
+    - type: text
+      value: "物品：猎人皮甲 或 猎人储物箱 /  猎人长靴"
+    - type: text
+      value: "豌豆炮\t\t 植物类"
+    - type: text
+      value: "照片：\t模糊的植物照片\t / 清晰的植物照片"
+    - type: text
+      value: "拘魂：残破的植物之魂\t\t / 完整的植物\t之魂"
+    - type: text
+      value: "物品：探索点x50 / 探索点x150"
+    - type: text
+      value: "流浪法师 人类"
+    - type: text
+      value: "照片：模糊的法师照片 / 清晰的法师照片"
+    - type: text
+      value: "拘魂：残破的法师之魂 / 完整的法师之魂"
+    - type: text
+      value: "物品：火球术x1 /  烧焦羊皮卷x1"
+    - type: group
+    - value:
+      - type: text
+        value: "4. 剧毒生物战队"
+      - type: text
+        value: "【蜘蛛*2，骷髅犬*2】"
+    - type: text
+      value: "蜘蛛 野兽类"
+    - type: text
+      value: "照片：模糊的毒虫照片 / 清晰的毒虫照片"
+    - type: text
+      value: "拘魂：残破的毒虫之魂 / 完整的毒虫之魂"
+    - type: text
+      value: "物品：火球术x1 /  烂掉的野果x1"
+    - type: text
+      value: "骷髅犬 亡灵\t\t类"
+    - type: text
+      value: "照片：模糊的亡灵照片 / 清晰的亡灵照片"
+    - type: text
+      value: "拘魂：无"
+    - type: text
+      value: "物品：胫骨x1 /  胫骨x3"
+    - type: group
+    - value:
+      - type: text
+        value: "5. 阴影之力战队"
+      - type: text
+        value: "【刺客*4】"
+    - type: group
+    - value:
+      - type: text
+        value: "6. 斗者之心战队"
+      - type: text
+        value: "【角斗士*4】"
+    - type: group
+    - value:
+      - type: text
+        value: "7. 筋肉人战队"
+      - type: text
+        value: "【屠夫*2，食人魔*2】"
+    - type: group
+    - value:
+      - type: text
+        value: "8. 流浪者战队"
+      - type: text
+        value: "【流浪法师*4】"
+    - type: group
+    - value:
+      - type: text
+        value: "储物箱"
+      - type: text
+        value: "（夹层休息室）"
+    - type: text
+      value: "必定获得2~4个折弯的铜币"
+    - type: text
+      value: "概率获得 鲜血之瓶/暗影徽章/烧焦羊皮卷/萨满之耳/\t兽人的肝脏\t/\t眼球酊剂*1"
+    - type: group
+    - value:
+      - type: text
+        value: "补给站"
+      - type: text
+        value: "(地图特色商店 货币：折弯的铜币)"
+    - type: text
+      value: "出售3件商品，使用贪婪的格兰姆之魂后变为5件"
+    - type: text
+      value: "眼球酊剂*1 (15)  兽人的肝脏*1 (10)  鲜血之瓶*1 (8)"
+    - type: text
+      value: "暗影徽章*1 (5)  \t烧焦羊皮卷*1 (5)  萨满之耳*1 (5)"
+    - type: text
+      value: "特殊勒索"
+    - type: text
+      value: "折弯的铜币*10 (限1次)"
+    - type: group
+    - value:
+      - type: text
+        value: "胜利者石柱"
+      - type: text
+        value: "(击败同层全部怪物后可用)"
+    - type: text
+      value: "获得 1~3个折弯的铜币"
+    - type: text
+      value: "获得 回血 / 回魔 / 探索点（数值与层数相关）"
+    - type: group
+    - value:
+      - type: text
+        value: "斗牛竞技场"
+      - type: text
+        value: "(\t观众会依次上阵进行挑战)"
+    - type: text
+      value: "食人魔 野兽类"
+    - type: text
+      value: "照片：模糊的兽人照片 / 清晰的兽人照片"
+    - type: text
+      value: "拘魂：完整的兽人之魂"
+    - type: text
+      value: "偷窃：探索点x50 / 探索点x100"
+    - type: text
+      value: "海盗  \t\t人类"
+    - type: text
+      value: "照片：模糊的恶徒照片 / 清晰的恶徒照片"
+    - type: text
+      value: "拘魂：完整的恶徒之魂"
+    - type: text
+      value: "物品：斗牛铠甲【铠甲】生命值 50、闪避-20%，降低所受伤害 10%"
+    - type: text
+      value: "强盗\t\t  \t\t\t人类"
+    - type: text
+      value: "照片：模糊的恶徒照片 / 清晰的恶徒照片"
+    - type: text
+      value: "拘魂：完整的恶徒之魂"
+    - type: text
+      value: "物品：海贼悬赏令x1 使用：获得300点探索点"
+    - type: text
+      value: "不败者\t\t  \t\t\t人类"
+    - type: text
+      value: "照片：清晰的佣兵照片"
+    - type: text
+      value: "拘魂：完整的佣兵之魂"
+    - type: text
+      value: "物品：背水流卷轴x1 使用：冈布奥攻击 3、闪避 5%"
+    - type: text
+      value: "玩具士兵\t\t 机械类"
+    - type: text
+      value: "照片：清晰的机械生物照片"
+    - type: text
+      value: "拘魂：无"
+    - type: text
+      value: "偷窃：探索点x500"
+    - type: text
+      value: "掉落：玩具士兵  使用：召唤玩具士兵（迷宫内起效）"
+    - type: group
+    - value:
+      - type: text
+        value: "储物箱"
+      - type: text
+        value: "(\t击败全部选手后可打开)"
+    - type: text
+      value: "获得 火焰果实*1  \t冈布奥属性提升：攻击及魔力 3、生命值及魔法值 50"
+    - type: text
+      value: "火焰果实  使用：所有火系魔法效果 25%、攻击时，10%概率施放流星雨"
+    - type: text
+      value: "斯巴达人尸体"
+    - type: text
+      value: "获得 斯巴达头盔*1"
+    - type: text
+      value: "斯巴达头盔【头盔】视野内每增加一个敌人，攻击 1；角斗士冈布奥装备时，攻击 5；斯巴达冈布奥装备时，攻击 5"
+    - type: text
+      value: "贵族的尸体"
+    - type: text
+      value: "获得 元老院披肩*1"
+    - type: text
+      value: "元老院披肩【披风】魔力 2、魔法值 20；冈布奥死亡时，23%概率恢复1点生命"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 远古的呼唤 套装"
+    - type: text
+      value: "巨人的腰带【腰带】 攻击时，3%概率造成双倍伤害"
+    - type: text
+      value: "巨人的骨甲【铠甲】 攻击时，6%概率造成双倍伤害"
+    - type: text
+      value: "巨人之眼【头盔】 攻击时，9%概率造成双倍伤害"
+    - type: text
+      value: "远古的呼唤【套装】攻击 3，生命值 50； 攻击时，15%概率造成双倍伤害"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 烧焦羊皮卷*1 萨满之耳*1"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 折弯的铜币*20"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 鲜血之瓶*3"
+    - type: text
+      value: "武器架"
+    - type: text
+      value: "获得 战斗系的遗物*2~3"
+    - type: text
+      value: "破烂的书架"
+    - type: text
+      value: "获得 死亡波纹*5 或  末日审判*2"
+    - type: text
+      value: "勇敢的心"
+    - type: text
+      value: "获得 勇敢的心*1"
+    - type: text
+      value: "勇敢的心  使用：角斗场上，攻击 20，升级战斗系称号时，探索点消耗降低5%"
+    - type: text
+      value: "灯异界"
+    - type: text
+      value: "斯巴达人尸体"
+    - type: text
+      value: "斯巴达人的灵魂  使用：斯巴达头盔，能力提升"
+    - type: text
+      value: "斯巴达头盔【头盔】视野内每增加一个敌人，攻击 5；角斗士冈布奥装备时，攻击 5；斯巴达冈布奥装备时，攻击 5"
+    - type: text
+      value: "贵族的尸体"
+    - type: text
+      value: "凯撒的灵魂  使用：元老院披肩，能力提升"
+    - type: text
+      value: "元老院披肩【披风】魔力 8、魔法值 80；冈布奥死亡时，23%概率恢复100点生命"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "极品烟熏串肉"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "生锈的铁签*3  (刺客掉落)"
+    - type: text
+      value: "剔骨肉*2 (屠夫掉落)"
+    - type: text
+      value: "食用：冈布奥生命值及魔法值 10，攻击人类敌人时，造成额外伤害 2%"
+    - type: text
+      value: "卓克巴眼球拼盘"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "魔法药水*2 (流浪法师掉落)"
+    - type: text
+      value: "食人魔眼球*3 (食人魔掉落)"
+    - type: text
+      value: "食用：冈布奥生命值 10；攻击时，1%概率造成双倍伤害"
+    - type: text
+      value: "角斗士套餐"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "狂暴胶囊*3 (角斗士掉落)"
+    - type: text
+      value: "食用：斗者之魂状态（角斗场上，攻击及魔力提升100%，持续5轮）"
+    - type: text
+      value: "法纳洛特酿甜酒(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "半瓶葡萄酒*1  (绿野仙踪战队桃罗茜掉落)"
+    - type: text
+      value: "被舔过的棒棒糖*2 (角斗台棒棒糖观众掉落)"
+    - type: text
+      value: "食用：冈布奥攻击及魔力 2；恢复100%生命值及魔法值"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "狮子的照片"
+    - type: text
+      value: "使用：攻击人类时，造成额外伤害 5%"
+    - type: text
+      value: "来源：进入绿野仙踪战队休息室 100% 获取 (上限1)"
+    - type: text
+      value: "观众的照片"
+    - type: text
+      value: "使用：恢复300点生命值"
+    - type: text
+      value: "来源：进入角斗台 40% 获取 (上限3)"
+    - type: text
+      value: "观众的照片"
+    - type: text
+      value: "使用：冈布奥闪避 6%、闪避上限 2%"
+    - type: text
+      value: "来源：进入角斗台 30% 获取 (上限1)"
+    - type: text
+      value: "DP难点"
+    - type: text
+      value: "(来源:\t贴吧-云尘尽转c)"
+    - type: group
+    - value:
+      - type: text
+        value: "迷宫特色"
+      - type: text
+        value: "：角斗场小boss的趣味性，角斗场中可溅射伤害观众，boss独特的攻击机制，角斗士之证的升级"
+    - type: group
+    - value:
+      - type: text
+        value: "迷宫优点"
+      - type: text
+        value: "：有几率获得金罐碎片，角斗乐趣多，商店售卖羊皮卷伤害爆炸"
+    - type: group
+    - value:
+      - type: text
+        value: "迷宫缺点"
+      - type: text
+        value: "：角斗士单挑攻击强，后期角斗场斗士强度高，boss的攻击无法规避，boss几乎不吃控制"
+    - type: text
+      value: "肌肉强化细胞、肌肉再生细胞、支配炸弹、武士的重铠幽游白书四件套，桃罗茜的日记、狮子的日记、稻草人的大脑、铁皮人的心脏绿野仙踪四件套"
+    - type: text
+      value: "这个迷宫的dp方面很极限，这八个dp墨迹的要死，其他dp几局就搞定了"
+    - type: text
+      value: "刷到这两支战队时，打死几率爆特有的四件套，具体多少件看脸，欧皇可以出四件，非酋甚至什么都没有，所以这里把简单粗暴的刷法说明一下"
+    - type: text
+      value: "刷这些dp的核心思路是小sl，小sl经实测是可以改变掉落的，但改变成什么样依然看脸，可能小sl10次也不一定出到自己想要的，比较随缘，但考虑遇到这两只战队的几率实在感人，所以五次小sl的耐心还是要有的……加油，祝你肝的愉快"
+    - type: text
+      value: "注意每次小sl都换一种方式改变随机数，不要每次都用一种方式（比如第一次一个个A死，第二次可以换成卷轴砸死什么的）"
+    - type: text
+      value: "总有不喜欢疯狂小sl的萌新，那送你们一个黑科技，不妨试一试爽一爽————强盗 怪盗 任意，\t药水神器什么都不带，出门就是怼脸，角斗场不进一路怼到死，看见洞就钻进去看一眼是不是幽游白书或绿野仙踪战队，如果是自己缺的那个战队dp，直接飞爪*3 怪盗摸一把，四件套到手走人，爽的一比（当然也可以针对性的偷，把缺的偷完了出门继续怼脸找下一个战队……）"
+    - type: text
+      value: "缺点很明显，怼脸死的快，但是可以顺手做了捡墓碑的dp"
+    - type: text
+      value: "虽然可以稍微动动脑子爬一爬，但是我觉得不杀观众来jjc基本是没什么意义的，不如直接怼脸……如果不想浪费体力，想爬个100，可以链接上傀儡师/幽灵船长/神龙什么的爬一爬，当然爬的会很累，观众很难杀（恕我直言强盗怪盗不管链接什么都没有资源杀观众），不过可以顺便把在角斗场投降的dp做了"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "全隐藏冈布奥中最稳定的一个，必然出自95，而且只要打得过就能到手（除了某些欧皇把斯巴达尸体刷在95 层之外），不像大部分憨憨隐藏极可能在101才出……"
+    - type: text
+      value: "在普通层会见到一个斯巴达尸\t体，翻找拿到斯巴达头盔；每逢个位是5的层数会有一个角斗场，不要漏掉，进去连续打败5、15、25…………75、85的角斗士（杀不杀观众都不影响隐藏），在95层戴上头盔冲进去弄死斯巴达即可入手隐藏——斯巴达冈布奥，\t之\t后获取方式不变，一次20碎"
+    - type: group
+    - value:
+      - type: text
+        value: "难点"
+      - type: text
+        value: "：虽然稳定95，但是萌新想爬95还是挺困难的，而且jjc的boss的难打程度一直臭名昭著"
+    - type: group
+    - value:
+      - type: text
+        value: "萌新拿法"
+      - type: text
+        value: "：这个时候差不多该有捡垃圾组合啦（男巫冒险海贼王\t），如果没有，战士系带个看着顺眼的就行（勇者、圣斗士都不错，实在不行就剑士或者角斗士），冒险系点灯系异界游侠（重点，必需，会大大减少难度），魔法系推荐点位面先知，战士系可以点重装骑士——镇龙骑士"
+    - type: group
+    - value:
+      - type: text
+        value: "主要打法"
+      - type: text
+        value: "：过程中看见羊皮卷就买，萨满之耳选买5个左右，暗影徽章适当买10个左右，眼球酊剂和鲜血之瓶不买。前期主要靠猫挠，进了角斗场（5、15、25、35、45）给对面挂个失明点死或者闪电火球砸死，boss祝福A，静电闪电火球等等，打到49还是轻轻松松没问题的"
+    - type: text
+      value: "49大地之门能飞几层飞几层，再一路靠猫，到了49再飞一次（没有第二张大地就自认脸黑，将就打吧），50-70boss砸卷轴，到了boss攻击回合适当用冰锥和变形等等，可适当用瓦解射线加强伤害（注意瓦解和冰锥、变形等不叠加）石肤抗boss伤害，此时基本点出异界和镇龙骑士了，50 的小怪层除了靠猫还得靠自己，丢失明上去A，触发了地刺就有额外伤害，碰到刺客可选择诅咒A，或者石肤抗一下伤害"
+    - type: text
+      value: "55、65、75、85的角斗场进门丢一个异界灯芯秒了就捡东西走人，到了80 的时候觉得小怪有点吃不消了就地震 暗影徽章，然后失明aaa，灯芯除了四个角斗场之外还有14个（注意高层角斗场里的海格力斯和创世神都会复活，可能需要两个灯芯），留一个扔斯巴达，其他的可在小怪层秒高攻击的刺客。到了80的boss和90的boss，可以放心的扔前期攒下来的资源，静电瓦解时停，然后羊皮卷耳朵内爆往死里砸，不给boss出手机会"
+    - type: text
+      value: "到了95，进门见到斯巴达，说句“嘿，孙子！”，然后趁他懵逼的时候一个灯芯糊脸上，完美GG。————觉得自己无敌了可以继续爬到100层弄死boss，然后体验100 之后自己当孙子的感觉......"
+    - type: text
+      value: "专门为萌新设计，超细致超给力，保证找不到我这么详细的教程了哼哼哼"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "(来源:论坛-宅之小天)"
+    - type: text
+      value: "竞技场已经被大佬们玩穿了，只简单列几个我用过的。瑞爆狗和邪龙狗在后面的地图速刷还会用到，后续我再详细说。"
+    - type: group
+    - value:
+      - type: text
+        value: "1.铁三角"
+      - type: text
+        value: "（非常不建议，可以拿来学习下图思路）：出战自带头盔，非洲人最后的坚持。缺点多，80层后累，打boss招虫子累。然后**雕像后，出战刷连碎片都不给了，更是无比嫌弃。"
+    - type: group
+    - value:
+      - type: text
+        value: "2.瑞狗南瓜（自爆狗）"
+      - type: text
+        value: "：快！撞boss炸观众非常爽，缺点挂树低了的话90层boss狗子容易猝死。是个比较吃挂树的养老速刷阵容。"
+    - type: text
+      value: "求稳的话瑞要挂证为宜，m02科技拷贝也有瑞 60血。"
+    - type: text
+      value: "全能法戒（高挂树推荐）/炎魔手（低挂树撑100血）/竖琴，狼人药剂，20层点光辉圣骑士招狗。狗子血量1400血差不多够用。80-90层看是否有时停/重生，有就点大精灵王狗子补强，没有就补学圣符文师自己合。"
+    - type: text
+      value: "前期不用点冒险系的二阶，下楼回血有动画不能动，会降低速刷速度。"
+    - type: group
+    - value:
+      - type: text
+        value: "3.狗，寄生龙宝宝，贵族（邪龙狗）"
+      - type: text
+        value: "：稳，招狗层数低，寄生龙宝宝排除龙语龙力，对于每天只下图拿工资的玩家优势极大。龙系撑血降攻狗子不容易死。"
+    - type: text
+      value: "竖琴狼人，点满看怪—剑舞者—毁灭，龙系2阶加血可点可不点，找个触发毁灭的楼层（记住第几只怪，sl不变）狼人招狗（我目前的挂树是11层招狗）。后期补邪龙和灯系大精灵王。竞技场龙威6回合邪龙A死。"
+    - type: group
+    - value:
+      - type: text
+        value: "4.养吕布：西洋棋，貂蝉，巫妖王"
+      - type: text
+        value: "。需要重装卡车挂树。竖琴，药剂不用带或者带个航海士。称号异界毁灭气传。吕布是范围攻击，两刀观众*一片。阵容来自远行服我们盟的平凡之路。平均日刷20场竞技场的肝帝（已经改玩邪龙狗了233）。"
+    - type: text
+      value: "西洋棋旗子保证打五层观众和不依赖吕布打boss，吕布六层开招提供速刷和清观众能力，巫妖王进图给探索点，boss层六星装备喂了，给属性和变形，保底2时停等。70前全清，70往后根据地震术捡到的多少捡钥匙下楼或直接地震下楼。竞技场地震灯芯全清。"
+    - type: text
+      value: "类似阵容还有舰长，貂蝉，脑虫。"
+    - type: group
+    - value:
+      - type: text
+        value: "5.另一套养吕布（秒boss很爽）：西洋棋，貂蝉，安洁莉娅"
+      - type: text
+        value: "。竖琴狼人，需要重装卡车挂树。圣锻，毁灭，气传。15层左右圣锻土书，73左右点完主要称号狼人招吕布，一路地震下楼。此阵容不需要时停。瓦解 公主技能光铸之福音可以秒100层boss。不过推荐95打完出来手动翻地板坑*吕布，静电大地回低层留尸体，形成一种循环。缺点：由于走的圣锻，比较缺探索点，基本是刚好够用点满核心称号。"
+    - type: group
+    - value:
+      - type: text
+        value: "6.再另一套养吕布：魔法傀儡，貂蝉，舰长"
+      - type: text
+        value: "。优点是地震多，且是地板全清。"
+    - type: group
+    - value:
+      - type: text
+        value: "7.没寄生体的新手养狗：奥丁，贵族，二郎神"
+      - type: text
+        value: "。竖琴狼人。白袍气系传奇，光辉圣骑士（满二阶的骑士，其他点一级），圣符文师。前期静电天眼杀观众。没毁灭就圣符文师合一个毁灭，加血的称号尽量点点，狼人静电毁灭狗。后期圣符文师可合时停。"
+    - type: group
+    - value:
+      - type: text
+        value: "8.传销龙：冒险者，寄生龙宝宝，雅典娜"
+      - type: text
+        value: "。狼人竖琴。圣锻造土书，气系传奇，邪龙。"
+    - type: text
+      value: "此阵容主要用来速刷工资 勇者和小美碎片。在传奇法师的加成下，龙威9轮配合邪龙打高层竞技场效果极佳。"
+    - type: group
+    - value:
+      - type: text
+        value: "9.至于狼大的魔少贵族狗"
+      - type: text
+        value: "，挂树要求太高了而且85.95观众不好清.."

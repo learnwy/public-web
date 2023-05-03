@@ -1,6 +1,10 @@
 {
   "folders": [
     {
+      "name": "doc-for-code",
+      "path": "apps/doc-for-code/"
+    },
+    {
       "name": "game-bu_si_yi_mi_gong",
       "path": "apps/game-bu_si_yi_mi_gong/"
     },

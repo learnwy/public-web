@@ -1,0 +1,1194 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制"
+    - type: image
+      value: data:,
+    - type: text
+      value: "基因形态"
+    - type: text
+      value: "冈布奥可使用各种基因形态"
+    - type: text
+      value: "变形后拥有特殊属性加成和特殊魔法"
+    - type: text
+      value: "1. 基本规则"
+    - type: text
+      value: "迷宫1层会遇到\"研究员的残骸\"，翻找获得基因图谱，使用基因图谱可进行形态研究、启用、解除等操作。"
+    - type: text
+      value: "形态包括六种普通形态 (兽人、精灵、矮人、植物、巨魔、异种 )和一种隐藏形态 (融合)。隐藏形态需要六种普通形态全部满级后才能研究和启用。"
+    - type: text
+      value: "在研究中解锁某种形态基因锁后可启用该形态。启用形态后，冈布奥的模型会发生变化，并获得该形态的属性加成和特殊魔法，部分建筑在不同形态下交互会有不同效果。"
+    - type: text
+      value: "2. 形态研究"
+    - type: text
+      value: "通过基因手册可进行形态的研究，形态研究需要消耗对应形态的细胞和相同数量的生长激素。每个形态的研究共有4个阶段，全部完成后可解锁对应形态Lv.5  (满级总共需要502个细胞和激素)。"
+    - type: text
+      value: "形态研究分为2列，其中\t蓝色列\t为全形态属性加成，\t红色列\t为当前形态特有加成。当前阶段的全部研究项\t全部完成\t后，可以解锁下一阶段的形态研究。"
+    - type: text
+      value: "每个阶段的红色列中间会有研究项分支开启一个特殊魔法。每个形态各有4个不同的特殊魔法，施放特殊魔法需要消耗对应形态的特殊魔法道具。"
+    - type: text
+      value: "特定冈布奥出战可以使对应的研究直接获得升级（三星升满1阶，四星升满2阶，五星升满3阶，雕像升满4阶）"
+    - type: group
+    - value:
+      - type: text
+        value: "兽人形态："
+      - type: text
+        value: "兽人、鱼人、孙悟空、猪悟能、牛魔王"
+    - type: group
+    - value:
+      - type: text
+        value: "精灵形态："
+      - type: text
+        value: "神灯、树精灵"
+    - type: group
+    - value:
+      - type: text
+        value: "矮人形态："
+      - type: text
+        value: "矮人王"
+    - type: group
+    - value:
+      - type: text
+        value: "植物形态："
+      - type: text
+        value: "爆裂南瓜、仙人掌、太阳花、世界树、嗜血藤蔓"
+    - type: group
+    - value:
+      - type: text
+        value: "巨魔形态："
+      - type: text
+        value: "巨魔"
+    - type: group
+    - value:
+      - type: text
+        value: "异种形态："
+      - type: text
+        value: "海怪船长、改造者、暗裔、虫族女王"
+    - type: text
+      value: "3. 形态装备"
+    - type: text
+      value: "每种形态可使用四种形态装备，前3种为通用装备，最后一种为该形态的专属装备。\t普通装备在商店购买，或者切换到矮人形态在熔炉锻造，部分地图建筑也有少量产出。专属装备有特定的来源。"
+    - type: text
+      value: "形态装备可使用R-G-R颗粒升级，满级30级。形态装备每10级会额外增加特殊效果。"
+    - type: text
+      value: "专属形态装备来源一览："
+    - type: group
+    - value:
+      - type: text
+        value: "狂怒之眼(兽人)"
+      - type: text
+        value: "：\t地图商店\t概率出售 (15次保底)"
+    - type: group
+    - value:
+      - type: text
+        value: "元素晶核(精灵)"
+      - type: text
+        value: "：\t地下室\t(进洞)概率出现\t保险箱，\t保险箱中40%获得"
+    - type: group
+    - value:
+      - type: text
+        value: "秘银火铳(矮人)"
+      - type: text
+        value: "：\t矮人形态\t在\t钢铁熔炉\t锻造装备，25%获得"
+    - type: group
+    - value:
+      - type: text
+        value: "自然祝福(植物)"
+      - type: text
+        value: "：\t植物形态\t进入\t生态花园\t获得，需要解锁\t4级精灵形态\t (注意去对话的是植物形态、要求等级的是精灵形态)"
+    - type: group
+    - value:
+      - type: text
+        value: "巫毒旗帜(巨魔)"
+      - type: text
+        value: "：\t巨魔形态3级\t对话\t符文石板\t获得符文匕首，50+层对话\t可疑的血液\t进入符文空间翻箱子获得 (注意此处拿隐藏冈布奥需要巨魔形态5级)"
+    - type: group
+    - value:
+      - type: text
+        value: "尖刺甲壳(异种)"
+      - type: text
+        value: "：\t非异种形态\t对话\t怪物囚笼\t25%获得 (除了异种形态别的都可以)"
+    - type: text
+      value: "4. 形态介绍"
+    - type: text
+      value: "部分介绍来源：NGA-十二囧神"
+    - type: text
+      value: "兽人形态"
+    - type: text
+      value: "特性：生命越少攻击越高"
+    - type: text
+      value: "武器满级效果"
+    - type: group
+    - value:
+      - type: text
+        value: "[战斧]:"
+      - type: text
+        value: "攻击+30，攻击提升15%"
+    - type: group
+    - value:
+      - type: text
+        value: "[战锤]:"
+      - type: text
+        value: "攻击时，50%概率造成150点额外伤害，攻击时，15%概率造成双倍伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "[板甲]:"
+      - type: text
+        value: "生命值+280，降低所受远程伤害+16%"
+    - type: group
+    - value:
+      - type: text
+        value: "[狂怒之眼]:"
+      - type: text
+        value: "每损失30%生命值，攻击提升30%，施放[狂暴]时，额外提升150%攻击"
+    - type: text
+      value: "特殊魔法"
+    - type: group
+    - value:
+      - type: text
+        value: "[启示]:"
+      - type: text
+        value: "消耗2，每击败一个敌人，额外获得20点探索点(持续5伦)"
+    - type: group
+    - value:
+      - type: text
+        value: "[坚韧]:"
+      - type: text
+        value: "消耗3，降低所受伤害80%，且20%概率不受伤害(持续4轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[狂暴]:"
+      - type: text
+        value: "消耗4，攻击提升150%，单所受伤害增加50%"
+    - type: group
+    - value:
+      - type: text
+        value: "[践踏]:"
+      - type: text
+        value: "消耗5，对目标及周围的敌人造成{攻击*2.5}点的伤害，并使目标眩晕(持续3轮)"
+    - type: text
+      value: "形态研究表"
+    - type: image
+      value: data:,
+    - type: text
+      value: "精灵形态"
+    - type: text
+      value: "特性：魔法能力提升"
+    - type: text
+      value: "武器满级效果"
+    - type: group
+    - value:
+      - type: text
+        value: "[法杖]:"
+      - type: text
+        value: "魔力+30，魔力提升15%"
+    - type: group
+    - value:
+      - type: text
+        value: "[魔纹手套]:"
+      - type: text
+        value: "魔法值+300，施放伤害类魔法时，15%概率造成双倍伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "[藤甲]:"
+      - type: text
+        value: "辅助类魔法效果+30%，施放形态魔法时，45%概率道具消耗-1"
+    - type: group
+    - value:
+      - type: text
+        value: "[元素晶核]:"
+      - type: text
+        value: "施放伤害类魔法时，60%概率出现元素旋涡，元素旋涡伤害+150%"
+    - type: text
+      value: "特殊魔法"
+    - type: group
+    - value:
+      - type: text
+        value: "[元素旋涡]:"
+      - type: text
+        value: "消耗2，召唤3个元素旋涡"
+    - type: group
+    - value:
+      - type: text
+        value: "[元素洪流]:"
+      - type: text
+        value: "消耗3，施法时，对场上所有敌人造成一次伤害(伤害受魔法阶位及魔力影响，持续4轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[元素护盾]:"
+      - type: text
+        value: "消耗4，护盾可吸收伤害，(护盾受魔法值影响，持续本层)"
+    - type: group
+    - value:
+      - type: text
+        value: "[元素亲和]:"
+      - type: text
+        value: "消耗5，所有魔法效果+150%，且施法时，10%概率不消耗魔法值及卷轴(持续5轮)"
+    - type: text
+      value: "形态研究表"
+    - type: image
+      value: data:,
+    - type: text
+      value: "矮人形态"
+    - type: text
+      value: "特性：防御反击"
+    - type: text
+      value: "武器满级效果"
+    - type: group
+    - value:
+      - type: text
+        value: "[战锤]:"
+      - type: text
+        value: "攻击时，50%概率造成150点额外伤害，攻击时，15%概率造成双倍伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "[塔盾]:"
+      - type: text
+        value: "生命值+150、降低敌人攻击+15，降低所受伤害+15%"
+    - type: group
+    - value:
+      - type: text
+        value: "[板甲]:"
+      - type: text
+        value: "生命值+280，降低所受远程伤害+16%"
+    - type: group
+    - value:
+      - type: text
+        value: "[秘银火铳]:"
+      - type: text
+        value: "忽视敌人物理抗性+30%，攻击时，30%伤害溅射在场全体敌人"
+    - type: text
+      value: "特殊魔法"
+    - type: group
+    - value:
+      - type: text
+        value: "[风暴战锤]:"
+      - type: text
+        value: "对敌人造成{攻击*1.2}点伤害，并附带眩晕效果(持续3轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[无畏者]:"
+      - type: text
+        value: "受到致命伤害时不会失望，并保留1点生命值(持续2轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[防御反击]:"
+      - type: text
+        value: "受创时，对敌人进行一次反击，并附带2轮眩晕效果(持续5轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[先祖之躯]:"
+      - type: text
+        value: "清除并免疫所有负面效果，攻击提升200%，降低所受伤害50%(持续5轮)"
+    - type: text
+      value: "形态研究表"
+    - type: image
+      value: data:,
+    - type: text
+      value: "植物形态"
+    - type: text
+      value: "特性,：恢复能力提升"
+    - type: text
+      value: "武器满级效果"
+    - type: group
+    - value:
+      - type: text
+        value: "[翠玉宝珠]:"
+      - type: text
+        value: "每进入下一层，恢复生命值及魔法值+30，每50点最大魔法值，提升1点魔力"
+    - type: group
+    - value:
+      - type: text
+        value: "[翠玉宝珠]:"
+      - type: text
+        value: "每进入下一层，恢复生命值及魔法值+30，每50点最大魔法值，提升1点魔力"
+    - type: group
+    - value:
+      - type: text
+        value: "[藤甲]:"
+      - type: text
+        value: "辅助类魔法效果+30%，施放形态魔法时，45%概率道具消耗-1"
+    - type: group
+    - value:
+      - type: text
+        value: "[自然祝福]:"
+      - type: text
+        value: "生命值及魔法值提升30%，每3轮清除所有负面效果。"
+    - type: text
+      value: "特殊魔法"
+    - type: group
+    - value:
+      - type: text
+        value: "[唤醒]:"
+      - type: text
+        value: "每轮回复{魔力*0.15)点生命值及魔法值（持续4轮）"
+    - type: group
+    - value:
+      - type: text
+        value: "[守护之力]:"
+      - type: text
+        value: "场上每存在一个敌人，降低所受伤害25%（持续4轮）"
+    - type: group
+    - value:
+      - type: text
+        value: "[生命之种]:"
+      - type: text
+        value: "每击败一个敌人，15%概率获得生命之种；[生命之种]冈布奥攻击及魔力+1"
+    - type: group
+    - value:
+      - type: text
+        value: "[丛林之魂]:"
+      - type: text
+        value: "令所有敌人无法反击，每轮损失{(魔力+3)*0.5*魔法效果加成}点生命值，并将其转换为恢复自身生命值（持续4轮）"
+    - type: text
+      value: "形态研究表"
+    - type: image
+      value: data:,
+    - type: text
+      value: "巨魔形态"
+    - type: text
+      value: "特性,：同层属性增加"
+    - type: text
+      value: "武器满级效果"
+    - type: group
+    - value:
+      - type: text
+        value: "[战斧]:"
+      - type: text
+        value: "攻击+30，攻击提升15%"
+    - type: group
+    - value:
+      - type: text
+        value: "[法杖]:"
+      - type: text
+        value: "魔力+30，魔力提升15%"
+    - type: group
+    - value:
+      - type: text
+        value: "[魔纹手套]:"
+      - type: text
+        value: "魔法值+300，施放伤害类魔法时，15%概率造成双倍伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "[巫毒旗子]:"
+      - type: text
+        value: "每杀死一个敌人，30%概率获得其灵魂，施放[妖术]时，持续轮数+3"
+    - type: text
+      value: "特殊魔法"
+    - type: group
+    - value:
+      - type: text
+        value: "[再生]:"
+      - type: text
+        value: "每轮恢复XX点生命值(持续4轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[强力投掷]:"
+      - type: text
+        value: "对同排敌人造成{攻击*1.8}点伤害,且翻开整排石板"
+    - type: group
+    - value:
+      - type: text
+        value: "[图腾召唤]:"
+      - type: text
+        value: "放置4个强化咒术图腾"
+    - type: group
+    - value:
+      - type: text
+        value: "[妖术]:"
+      - type: text
+        value: "令所有敌人攻击及生命值降低50%，并消除其所有特性(持续4轮，对BOSS减半)"
+    - type: text
+      value: "形态研究表"
+    - type: image
+      value: data:,
+    - type: text
+      value: "异种形态"
+    - type: text
+      value: "特性：双倍攻击，高闪避"
+    - type: text
+      value: "武器满级效果"
+    - type: group
+    - value:
+      - type: text
+        value: "[利爪]:"
+      - type: text
+        value: "攻击时，20%概率恢复90点生命值，对有生命的敌人，造成额外伤害+15%"
+    - type: group
+    - value:
+      - type: text
+        value: "[利爪]:"
+      - type: text
+        value: "攻击时，20%概率恢复90点生命值，对有生命的敌人，造成额外伤害+15%"
+    - type: group
+    - value:
+      - type: text
+        value: "[翅膀]:"
+      - type: text
+        value: "魔法值+150，闪避+15%，闪避上限+9%"
+    - type: group
+    - value:
+      - type: text
+        value: "[尖刺甲壳]:"
+      - type: text
+        value: "攻击时，30%概率令敌人中毒(持续3轮)，中毒状态可以叠加5层"
+    - type: text
+      value: "特殊魔法"
+    - type: group
+    - value:
+      - type: text
+        value: "[敏锐]:"
+      - type: text
+        value: "攻击时，60%概率造成双倍伤害，且30%概率不受反击(持续6轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[吞噬]:"
+      - type: text
+        value: "每击败一个敌人，恢复20%生命值(持续4轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[狩猎]:"
+      - type: text
+        value: "标记一个敌人，令其所受伤害每轮增加40%(持续4轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[剧毒]:"
+      - type: text
+        value: "对所有敌人造成450点伤害，并令其中毒(持续3轮)"
+    - type: text
+      value: "形态研究表"
+    - type: image
+      value: data:,
+    - type: text
+      value: "融合形态"
+    - type: text
+      value: "特性：高属性、攻魔双提升"
+    - type: text
+      value: "武器满级效果"
+    - type: group
+    - value:
+      - type: text
+        value: "[利爪]:"
+      - type: text
+        value: "攻击时，20%概率恢复90点生命值，对有生命的敌人，造成额外伤害+15%"
+    - type: group
+    - value:
+      - type: text
+        value: "[翅膀]:"
+      - type: text
+        value: "魔法值+150，闪避+15%，闪避上限+9%"
+    - type: group
+    - value:
+      - type: text
+        value: "[塔盾]:"
+      - type: text
+        value: "生命值+150、降低敌人攻击+15，降低所受伤害+15%"
+    - type: group
+    - value:
+      - type: text
+        value: "[翠玉宝珠]:"
+      - type: text
+        value: "每进入下一层，恢复生命值及魔法值+30，每50点最大魔法值，提升1点魔力"
+    - type: text
+      value: "特殊魔法"
+    - type: group
+    - value:
+      - type: text
+        value: "[大地践踏]:"
+      - type: text
+        value: "立即翻开本层所有石板，对所有敌人造成{攻击}点伤害，并附带眩晕效果(持续3+1轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[野性咆哮]:"
+      - type: text
+        value: "攻击提升150%，且令所有显形敌人攻击降为1点，(持续4轮，对BOSS减半)"
+    - type: group
+    - value:
+      - type: text
+        value: "[死亡之刃]:"
+      - type: text
+        value: "攻击及魔力提升200%，且每击败一个敌人，必定获得其灵魂(持续5轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "[能量爆发]:"
+      - type: text
+        value: "施法时，额外施放一个同阶位魔法(持续5轮)"
+    - type: text
+      value: "形态研究表"
+    - type: image
+      value: data:,
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "巨魔获得方法"
+    - type: text
+      value: "1.  普通层概率出现【符文石板】"
+    - type: text
+      value: "2.  巨魔形态三级以上，对话符文石板，获得【符文匕首】，后续普通层会遇到【可疑的血迹】，对话血迹进入【符文空间】"
+    - type: text
+      value: "3.  巨魔形态五级，与符文空间中巨魔对话，首次获得巨魔冈布奥，后续获得碎片*20"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: text
+      value: "符文空间箱子"
+    - type: text
+      value: "刷隐藏顺便拿5钻2金罐，限1次"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: text
+      value: "研究员的残骸"
+    - type: text
+      value: "1层必定出现，普通层、夹层概率出现"
+    - type: text
+      value: "首次获得 基因图谱*1"
+    - type: text
+      value: "后续获得 生长激素*10~16 (受层数影响，60层以上基数不再增加，50%概率双倍获得) ，30%概率额外获得一本随机形态研究手册 (使用后随机提升1级形态等级)。"
+    - type: group
+    - value:
+      - type: text
+        value: "地下室"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "可出现 研究员的残骸、损坏的培养舱、腐烂的生物尸体、保险柜、电椅"
+    - type: group
+    - value:
+      - type: text
+        value: "损坏的培养舱"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "获得 随机2种细胞*8 + 随机施法材料*8"
+    - type: group
+    - value:
+      - type: text
+        value: "腐烂的生物尸体"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "获得 R-G-R颗粒*12~18"
+    - type: group
+    - value:
+      - type: text
+        value: "保险柜"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "获得 金币*800 + 随机普通形态武器*1"
+    - type: text
+      value: "50%概率额外获得 随机形态研究手册*1"
+    - type: text
+      value: "40%概率额外获得  元素晶核*1 (精灵形态专属武器)"
+    - type: group
+    - value:
+      - type: text
+        value: "电椅"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "受到生命值10%的伤害(不会致死)"
+    - type: text
+      value: "获得 攻击+2 或 魔力+2"
+    - type: group
+    - value:
+      - type: text
+        value: "自助超市"
+      - type: text
+        value: "(地图特色商店 货币：探索点)"
+    - type: text
+      value: "在售商品 (6件)"
+    - type: text
+      value: "必定售卖 生长激素*15 和 生长激素*30"
+    - type: text
+      value: "生长激素*15 (150)  生长激素*30 (300)"
+    - type: text
+      value: "第3个商品必定售卖 R-G-R颗粒"
+    - type: text
+      value: "R-G-R颗粒*5 (100)  R-G-R颗粒*10 (200)"
+    - type: text
+      value: "第4~6个商品随机售卖 形态武器 和 施法材料"
+    - type: text
+      value: "战斧*1 (100)  \t战锤*1 (100)  板甲*1 (100)"
+    - type: text
+      value: "利爪*1 (100)  \t翅膀*1 (100)  法杖*1 (100)"
+    - type: text
+      value: "魔纹手套*1 (100)  \t塔盾*1 (100)  藤甲*1 (100)"
+    - type: text
+      value: "兽人之血*5 (100)  \t植物精髓*5 (100)"
+    - type: text
+      value: "元素之心*5 (100)  \t巨魔护符*5 (100)"
+    - type: text
+      value: "矮人之印*5 (100)  \t异种粘液*5 (100)"
+    - type: text
+      value: "MDT-91*5 (150)  \t狂怒之眼*1 (500，限1次)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索"
+    - type: text
+      value: "随机研究手册*3 (限2次)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "克隆装置"
+    - type: text
+      value: "可选克隆和摧毁，克隆时根据冈布奥目前形态克隆一只召唤生物，\t克隆生物仅可存在一只，召唤物已达两只时无法克隆。"
+    - type: text
+      value: "克隆体每回合攻击1次，且根据当前基因形态等级获得技能。形态Lv.1~2获得技能1，\t形态Lv.3~4获得技能2，形态Lv.5获得技能3。未使用基因形态时无技能。"
+    - type: text
+      value: "克 隆"
+    - type: text
+      value: "兽人形态"
+    - type: text
+      value: "[1]启示：每击败一个敌人，获得5探索点"
+    - type: text
+      value: "[2]蛮力：攻击提升50%"
+    - type: text
+      value: "[3]碎骨：攻击时，25%概率附带眩晕效果（持续3轮）"
+    - type: text
+      value: "异种形态"
+    - type: text
+      value: "[1]敏锐：攻击时，30%概率造成双倍伤害"
+    - type: text
+      value: "[2]吸血：攻击时，将所造成伤害的20%恢复到生命值"
+    - type: text
+      value: "[3]蚀骨：攻击中毒的敌人时，额外造成50%伤害"
+    - type: text
+      value: "精灵形态"
+    - type: text
+      value: "[1]元素之环：每击败一个敌人，50%概率召唤元素漩涡"
+    - type: text
+      value: "[2]烈焰祝福：在场时，冈布奥所有伤害类魔法效果+30%"
+    - type: text
+      value: "[3]魔力熔炉：在场时，冈布奥魔力提升15%"
+    - type: text
+      value: "巨魔形态"
+    - type: text
+      value: "[1]再生：生命值低于50%时，每轮恢复5%生命值"
+    - type: text
+      value: "[2]图腾重击：攻击时，10%概率放置1个随机图腾"
+    - type: text
+      value: "[3]蛊惑：在场时，所有敌人攻击降低15%"
+    - type: text
+      value: "矮人形态"
+    - type: text
+      value: "[1]附魔战锤：忽视物理抗性+30%"
+    - type: text
+      value: "[2]持盾：降低所受伤害+30%"
+    - type: text
+      value: "[3]盾牌反击：受创时，反射50%敌人伤害"
+    - type: text
+      value: "植物形态"
+    - type: text
+      value: "[1]生长：每轮提升1点攻击（持续本层）"
+    - type: text
+      value: "[2]滋养：每轮恢复自身及冈布奥1点生命值"
+    - type: text
+      value: "[3]生命之种：每击败一个敌人，5%概率获得生命之种"
+    - type: text
+      value: "融合形态"
+    - type: text
+      value: "[1]协同：在场时，冈布奥每轮提升2点攻击（持续本层）"
+    - type: text
+      value: "[2]恐怖嚎叫：攻击时，20%概率令敌人攻击降为1点（持续5轮，对BOSS无效）"
+    - type: text
+      value: "[3]能量共振：在场时，冈布奥所有魔法效果+30%"
+    - type: text
+      value: "摧 毁"
+    - type: text
+      value: "获得 探索点*100~150 + 生长激素*15~30 (受层数影响，60层以上不再增加)"
+    - type: text
+      value: "60%概率额外获得5~6个施法材料"
+    - type: text
+      value: "基因突变器"
+    - type: text
+      value: "在场时所有怪物攻击及生命+100%，细胞掉落+100%"
+    - type: text
+      value: "摧 毁"
+    - type: text
+      value: "获得 探索点*200~250 + R-G-R颗粒*4~6"
+    - type: group
+    - value:
+      - type: text
+        value: "吸收能量"
+      - type: text
+        value: "(融合形态可选)"
+    - type: text
+      value: "随机获得以下效果："
+    - type: text
+      value: "攻击+1 / 魔力+1 / 生命值+10 / 魔法值+10"
+    - type: text
+      value: "回复生命值100 / 回复魔法值50"
+    - type: text
+      value: "大型培养舱"
+    - type: text
+      value: "在场时每5轮召唤一只小怪(只会召唤1种)，最多10次"
+    - type: text
+      value: "摧 毁"
+    - type: text
+      value: "生长激素*15~30 (受层数影响，60层以上不再增加) + 培养舱小怪对应的形态细胞*10，60%概率额外获得5~6个细胞。"
+    - type: text
+      value: "生态花园"
+    - type: text
+      value: "非植物、精灵形态："
+    - type: text
+      value: "召唤3个树妖小怪"
+    - type: text
+      value: "精灵形态："
+    - type: text
+      value: "获得探索点*300 + 生长激素*12~19 (受层数影响，60层以上不再增加)"
+    - type: text
+      value: "50%概率额外获得 植物精髓*6~8"
+    - type: text
+      value: "植物形态："
+    - type: text
+      value: "提升四维(受精灵解锁等级影响)："
+    - type: text
+      value: "攻击*1~4 / 魔力*1~4 /"
+    - type: text
+      value: "生命*10~40 / 魔法值*10~40"
+    - type: text
+      value: "50%概率获得 元素之心 (精灵系施法材料)*6~8"
+    - type: text
+      value: "精灵解锁Lv.4时，额外获得 自然祝福 (植物系专属武器)，限1次"
+    - type: text
+      value: "怪物囚笼"
+    - type: text
+      value: "异种形态："
+    - type: text
+      value: "获得 异种粘液 (异种系施法材料)*3"
+    - type: text
+      value: "属性提升 (受异种解锁等级影响)："
+    - type: text
+      value: "生命和魔法值 + 10~30"
+    - type: text
+      value: "非异种形态："
+    - type: text
+      value: "获得 异种粘液 (异种系施法材料)*3"
+    - type: text
+      value: "25%概率额外获得 利爪*1"
+    - type: text
+      value: "25%概率额外获得 尖刺甲壳 (异种专属装备) *1，限1次"
+    - type: text
+      value: "符文石板"
+    - type: text
+      value: "非兽人、巨魔形态："
+    - type: text
+      value: "无奖励"
+    - type: text
+      value: "兽人形态："
+    - type: text
+      value: "攻击+ (异种形态等级 + 3)/2"
+    - type: text
+      value: "巨魔形态："
+    - type: text
+      value: "获得 1~4阶卷轴*2~4  (受巨魔解锁等级影响)"
+    - type: group
+    - value:
+      - type: text
+        value: "巨魔形态Lv.3以上时，额外获得符文匕首*1"
+      - type: text
+        value: "(隐藏冈布奥道具)"
+    - type: group
+    - value:
+      - type: text
+        value: "可疑的血迹"
+      - type: text
+        value: "(获得符文匕首后可遇到)"
+    - type: text
+      value: "传送到符文空间"
+    - type: text
+      value: "内有  老旧的储物箱、巨魔"
+    - type: text
+      value: "巨 魔"
+    - type: text
+      value: "首次获得巨魔冈布奥，后续获得碎片*20"
+    - type: text
+      value: "老旧的储物箱"
+    - type: text
+      value: "获得 巫毒旗帜*1 (巨魔专属装备，限1次) + 探索点*800"
+    - type: text
+      value: "首次获得钻石*5、金罐*2，后续获得冈布奥之罐*1"
+    - type: text
+      value: "钢铁熔炉"
+    - type: text
+      value: "进行装备锻造，需消耗300探索点"
+    - type: text
+      value: "矮人形态："
+    - type: text
+      value: "25%概率获得 秘银火铳 (矮人专属装备)，限1次"
+    - type: text
+      value: "否则获得 \t2~3件通用形态装备"
+    - type: text
+      value: "非矮人形态："
+    - type: text
+      value: "2件1~5阶随机装备"
+    - type: text
+      value: "超级生物兵器"
+    - type: text
+      value: "根据当前形态获得强化效果 (持续15轮)"
+    - type: text
+      value: "植物形态："
+    - type: text
+      value: "每轮恢复8%生命值"
+    - type: text
+      value: "兽人形态："
+    - type: text
+      value: "攻击提升100%"
+    - type: text
+      value: "异种形态："
+    - type: text
+      value: "攻击生命低于30%的敌人，50%概率吞噬并提升自身属性"
+    - type: text
+      value: "巨魔形态："
+    - type: text
+      value: "攻击可无视地形，且不会受到反击"
+    - type: text
+      value: "矮人形态："
+    - type: text
+      value: "降低所受伤害+90%，且攻击50%概率附带3回合的眩晕"
+    - type: text
+      value: "精灵形态："
+    - type: text
+      value: "所有魔法效果+100%"
+    - type: text
+      value: "融合形态："
+    - type: text
+      value: "翻开所有地板，对所有敌人造成大量伤害"
+    - type: text
+      value: "女博士的残骸"
+    - type: text
+      value: "获得  奥卡装置*1"
+    - type: group
+    - value:
+      - type: text
+        value: "奥卡装置"
+      - type: text
+        value: "使用：直接放逐所有敌人（对BOSS无效）"
+    - type: text
+      value: "面具人的残骸"
+    - type: text
+      value: "获得  蜘蛛面罩*1"
+    - type: group
+    - value:
+      - type: text
+        value: "蜘蛛面罩"
+      - type: text
+        value: "【头盔】攻击+3、生命值+30"
+    - type: text
+      value: "不明生物的残骸"
+    - type: text
+      value: "获得  摩罗十诫残片*1"
+    - type: group
+    - value:
+      - type: text
+        value: "摩罗十诫残片"
+      - type: text
+        value: "【法宝】降低敌人攻击+3"
+    - type: text
+      value: "美人鱼的残骸"
+    - type: text
+      value: "获得  巫婆的药剂*1"
+    - type: group
+    - value:
+      - type: text
+        value: "巫婆的药剂"
+      - type: text
+        value: "使用：施放群体变形术"
+    - type: text
+      value: "作家的残骸"
+    - type: text
+      value: "获得  NZT-48*1"
+    - type: group
+    - value:
+      - type: text
+        value: "NZT-48"
+      - type: text
+        value: "使用：流失20点魔法值，冈布奥魔力+5"
+    - type: text
+      value: "鬼王的残骸"
+    - type: text
+      value: "获得  鬼王之血*1"
+    - type: group
+    - value:
+      - type: text
+        value: "鬼王之血"
+      - type: text
+        value: "使用：冈布奥攻击+3、生命值+30"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 随机形态武器*2"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 R-G-R颗粒*25"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 随机研究手册*2 + 探索点*300"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 随机细胞*30"
+    - type: text
+      value: "档案柜"
+    - type: text
+      value: "六种研究手册各一本"
+    - type: text
+      value: "初代仪器"
+    - type: text
+      value: "兽人、矮人、异种、融合形态："
+    - type: text
+      value: "攻击及魔力+5、生命及魔法值+100"
+    - type: text
+      value: "其它形态："
+    - type: text
+      value: "受到生命值50%的伤害"
+    - type: text
+      value: "立体机动装置"
+    - type: text
+      value: "获得 立体机动装置*1"
+    - type: group
+    - value:
+      - type: text
+        value: "立体机动装置"
+      - type: text
+        value: "使用：立即回退20层迷宫（特殊层无效）"
+    - type: text
+      value: "灯异界"
+    - type: text
+      value: "研究员的残骸"
+    - type: text
+      value: "1层必定出现，普通层、夹层概率出现"
+    - type: text
+      value: "残破的研究员之魂  使用：基因图谱，生长激素消耗降低1%"
+    - type: text
+      value: "完整的研究员之魂  使用：基因图谱，生长激素消耗降低3%"
+    - type: group
+    - value:
+      - type: text
+        value: "腐烂的生物尸体"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "残破的野兽之魂  使用：攻击+10（持续本层）"
+    - type: text
+      value: "完整的野兽之魂  使用：冈布奥攻击+1"
+    - type: text
+      value: "女博士的残骸"
+    - type: text
+      value: "女博士的灵魂  使用：所有魔法效果+3%"
+    - type: text
+      value: "面具人的残骸"
+    - type: text
+      value: "彼得·帕克的灵魂  使用：蜘蛛面罩，能力提升"
+    - type: group
+    - value:
+      - type: text
+        value: "蜘蛛面罩"
+      - type: text
+        value: "【头盔】攻击\t+6\t、生命值\t+60\t、\t闪避+10%、闪避上限+5%"
+    - type: text
+      value: "不明生物的残骸"
+    - type: text
+      value: "摩罗之眼的灵魂  使用：摩罗十诫残片，能力提升"
+    - type: group
+    - value:
+      - type: text
+        value: "摩罗十诫"
+      - type: text
+        value: "【法宝】\t所有伤害类魔法效果\t+15%\t，击败有生命的敌人时，\t25%\t概率使对方变为傀儡。（持续本层）"
+    - type: text
+      value: "美人鱼的残骸"
+    - type: text
+      value: "美人鱼的灵魂  使用：梦幻泡影状态（攻击-50，闪避及闪避上限+100%，持续本层）"
+    - type: text
+      value: "作家的残骸"
+    - type: text
+      value: "埃迪·莫拉的灵魂  使用：NZT-48，能力提升"
+    - type: group
+    - value:
+      - type: text
+        value: "NZT-48"
+      - type: text
+        value: "使用：流失\t40点\t魔法值，冈布奥魔力\t+10、忽视敌人闪避+15%"
+    - type: text
+      value: "鬼王的残骸"
+    - type: text
+      value: "无惨的灵魂  使用：鬼王之血，能力提升"
+    - type: group
+    - value:
+      - type: text
+        value: "鬼王之血"
+      - type: text
+        value: "使用：\t冈布奥攻击提升10%（以使用时的攻击数值为准，最小提升1点）"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "怪味烧肉"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "酸腐的肉块*2 (异种毒蝎、恶齿巨魔掉落)"
+    - type: text
+      value: "赤红之血*1 (兽人战士掉落)"
+    - type: text
+      value: "食用：流失50点生命值、使用后中毒；冈布奥攻击+3"
+    - type: text
+      value: "铁板里脊"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "酸腐的肉块*1 (异种毒蝎、恶齿巨魔掉落)"
+    - type: text
+      value: "盔甲残片*1 (山地矮人掉落)"
+    - type: text
+      value: "食用：冈布奥生命值+15；获得10个随机细胞"
+    - type: text
+      value: "赤红花茶"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "淡香的花瓣*3 (高等精灵、树妖掉落)"
+    - type: text
+      value: "赤红之血*1 (兽人战士掉落)"
+    - type: text
+      value: "食用：冈布奥魔力+1；所有恢复类魔法效果+2%"
+    - type: text
+      value: "符文火锅(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "淡香的花瓣*2 (高等精灵、树妖掉落)"
+    - type: text
+      value: "酸腐的肉块*3 (异种毒蝎、恶齿巨魔掉落)"
+    - type: text
+      value: "苍蓝符文*1 (进入符文空间)"
+    - type: text
+      value: "食用：冈布奥魔力+5；基因图谱，生长激素消耗降低15%"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "融合巨兽的照片"
+    - type: text
+      value: "使用：冈布奥生命值及魔法值+30；基因图谱，各形态细胞消耗降低20%"
+    - type: text
+      value: "来源：进入BOSS层 30%概率 获取 (上限1)"
+    - type: text
+      value: "高等精灵的照片"
+    - type: text
+      value: "使用：获得5个精灵尘埃"
+    - type: text
+      value: "来源：进入有高等精灵的地下室 100%概率 获取 (上限3)"
+    - type: text
+      value: "树妖的照片"
+    - type: text
+      value: "使用：冈布奥魔力+2；获得30个生长激素"
+    - type: text
+      value: "来源：翻出树妖 3%概率 获取 (上限3)"
+    - type: text
+      value: "DP难点"
+    - type: group
+    - value:
+      - type: text
+        value: "DP组合："
+      - type: text
+        value: "未来猫(出战) + 二郎神 + 奥丁神"
+    - type: group
+    - value:
+      - type: text
+        value: "神器："
+      - type: text
+        value: "竖琴"
+    - type: group
+    - value:
+      - type: text
+        value: "药水："
+      - type: text
+        value: "狼人药剂"
+    - type: group
+    - value:
+      - type: text
+        value: "DP称号："
+      - type: text
+        value: "异界(必须)、大地、毁灭"
+    - type: text
+      value: "获得摩罗十诫"
+    - type: text
+      value: "摸尸体获得的是摩罗十诫碎片，\t需要用异界摸\t魂转换\t为\t摩罗十诫，\t所以\t这\t个本刷dp必须3把都点异界。"
+    - type: text
+      value: "任意形态装备满级"
+    - type: text
+      value: "形态装备满级30级，\t共需要162个R-G-R颗粒，来源主要是洞里摸尸体和商店，肝就是了。"
+    - type: text
+      value: "各种形态穿戴所有装备"
+    - type: text
+      value: "普通装备在商店购买，或者切换到矮人形态在熔炉锻造，洞里保险箱会出。专属装备有特定的来源。"
+    - type: text
+      value: "狂怒之眼\t(兽人)：地图商店概率出售 (15次保底)"
+    - type: text
+      value: "元素晶核(\t精灵)：地下室(进洞)概率出现保险箱，保险箱中40%获得"
+    - type: text
+      value: "秘银火铳\t(矮人)：矮人形态在钢铁熔炉锻造装备，25%获得"
+    - type: text
+      value: "自然祝福\t(植物)：植物形态进入生态花园获得，需要解锁4级精灵形态 (注意去对话的是植物形态、要求等级的是精灵形态)"
+    - type: text
+      value: "巫毒旗帜\t(巨魔)：巨魔形态3级对话符文石板获得符文匕首，50+层对话可疑的血液进入符文空间翻箱子获得 (注意此处拿隐藏冈布奥需要巨魔形态5级)"
+    - type: text
+      value: "尖刺甲壳\t(异种)：非异种形态对话怪物囚笼25%获得 (除了异种形态别的都可以)"
+    - type: text
+      value: "六种形态满级 & 激活隐藏形态"
+    - type: text
+      value: "六种形态满级才能激活隐藏形态，所以这部分要一起做完，双大地+飞毯来回刷材料就行，注意商店里除了施法材料都要买一下。"
+    - type: text
+      value: "获得更多细胞的技巧："
+    - type: text
+      value: "1. 大型培养仓尽量拖回合刷怪"
+    - type: text
+      value: "2. 基因突变器在打完怪前不要摧毁"
+    - type: text
+      value: "尽量在刷融合形态时顺便完成100层礼包，\t因为低层招狗，狗在高层不太给力，\t后期依靠融合形态打怪，\t双大地资源很多\t，\t融合形态属性很高\t\t，\t打到100层并不是太难。"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "巨魔形态三级以上\t，对话符文石\t板，获得\t符文匕首\t，后续\t普通层会遇到\t可疑的血迹\t，对话血迹进入\t符文空间\t，\t巨魔形态五级\t与符文空间中巨魔对话，首次获得巨魔冈布奥，后续获得碎片*20。"
+    - type: text
+      value: "如果怕巨魔形态没到5就遇到血迹，可以先不拿符文匕首。"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "(来源:论坛-宅之小天)"
+    - type: text
+      value: "这个图说起速刷着实是烦，细胞的需求量不是一般的多。不过此图扫荡收益和地狱边境相当，可以直接扫荡。目前雕像没开，速刷的意义本身也不大，仅适合刷3星到5星这个区间的样子。"
+    - type: text
+      value: "速刷阵容："
+    - type: text
+      value: "冒险系巨魔出战\t，根据冈布奥星级自带2,3阶巨魔系。称号选择大盗神，进洞拿回退20层道具、巨魔系的书等。"
+    - type: text
+      value: "战士系选择寄生小美宝宝\t，贵族礼盒给40细胞。毁灭or光辉圣骑士。"
+    - type: text
+      value: "魔法系选择能帮助速刷的，最佳应该是宙斯，没有就雅典娜\t。看情况选择大地还是传奇。基因突变虽然会加强小怪，但也会增加细胞掉，有基因突变器的会掉4-8个细胞，没有的只有2-4个。"
+    - type: text
+      value: "脸不是太黑的话，四星巨魔出战可以保证60层前不回退满级巨魔系。剩下的能不能保底什么的就看脸了...."

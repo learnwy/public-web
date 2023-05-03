@@ -254,7 +254,7 @@ const features = {
 };
 
 async function main() {
-  await features.handle_migongziliao.log_processed_data();
+  await features.handle_migongziliao.log_pwqrocessed_data();
 }
 
 main();

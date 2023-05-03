@@ -1,7620 +1,1331 @@
-{
-  "groups": [
-    [
+[
+  {
+    "type": "group",
+    "value": [
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "怪物图鉴"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "怪物图鉴"
       },
       {
         "type": "image",
         "value": "data:,"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "迷宫特殊机制"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "迷宫特殊机制"
       },
       {
         "type": "image",
         "value": "data:,"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "鲜血祭坛"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "在祭坛强化9件圣器，获得强力装备"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "1. 强化圣器规则"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "1层翻找德古拉的残骸获得\"德古拉的印章\"和3瓶\"德古拉的血液\" (异界拿魂多1瓶血)。"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "德古拉的储藏室可用血液1:1兑换圣器，未获得的圣器后续在x9层血腥地窖获得。"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "鲜血祭坛强化圣器有两个选项"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "升级基本属性"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：每次消耗10瓶精血，装备最高升级到+10，从+4开始有几率失败，失败材料不返还。"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "强化先祖之力"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：在基本属性+3、+6、+9时可强化先祖之力，每次消耗1瓶先祖之血，最多强化三次，必定成功。"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "2. 九件圣器介绍"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "1. 圣辉之冠【头盔】"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "初始：\t生命值+10；所有光系魔法效果+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+1-9：每级提升 生命值+10；所有光系魔法效果+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+10：\t生命值+120；所有光系魔法效果+25%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力1："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "降低敌人攻击\t+1\t；\t攻击亡灵时，造成额外伤害\t+25%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力2："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "降低敌人攻击\t+3\t；\t攻击亡灵时，造成额外伤害\t+50%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力3："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "降低敌人攻击\t+5\t；\t攻击亡灵时，造成额外伤害\t+75%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "2. 初拥之守护【铠甲】"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "初始：降低敌人攻击+1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+1-9：每级提升 降低敌人攻击+1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+10：降低敌人攻击+12"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力1：所有魔法效果\t+10%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力2：所有魔法效果\t+20%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力3：所有魔法效果\t+30%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "3. 腐镯【手套】"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "初始：\t攻击+3；忽视敌人闪避+6%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+1-9：每级提升 \t攻击+1；忽视敌人闪避+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+10：\t攻击+15，忽视敌人闪避+30%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力1：掌握【腐蚀之云】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：群体攻击，附带中毒、即死效果\t（即死概率25%）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1颗毒腺标本"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力2：掌握【腐蚀之云】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：群体攻击，附带中毒、即死效果\t（即死概率50%）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1颗毒腺标本"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力3：掌握【腐蚀之云】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：群体攻击，附带中毒、即死效果\t（即死概率75%）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1颗毒腺标本"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "4. 穆图之皮【腰带】"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "初始：每杀死一个敌人，恢复生命值+1；所有恢复类魔法效果+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+1-9：每级提升 每杀死一个敌人，恢复生命值+1；所有恢复类魔法效果+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+10：每杀死一个敌人，恢复生命值+12；所有恢复类魔法效果+25%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力1：掌握【细胞再生】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：恢复生命值\t+15%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗5瓶精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力2：掌握【细胞再生】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：恢复生命值\t+25%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：\t每次施放，需要消耗5瓶精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力3：掌握【细胞再生】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：恢复生命值\t+35%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗5瓶精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "5. 会说话的人偶【项链】"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "初始：魔法值+10；所有伤害类魔法效果+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+1-9：每级提升 魔法值+10；所有伤害类魔法效果+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+10：魔法值+120；所有伤害类魔法效果+25%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力1：掌握【魔偶召唤】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：召唤魔法人偶"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1瓶魔法之尘"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔偶掌握重击：攻击时，50%概率造成2倍伤害"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力2：掌握【魔偶召唤】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：召唤魔法人偶"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1瓶魔法之尘"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔偶掌握诅咒：攻击时，概率附加诅咒效果（攻击力下降，持续3轮）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力3：掌握【魔偶召唤】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：召唤魔法人偶"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1瓶魔法之尘"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔偶掌握禁术：所造成伤害的20%，恢复冈布奥生命值"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "6. 禁锢之牢【鞋子】"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "初始：闪避+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+1-9：每级提升 闪避+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+10：闪避+25%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力1：掌握【时光回溯】魔法\t（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：立刻回退\t3层\t迷宫"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1颗暗影石"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力2：掌握【时光回溯】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：立刻回退\t4层\t迷宫"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：\t每次施放，需要消耗1颗暗影石"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力3：掌握【时光回溯】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：立刻回退\t5层\t迷宫"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1颗暗影石"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "7. 尼伯龙根之枪【戒指】"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "初始：魔力+3；忽视敌人闪避+6%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+1-9：每级提升 魔力+1；忽视敌人闪避+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+10：魔力+15；忽视敌人闪避+30%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力1：掌握【湮灭弹】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：单体攻击(\t500伤害\t)，附带眩晕效果"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1颗秘银子弹"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力2：掌握【湮灭弹】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：单体攻击(\t1000伤害\t)，附带眩晕效果"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1颗秘银子弹"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力3：掌握【湮灭弹】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：单体攻击(\t1500伤害\t)，附带眩晕效果"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要\t消耗1颗秘银子弹"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "8. 血猎者斗篷【披风】(隐藏必须+10+3)"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "初始：攻击+1、闪避+5%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+1-9：每级提升 攻击+1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+10：攻击+12、闪避+5%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力1：\t攻击\t+10%\t；攻击时，\t10%\t概率不被反击"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力2：\t攻击\t+15%\t；攻击时，\t15%\t概率不被反击"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力3：\t攻击\t+20%\t；攻击时，\t20%\t概率不被反击"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "9. 不朽之杯【宝物】"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "初始：魔力+1；每前进3层迷宫，获得2瓶精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+1-9：每级提升 魔力+1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+10：魔力+12；每进入下一层，获得2瓶精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力1：掌握【不朽之源】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：增加冈布奥的属性"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "攻击、魔力+1；最大生命、魔法值+10"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1瓶先祖之血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力2：掌握【不朽之源】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：增加冈布奥的属性"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "攻击、魔力+2；最大生命、魔法值+20"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1瓶先祖之血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之力3：掌握【不朽之源】魔法（主动施放）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "效果：增加冈布奥的属性"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "攻击、魔力+3；最大生命、魔法值+30"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗：每次施放，需要消耗1瓶先祖之血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "隐藏冈布奥"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "血猎者获得方法"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "1. 圣器血猎者斗篷强化到+10+3。(注意+9+3不行)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "2. 60~100的Boss层概率遇到\"血猎者\"，穿上+10+3的斗篷对话，对话后斗篷消失，获得血猎者冈布奥，后续获得碎片x20。"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "*斗篷交掉后可以在x9地窖再拿一个没强化的"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "迷宫重要彩蛋"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "重要的获取是主线的狼人药剂，但不需要特意做。"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "迷宫特殊建筑"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "禁魔监狱"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "（夹层入口）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "进入可出现血池、血猎者的残骸"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "血池"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "（夹层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "精血*5 或 \t精血\t*10 或 \t先祖之血\t*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "血猎者的残骸"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "（夹层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特制药水*2 或 特制药水*1+ 秘银子弹*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "血腥地窖"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "（夹层入口 固定x9层出现）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "进入后出现鲜血领主，击败鲜血领主后出现圣棺"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "圣棺 \t（道具\t三选一）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "精血*20(左)、先祖之血*1(中)、随机未获得的圣器*1（右，拿到全部圣器后，改为氏族纹章*1）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "吸血鬼商店"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "(地图特色商店 货币：探索点)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "在售商品 (4件)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "其中1件固定为特制药水*1 (60)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特制药水 使用：恢复50点生命值并清除血咒状态"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "另外3件为随机道具"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "精血*5 (100)  精血*10 (200)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "先祖之血*1 (500)  \t魔法之尘*1 (150)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "毒腺标本*1 (150)  秘银子弹*1 (150)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "暗影石*1 (20\t0 上限10\t)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊勒索"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "氏族纹章*1  (限2次)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "氏族纹章  使用：冈布奥的攻击及魔力+1，获得500点探索点"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "德古拉的残骸（固定1层出现）"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 德古拉的印章*1 + 德古拉的血液*3 + 精血*10"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "德古拉的储藏室（固定1层出现）"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "使用德古拉的印章可解除封印"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "解锁后，德古拉的血液1:1兑换圣器"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "血腥实验台"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 魔法之尘*1 或 毒腺标本*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "狼人的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 狼人的右爪*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "狼人的右爪  使用：冈布奥攻击+6、使用后中毒"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "吸血鬼的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 吸血鬼上衣*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "吸血鬼上衣【铠甲】生命值+30、降低敌人攻击+2；吸血伯爵冈布奥装备时，攻击+3"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "猎人的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 猎人的长鞭*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "猎人的长鞭【手套】攻击+3、魔力+3；攻击时，5%概率施放流星雨"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "高中生的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 血蔷薇之枪*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "血蔷薇之枪  使用：对敌人造成100点伤害（子弹3/3）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "壮汉的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 杀手太阳镜*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "杀手太阳镜【头盔】攻击时，20%概率造成额外10点伤害；精血掉落概率+20%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "大盗神"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "隐藏的储物箱"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 精血*30"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "松动的地砖"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 氏族纹章*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "散落的物件"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "随机获得 毒腺标本/魔法之尘/秘银子弹*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "残破的巢穴"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 先祖之血*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "废弃的锅炉"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 随机2阶食材*20 或 3阶食材*10"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "血腥实验桌"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 实验体精血*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "实验体精血 使用：获得300点探索点；吸血伯爵冈布奥使用时，获得1瓶先祖之血；血猎者冈布奥使用时，获得30瓶精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "散落的录像带"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 录像带*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "录像带  使用：攻击吸血生物，造成额外伤害+15%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "灯异界"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "德古拉的残骸（固定1层出现）"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "德古拉的灵魂  使用：获得1瓶德古拉的血液"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "血猎者的残骸（夹层）"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "残破的血猎者之魂  使用：随机获得1～3瓶精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "完整的血猎者之魂  使用：随机获得6～10瓶精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "狼人的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "雅各布的灵魂  使用：攻击吸血生物，造成额外伤害+20%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "吸血鬼的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "阿鲁卡多的灵魂  使用：冈布奥攻击+2、闪避+6%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "猎人的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "西蒙的灵魂  使用：猎人的长鞭，能力提升"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "猎人的长鞭【手套】攻击+\t6、魔力+\t4；攻击时，5%概率施放流星雨\t；所有火系魔法效果+10%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "高中生的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "锥生零的灵魂  使用：血蔷薇之枪，弹药量提升"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "血蔷薇之枪  使用：对敌人造成100点伤害（子弹9/9）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "壮汉的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "刀锋战士的灵魂  使用：杀手太阳镜，能力提升"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "杀手太阳镜【头盔】\t降低敌人攻击+2\t；\t攻击时，20%概率造成额外\t20\t点伤害；精血掉落概率+20%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "厨师菜谱"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "鲜血盛宴"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊食材："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "血族之血*3 (鲜血领主掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "食用：免疫血毒状态（持续10轮）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "清蒸狼爪"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊食材："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "狼人之爪*3 (狼人掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "食用：冈布奥攻击+1、恢复50点生命值"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "秘制腐肉浓汤"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊食材："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "圣水*2 (血猎者掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "腐烂的肉*3 (尸巫/僵尸掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "食用：圣光庇护状态（每6轮自动施放圣光弹，持续本层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "光明沙拉"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊食材："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "圣水*2 (血猎者掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "食用：冈布奥攻击+1；忽视敌人闪避+3%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "酱香菜心煲(隐藏)"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊食材："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "地精菜心*1 (大盗神翻找废弃的锅炉)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔偶之心*2 (召唤的魔偶死亡后掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "食用：冈布奥攻击及魔力+2；傀儡操控状态（魔偶攻击翻倍，持续本层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "特殊照片"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "幽灵的照片"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "使用：冈布奥攻击+1、闪避+3%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "来源：翻出幽灵 3% 获取 (上限3)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "DP难点"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "(来源:\t贴吧-云尘尽转c)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "血蔷薇之枪杀敌"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "和杀敌系列dp做法差不多，点异界翻出来魂可以加强这把枪，顺便满子弹"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "9圣器&圣器技能"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "9个圣器升满级（每件+10+3）总共需要至少9×10×10=900的精血（这是假设你欧皇强化不\t失败的情况下，实际消耗远高于900），9×3=27的先祖之血，如果单纯把圣器+9+3少用90精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "想要做满这些dp，我们需要先了解地图机制中对圣器升级有帮助的地方——"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "（1）尸巫会叫小弟，杀死必出精血（类似圣塔的法师召唤光暗元素）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "（2）×9层杀死鲜血领主会给1圣器或1先祖之血或20精血，三选一"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "（3）特色商店会出精血、先祖之血；\t圣器技能材料（暗影石必买，其他建议只买毒腺和魔法之尘，圣器技能相关dp没做完则全买）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "（4）圣器鞋强化先祖之力获得技能时光回溯（消耗1暗影石，根据鞋子的先祖之力等级+1/+2/+3返回3/4/5层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "根据这些，我们可以总结出做dp的基础思路——利用时光回溯和大地之门在低层拼命刷资源"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "称号推荐异界（一层可多拿一件圣器；\t翻血猎者的尸体拿的魂给精血；\t速出贵族套）\t+位面（不解释）+随便（不知道点啥就光辉撑血吧，冒险系出战点镇龙骑士需要的失明不够）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "由于一层需要出异界，所以最好冒险系出战，\t一层拿鞋子（重点，回层数用）、不朽之杯（下楼送2精血）、铠甲（降低敌人攻击，增加自己生存能力）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "路上商店全买，\t碰见尸巫留着等召唤了2个小弟再杀"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "在9、19层杀死鲜血领主拿先祖血，速出+9+3的鞋子，\t在19~24层反复横跳（如果能飞到9层更好，在9层和14层之间反复横跳）= ="
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "鞋子+9+3后不用再理会，第二个强化护甲，减少刷怪的损伤；第三个强化不朽之杯，10级时每前进1层迷宫+2精血，优先+10+0；第四个强化斗篷，用来拿隐藏；之后怎么开心怎么强化，想强化哪个就强化哪个。"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "一些小技巧——"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "+9+3就算做好先祖之力到3级的dp了，除斗篷外别的没有必要全+10"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "精血失败次数太多感觉浪费，可以小sl下楼再强化"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "保持一直在50层以下刷资源，大地之门到了极限回层就用，暗影石要么14、24层用，要么就在29、39、49、59等×9层用（没法拿×10的资源就拿×5的资源）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "最好在60层之前把斗篷+10+3，顺便拿隐藏"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "施放圣器技能\t——"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "时光回溯——需要暗影石，一局最多10个，别想了，准备肝第二次吧，刚好可以把这次没做完的释放技能做完"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "腐蚀之云——需要毒腺标本，这个还是留一留，80层开始一个图扔一次，你会有一种开挂的感觉"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "细胞再生——需要精血*5，回血用，全圣器+9+3之后多余的精血不想+10+3就扔进来吧，20次总共要100个精血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "不朽之源——需要先祖之血*1，加属性用，后期无用的先祖之血就直接扔进这个就好（一般一局做不完，可能需要第二局再来刷，多拿先祖之血，拿了就扔进来就很快做出来了）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "湮灭弹——需要秘银子弹，一发单体眩晕攻击，控制卷轴不够就拿这个扔"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔偶召唤——需要魔法之尘，这个没有使用次数的要求，但有杀死50敌人的dp需要做；高层这玩意挺强的，打boss可放一个减少压力"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "刷dp的话，一局肯定有没做完的（比如细胞再生20次和不朽之源20次），第二局再来一轮还可以顺便把不拿圣器上30层的dp也拿了，飞回来再10次暗影石针对没做完的dp再肝一波肯定就全完成了（由于无需冒险系一层出异界了，魔法系出战速出位面）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "隐藏冈布奥"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "60—100层的boss层中几率出现，穿上+10+3的圣器血猎者斗篷与其对话并给他斗篷即可入手，之后获取方式不变，一次20碎（脸黑常驻100层，做好心理准备）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "注意斗篷必须是+10+3，+9+3的水货不行"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "斗篷给了他之后还会在血池获取，只不过再拿回来的就是假冒伪劣产品了……（变为初始+0+0状态）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "速刷阵容"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "(来源:贴吧-longyin0429)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "出战"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：凤凰链接二郎神仓鼠"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "凤凰加仓鼠：前期飞速，凤凰还送毁灭之刃，重生"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "狗：后期飞速"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "称号"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：异界，光辉圣骑士，传奇"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "药水"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：狼人"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "神器"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：传奇项链。。。送三个时停"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "圣物"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：一件披风就行"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "打法"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "1：称号先点出贵族套满，不用异界，再点到重装骑士，再点气传，为了时停更久"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "2：49层招狗，嗑药，吃仓鼠粮食拖回合，点出光辉，一般1200血1800功狗就行"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "3：90层以上小怪可能翻车，点出灯芯，直接地震灯芯过图就行，要学会控怪给狗吸血"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "4：前49层只需要一路翻地板然后天眼过图"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "boss打法"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "30 祝福天眼"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "40 毁灭天眼"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "50 狗"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "60 呱狗"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "鲜血祭坛"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "70 呱狗或者时停狗"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "在祭坛强化9件圣器，获得强力装备"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "80-100 时停瓦解狗"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "1. 强化圣器规则"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "组合优点"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "："
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "1层翻找德古拉的残骸获得\"德古拉的印章\"和3瓶\"德古拉的血液\" (异界拿魂多1瓶血)。"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "1、一楼开始起飞一直飞到100楼，招僵尸就让他招吧，凤凰的aoe教他做僵尸，还可以刷精血"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "德古拉的储藏室可用血液1:1兑换圣器，未获得的圣器后续在x9层血腥地窖获得。"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "2、凤凰送毁灭重生，稳定招狗无压力，仓鼠开地板一路畅通无阻！"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "鲜血祭坛强化圣器有两个选项"
       },
       {
         "type": "group",
         "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "缺点"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：高层注意狗的血量，不过sl也就一分钟的事"
-            }
-          ]
-        ]
-      }
-    ]
-  ],
-  "cur_group": [
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "怪物图鉴"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "image",
-      "value": "data:,"
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "迷宫特殊机制"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "image",
-      "value": "data:,"
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "鲜血祭坛"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "在祭坛强化9件圣器，获得强力装备"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "1. 强化圣器规则"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
           {
             "type": "text",
-            "value": "1层翻找德古拉的残骸获得\"德古拉的印章\"和3瓶\"德古拉的血液\" (异界拿魂多1瓶血)。"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "德古拉的储藏室可用血液1:1兑换圣器，未获得的圣器后续在x9层血腥地窖获得。"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "鲜血祭坛强化圣器有两个选项"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "升级基本属性"
-                }
-              ]
-            ]
+            "value": "升级基本属性"
           },
           {
             "type": "text",
             "value": "：每次消耗10瓶精血，装备最高升级到+10，从+4开始有几率失败，失败材料不返还。"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "group",
+        "value": [
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "强化先祖之力"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "强化先祖之力"
           },
           {
             "type": "text",
             "value": "：在基本属性+3、+6、+9时可强化先祖之力，每次消耗1瓶先祖之血，最多强化三次，必定成功。"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "2. 九件圣器介绍"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "1. 圣辉之冠【头盔】"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "初始：\t生命值+10；所有光系魔法效果+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+1-9：每级提升 生命值+10；所有光系魔法效果+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+10：\t生命值+120；所有光系魔法效果+25%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力1："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "降低敌人攻击\t+1\t；\t攻击亡灵时，造成额外伤害\t+25%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力2："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "降低敌人攻击\t+3\t；\t攻击亡灵时，造成额外伤害\t+50%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力3："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "降低敌人攻击\t+5\t；\t攻击亡灵时，造成额外伤害\t+75%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "2. 初拥之守护【铠甲】"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "初始：降低敌人攻击+1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+1-9：每级提升 降低敌人攻击+1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+10：降低敌人攻击+12"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力1：所有魔法效果\t+10%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力2：所有魔法效果\t+20%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力3：所有魔法效果\t+30%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "3. 腐镯【手套】"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "初始：\t攻击+3；忽视敌人闪避+6%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+1-9：每级提升 \t攻击+1；忽视敌人闪避+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+10：\t攻击+15，忽视敌人闪避+30%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力1：掌握【腐蚀之云】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：群体攻击，附带中毒、即死效果\t（即死概率25%）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1颗毒腺标本"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力2：掌握【腐蚀之云】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：群体攻击，附带中毒、即死效果\t（即死概率50%）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1颗毒腺标本"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力3：掌握【腐蚀之云】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：群体攻击，附带中毒、即死效果\t（即死概率75%）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1颗毒腺标本"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "4. 穆图之皮【腰带】"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "初始：每杀死一个敌人，恢复生命值+1；所有恢复类魔法效果+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+1-9：每级提升 每杀死一个敌人，恢复生命值+1；所有恢复类魔法效果+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+10：每杀死一个敌人，恢复生命值+12；所有恢复类魔法效果+25%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力1：掌握【细胞再生】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：恢复生命值\t+15%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗5瓶精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力2：掌握【细胞再生】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：恢复生命值\t+25%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：\t每次施放，需要消耗5瓶精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力3：掌握【细胞再生】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：恢复生命值\t+35%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗5瓶精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "5. 会说话的人偶【项链】"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "初始：魔法值+10；所有伤害类魔法效果+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+1-9：每级提升 魔法值+10；所有伤害类魔法效果+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+10：魔法值+120；所有伤害类魔法效果+25%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力1：掌握【魔偶召唤】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：召唤魔法人偶"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1瓶魔法之尘"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔偶掌握重击：攻击时，50%概率造成2倍伤害"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力2：掌握【魔偶召唤】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：召唤魔法人偶"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1瓶魔法之尘"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔偶掌握诅咒：攻击时，概率附加诅咒效果（攻击力下降，持续3轮）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力3：掌握【魔偶召唤】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：召唤魔法人偶"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1瓶魔法之尘"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔偶掌握禁术：所造成伤害的20%，恢复冈布奥生命值"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "6. 禁锢之牢【鞋子】"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "初始：闪避+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+1-9：每级提升 闪避+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+10：闪避+25%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力1：掌握【时光回溯】魔法\t（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：立刻回退\t3层\t迷宫"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1颗暗影石"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力2：掌握【时光回溯】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：立刻回退\t4层\t迷宫"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：\t每次施放，需要消耗1颗暗影石"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力3：掌握【时光回溯】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：立刻回退\t5层\t迷宫"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1颗暗影石"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "7. 尼伯龙根之枪【戒指】"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "初始：魔力+3；忽视敌人闪避+6%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+1-9：每级提升 魔力+1；忽视敌人闪避+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+10：魔力+15；忽视敌人闪避+30%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力1：掌握【湮灭弹】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：单体攻击(\t500伤害\t)，附带眩晕效果"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1颗秘银子弹"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力2：掌握【湮灭弹】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：单体攻击(\t1000伤害\t)，附带眩晕效果"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1颗秘银子弹"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力3：掌握【湮灭弹】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：单体攻击(\t1500伤害\t)，附带眩晕效果"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要\t消耗1颗秘银子弹"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "8. 血猎者斗篷【披风】(隐藏必须+10+3)"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "初始：攻击+1、闪避+5%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+1-9：每级提升 攻击+1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+10：攻击+12、闪避+5%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力1：\t攻击\t+10%\t；攻击时，\t10%\t概率不被反击"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力2：\t攻击\t+15%\t；攻击时，\t15%\t概率不被反击"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力3：\t攻击\t+20%\t；攻击时，\t20%\t概率不被反击"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "9. 不朽之杯【宝物】"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "初始：魔力+1；每前进3层迷宫，获得2瓶精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+1-9：每级提升 魔力+1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+10：魔力+12；每进入下一层，获得2瓶精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力1：掌握【不朽之源】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：增加冈布奥的属性"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "攻击、魔力+1；最大生命、魔法值+10"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1瓶先祖之血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力2：掌握【不朽之源】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：增加冈布奥的属性"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "攻击、魔力+2；最大生命、魔法值+20"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1瓶先祖之血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之力3：掌握【不朽之源】魔法（主动施放）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "效果：增加冈布奥的属性"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "攻击、魔力+3；最大生命、魔法值+30"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗：每次施放，需要消耗1瓶先祖之血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "隐藏冈布奥"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "血猎者获得方法"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "1. 圣器血猎者斗篷强化到+10+3。(注意+9+3不行)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "2. 60~100的Boss层概率遇到\"血猎者\"，穿上+10+3的斗篷对话，对话后斗篷消失，获得血猎者冈布奥，后续获得碎片x20。"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "*斗篷交掉后可以在x9地窖再拿一个没强化的"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "迷宫重要彩蛋"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "重要的获取是主线的狼人药剂，但不需要特意做。"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "迷宫特殊建筑"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "禁魔监狱"
-                }
-              ]
-            ]
+      },
+      {
+        "type": "text",
+        "value": "2. 九件圣器介绍"
+      },
+      {
+        "type": "text",
+        "value": "1. 圣辉之冠【头盔】"
+      },
+      {
+        "type": "text",
+        "value": "初始：\t生命值+10；所有光系魔法效果+2%"
+      },
+      {
+        "type": "text",
+        "value": "+1-9：每级提升 生命值+10；所有光系魔法效果+2%"
+      },
+      {
+        "type": "text",
+        "value": "+10：\t生命值+120；所有光系魔法效果+25%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力1："
+      },
+      {
+        "type": "text",
+        "value": "降低敌人攻击\t+1\t；\t攻击亡灵时，造成额外伤害\t+25%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力2："
+      },
+      {
+        "type": "text",
+        "value": "降低敌人攻击\t+3\t；\t攻击亡灵时，造成额外伤害\t+50%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力3："
+      },
+      {
+        "type": "text",
+        "value": "降低敌人攻击\t+5\t；\t攻击亡灵时，造成额外伤害\t+75%"
+      },
+      {
+        "type": "text",
+        "value": "2. 初拥之守护【铠甲】"
+      },
+      {
+        "type": "text",
+        "value": "初始：降低敌人攻击+1"
+      },
+      {
+        "type": "text",
+        "value": "+1-9：每级提升 降低敌人攻击+1"
+      },
+      {
+        "type": "text",
+        "value": "+10：降低敌人攻击+12"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力1：所有魔法效果\t+10%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力2：所有魔法效果\t+20%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力3：所有魔法效果\t+30%"
+      },
+      {
+        "type": "text",
+        "value": "3. 腐镯【手套】"
+      },
+      {
+        "type": "text",
+        "value": "初始：\t攻击+3；忽视敌人闪避+6%"
+      },
+      {
+        "type": "text",
+        "value": "+1-9：每级提升 \t攻击+1；忽视敌人闪避+2%"
+      },
+      {
+        "type": "text",
+        "value": "+10：\t攻击+15，忽视敌人闪避+30%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力1：掌握【腐蚀之云】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：群体攻击，附带中毒、即死效果\t（即死概率25%）"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1颗毒腺标本"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力2：掌握【腐蚀之云】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：群体攻击，附带中毒、即死效果\t（即死概率50%）"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1颗毒腺标本"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力3：掌握【腐蚀之云】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：群体攻击，附带中毒、即死效果\t（即死概率75%）"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1颗毒腺标本"
+      },
+      {
+        "type": "text",
+        "value": "4. 穆图之皮【腰带】"
+      },
+      {
+        "type": "text",
+        "value": "初始：每杀死一个敌人，恢复生命值+1；所有恢复类魔法效果+2%"
+      },
+      {
+        "type": "text",
+        "value": "+1-9：每级提升 每杀死一个敌人，恢复生命值+1；所有恢复类魔法效果+2%"
+      },
+      {
+        "type": "text",
+        "value": "+10：每杀死一个敌人，恢复生命值+12；所有恢复类魔法效果+25%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力1：掌握【细胞再生】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：恢复生命值\t+15%"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗5瓶精血"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力2：掌握【细胞再生】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：恢复生命值\t+25%"
+      },
+      {
+        "type": "text",
+        "value": "消耗：\t每次施放，需要消耗5瓶精血"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力3：掌握【细胞再生】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：恢复生命值\t+35%"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗5瓶精血"
+      },
+      {
+        "type": "text",
+        "value": "5. 会说话的人偶【项链】"
+      },
+      {
+        "type": "text",
+        "value": "初始：魔法值+10；所有伤害类魔法效果+2%"
+      },
+      {
+        "type": "text",
+        "value": "+1-9：每级提升 魔法值+10；所有伤害类魔法效果+2%"
+      },
+      {
+        "type": "text",
+        "value": "+10：魔法值+120；所有伤害类魔法效果+25%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力1：掌握【魔偶召唤】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：召唤魔法人偶"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1瓶魔法之尘"
+      },
+      {
+        "type": "text",
+        "value": "魔偶掌握重击：攻击时，50%概率造成2倍伤害"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力2：掌握【魔偶召唤】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：召唤魔法人偶"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1瓶魔法之尘"
+      },
+      {
+        "type": "text",
+        "value": "魔偶掌握诅咒：攻击时，概率附加诅咒效果（攻击力下降，持续3轮）"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力3：掌握【魔偶召唤】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：召唤魔法人偶"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1瓶魔法之尘"
+      },
+      {
+        "type": "text",
+        "value": "魔偶掌握禁术：所造成伤害的20%，恢复冈布奥生命值"
+      },
+      {
+        "type": "text",
+        "value": "6. 禁锢之牢【鞋子】"
+      },
+      {
+        "type": "text",
+        "value": "初始：闪避+2%"
+      },
+      {
+        "type": "text",
+        "value": "+1-9：每级提升 闪避+2%"
+      },
+      {
+        "type": "text",
+        "value": "+10：闪避+25%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力1：掌握【时光回溯】魔法\t（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：立刻回退\t3层\t迷宫"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1颗暗影石"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力2：掌握【时光回溯】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：立刻回退\t4层\t迷宫"
+      },
+      {
+        "type": "text",
+        "value": "消耗：\t每次施放，需要消耗1颗暗影石"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力3：掌握【时光回溯】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：立刻回退\t5层\t迷宫"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1颗暗影石"
+      },
+      {
+        "type": "text",
+        "value": "7. 尼伯龙根之枪【戒指】"
+      },
+      {
+        "type": "text",
+        "value": "初始：魔力+3；忽视敌人闪避+6%"
+      },
+      {
+        "type": "text",
+        "value": "+1-9：每级提升 魔力+1；忽视敌人闪避+2%"
+      },
+      {
+        "type": "text",
+        "value": "+10：魔力+15；忽视敌人闪避+30%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力1：掌握【湮灭弹】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：单体攻击(\t500伤害\t)，附带眩晕效果"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1颗秘银子弹"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力2：掌握【湮灭弹】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：单体攻击(\t1000伤害\t)，附带眩晕效果"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1颗秘银子弹"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力3：掌握【湮灭弹】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：单体攻击(\t1500伤害\t)，附带眩晕效果"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要\t消耗1颗秘银子弹"
+      },
+      {
+        "type": "text",
+        "value": "8. 血猎者斗篷【披风】(隐藏必须+10+3)"
+      },
+      {
+        "type": "text",
+        "value": "初始：攻击+1、闪避+5%"
+      },
+      {
+        "type": "text",
+        "value": "+1-9：每级提升 攻击+1"
+      },
+      {
+        "type": "text",
+        "value": "+10：攻击+12、闪避+5%"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力1：\t攻击\t+10%\t；攻击时，\t10%\t概率不被反击"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力2：\t攻击\t+15%\t；攻击时，\t15%\t概率不被反击"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力3：\t攻击\t+20%\t；攻击时，\t20%\t概率不被反击"
+      },
+      {
+        "type": "text",
+        "value": "9. 不朽之杯【宝物】"
+      },
+      {
+        "type": "text",
+        "value": "初始：魔力+1；每前进3层迷宫，获得2瓶精血"
+      },
+      {
+        "type": "text",
+        "value": "+1-9：每级提升 魔力+1"
+      },
+      {
+        "type": "text",
+        "value": "+10：魔力+12；每进入下一层，获得2瓶精血"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力1：掌握【不朽之源】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：增加冈布奥的属性"
+      },
+      {
+        "type": "text",
+        "value": "攻击、魔力+1；最大生命、魔法值+10"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1瓶先祖之血"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力2：掌握【不朽之源】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：增加冈布奥的属性"
+      },
+      {
+        "type": "text",
+        "value": "攻击、魔力+2；最大生命、魔法值+20"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1瓶先祖之血"
+      },
+      {
+        "type": "text",
+        "value": "先祖之力3：掌握【不朽之源】魔法（主动施放）"
+      },
+      {
+        "type": "text",
+        "value": "效果：增加冈布奥的属性"
+      },
+      {
+        "type": "text",
+        "value": "攻击、魔力+3；最大生命、魔法值+30"
+      },
+      {
+        "type": "text",
+        "value": "消耗：每次施放，需要消耗1瓶先祖之血"
+      },
+      {
+        "type": "text",
+        "value": "隐藏冈布奥"
+      },
+      {
+        "type": "text",
+        "value": "血猎者获得方法"
+      },
+      {
+        "type": "text",
+        "value": "1. 圣器血猎者斗篷强化到+10+3。(注意+9+3不行)"
+      },
+      {
+        "type": "text",
+        "value": "2. 60~100的Boss层概率遇到\"血猎者\"，穿上+10+3的斗篷对话，对话后斗篷消失，获得血猎者冈布奥，后续获得碎片x20。"
+      },
+      {
+        "type": "text",
+        "value": "*斗篷交掉后可以在x9地窖再拿一个没强化的"
+      },
+      {
+        "type": "text",
+        "value": "迷宫重要彩蛋"
+      },
+      {
+        "type": "text",
+        "value": "重要的获取是主线的狼人药剂，但不需要特意做。"
+      },
+      {
+        "type": "text",
+        "value": "迷宫特殊建筑"
+      },
+      {
+        "type": "group",
+        "value": [
+          {
+            "type": "text",
+            "value": "禁魔监狱"
           },
           {
             "type": "text",
             "value": "（夹层入口）"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "进入可出现血池、血猎者的残骸"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "进入可出现血池、血猎者的残骸"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "血池"
-                }
-              ]
-            ]
+            "value": "血池"
           },
           {
             "type": "text",
             "value": "（夹层）"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "精血*5 或 \t精血\t*10 或 \t先祖之血\t*1"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "精血*5 或 \t精血\t*10 或 \t先祖之血\t*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "血猎者的残骸"
-                }
-              ]
-            ]
+            "value": "血猎者的残骸"
           },
           {
             "type": "text",
             "value": "（夹层）"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "特制药水*2 或 特制药水*1+ 秘银子弹*1"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "特制药水*2 或 特制药水*1+ 秘银子弹*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "血腥地窖"
-                }
-              ]
-            ]
+            "value": "血腥地窖"
           },
           {
             "type": "text",
             "value": "（夹层入口 固定x9层出现）"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "进入后出现鲜血领主，击败鲜血领主后出现圣棺"
+      },
+      {
+        "type": "text",
+        "value": "圣棺 \t（道具\t三选一）"
+      },
+      {
+        "type": "text",
+        "value": "精血*20(左)、先祖之血*1(中)、随机未获得的圣器*1（右，拿到全部圣器后，改为氏族纹章*1）"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "进入后出现鲜血领主，击败鲜血领主后出现圣棺"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "圣棺 \t（道具\t三选一）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "精血*20(左)、先祖之血*1(中)、随机未获得的圣器*1（右，拿到全部圣器后，改为氏族纹章*1）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "吸血鬼商店"
-                }
-              ]
-            ]
+            "value": "吸血鬼商店"
           },
           {
             "type": "text",
             "value": "(地图特色商店 货币：探索点)"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "在售商品 (4件)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "其中1件固定为特制药水*1 (60)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特制药水 使用：恢复50点生命值并清除血咒状态"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "另外3件为随机道具"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "精血*5 (100)  精血*10 (200)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "先祖之血*1 (500)  \t魔法之尘*1 (150)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "毒腺标本*1 (150)  秘银子弹*1 (150)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "暗影石*1 (20\t0 上限10\t)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊勒索"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "氏族纹章*1  (限2次)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "氏族纹章  使用：冈布奥的攻击及魔力+1，获得500点探索点"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "德古拉的残骸（固定1层出现）"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 德古拉的印章*1 + 德古拉的血液*3 + 精血*10"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "德古拉的储藏室（固定1层出现）"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "使用德古拉的印章可解除封印"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "解锁后，德古拉的血液1:1兑换圣器"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "血腥实验台"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 魔法之尘*1 或 毒腺标本*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "狼人的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 狼人的右爪*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "狼人的右爪  使用：冈布奥攻击+6、使用后中毒"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "吸血鬼的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 吸血鬼上衣*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "吸血鬼上衣【铠甲】生命值+30、降低敌人攻击+2；吸血伯爵冈布奥装备时，攻击+3"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "猎人的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 猎人的长鞭*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "猎人的长鞭【手套】攻击+3、魔力+3；攻击时，5%概率施放流星雨"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "高中生的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 血蔷薇之枪*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "血蔷薇之枪  使用：对敌人造成100点伤害（子弹3/3）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "壮汉的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 杀手太阳镜*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "杀手太阳镜【头盔】攻击时，20%概率造成额外10点伤害；精血掉落概率+20%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "大盗神"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "隐藏的储物箱"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 精血*30"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "松动的地砖"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 氏族纹章*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "散落的物件"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "随机获得 毒腺标本/魔法之尘/秘银子弹*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "残破的巢穴"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 先祖之血*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "废弃的锅炉"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 随机2阶食材*20 或 3阶食材*10"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "血腥实验桌"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 实验体精血*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "实验体精血 使用：获得300点探索点；吸血伯爵冈布奥使用时，获得1瓶先祖之血；血猎者冈布奥使用时，获得30瓶精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "散落的录像带"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 录像带*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "录像带  使用：攻击吸血生物，造成额外伤害+15%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "灯异界"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "德古拉的残骸（固定1层出现）"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "德古拉的灵魂  使用：获得1瓶德古拉的血液"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "血猎者的残骸（夹层）"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "残破的血猎者之魂  使用：随机获得1～3瓶精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "完整的血猎者之魂  使用：随机获得6～10瓶精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "狼人的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "雅各布的灵魂  使用：攻击吸血生物，造成额外伤害+20%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "吸血鬼的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "阿鲁卡多的灵魂  使用：冈布奥攻击+2、闪避+6%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "猎人的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "西蒙的灵魂  使用：猎人的长鞭，能力提升"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "猎人的长鞭【手套】攻击+\t6、魔力+\t4；攻击时，5%概率施放流星雨\t；所有火系魔法效果+10%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "高中生的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "锥生零的灵魂  使用：血蔷薇之枪，弹药量提升"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "血蔷薇之枪  使用：对敌人造成100点伤害（子弹9/9）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "壮汉的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "刀锋战士的灵魂  使用：杀手太阳镜，能力提升"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "杀手太阳镜【头盔】\t降低敌人攻击+2\t；\t攻击时，20%概率造成额外\t20\t点伤害；精血掉落概率+20%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "厨师菜谱"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "鲜血盛宴"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊食材："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "血族之血*3 (鲜血领主掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "食用：免疫血毒状态（持续10轮）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "清蒸狼爪"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊食材："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "狼人之爪*3 (狼人掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "食用：冈布奥攻击+1、恢复50点生命值"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "秘制腐肉浓汤"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊食材："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "圣水*2 (血猎者掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "腐烂的肉*3 (尸巫/僵尸掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "食用：圣光庇护状态（每6轮自动施放圣光弹，持续本层）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "光明沙拉"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊食材："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "圣水*2 (血猎者掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "食用：冈布奥攻击+1；忽视敌人闪避+3%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "酱香菜心煲(隐藏)"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊食材："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "地精菜心*1 (大盗神翻找废弃的锅炉)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔偶之心*2 (召唤的魔偶死亡后掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "食用：冈布奥攻击及魔力+2；傀儡操控状态（魔偶攻击翻倍，持续本层）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "特殊照片"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "幽灵的照片"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "使用：冈布奥攻击+1、闪避+3%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "来源：翻出幽灵 3% 获取 (上限3)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "DP难点"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "(来源:\t贴吧-云尘尽转c)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "血蔷薇之枪杀敌"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "和杀敌系列dp做法差不多，点异界翻出来魂可以加强这把枪，顺便满子弹"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "9圣器&圣器技能"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "9个圣器升满级（每件+10+3）总共需要至少9×10×10=900的精血（这是假设你欧皇强化不\t失败的情况下，实际消耗远高于900），9×3=27的先祖之血，如果单纯把圣器+9+3少用90精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "想要做满这些dp，我们需要先了解地图机制中对圣器升级有帮助的地方——"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "（1）尸巫会叫小弟，杀死必出精血（类似圣塔的法师召唤光暗元素）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "（2）×9层杀死鲜血领主会给1圣器或1先祖之血或20精血，三选一"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "（3）特色商店会出精血、先祖之血；\t圣器技能材料（暗影石必买，其他建议只买毒腺和魔法之尘，圣器技能相关dp没做完则全买）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "（4）圣器鞋强化先祖之力获得技能时光回溯（消耗1暗影石，根据鞋子的先祖之力等级+1/+2/+3返回3/4/5层）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "根据这些，我们可以总结出做dp的基础思路——利用时光回溯和大地之门在低层拼命刷资源"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "称号推荐异界（一层可多拿一件圣器；\t翻血猎者的尸体拿的魂给精血；\t速出贵族套）\t+位面（不解释）+随便（不知道点啥就光辉撑血吧，冒险系出战点镇龙骑士需要的失明不够）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "由于一层需要出异界，所以最好冒险系出战，\t一层拿鞋子（重点，回层数用）、不朽之杯（下楼送2精血）、铠甲（降低敌人攻击，增加自己生存能力）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "路上商店全买，\t碰见尸巫留着等召唤了2个小弟再杀"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "在9、19层杀死鲜血领主拿先祖血，速出+9+3的鞋子，\t在19~24层反复横跳（如果能飞到9层更好，在9层和14层之间反复横跳）= ="
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "鞋子+9+3后不用再理会，第二个强化护甲，减少刷怪的损伤；第三个强化不朽之杯，10级时每前进1层迷宫+2精血，优先+10+0；第四个强化斗篷，用来拿隐藏；之后怎么开心怎么强化，想强化哪个就强化哪个。"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "一些小技巧——"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "+9+3就算做好先祖之力到3级的dp了，除斗篷外别的没有必要全+10"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "精血失败次数太多感觉浪费，可以小sl下楼再强化"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "保持一直在50层以下刷资源，大地之门到了极限回层就用，暗影石要么14、24层用，要么就在29、39、49、59等×9层用（没法拿×10的资源就拿×5的资源）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "最好在60层之前把斗篷+10+3，顺便拿隐藏"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "施放圣器技能\t——"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "时光回溯——需要暗影石，一局最多10个，别想了，准备肝第二次吧，刚好可以把这次没做完的释放技能做完"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "腐蚀之云——需要毒腺标本，这个还是留一留，80层开始一个图扔一次，你会有一种开挂的感觉"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "细胞再生——需要精血*5，回血用，全圣器+9+3之后多余的精血不想+10+3就扔进来吧，20次总共要100个精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "不朽之源——需要先祖之血*1，加属性用，后期无用的先祖之血就直接扔进这个就好（一般一局做不完，可能需要第二局再来刷，多拿先祖之血，拿了就扔进来就很快做出来了）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "湮灭弹——需要秘银子弹，一发单体眩晕攻击，控制卷轴不够就拿这个扔"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔偶召唤——需要魔法之尘，这个没有使用次数的要求，但有杀死50敌人的dp需要做；高层这玩意挺强的，打boss可放一个减少压力"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "刷dp的话，一局肯定有没做完的（比如细胞再生20次和不朽之源20次），第二局再来一轮还可以顺便把不拿圣器上30层的dp也拿了，飞回来再10次暗影石针对没做完的dp再肝一波肯定就全完成了（由于无需冒险系一层出异界了，魔法系出战速出位面）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "隐藏冈布奥"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "60—100层的boss层中几率出现，穿上+10+3的圣器血猎者斗篷与其对话并给他斗篷即可入手，之后获取方式不变，一次20碎（脸黑常驻100层，做好心理准备）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "注意斗篷必须是+10+3，+9+3的水货不行"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "斗篷给了他之后还会在血池获取，只不过再拿回来的就是假冒伪劣产品了……（变为初始+0+0状态）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "速刷阵容"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "(来源:贴吧-longyin0429)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "出战"
-                }
-              ]
-            ]
+      },
+      {
+        "type": "text",
+        "value": "在售商品 (4件)"
+      },
+      {
+        "type": "text",
+        "value": "其中1件固定为特制药水*1 (60)"
+      },
+      {
+        "type": "text",
+        "value": "特制药水 使用：恢复50点生命值并清除血咒状态"
+      },
+      {
+        "type": "text",
+        "value": "另外3件为随机道具"
+      },
+      {
+        "type": "text",
+        "value": "精血*5 (100)  精血*10 (200)"
+      },
+      {
+        "type": "text",
+        "value": "先祖之血*1 (500)  \t魔法之尘*1 (150)"
+      },
+      {
+        "type": "text",
+        "value": "毒腺标本*1 (150)  秘银子弹*1 (150)"
+      },
+      {
+        "type": "text",
+        "value": "暗影石*1 (20\t0 上限10\t)"
+      },
+      {
+        "type": "text",
+        "value": "特殊勒索"
+      },
+      {
+        "type": "text",
+        "value": "氏族纹章*1  (限2次)"
+      },
+      {
+        "type": "text",
+        "value": "氏族纹章  使用：冈布奥的攻击及魔力+1，获得500点探索点"
+      },
+      {
+        "type": "text",
+        "value": "德古拉的残骸（固定1层出现）"
+      },
+      {
+        "type": "text",
+        "value": "获得 德古拉的印章*1 + 德古拉的血液*3 + 精血*10"
+      },
+      {
+        "type": "text",
+        "value": "德古拉的储藏室（固定1层出现）"
+      },
+      {
+        "type": "text",
+        "value": "使用德古拉的印章可解除封印"
+      },
+      {
+        "type": "text",
+        "value": "解锁后，德古拉的血液1:1兑换圣器"
+      },
+      {
+        "type": "text",
+        "value": "血腥实验台"
+      },
+      {
+        "type": "text",
+        "value": "获得 魔法之尘*1 或 毒腺标本*1"
+      },
+      {
+        "type": "text",
+        "value": "狼人的残骸"
+      },
+      {
+        "type": "text",
+        "value": "获得 狼人的右爪*1"
+      },
+      {
+        "type": "text",
+        "value": "狼人的右爪  使用：冈布奥攻击+6、使用后中毒"
+      },
+      {
+        "type": "text",
+        "value": "吸血鬼的残骸"
+      },
+      {
+        "type": "text",
+        "value": "获得 吸血鬼上衣*1"
+      },
+      {
+        "type": "text",
+        "value": "吸血鬼上衣【铠甲】生命值+30、降低敌人攻击+2；吸血伯爵冈布奥装备时，攻击+3"
+      },
+      {
+        "type": "text",
+        "value": "猎人的残骸"
+      },
+      {
+        "type": "text",
+        "value": "获得 猎人的长鞭*1"
+      },
+      {
+        "type": "text",
+        "value": "猎人的长鞭【手套】攻击+3、魔力+3；攻击时，5%概率施放流星雨"
+      },
+      {
+        "type": "text",
+        "value": "高中生的残骸"
+      },
+      {
+        "type": "text",
+        "value": "获得 血蔷薇之枪*1"
+      },
+      {
+        "type": "text",
+        "value": "血蔷薇之枪  使用：对敌人造成100点伤害（子弹3/3）"
+      },
+      {
+        "type": "text",
+        "value": "壮汉的残骸"
+      },
+      {
+        "type": "text",
+        "value": "获得 杀手太阳镜*1"
+      },
+      {
+        "type": "text",
+        "value": "杀手太阳镜【头盔】攻击时，20%概率造成额外10点伤害；精血掉落概率+20%"
+      },
+      {
+        "type": "text",
+        "value": "大盗神"
+      },
+      {
+        "type": "text",
+        "value": "隐藏的储物箱"
+      },
+      {
+        "type": "text",
+        "value": "获得 精血*30"
+      },
+      {
+        "type": "text",
+        "value": "松动的地砖"
+      },
+      {
+        "type": "text",
+        "value": "获得 氏族纹章*1"
+      },
+      {
+        "type": "text",
+        "value": "散落的物件"
+      },
+      {
+        "type": "text",
+        "value": "随机获得 毒腺标本/魔法之尘/秘银子弹*1"
+      },
+      {
+        "type": "text",
+        "value": "残破的巢穴"
+      },
+      {
+        "type": "text",
+        "value": "获得 先祖之血*1"
+      },
+      {
+        "type": "text",
+        "value": "废弃的锅炉"
+      },
+      {
+        "type": "text",
+        "value": "获得 随机2阶食材*20 或 3阶食材*10"
+      },
+      {
+        "type": "text",
+        "value": "血腥实验桌"
+      },
+      {
+        "type": "text",
+        "value": "获得 实验体精血*1"
+      },
+      {
+        "type": "text",
+        "value": "实验体精血 使用：获得300点探索点；吸血伯爵冈布奥使用时，获得1瓶先祖之血；血猎者冈布奥使用时，获得30瓶精血"
+      },
+      {
+        "type": "text",
+        "value": "散落的录像带"
+      },
+      {
+        "type": "text",
+        "value": "获得 录像带*1"
+      },
+      {
+        "type": "text",
+        "value": "录像带  使用：攻击吸血生物，造成额外伤害+15%"
+      },
+      {
+        "type": "text",
+        "value": "灯异界"
+      },
+      {
+        "type": "text",
+        "value": "德古拉的残骸（固定1层出现）"
+      },
+      {
+        "type": "text",
+        "value": "德古拉的灵魂  使用：获得1瓶德古拉的血液"
+      },
+      {
+        "type": "text",
+        "value": "血猎者的残骸（夹层）"
+      },
+      {
+        "type": "text",
+        "value": "残破的血猎者之魂  使用：随机获得1～3瓶精血"
+      },
+      {
+        "type": "text",
+        "value": "完整的血猎者之魂  使用：随机获得6～10瓶精血"
+      },
+      {
+        "type": "text",
+        "value": "狼人的残骸"
+      },
+      {
+        "type": "text",
+        "value": "雅各布的灵魂  使用：攻击吸血生物，造成额外伤害+20%"
+      },
+      {
+        "type": "text",
+        "value": "吸血鬼的残骸"
+      },
+      {
+        "type": "text",
+        "value": "阿鲁卡多的灵魂  使用：冈布奥攻击+2、闪避+6%"
+      },
+      {
+        "type": "text",
+        "value": "猎人的残骸"
+      },
+      {
+        "type": "text",
+        "value": "西蒙的灵魂  使用：猎人的长鞭，能力提升"
+      },
+      {
+        "type": "text",
+        "value": "猎人的长鞭【手套】攻击+\t6、魔力+\t4；攻击时，5%概率施放流星雨\t；所有火系魔法效果+10%"
+      },
+      {
+        "type": "text",
+        "value": "高中生的残骸"
+      },
+      {
+        "type": "text",
+        "value": "锥生零的灵魂  使用：血蔷薇之枪，弹药量提升"
+      },
+      {
+        "type": "text",
+        "value": "血蔷薇之枪  使用：对敌人造成100点伤害（子弹9/9）"
+      },
+      {
+        "type": "text",
+        "value": "壮汉的残骸"
+      },
+      {
+        "type": "text",
+        "value": "刀锋战士的灵魂  使用：杀手太阳镜，能力提升"
+      },
+      {
+        "type": "text",
+        "value": "杀手太阳镜【头盔】\t降低敌人攻击+2\t；\t攻击时，20%概率造成额外\t20\t点伤害；精血掉落概率+20%"
+      },
+      {
+        "type": "text",
+        "value": "厨师菜谱"
+      },
+      {
+        "type": "text",
+        "value": "鲜血盛宴"
+      },
+      {
+        "type": "text",
+        "value": "特殊食材："
+      },
+      {
+        "type": "text",
+        "value": "血族之血*3 (鲜血领主掉落)"
+      },
+      {
+        "type": "text",
+        "value": "食用：免疫血毒状态（持续10轮）"
+      },
+      {
+        "type": "text",
+        "value": "清蒸狼爪"
+      },
+      {
+        "type": "text",
+        "value": "特殊食材："
+      },
+      {
+        "type": "text",
+        "value": "狼人之爪*3 (狼人掉落)"
+      },
+      {
+        "type": "text",
+        "value": "食用：冈布奥攻击+1、恢复50点生命值"
+      },
+      {
+        "type": "text",
+        "value": "秘制腐肉浓汤"
+      },
+      {
+        "type": "text",
+        "value": "特殊食材："
+      },
+      {
+        "type": "text",
+        "value": "圣水*2 (血猎者掉落)"
+      },
+      {
+        "type": "text",
+        "value": "腐烂的肉*3 (尸巫/僵尸掉落)"
+      },
+      {
+        "type": "text",
+        "value": "食用：圣光庇护状态（每6轮自动施放圣光弹，持续本层）"
+      },
+      {
+        "type": "text",
+        "value": "光明沙拉"
+      },
+      {
+        "type": "text",
+        "value": "特殊食材："
+      },
+      {
+        "type": "text",
+        "value": "圣水*2 (血猎者掉落)"
+      },
+      {
+        "type": "text",
+        "value": "食用：冈布奥攻击+1；忽视敌人闪避+3%"
+      },
+      {
+        "type": "text",
+        "value": "酱香菜心煲(隐藏)"
+      },
+      {
+        "type": "text",
+        "value": "特殊食材："
+      },
+      {
+        "type": "text",
+        "value": "地精菜心*1 (大盗神翻找废弃的锅炉)"
+      },
+      {
+        "type": "text",
+        "value": "魔偶之心*2 (召唤的魔偶死亡后掉落)"
+      },
+      {
+        "type": "text",
+        "value": "食用：冈布奥攻击及魔力+2；傀儡操控状态（魔偶攻击翻倍，持续本层）"
+      },
+      {
+        "type": "text",
+        "value": "特殊照片"
+      },
+      {
+        "type": "text",
+        "value": "幽灵的照片"
+      },
+      {
+        "type": "text",
+        "value": "使用：冈布奥攻击+1、闪避+3%"
+      },
+      {
+        "type": "text",
+        "value": "来源：翻出幽灵 3% 获取 (上限3)"
+      },
+      {
+        "type": "text",
+        "value": "DP难点"
+      },
+      {
+        "type": "text",
+        "value": "(来源:\t贴吧-云尘尽转c)"
+      },
+      {
+        "type": "text",
+        "value": "血蔷薇之枪杀敌"
+      },
+      {
+        "type": "text",
+        "value": "和杀敌系列dp做法差不多，点异界翻出来魂可以加强这把枪，顺便满子弹"
+      },
+      {
+        "type": "text",
+        "value": "9圣器&圣器技能"
+      },
+      {
+        "type": "text",
+        "value": "9个圣器升满级（每件+10+3）总共需要至少9×10×10=900的精血（这是假设你欧皇强化不\t失败的情况下，实际消耗远高于900），9×3=27的先祖之血，如果单纯把圣器+9+3少用90精血"
+      },
+      {
+        "type": "text",
+        "value": "想要做满这些dp，我们需要先了解地图机制中对圣器升级有帮助的地方——"
+      },
+      {
+        "type": "text",
+        "value": "（1）尸巫会叫小弟，杀死必出精血（类似圣塔的法师召唤光暗元素）"
+      },
+      {
+        "type": "text",
+        "value": "（2）×9层杀死鲜血领主会给1圣器或1先祖之血或20精血，三选一"
+      },
+      {
+        "type": "text",
+        "value": "（3）特色商店会出精血、先祖之血；\t圣器技能材料（暗影石必买，其他建议只买毒腺和魔法之尘，圣器技能相关dp没做完则全买）"
+      },
+      {
+        "type": "text",
+        "value": "（4）圣器鞋强化先祖之力获得技能时光回溯（消耗1暗影石，根据鞋子的先祖之力等级+1/+2/+3返回3/4/5层）"
+      },
+      {
+        "type": "text",
+        "value": "根据这些，我们可以总结出做dp的基础思路——利用时光回溯和大地之门在低层拼命刷资源"
+      },
+      {
+        "type": "text",
+        "value": "称号推荐异界（一层可多拿一件圣器；\t翻血猎者的尸体拿的魂给精血；\t速出贵族套）\t+位面（不解释）+随便（不知道点啥就光辉撑血吧，冒险系出战点镇龙骑士需要的失明不够）"
+      },
+      {
+        "type": "text",
+        "value": "由于一层需要出异界，所以最好冒险系出战，\t一层拿鞋子（重点，回层数用）、不朽之杯（下楼送2精血）、铠甲（降低敌人攻击，增加自己生存能力）"
+      },
+      {
+        "type": "text",
+        "value": "路上商店全买，\t碰见尸巫留着等召唤了2个小弟再杀"
+      },
+      {
+        "type": "text",
+        "value": "在9、19层杀死鲜血领主拿先祖血，速出+9+3的鞋子，\t在19~24层反复横跳（如果能飞到9层更好，在9层和14层之间反复横跳）= ="
+      },
+      {
+        "type": "text",
+        "value": "鞋子+9+3后不用再理会，第二个强化护甲，减少刷怪的损伤；第三个强化不朽之杯，10级时每前进1层迷宫+2精血，优先+10+0；第四个强化斗篷，用来拿隐藏；之后怎么开心怎么强化，想强化哪个就强化哪个。"
+      },
+      {
+        "type": "text",
+        "value": "一些小技巧——"
+      },
+      {
+        "type": "text",
+        "value": "+9+3就算做好先祖之力到3级的dp了，除斗篷外别的没有必要全+10"
+      },
+      {
+        "type": "text",
+        "value": "精血失败次数太多感觉浪费，可以小sl下楼再强化"
+      },
+      {
+        "type": "text",
+        "value": "保持一直在50层以下刷资源，大地之门到了极限回层就用，暗影石要么14、24层用，要么就在29、39、49、59等×9层用（没法拿×10的资源就拿×5的资源）"
+      },
+      {
+        "type": "text",
+        "value": "最好在60层之前把斗篷+10+3，顺便拿隐藏"
+      },
+      {
+        "type": "text",
+        "value": "施放圣器技能\t——"
+      },
+      {
+        "type": "text",
+        "value": "时光回溯——需要暗影石，一局最多10个，别想了，准备肝第二次吧，刚好可以把这次没做完的释放技能做完"
+      },
+      {
+        "type": "text",
+        "value": "腐蚀之云——需要毒腺标本，这个还是留一留，80层开始一个图扔一次，你会有一种开挂的感觉"
+      },
+      {
+        "type": "text",
+        "value": "细胞再生——需要精血*5，回血用，全圣器+9+3之后多余的精血不想+10+3就扔进来吧，20次总共要100个精血"
+      },
+      {
+        "type": "text",
+        "value": "不朽之源——需要先祖之血*1，加属性用，后期无用的先祖之血就直接扔进这个就好（一般一局做不完，可能需要第二局再来刷，多拿先祖之血，拿了就扔进来就很快做出来了）"
+      },
+      {
+        "type": "text",
+        "value": "湮灭弹——需要秘银子弹，一发单体眩晕攻击，控制卷轴不够就拿这个扔"
+      },
+      {
+        "type": "text",
+        "value": "魔偶召唤——需要魔法之尘，这个没有使用次数的要求，但有杀死50敌人的dp需要做；高层这玩意挺强的，打boss可放一个减少压力"
+      },
+      {
+        "type": "text",
+        "value": "刷dp的话，一局肯定有没做完的（比如细胞再生20次和不朽之源20次），第二局再来一轮还可以顺便把不拿圣器上30层的dp也拿了，飞回来再10次暗影石针对没做完的dp再肝一波肯定就全完成了（由于无需冒险系一层出异界了，魔法系出战速出位面）"
+      },
+      {
+        "type": "text",
+        "value": "隐藏冈布奥"
+      },
+      {
+        "type": "text",
+        "value": "60—100层的boss层中几率出现，穿上+10+3的圣器血猎者斗篷与其对话并给他斗篷即可入手，之后获取方式不变，一次20碎（脸黑常驻100层，做好心理准备）"
+      },
+      {
+        "type": "text",
+        "value": "注意斗篷必须是+10+3，+9+3的水货不行"
+      },
+      {
+        "type": "text",
+        "value": "斗篷给了他之后还会在血池获取，只不过再拿回来的就是假冒伪劣产品了……（变为初始+0+0状态）"
+      },
+      {
+        "type": "text",
+        "value": "速刷阵容"
+      },
+      {
+        "type": "text",
+        "value": "(来源:贴吧-longyin0429)"
+      },
+      {
+        "type": "group",
+        "value": [
+          {
+            "type": "text",
+            "value": "出战"
           },
           {
             "type": "text",
             "value": "：凤凰链接二郎神仓鼠"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "凤凰加仓鼠：前期飞速，凤凰还送毁灭之刃，重生"
+      },
+      {
+        "type": "text",
+        "value": "狗：后期飞速"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "凤凰加仓鼠：前期飞速，凤凰还送毁灭之刃，重生"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "狗：后期飞速"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "称号"
-                }
-              ]
-            ]
+            "value": "称号"
           },
           {
             "type": "text",
             "value": "：异界，光辉圣骑士，传奇"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "group",
+        "value": [
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "药水"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "药水"
           },
           {
             "type": "text",
             "value": "：狼人"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "group",
+        "value": [
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "神器"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "神器"
           },
           {
             "type": "text",
             "value": "：传奇项链。。。送三个时停"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "group",
+        "value": [
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "圣物"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "圣物"
           },
           {
             "type": "text",
             "value": "：一件披风就行"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "group",
+        "value": [
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "打法"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "打法"
           },
           {
             "type": "text",
             "value": "："
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "1：称号先点出贵族套满，不用异界，再点到重装骑士，再点气传，为了时停更久"
+      },
+      {
+        "type": "text",
+        "value": "2：49层招狗，嗑药，吃仓鼠粮食拖回合，点出光辉，一般1200血1800功狗就行"
+      },
+      {
+        "type": "text",
+        "value": "3：90层以上小怪可能翻车，点出灯芯，直接地震灯芯过图就行，要学会控怪给狗吸血"
+      },
+      {
+        "type": "text",
+        "value": "4：前49层只需要一路翻地板然后天眼过图"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "1：称号先点出贵族套满，不用异界，再点到重装骑士，再点气传，为了时停更久"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "2：49层招狗，嗑药，吃仓鼠粮食拖回合，点出光辉，一般1200血1800功狗就行"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "3：90层以上小怪可能翻车，点出灯芯，直接地震灯芯过图就行，要学会控怪给狗吸血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "4：前49层只需要一路翻地板然后天眼过图"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "boss打法"
-                }
-              ]
-            ]
+            "value": "boss打法"
           },
           {
             "type": "text",
             "value": "："
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "30 祝福天眼"
+      },
+      {
+        "type": "text",
+        "value": "40 毁灭天眼"
+      },
+      {
+        "type": "text",
+        "value": "50 狗"
+      },
+      {
+        "type": "text",
+        "value": "60 呱狗"
+      },
+      {
+        "type": "text",
+        "value": "70 呱狗或者时停狗"
+      },
+      {
+        "type": "text",
+        "value": "80-100 时停瓦解狗"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "30 祝福天眼"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "40 毁灭天眼"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "50 狗"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "60 呱狗"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "70 呱狗或者时停狗"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "80-100 时停瓦解狗"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "组合优点"
-                }
-              ]
-            ]
+            "value": "组合优点"
           },
           {
             "type": "text",
             "value": "："
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "1、一楼开始起飞一直飞到100楼，招僵尸就让他招吧，凤凰的aoe教他做僵尸，还可以刷精血"
+      },
+      {
+        "type": "text",
+        "value": "2、凤凰送毁灭重生，稳定招狗无压力，仓鼠开地板一路畅通无阻！"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "1、一楼开始起飞一直飞到100楼，招僵尸就让他招吧，凤凰的aoe教他做僵尸，还可以刷精血"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "2、凤凰送毁灭重生，稳定招狗无压力，仓鼠开地板一路畅通无阻！"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "缺点"
-                }
-              ]
-            ]
+            "value": "缺点"
           },
           {
             "type": "text",
             "value": "：高层注意狗的血量，不过sl也就一分钟的事"
           }
         ]
-      ]
-    }
-  ]
-}
+      }
+    ]
+  }
+]

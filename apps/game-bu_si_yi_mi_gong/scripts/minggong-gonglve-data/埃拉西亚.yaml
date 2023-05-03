@@ -1,0 +1,1656 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制"
+    - type: image
+      value: data:,
+    - type: text
+      value: "工程学手册"
+    - type: text
+      value: "1. 基本规则"
+    - type: text
+      value: "第一次翻找研究员的残骸时获得\"工程学手册\"，工程学手册共有4页：冶金学、电气学、航天学、古代科技。"
+    - type: text
+      value: "前3页分别使用冶金元件、电气元件、航天元件进行研究和升级，每一页各个分支的最终研究项，还需要消耗一定数量的古代元件。"
+    - type: text
+      value: "第4页古代科技需要先使用古代芯片解锁，之后使用残缺的研究报告、研究报告和古代元件进行升级。"
+    - type: text
+      value: "2.1 冶金学"
+    - type: text
+      value: "主要用于制造和强化\"蒸汽动力\"套装"
+    - type: group
+    - value:
+      - type: text
+        value: "与"
+      - type: text
+        value: "阿瓦隆要塞\t冶金学相同，不再重复介绍"
+    - type: text
+      value: "2.2 电气学"
+    - type: text
+      value: "主要用于制造和强化\"电气时代\"套装"
+    - type: group
+    - value:
+      - type: text
+        value: "与"
+      - type: text
+        value: "蒸汽之都\t电气\t学相同，不再重复介绍"
+    - type: text
+      value: "2.3 航天学"
+    - type: text
+      value: "主要用于强化呼叫飞艇后的空战能力"
+    - type: text
+      value: "主1：对讲机电池制造"
+    - type: text
+      value: "花费2航天元件，制造一只【对讲机电池】"
+    - type: text
+      value: "主2：飞艇能源补给"
+    - type: text
+      value: "花费1航天元件，立即恢复10%飞艇战力"
+    - type: text
+      value: "强化A：航天综合系统 (最大3 / 消耗5)"
+    - type: text
+      value: "飞艇出战时：战力+10w/20w/30w"
+    - type: text
+      value: "强化A-1：航天武器系统 (最大3 / 消耗5)"
+    - type: text
+      value: "飞艇出战时：火力+10/20/30"
+    - type: text
+      value: "强化A-2：航天保障系统 (最大3 / 消耗5)"
+    - type: text
+      value: "飞艇出战时：装甲+10/20/30"
+    - type: text
+      value: "强化A-3：航天动力系统 (最大3 / 消耗5)"
+    - type: text
+      value: "飞艇出战时：机动+10/20/30"
+    - type: text
+      value: "强化A-4：航天控制系统 (最大3 / 消耗5)"
+    - type: text
+      value: "飞艇出战时：幸运+10/20/30"
+    - type: text
+      value: "强化B：飞艇故障检修 (最大3 / 消耗5)"
+    - type: text
+      value: "飞艇出战时：每次战斗结束，恢复3/6/9%战力"
+    - type: text
+      value: "强化B-1：反卫星导弹 (最大3 / 消耗5)"
+    - type: text
+      value: "飞艇出战时：所有敌方卫星，降低10/20/30%战力"
+    - type: text
+      value: "强化B-2：卫星干扰仪 (最大3 / 消耗5)"
+    - type: text
+      value: "飞艇出战时：所有敌方卫星，降低3/6/9全属性"
+    - type: text
+      value: "强化B-2-1：猎法者卫星研究 (最大5 / 消耗8+1)"
+    - type: text
+      value: "猎法者轨道卫星受到干扰："
+    - type: text
+      value: "战斗开始时，20/40/60/80/100%概率陷入禁锢（持续2轮）"
+    - type: text
+      value: "满级后可在坠毁的卫星拾取猎法者卫星碎片"
+    - type: text
+      value: "强化B-2-2：歼灭者卫星研究 (最大5 / 消耗8+1)"
+    - type: text
+      value: "歼灭者轨道卫星受到干扰："
+    - type: text
+      value: "战斗开始时，20/40/60/80/100%概率陷入禁锢（持续2轮）"
+    - type: text
+      value: "满级后可在坠毁的卫星拾取歼灭者卫星碎片"
+    - type: text
+      value: "强化B-2-3：守护者卫星研究 (最大5 / 消耗8+1)"
+    - type: text
+      value: "守护者轨道卫星受到干扰："
+    - type: text
+      value: "战斗开始时，20/40/60/80/100%概率陷入禁锢（持续2轮）"
+    - type: text
+      value: "满级后可在坠毁的卫星拾取守护者卫星碎片"
+    - type: text
+      value: "强化B-2-4：追踪者卫星研究 (最大5 / 消耗8+1)"
+    - type: text
+      value: "追踪者轨道卫星受到干扰："
+    - type: text
+      value: "战斗开始时，20/40/60/80/100%概率陷入禁锢（持续2轮）"
+    - type: text
+      value: "满级后可在坠毁的卫星拾取追踪者卫星碎片"
+    - type: text
+      value: "主3：航天机械人 (获得德库尔芯片后开启)"
+    - type: text
+      value: "花费 德库尔芯片*1 和 古代芯片*3，召唤【德库尔】"
+    - type: text
+      value: "首次制造时，获得道具 德库尔，结算获得机械人 德库尔"
+    - type: text
+      value: "德库尔【1星】：战力+2000，降低所受秘宝伤害+1%（可升级）"
+    - type: text
+      value: "后续制造【德库尔】时，召唤机器人【德库尔】（迷宫内有效，无法复活，升级进程可继承，迷宫外机械人【德库尔】星阶与迷宫内同步升级）"
+    - type: text
+      value: "【德库尔】Lv.1"
+    - type: text
+      value: "属性：攻击45  生命值900  闪避0  命中100%"
+    - type: text
+      value: "狙击：每3轮发动一次攻击。40%概率造成3倍伤害"
+    - type: text
+      value: "反卫星装置：遭遇卫星时，40%概率将其禁锢（持续1轮，对BOSS层卫星有效）"
+    - type: text
+      value: "航天装甲：降低所受伤害10%，且免疫反射伤害"
+    - type: text
+      value: "能量汲取（Lv.1）：杀死200个敌人，等级提升（0/200）"
+    - type: text
+      value: "【德库尔】Lv.2"
+    - type: text
+      value: "属性：攻击60  生命值1200  闪避0  命中100%"
+    - type: text
+      value: "狙击：每3轮发动一次攻击。60%概率造成3倍伤害"
+    - type: text
+      value: "反卫星装置：遭遇卫星时，60%概率将其禁锢（持续1轮，对BOSS层卫星有效）"
+    - type: text
+      value: "航天装甲：降低所受伤害15%，且免疫反射伤害"
+    - type: text
+      value: "能量汲取（Lv.2）：杀死300个敌人，等级提升（0/300）"
+    - type: text
+      value: "【德库尔】Lv.3"
+    - type: text
+      value: "属性：攻击75  生命值1500  闪避0  命中100%"
+    - type: text
+      value: "狙击：每3轮发动一次攻击。80%概率造成3倍伤害"
+    - type: text
+      value: "反卫星装置：遭遇卫星时，80%概率将其禁锢（持续1轮，对BOSS层卫星有效）"
+    - type: text
+      value: "航天装甲：降低所受伤害20%，且免疫反射伤害"
+    - type: text
+      value: "能量汲取（Lv.3）：杀死400个敌人，等级提升（0/4200）"
+    - type: text
+      value: "【德库尔】Lv.4 (满级)"
+    - type: text
+      value: "属性：攻击90  生命值1800  闪避0  命中100%"
+    - type: text
+      value: "狙击：每3轮发动一次攻击。100%概率造成3倍伤害"
+    - type: text
+      value: "反卫星装置：遭遇卫星时，100%概率将其禁锢（持续1轮，对BOSS层卫星有效）"
+    - type: text
+      value: "航天装甲：降低所受伤害25%，且免疫反射伤害"
+    - type: text
+      value: "满级后机械人属性，德库尔【4星】：战力+12000，降低所受秘宝伤害+3%"
+    - type: text
+      value: "2.4 古代科技"
+    - type: text
+      value: "古代科技共有红色、黄色、蓝色、绿色四大类，\t每个大类可解锁4种低级科技和1种高级科技，高级科技必须先解锁4种初级科技后才能解锁。"
+    - type: text
+      value: "解锁科技位满后再使用芯片仅获得探索点 (初级+100，高级+200)。"
+    - type: text
+      value: "低级科技可额外升2级，使用残缺的研究报告*1+古代元件*1"
+    - type: text
+      value: "高级科技可额外升4级，使用研究报告*1+古代元件*2"
+    - type: text
+      value: "红色\t\t古代科技"
+    - type: text
+      value: "低级科技"
+    - type: text
+      value: "秘法结晶构造（红卫星）：每穿戴一件电气学装备所有伤害类魔法效果+2/4/6%"
+    - type: text
+      value: "超韧性植物纤维（红卫星）：每穿戴一件电气学装备所有恢复类魔法效果+2/4/6%"
+    - type: text
+      value: "反隐形材料研究（红卫星）：每穿戴一件电气学装备，忽视敌人闪避+3/6/9%"
+    - type: text
+      value: "魔法阵能源结构（红卫星）：每穿戴一件电气学装备所有辅助类魔法效果+2/4/6%"
+    - type: text
+      value: "高功率储能系统（商店）：每穿戴一件电气学装备魔力+1/2/3"
+    - type: text
+      value: "可控聚变能量（商店）：每穿戴一件电气学装备，所有高阶魔法伤害+2/4/6%"
+    - type: text
+      value: "高级科技"
+    - type: text
+      value: "灵魂物质提取（红卫星）：穿戴全套电气学装备时魔力+4/8/12/16/20%，忽视敌人魔法抗性+4/8/12/16/20%"
+    - type: text
+      value: "菲尼克斯电子晶片（商店）：穿戴任意\"电气学装备\"时，所有魔法效果+6/12/18/24/30%"
+    - type: text
+      value: "霍兰德遗传算法（未知生物卫星猴子残骸）：冈布奥死亡时，随机提升3/6/9/12/15点魔力"
+    - type: group
+    - value:
+      - type: text
+        value: "黄色\t\t古代"
+      - type: text
+        value: "科技"
+    - type: text
+      value: "低级科技"
+    - type: text
+      value: "土元素能量解析（黄卫星）：降低敌人攻击+2/4/6，所有土系魔法效果+5/10/15%"
+    - type: text
+      value: "水元素能量解析（黄卫星）：魔法值+20/40/60，所有水系魔法效果+5/10/15%"
+    - type: text
+      value: "火元素能量解析（黄卫星）：攻击+2/4/6，所有水系魔法效果+5/10/15%"
+    - type: text
+      value: "气元素能量解析（黄卫星）：魔力+2/4/6，所有风系魔法效果+5/10/15%"
+    - type: text
+      value: "光元素能量解析（黄卫星）：生命值+20/40/60，所有光系魔法效果+5/10/15%"
+    - type: text
+      value: "暗元素能量解析（黄卫星）：忽视敌人魔法抗性+3/6/9%，所有暗系魔法效果+5/10/15%"
+    - type: text
+      value: "高级科技"
+    - type: text
+      value: "元素法则构建(黄卫星)：所有魔法效果+3/6/9/12/15%，升级魔法系称号时，10/20/30/40/50%概率提升2点魔力"
+    - type: text
+      value: "元素能量转换(商店)：所有冈布奥主动技能，能量累积速度+10/20/30/40/50%"
+    - type: group
+    - value:
+      - type: text
+        value: "蓝色古代"
+      - type: text
+        value: "科技"
+    - type: text
+      value: "低级科技"
+    - type: text
+      value: "骨骼解析与强化（蓝卫星）：每穿戴一件蒸汽动力装备攻击+1/2/3"
+    - type: text
+      value: "自由锻造工艺（蓝卫星）：每穿戴一件蒸汽动力装备降低敌人攻击+1/2/3"
+    - type: text
+      value: "超高温冶炼技术（蓝卫星）：每穿戴一件蒸汽动力装备降低远程攻击伤害+1/2/3%"
+    - type: text
+      value: "岩石矿提炼技术（蓝卫星）：每穿戴一件蒸汽动力装备降低所受伤害+1/2/3%"
+    - type: text
+      value: "超声波淬火技术（商店）：每穿戴一件蒸汽动力装备工程掉落概率+3/6/9%"
+    - type: text
+      value: "径向锻造技术（商店）：每穿戴一件蒸汽动力装备闪避上限+1/2/3%"
+    - type: text
+      value: "高级科技"
+    - type: text
+      value: "深渊锻造法则（蓝卫星）：穿戴全套蒸汽动力装备时攻击+4/8/12/16/20%，忽视敌人物理抗性+4/8/12/16/20%"
+    - type: text
+      value: "阿斯塔纳电炉冶金(商店)：穿戴全套蒸汽动力装备时，2/4/6/8/10%概率免疫所有伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "绿色\t\t古代"
+      - type: text
+        value: "科技"
+    - type: text
+      value: "低级科技"
+    - type: text
+      value: "痛觉调制系统（绿卫星）：降低敌人攻击+1/2/3，降低所受反射伤害+25/50/75%"
+    - type: text
+      value: "视觉强化基因（绿卫星）：生命值+20/40/60，每层3/6/9%概率侦测钥匙的位置"
+    - type: text
+      value: "硬化骨骼基因（绿卫星）：攻击+2/4/6，忽视敌人物理抗性+3/6/9%"
+    - type: text
+      value: "高效储能基因（绿卫星）：攻击及魔力+2/4/6，生命值及魔法值+10/20/30"
+    - type: text
+      value: "肌肉强化基因（商店）：攻击+2/4/6，攻击时2/4/6%概率直接斩杀敌人"
+    - type: text
+      value: "神经元强化基因（商店）：闪避+3/6/9%，降低干扰效果+33/66/100%"
+    - type: text
+      value: "高级科技"
+    - type: text
+      value: "变异恶魔基因（绿卫星）：生命值每降低20%攻击提升1/2/3/4/5%，攻击时1/2/3/4/5%概率不受反击"
+    - type: text
+      value: "高等精灵基因组（商店）；攻击及魔力+2/4/6/8/10%，每进入下一层，恢复生命值+1/2/3/4/5%"
+    - type: text
+      value: "T-01能量核心（未知卫星）：掌握1/2/3/4/5阶机械称号"
+    - type: text
+      value: "3. 冈布奥出战直接满级的手册项目"
+    - type: text
+      value: "(不会影响\"不研究手册\"的DP)"
+    - type: group
+    - value:
+      - type: text
+        value: "未来猫："
+      - type: text
+        value: "(冶金学) 仪表盘构造原理"
+    - type: group
+    - value:
+      - type: text
+        value: "机械师："
+      - type: text
+        value: "(冶金学) 螺旋机构造原理"
+    - type: group
+    - value:
+      - type: text
+        value: "炼金师："
+      - type: text
+        value: "(冶金学) 高分子护膜技术"
+    - type: group
+    - value:
+      - type: text
+        value: "机帝神："
+      - type: text
+        value: "(冶金学) 克西妮娅动力机芯"
+    - type: group
+    - value:
+      - type: text
+        value: "锻造师："
+      - type: text
+        value: "(冶金学) 高合金冶炼"
+    - type: group
+    - value:
+      - type: text
+        value: "矮人王："
+      - type: text
+        value: "(冶金学) 高合金冶炼 (电气学) 高压电击装置"
+    - type: group
+    - value:
+      - type: text
+        value: "装甲："
+      - type: text
+        value: "(电气学) 基板线路结构"
+    - type: group
+    - value:
+      - type: text
+        value: "炸弹人："
+      - type: text
+        value: "(电气学) 基板线路结构"
+    - type: group
+    - value:
+      - type: text
+        value: "黑武士："
+      - type: text
+        value: "(电气学) 马尔科姆超导材料"
+    - type: group
+    - value:
+      - type: text
+        value: "舰长："
+      - type: text
+        value: "(航天学) 航天综合系统  飞艇故障检修"
+    - type: group
+    - value:
+      - type: text
+        value: "指挥官："
+      - type: text
+        value: "(航天学) 航空武器系统"
+    - type: group
+    - value:
+      - type: text
+        value: "特种兵："
+      - type: text
+        value: "(航天学) 飞艇故障检修"
+    - type: group
+    - value:
+      - type: text
+        value: "阿瓦隆："
+      - type: text
+        value: "(航空学) 航天综合系统"
+    - type: text
+      value: "4. 手册影响的非迷宫道具"
+    - type: group
+    - value:
+      - type: text
+        value: "因内容过多，请搜索 \""
+      - type: text
+        value: "工程学手册"
+      - type: text
+        value: "\" 进行查阅"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "猛禽获得方法"
+    - type: text
+      value: "1. 在61~101普通层随机出现 \"鸟笼\" 和 \"激光发射器\""
+    - type: text
+      value: "2. 查看鸟笼上写的编号 (随机一种：591、642、733、1000)"
+    - type: text
+      value: "3. 在激光发射器放入元件，使激光\t能量与编号相同\t后射击"
+    - type: text
+      value: "591组合"
+    - type: text
+      value: "0/18/3/0；1/1/9/0；2/3/3/1；4/9/4/0；8/0/5/0；11/8/0/0"
+    - type: text
+      value: "642组合"
+    - type: text
+      value: "0/11/2/1；2/17/3/0；3/0/9/0；4/2/3/1；6/8/4/0；13/7/0/0"
+    - type: text
+      value: "733组合"
+    - type: text
+      value: "1/20/4/0；2/3/10/0；3/5/4/1；5/11/5/0；8/19/0/0；9/2/6/0；10/4/0/1；12/10/1/0；16/1/2/0"
+    - type: text
+      value: "1000组合"
+    - type: text
+      value: "超过1000均视为1000"
+    - type: text
+      value: "4. 对话\t猛禽冈布奥\t，首次获得猛禽冈布奥，之后为10碎片"
+    - type: text
+      value: "5. 除首次外，继续\t在激光发射器放入任意元件\t后射击，获得额外10碎片"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: text
+      value: "德库尔机械人"
+    - type: group
+    - value:
+      - type: text
+        value: "歼灭者 (红色) 控制台"
+      - type: text
+        value: "同层第4次攻击时在轰击位置留下\""
+      - type: text
+        value: "地洞"
+      - type: text
+        value: "\"，地洞进入时会受到 (最大生命值+护盾值-1) 的伤害，注意刷满血再跳，或者挂重生。"
+    - type: group
+    - value:
+      - type: text
+        value: "进入后在保险箱输入密码 \"514326\"，获得\"德库尔芯片\"，30%概率额外获得3钻 (限1次)。工程学手册航天学中掌握 \""
+      - type: text
+        value: "航天机械人\""
+    - type: text
+      value: "花费 德库尔芯片*1 和 古代芯片*3，可制造【德库尔】"
+    - type: group
+    - value:
+      - type: text
+        value: "首次制造时，结算获得"
+      - type: text
+        value: "机械人\t【德库尔】"
+      - type: text
+        value: "，后续制造时，召唤机器人【德库尔】（迷宫内有效，无法复活，升级进程可跨迷宫继承，迷宫外机械人【德库尔】星级与迷宫内同步升级）"
+    - type: text
+      value: "刷德库尔等级，建议未来猫链接二郎神和cytus，不要放狗，用二郎神的记忆芯片给德库尔增加属性，点位面刷"
+    - type: text
+      value: "怪博士 - 轨道卫星"
+    - type: group
+    - value:
+      - type: text
+        value: "普通层概率遇到"
+      - type: text
+        value: "卫星控制台 (怪博士)"
+      - type: text
+        value: "，外形为未知状态的红色控制台，不会发动主动攻击，与博士对话获得任务：\t搜集4种卫星碎片各5个\t，并获得一个可使用4次的传送装置，使用可回到本卫星内交任务。"
+    - type: text
+      value: "注意不要摧毁卫星核心，否则本局迷宫无法完成任务，只能下次重新开始。"
+    - type: text
+      value: "4种卫星碎片在\t坠毁的卫星\t拾取，需要\t工程学手册\t航天学中对应卫星研究满级\t时才会掉落。在有普通控制台时，\t呼叫飞艇与卫星空战\t胜利后必定出现坠毁的卫星。"
+    - type: group
+    - value:
+      - type: text
+        value: "全部任务完成后会得到\t卫星研究笔记\t，古遗迹中，开启【轨道卫星研究】，可制造飞艇"
+      - type: text
+        value: "【轨道卫星】"
+    - type: text
+      value: "机械人BB-7 (大盗神)"
+    - type: group
+    - value:
+      - type: text
+        value: "在坠毁的飞船中可遇到"
+      - type: text
+        value: "奇怪的机械人"
+      - type: text
+        value: "，以下冈布奥出战时，可获得 \t机械人BB-7\t，机械人BB-7在外域升级后，可以再回来拿一个"
+    - type: text
+      value: "可出战：机械师、零式、终结者、机帝神、装甲、未来猫、重装卡车、黑武士、Peter、蓝鲨、血狼、Cytus、凯瑟琳、开罗君、开罗姬、机械使徒"
+    - type: text
+      value: "进入卫星系列"
+    - type: group
+    - value:
+      - type: text
+        value: "传送进入10层"
+      - type: text
+        value: "未知生物卫星"
+      - type: text
+        value: "，击杀未知生物后，翻找\t猴子的残骸\t，可获得 伊甸加速器(3h)*3 、培育加速器(3h)*3 、维修加速器(3h)*3，限1次"
+    - type: group
+    - value:
+      - type: text
+        value: "传送进入"
+      - type: text
+        value: "歼灭者卫星(红色)"
+      - type: text
+        value: "，概率遇到\t元素祭坛\t，选择\t举行仪式\t -"
+    - type: group
+    - value:
+      - type: text
+        value: "我需要一些钻石"
+      - type: text
+        value: "：获得钻石*5（限1次）"
+    - type: group
+    - value:
+      - type: text
+        value: "我需要很多金币"
+      - type: text
+        value: "：获得金币*100k（限1次）"
+    - type: group
+    - value:
+      - type: text
+        value: "传送进入"
+      - type: text
+        value: "追踪者卫星(绿色)"
+      - type: text
+        value: "，概率遇到\t骸骨堆\t，\t10%概率获得\t水晶头骨\t，每次迷宫仅能获得1次，使用后，10%概率获得3钻，上限3次"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: group
+    - value:
+      - type: text
+        value: "坏掉的控制台"
+      - type: text
+        value: "(1层出现)"
+    - type: text
+      value: "获得 老旧对讲机*1 + 对讲机电池*2"
+    - type: group
+    - value:
+      - type: text
+        value: "老旧对讲机"
+      - type: text
+        value: "使用：掌握【召唤飞艇】魔法（主动施放）"
+    - type: group
+    - value:
+      - type: text
+        value: "对讲机电池"
+      - type: text
+        value: "特殊消耗品，用于召唤飞艇助战"
+    - type: group
+    - value:
+      - type: text
+        value: "研究员的残骸"
+      - type: text
+        value: "（1层出现)"
+    - type: text
+      value: "获得 工程学手册*1 + 冶金+电气+航天元件*3"
+    - type: text
+      value: "卫星控制台 (普通)"
+    - type: text
+      value: "普通卫星控制台共有4种：歼灭者、猎法者、守护者、追踪者。"
+    - type: text
+      value: "卫星每5轮发动一次攻击，伤害值受血量上限影响，附带特殊效果。"
+    - type: text
+      value: "有传送和摧毁两个选项。传送可进入卫星内部，在内部摧毁能源核心出来后可选择摧毁，摧毁核心后小概率出现坠毁的卫星。"
+    - type: text
+      value: "在摧毁卫星控制台时呼叫飞艇，会与相应卫星进入战斗，胜利后卫星控制台只能选摧毁，且必定出现坠毁的卫星。"
+    - type: text
+      value: "摧毁卫星内核心可获得：航天元件*3+残缺的研究报告*1-3/研究报告*1-2/对应古代科技芯片"
+    - type: text
+      value: "摧毁卫星控制台可获得：随机元件(含古代)*1-2 / 对讲机电池*1"
+    - type: text
+      value: "歼灭者 (红色)"
+    - type: text
+      value: "每5轮发动一次攻击，伤害为生命值上限的50%+100"
+    - type: text
+      value: "同层第4次攻击时在轰击位置留下\"地洞\"，地洞进入时会受到 (最大生命值+护盾值-1) 的伤害，进入后在保险箱输入密码 \"514326\"，获得\"德库尔芯片\"，30%概率额外获得3钻 (限1次)。"
+    - type: text
+      value: "传送可进入5种夹层："
+    - type: text
+      value: "1. 秘法结晶构造"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片"
+      - type: text
+        value: "(\t每穿戴一件电气学装备所有伤害类魔法效果+2/4/6%)"
+    - type: text
+      value: "怪物：秘法蜗牛x4"
+    - type: text
+      value: "建筑：元素之心 (如未选择，离开时默认选摧毁)"
+    - type: text
+      value: "触摸元素之心：60%概率获得4~5阶魔法卷轴*1，30%概率获得攻击及魔力+3、生命及魔法值+30，10%概率获得所有魔法效果+2% (上限5次)"
+    - type: text
+      value: "摧毁元素之心：获得超级元素结晶(每种元素限1次，使用后对应元素魔法效果+3%) 或 魔法符文"
+    - type: text
+      value: "2. 超韧性植物纤维"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片"
+      - type: text
+        value: "(每穿戴一件电气学装备所有恢复类魔法效果+2/4/6%)"
+    - type: text
+      value: "怪物：豌豆炮x4"
+    - type: text
+      value: "建筑： 奇怪的树桩 (破坏核心后无法使用)"
+    - type: text
+      value: "60%概率：恢复20%生命值+5%魔法值"
+    - type: text
+      value: "30%概率：恢复30%生命值+10%魔法值"
+    - type: text
+      value: "10%概率：恢复60%生命值+20%魔法值"
+    - type: text
+      value: "3. 反隐形材料研究"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片"
+      - type: text
+        value: "(每穿戴一件电气学装备，忽视敌人闪避+3/6/9%)"
+    - type: text
+      value: "怪物：刺客x4"
+    - type: text
+      value: "建筑： 篝火堆"
+    - type: text
+      value: "获得 烤肉块/烤蜘蛛/烤蜥蜴*1~2，10%概率额外获得 暗影徽章*1 (使用：消除全场敌人的特性（对BOSS无效）)"
+    - type: text
+      value: "4. 魔法阵能源结构"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片"
+      - type: text
+        value: "(每穿戴一件电气学装备所有辅助类魔法效果+2/4/6%)"
+    - type: text
+      value: "怪物：流浪法师x4"
+    - type: text
+      value: "建筑：元素祭坛(如未选择，离开时默认选注入)"
+    - type: text
+      value: "举行仪式："
+    - type: group
+    - value:
+      - type: text
+        value: "你能协助我战斗么"
+      - type: text
+        value: "：召唤神灯战斗（迷宫内有效）"
+    - type: group
+    - value:
+      - type: text
+        value: "我需要一些钻石"
+      - type: text
+        value: "：获得钻石*5（限1次）"
+    - type: group
+    - value:
+      - type: text
+        value: "我需要很多金币"
+      - type: text
+        value: "：获得金币*100k（限1次）"
+    - type: group
+    - value:
+      - type: text
+        value: "我受伤了，帮帮我"
+      - type: text
+        value: "：恢复50生命值和20魔法值"
+    - type: group
+    - value:
+      - type: text
+        value: "我需要物资援助"
+      - type: text
+        value: "：获得探索点*50 + 蝎粉/牛皮水袋*1 或  苏丹的旗帜*1 + 波斯火药*3"
+    - type: group
+    - value:
+      - type: text
+        value: "我想变得更强大"
+      - type: text
+        value: "：\t随机强化冈布奥属性"
+    - type: text
+      value: "攻击+3 / 魔力+3 / 最大生命值+100 / 最大魔法值+100 /"
+    - type: text
+      value: "闪避+10(上限2) / 降低敌人攻击+2 (上限2) /"
+    - type: text
+      value: "探索点+1000(上限2)"
+    - type: text
+      value: "注入能量（消耗10魔法值）："
+    - type: text
+      value: "20%获得命运套部件*1，10%获得永恒套部件*1，70%获得随机魔法书*1(每种限1次)"
+    - type: text
+      value: "5. 灵魂物质提取"
+    - type: group
+    - value:
+      - type: text
+        value: "高级芯片"
+      - type: text
+        value: "(\t穿戴全套电气学装备时魔力+4/8/12/16/20%，忽视敌人魔法抗性+4/8/12/16/20%)"
+    - type: text
+      value: "怪物：死灵法师x4"
+    - type: text
+      value: "建筑：黑曜石匣"
+    - type: text
+      value: "60%概率：获得1阶卷轴*3 + 3阶卷轴*1"
+    - type: text
+      value: "30%概率：获得2阶卷轴*3 + 4阶卷轴*1"
+    - type: text
+      value: "10%概率：获得3阶卷轴*3 + 胡桃木魔棒/接骨木魔棒*1"
+    - type: text
+      value: "猎法者 (黄色)"
+    - type: text
+      value: "每5轮发动一次攻击，伤害为生命值上限的10%，攻击后造成禁法效果（无法释放任何法术，持续3轮）"
+    - type: text
+      value: "传送可进入5种夹层："
+    - type: text
+      value: "1.土元素能量解析"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "降低敌人攻击+2/4/6，所有土系魔法效果+5/10/15%)"
+    - type: text
+      value: "怪物：土元素x4"
+    - type: text
+      value: "建筑：土之石柱(如未选择，离开时默认选摧毁)"
+    - type: text
+      value: "注入能量：60%获得石肤术/地震术*1，30%获得降低敌人攻击+1，10%获得土系魔法效果+1%(上限5次)"
+    - type: text
+      value: "摧毁石柱：魔法符文*1~2"
+    - type: text
+      value: "2. 水元素能量解析"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "魔法值+20/40/60，所有水系魔法效果+5/10/15%)"
+    - type: text
+      value: "怪物：水元素x4"
+    - type: group
+    - value:
+      - type: text
+        value: "建筑：水之石柱(如未选择，离开时默认选摧毁)\n\t注入能量：\t60%获得治疗术/冰盾术*1，30%获得生命、魔法值+10，10%获得水系魔法效果+1%(上限5次)\n\t摧毁石柱：魔法符文*1~2"
+      - type: text
+        value: "3. 火元素能量解析"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "攻击+2/4/6，所有水系魔法效果+5/10/15%)"
+    - type: text
+      value: "怪物：火元素x4"
+    - type: group
+    - value:
+      - type: text
+        value: "建筑：火之石柱(如未选择，离开时默认选摧毁)\n\t注入能量：\t60%获得火球术/失明术*1，30%获得攻击+2，10%获得火系魔法效果+1%(上限5次)\n\t摧毁石柱：魔法符文*1~2"
+      - type: text
+        value: "4. 气元素能量解析"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "魔力+2/4/6，所有风系魔法效果+5/10/15%)"
+    - type: text
+      value: "怪物：气元素x4"
+    - type: group
+    - value:
+      - type: text
+        value: "建筑：气之石柱(如未选择，离开时默认选摧毁)\n\t注入能量：\t60%获得闪电术/静电术*1，30%获得闪避+1，10%获得气系魔法效果+1%(上限5次)\n\t摧毁石柱：魔法符文*1~2"
+      - type: text
+        value: "5-7. 光元素能量解析 / 暗元素能量解析 / 元素法则构建"
+    - type: text
+      value: "3种夹层仅芯片不同"
+    - type: group
+    - value:
+      - type: text
+        value: "光（低级芯片）"
+      - type: text
+        value: "：生命值+20/40/60，所有光系魔法效果+5/10/15%"
+    - type: group
+    - value:
+      - type: text
+        value: "暗（低级芯片）"
+      - type: text
+        value: "：忽视敌人魔法抗性+3/6/9%，所有暗系魔法效果+5/10/15%"
+    - type: group
+    - value:
+      - type: text
+        value: "元素 (高级芯片）"
+      - type: text
+        value: "：所有魔法效果+3/6/9/12/15%，升级魔法系称号时，10/20/30/40/50%概率提升2点魔力"
+    - type: text
+      value: "怪物：光元素x2 + 暗元素x2"
+    - type: text
+      value: "建筑：反应炉"
+    - type: text
+      value: "60%概率：获得随机普通元件*5 + 古代元件*2"
+    - type: text
+      value: "40%概率：获得随机普通元件*10 + 古代元件*3"
+    - type: text
+      value: "守护者 (蓝色)"
+    - type: text
+      value: "每5轮发动一次攻击，伤害为生命值上限的10%，攻击后为显形的怪物提供守护效果（抗性及攻击提升50%，持续3轮）"
+    - type: text
+      value: "传送可进入5种夹层："
+    - type: text
+      value: "1. 骨骼解析与强化"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "每穿戴一件蒸汽动力装备攻击+1/2/3)"
+    - type: text
+      value: "怪物：骷髅剑士x2 + 骷髅术士x2"
+    - type: text
+      value: "建筑：头骨祭坛 (如未选择，离开时默认选拿走蜡烛)"
+    - type: text
+      value: "祭拜：生命值+10/20 或 魔法值+10/20 或 攻击+1 或 魔力+1，获得诅咒效果(攻击降低50%，持续3轮)"
+    - type: text
+      value: "拿走蜡烛：获得 蜡烛*1 (使用：侦测钥匙的位置（本层有效）)"
+    - type: text
+      value: "2. 自由锻造工艺"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "每穿戴一件蒸汽动力装备降低敌人攻击+1/2/3)"
+    - type: text
+      value: "怪物：屠夫x4"
+    - type: text
+      value: "建筑：老旧的铁砧"
+    - type: text
+      value: "可用于升级战士或法师套装"
+    - type: text
+      value: "3. 超高温冶炼技术"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "每穿戴一件蒸汽动力装备降低远程攻击伤害+1/2/3%)"
+    - type: text
+      value: "怪物：邪恶灯灵x4"
+    - type: text
+      value: "建筑：地狱熔炉 (如未选择，离开时默认选翻找)"
+    - type: text
+      value: "重铸装备：将装备转换为同阶其它装备"
+    - type: text
+      value: "翻找：获得 淬火精华*1~2 或 地狱火炬【手套】（限1次）"
+    - type: text
+      value: "4. 岩石矿提炼技术"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "每穿戴一件蒸汽动力装备降低所受伤害+1/2/3%)"
+    - type: text
+      value: "怪物：岩石傀儡x4"
+    - type: text
+      value: "建筑：岩石堆"
+    - type: text
+      value: "60%概率：获得 黏土雕像*1 (使用：召唤黏土傀儡（本层有效）土元素及魔法傀儡冈布奥使用时，召唤生物能力加成，并掌握重击特性)"
+    - type: text
+      value: "30%概率：获得 奇怪的雕像*1 (使用：施放末日审判)"
+    - type: text
+      value: "10%概率：获得 黑曜石雕像*1，限1次 (使用：冈布奥魔力+4，所有暗系魔法效果+10%)"
+    - type: text
+      value: "5. 深渊锻造法则"
+    - type: group
+    - value:
+      - type: text
+        value: "高级芯片("
+      - type: text
+        value: "穿戴全套蒸汽动力装备时攻击+4/8/12/16/20%，忽视敌人物理抗性+4/8/12/16/20%)"
+    - type: text
+      value: "怪物：深渊恶魔x4"
+    - type: text
+      value: "建筑：鲜血祭坛 (如未选择，离开时默认选翻找)"
+    - type: text
+      value: "注入血液（消耗100生命值）：60%概率获得攻击或魔力+2；40%概率获得诅咒之血*1，上限3次 (使用：诅咒术持续轮数+1，施放诅咒术（群体，持续本层）)"
+    - type: text
+      value: "翻找：获得 鲜血之瓶*1~2 (使用：可以抵消100点伤害（持续本层）)，10%概率获得以撒之血*1，限1次 (使用：冈布奥攻击+2、生命值+100)"
+    - type: text
+      value: "追踪者 (绿色)"
+    - type: text
+      value: "每5轮发动一次攻击，伤害为生命值上限的10%，攻击后对冈布奥造成虚弱效果（攻击及魔力降低50%，持续3轮）"
+    - type: text
+      value: "传送可进入5种夹层："
+    - type: text
+      value: "1. 痛觉调制系统"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "降低敌人攻击+1/2/3，降低所受反射伤害+25/50/75%)"
+    - type: text
+      value: "怪物：仙人掌x4"
+    - type: text
+      value: "建筑：一簇植物"
+    - type: text
+      value: "获得 仙人掌浆果/ 仙人掌花 / 仙人掌刺 共计2~4个"
+    - type: text
+      value: "仙人掌浆果 使用：恢复30点生命值及魔法值，清除所有异常状态"
+    - type: text
+      value: "仙人掌花  使用：随机提升冈布奥某项属性"
+    - type: text
+      value: "仙人掌刺  使用：投掷后，对敌人造成50点伤害，附带流血效果（持续2轮）"
+    - type: text
+      value: "2. 视觉强化基因"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "生命值+20/40/60，每层3/6/9%概率侦测钥匙的位置)"
+    - type: text
+      value: "怪物：独眼巨人x4"
+    - type: text
+      value: "建筑：巨大的骸骨 (如未选择，离开时默认选翻找)"
+    - type: text
+      value: "拘禁灵魂：获得 残破/完整的兽人之魂*1"
+    - type: text
+      value: "翻找：获得 远古的召唤套装部件*1 （巨人的腰带、巨人之眼、巨人的骨甲）"
+    - type: text
+      value: "3. 硬化骨骼基因"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "攻击+2/4/6，忽视敌人物理抗性+3/6/9%)"
+    - type: text
+      value: "怪物：尖刺骸骨x4"
+    - type: text
+      value: "建筑：异兽之卵 (如未选择，离开时默认选摧毁)"
+    - type: text
+      value: "拿走巨卵：获得 异兽之卵*1 (使用：召唤尖刺骸骨（本层有效）)"
+    - type: text
+      value: "摧毁巨卵：获得 异兽基因*1 (使用：冈布奥攻击及魔力+5；生化冈布奥使用时，效果翻倍；改造者冈布奥使用时，生命值+100)"
+    - type: text
+      value: "4. 高效储能基因"
+    - type: group
+    - value:
+      - type: text
+        value: "低级芯片 ("
+      - type: text
+        value: "攻击及魔力+2/4/6，生命值及魔法值+10/20/30)"
+    - type: text
+      value: "怪物：灾祸南瓜x4"
+    - type: text
+      value: "建筑：魔法图腾 (如未选择，离开时默认选拔出)"
+    - type: text
+      value: "激活图腾：攻击及魔力+1~3"
+    - type: text
+      value: "拔出图腾：获得 恐惧图腾/虚弱图腾/灵魂图腾*1 (使用效果同咒术师称号)"
+    - type: text
+      value: "5. 变异恶魔基因"
+    - type: group
+    - value:
+      - type: text
+        value: "高级芯片 ("
+      - type: text
+        value: "生命值每降低20%攻击提升1/2/3/4/5%，攻击时1/2/3/4/5%概率不受反击)"
+    - type: text
+      value: "怪物：蝎狮x4"
+    - type: text
+      value: "建筑：骸骨堆"
+    - type: text
+      value: "50%概率 获得 锢魂头骨*1 (使用：对敌人造成30点伤害，附带灵魂囚笼效果（被击败的敌人，捕获灵魂；对亡灵及元素等无生命敌人无效）)"
+    - type: text
+      value: "30%概率 获得 幼龙头骨【头盔】*1"
+    - type: text
+      value: "10%概率 获得 水晶头骨*1，限1次 (使用：所有魔法效果+1%；某些特定情况下使用，获得3颗钻石)"
+    - type: text
+      value: "10%概率 获得 福卡斯的头颅*1，限1次 (使用：冈布奥攻击+3、降低敌人攻击+2)"
+    - type: text
+      value: "卫星控制台 (未知生物)"
+    - type: text
+      value: "内部遭受攻击状态的歼灭者控制台"
+    - type: text
+      value: "固定出现在10层 (大地不影响层数)"
+    - type: text
+      value: "不会发动主动攻击，\t不可使用飞艇战摧毁"
+    - type: text
+      value: "怪物：未知生物*1"
+    - type: text
+      value: "建筑："
+    - type: text
+      value: "猴子的残骸(1) 获得 霍兰德遗传算法*1 + 伊甸加速器(3h)*3 (限1次)"
+    - type: group
+    - value:
+      - type: text
+        value: "霍兰德遗传算法"
+      - type: text
+        value: "使用：解锁古代科技【霍兰德遗传算法】"
+    - type: text
+      value: "猴子的残骸(2) 首次获得 培育加速器(3h)*3 (限1次) ，后续为蒸汽革命、航天与航空、电气周刊各一本"
+    - type: text
+      value: "猴子的残骸(3)  首次获得 维修加速器(3h)*3 (限1次) ，后续为奥普蒂克斯(红)*2 + 奥普蒂克斯(蓝)*1"
+    - type: text
+      value: "损坏的培养皿 获得 古代元件*5"
+    - type: text
+      value: "摧毁核心  获得 T-01能量核心 + 航天元件*3"
+    - type: group
+    - value:
+      - type: text
+        value: "T-01能量核心"
+      - type: text
+        value: "使用：解锁古代科技【T-01能量核心】(【机械系】称号)"
+    - type: text
+      value: "卫星控制台 (怪博士)"
+    - type: text
+      value: "外形为未知状态的红色控制台"
+    - type: text
+      value: "不会发动主动攻击，\t不可使用飞艇战摧毁"
+    - type: text
+      value: "摧毁核心后，将无法得到博士的任何奖励，也无法再次进入卫星"
+    - type: text
+      value: "未获得轨道卫星时，与博士对话获得任务：搜集4种卫星碎片各5个，并获得一个可使用4次的传送装置，使用可回到本卫星内交任务，每次交任务当前飞艇随机属性+10（本次迷宫生效）。"
+    - type: group
+    - value:
+      - type: text
+        value: "全部任务完成后会得到"
+      - type: text
+        value: "卫星研究笔记"
+      - type: text
+        value: "，古遗迹中，开启【轨道卫星研究】，可制造新飞艇【轨道卫星】。"
+    - type: text
+      value: "已完成飞艇任务后再次进入迷宫，与博士对话直接获得当前飞艇全属性+10（本次迷宫生效）"
+    - type: text
+      value: "摧毁核心 获得：航天元件*3"
+    - type: text
+      value: "卫星控制台（BOSS层）"
+    - type: text
+      value: "BOSS周围有四种卫星控制台各一个，技能与普通层一致"
+    - type: text
+      value: "红色初始沙漏2轮，蓝色3轮，黄色4轮，绿色5轮"
+    - type: text
+      value: "BOSS层控制台无法传送和摧毁，只能通过空战击败，胜利后小概率发生卫星坠毁，对BOSS造成大量伤害，但不会留下卫星残骸"
+    - type: text
+      value: "坠毁的卫星"
+    - type: text
+      value: "进入卫星内部摧毁能源核心小概率出现坠毁的卫星"
+    - type: text
+      value: "呼叫飞艇与卫星空战胜利后必定出现坠毁的卫星"
+    - type: text
+      value: "必定获得 航天元件*3"
+    - type: text
+      value: "概率获得 1~2阶飞艇部件*1~2 / 3阶飞艇部件*1"
+    - type: text
+      value: "航天学中对应卫星研究满级时，掉落对应卫星碎片*1"
+    - type: group
+    - value:
+      - type: text
+        value: "歼灭者卫星碎片"
+      - type: text
+        value: "使用：飞艇出战时，火力+1"
+    - type: group
+    - value:
+      - type: text
+        value: "猎法者卫星碎片"
+      - type: text
+        value: "使用：飞艇出战时，幸运+1"
+    - type: group
+    - value:
+      - type: text
+        value: "守护者卫星碎片"
+      - type: text
+        value: "使用：飞艇出战时，装甲+1"
+    - type: group
+    - value:
+      - type: text
+        value: "追踪者卫星碎片"
+      - type: text
+        value: "使用：飞艇出战时，机动+1"
+    - type: group
+    - value:
+      - type: text
+        value: "坠毁的飞船"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "可出现 驾驶员的残骸、士兵的残骸x2"
+    - type: group
+    - value:
+      - type: text
+        value: "驾驶员的残骸"
+      - type: text
+        value: "（坠毁的飞艇）"
+    - type: text
+      value: "获得 随机普通元件*3 / 古代元件*1"
+    - type: group
+    - value:
+      - type: text
+        value: "士兵的残骸x2 (魂斗罗)"
+      - type: text
+        value: "（坠毁的飞艇，与合金弹头、拳皇互斥）"
+    - type: text
+      value: "获得 重型机枪H*1 + 金鹰勋章*3~5"
+    - type: group
+    - value:
+      - type: text
+        value: "重型机枪H"
+      - type: text
+        value: "使用：对敌人造成160点伤害（子弹80/80）"
+    - type: text
+      value: "获得 肩扛火箭筒R*1 + 金鹰勋章*3~5"
+    - type: group
+    - value:
+      - type: text
+        value: "肩扛火箭筒R"
+      - type: text
+        value: "使用：对敌人造成100点伤害，50%%伤害溅射在场全体敌人（火箭弹5/30）"
+    - type: group
+    - value:
+      - type: text
+        value: "士兵的残骸x2 (合金弹头)"
+      - type: text
+        value: "（坠毁的飞艇，与魂斗罗、拳皇互斥）"
+    - type: text
+      value: "获得 高速霰弹枪S*1 + 弹头勋章*3~5"
+    - type: group
+    - value:
+      - type: text
+        value: "高速霰弹枪S"
+      - type: text
+        value: "使用：对敌人造成200点伤害，80%%伤害溅射在场全体敌人（子弹60/60）"
+    - type: text
+      value: "获得 激光发射器L*1 + 弹头勋章*3~5"
+    - type: group
+    - value:
+      - type: text
+        value: "激光发射器L"
+      - type: text
+        value: "使用：对敌人造成200点伤害（能量3/3）"
+    - type: group
+    - value:
+      - type: text
+        value: "士兵的残骸x2 (拳皇)"
+      - type: text
+        value: "（坠毁的飞艇，与魂斗罗、合金弹头互斥）"
+    - type: text
+      value: "获得 拳击术奥义*1"
+    - type: group
+    - value:
+      - type: text
+        value: "拳击术奥义"
+      - type: text
+        value: "使用：冈布奥攻击+2、生命值+40"
+    - type: text
+      value: "获得 背摔术奥义*1"
+    - type: group
+    - value:
+      - type: text
+        value: "背摔术奥义"
+      - type: text
+        value: "使用：冈布奥攻击+3"
+    - type: group
+    - value:
+      - type: text
+        value: "探险家商店"
+      - type: text
+        value: "(地图特色商店 货币：探索点)"
+    - type: text
+      value: "在售商品 (3~5件)"
+    - type: text
+      value: "必定售卖3组普通元件，第4个物品为随机元件或杂志，第5个物品为古代科技芯片(限1次，未购买可重复出现)。"
+    - type: text
+      value: "冶金元件*3 (150)  \t电气元件*3 (150)"
+    - type: text
+      value: "航天元件*3 (150)  \t古代元件*2 (600)"
+    - type: text
+      value: "《电气周刊》*1 (600)  \t《蒸汽革命》*1 (600)"
+    - type: text
+      value: "《航天与航空》*1 (600)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "肌肉强化基因*1 (300)  \t神经元强化基因*1 (300)"
+    - type: text
+      value: "径向锻造技术*1 (300)  \t超声波淬火技术*1 (300)"
+    - type: text
+      value: "可控聚变能量*1 (300)  \t高功率储能系统*1 (300)"
+    - type: text
+      value: "元素能量转换*1 (500)  \t高等精灵基因组*1 (500)"
+    - type: text
+      value: "阿斯塔纳电炉冶金*1 (500)  \t菲尼克斯电子晶片*1 (500)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索"
+    - type: text
+      value: "古代元件\t*3 (限1次)"
+    - type: text
+      value: "三种杂志*1  (限1次)"
+    - type: text
+      value: "电气学装置"
+    - type: text
+      value: "每三回合为已显形怪物增加33.3%的生命值"
+    - type: text
+      value: "摧毁：必定获得 电气元件*3，45%概率额外获得1个随机种类的奥普蒂克斯 (36%出前3种，9%出后3种)"
+    - type: text
+      value: "奥普蒂克斯(红) 使用：随机提升冈布奥某项属性；电气学知识（等效电路模型）赋予：随机获得100～200点探索点"
+    - type: text
+      value: "奥普蒂克斯(浅蓝) 使用：施放静电场（持续本层）；电气学知识（磁场发生装置）赋予：静电场魔法效果+1%"
+    - type: text
+      value: "奥普蒂克斯(绿) 使用：施放闪电链；电气学知识（高压电击装置）赋予：闪电链魔法效果+1%"
+    - type: text
+      value: "奥普蒂克斯(紫，限1次)  使用：所有魔法效果+3%；电气学知识（戴安娜水晶半导体）赋予：所有恢复类魔法效果+3%"
+    - type: text
+      value: "奥普蒂克斯(深蓝，限1次)  使用：施放时间停止；电气学知识（马尔科姆超导材料）赋予：所有辅助类魔法效果+3%"
+    - type: text
+      value: "奥普蒂克斯(褐，限1次)  使用：施放大地之门；电气学知识（库布里克能量线圈）赋予：所有伤害类魔法效果+3%"
+    - type: text
+      value: "古代魔法阵"
+    - type: text
+      value: "需要将当层怪物清理后才能使用"
+    - type: text
+      value: "启动"
+    - type: text
+      value: "50%提升属性，否则出现闪电，启动后仍可选摧毁"
+    - type: text
+      value: "属性：攻击+1/魔力+1/生命值+20/魔法值+20"
+    - type: text
+      value: "闪电：对冈布奥造成最大生命5%~10%的伤害 (不会致死)"
+    - type: group
+    - value:
+      - type: text
+        value: "摧毁："
+      - type: text
+        value: "获得冶金元件*3"
+    - type: text
+      value: "机械人的残骸"
+    - type: text
+      value: "获得 医疗健康芯片*1 或 空手道芯片*1"
+    - type: group
+    - value:
+      - type: text
+        value: "医疗健康芯片"
+      - type: text
+        value: "使用：冈布奥生命值+100；每进入下一层，恢复生命值+10；机帝神及未来猫冈布奥使用时，效果翻倍"
+    - type: group
+    - value:
+      - type: text
+        value: "空手道芯片"
+      - type: text
+        value: "使用：冈布奥攻击+3；攻击时，3%概率不受反击；机帝神及重装卡车冈布奥使用时，效果翻倍"
+    - type: text
+      value: "浣熊的残骸"
+    - type: text
+      value: "获得 生物基因89P *1"
+    - type: group
+    - value:
+      - type: text
+        value: "生物基因89P"
+      - type: text
+        value: "使用：冈布奥攻击及魔力+1；生化冈布奥使用时，攻击及魔力+5；改造者冈布奥使用时，专属技效果+50%"
+    - type: text
+      value: "奇怪的残骸"
+    - type: text
+      value: "获得 记忆水晶 *1"
+    - type: group
+    - value:
+      - type: text
+        value: "记忆水晶"
+      - type: text
+        value: "使用：冈布奥魔力+1；特种兵冈布奥使用时，生命值+50；圣堂武士冈布奥使用时，魔力+3；虫族女王冈布奥使用时，攻击+3；\t电气学知识（戴安娜水晶半导体）赋予：所有气系魔法效果+3%"
+    - type: text
+      value: "鸟笼 & 激光发射器"
+    - type: text
+      value: "鸟笼上刻着一行文字：No.xxx (编号xxx为随机四种之一：591、642、733、1000)"
+    - type: text
+      value: "激光发射器可放入元件：冶金元件37mM，电气元件23mM，航天元件59mM，古代元件271mM，激光能量为放入元件能量之和，最高1000。"
+    - type: text
+      value: "激光能量低于鸟笼编号时，无变化。"
+    - type: text
+      value: "激光能量与编号相同时，鸟笼转换为猛禽冈布奥，首次对话获得猛禽冈布奥，后续对话获得10碎片，再发射任意元件射杀猛禽，额外掉落10碎片。"
+    - type: text
+      value: "激光能量超过编号时，直接掉落10碎片。"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 《蒸汽革命》*1 + 《航天与航空》*1 + 《电气周刊》*1"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 对讲机电池*5"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 航天元件*5 + 电气元件*5 + 冶金元件*5"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 古代元件*3"
+    - type: text
+      value: "大型培养皿"
+    - type: text
+      value: "获得  完整的异形生物之卵*1"
+    - type: group
+    - value:
+      - type: text
+        value: "完整的异形生物之卵"
+      - type: text
+        value: "使用：召唤异形生物（迷宫内起效）"
+    - type: text
+      value: "散落的游戏卡带"
+    - type: text
+      value: "获得 游戏卡带*1 (3种之一)"
+    - type: group
+    - value:
+      - type: text
+        value: "游戏卡带"
+      - type: text
+        value: "使用：恢复30%飞艇战力；航天学知识（航空控制系统）赋予：飞艇出战时，战力+3000、幸运+1"
+    - type: group
+    - value:
+      - type: text
+        value: "游戏卡带"
+      - type: text
+        value: "使用：恢复50%飞艇战力；航天学知识（航空武器系统）赋予：飞艇出战时，战力+5000、火力+2"
+    - type: group
+    - value:
+      - type: text
+        value: "游戏卡带"
+      - type: text
+        value: "使用：恢复70%飞艇战力；航天学知识（航空保障系统）赋予：飞艇出战时，战力+7000、装甲+3"
+    - type: text
+      value: "奇怪的机械人"
+    - type: text
+      value: "指定冈布奥出战时，可获得物品"
+    - type: text
+      value: "未拥有机械人BB-7时，获得 机械人BB-7，否则获得三种普通元件*3"
+    - type: text
+      value: "可出战冈布奥："
+    - type: text
+      value: "机械师、零式、终结者、机帝神、装甲、未来猫、重装卡车、黑武士、Peter、蓝鲨、血狼、Cytus、凯瑟琳、开罗君、开罗姬、机械使徒"
+    - type: text
+      value: "灯异界"
+    - type: group
+    - value:
+      - type: text
+        value: "研究员的残骸"
+      - type: text
+        value: "（1层出现)"
+    - type: text
+      value: "研究员的灵魂 使用：获得三种普通元件各5枚"
+    - type: group
+    - value:
+      - type: text
+        value: "驾驶员的残骸"
+      - type: text
+        value: "（坠毁的飞艇）"
+    - type: text
+      value: "残破的驾驶员之魂  使用：恢复3%飞艇战力"
+    - type: text
+      value: "完整的驾驶员之魂  使用：恢复5%飞艇战力；获得1枚航天元件"
+    - type: group
+    - value:
+      - type: text
+        value: "士兵的残骸x2 (魂斗罗)"
+      - type: text
+        value: "（坠毁的飞艇，与合金弹头、拳皇互斥）"
+    - type: text
+      value: "比尔的灵魂  使用：获得30枚金鹰勋章"
+    - type: text
+      value: "兰斯的灵魂  使用：恢复100%飞艇战力；飞艇出战时，火力+5"
+    - type: group
+    - value:
+      - type: text
+        value: "士兵的残骸x2 (合金弹头)"
+      - type: text
+        value: "（坠毁的飞艇，与魂斗罗、拳皇互斥）"
+    - type: text
+      value: "马克的灵魂  使用：获得30枚弹头勋章"
+    - type: text
+      value: "塔尔马的灵魂  使用：恢复100%飞艇战力；飞艇出战时，装甲+5"
+    - type: group
+    - value:
+      - type: text
+        value: "士兵的残骸x2 (拳皇)"
+      - type: text
+        value: "（坠毁的飞艇，与魂斗罗、合金弹头互斥）"
+    - type: text
+      value: "拉尔夫的灵魂  使用：拳击术奥义，效果转换"
+    - type: group
+    - value:
+      - type: text
+        value: "拳击术奥义"
+      - type: text
+        value: "使用：冈布奥攻击+2、生命值+40；掌握【宇宙幻影】魔法（主动施放）"
+    - type: group
+    - value:
+      - type: text
+        value: "宇宙幻影："
+      - type: text
+        value: "消耗30魔法值，对单个敌人造成攻击*1.8点伤害"
+    - type: text
+      value: "克拉克的灵魂  使用：背摔术奥义，效果转换"
+    - type: group
+    - value:
+      - type: text
+        value: "背摔术奥义"
+      - type: text
+        value: "使用：冈布奥攻击+3；掌握【机炮拳】魔法（主动施放）"
+    - type: group
+    - value:
+      - type: text
+        value: "机炮拳"
+      - type: text
+        value: "：消耗30魔法值，对单个敌人造成攻击*1.2点伤害，使对方眩晕（持续3轮）"
+    - type: text
+      value: "Tips：机炮拳及宇宙幻影不会触发boss“施展法术会造成一次反击”的机制"
+    - type: text
+      value: "机械人的残骸"
+    - type: text
+      value: "大白的记忆碎片  使用：获得1个毁灭者芯片"
+    - type: group
+    - value:
+      - type: text
+        value: "毁灭者芯片"
+      - type: text
+        value: "使用：所有伤害类魔法效果+5%；机帝神及终结者冈布奥使用时，效果翻倍"
+    - type: text
+      value: "浣熊的残骸"
+    - type: text
+      value: "浣熊的灵魂  使用：生物基因89P，效果转换"
+    - type: group
+    - value:
+      - type: text
+        value: "生物基因89P"
+      - type: text
+        value: "使用：冈布奥攻击及魔力+3；生化冈布奥使用时，攻击及魔力+10；改造者冈布奥使用时，专属技效果翻倍"
+    - type: text
+      value: "奇怪的残骸"
+    - type: text
+      value: "瑟兰迪斯的灵魂  使用：记忆水晶，效果转换"
+    - type: group
+    - value:
+      - type: text
+        value: "记忆水晶"
+      - type: text
+        value: "使用：冈布奥魔力+5；特种兵冈布奥使用时，生命值+100；圣堂武士冈布奥使用时，魔力+5；虫族女王冈布奥使用时，攻击+5；电气学知识（戴安娜水晶半导体）赋予：所有气系魔法效果\t+10%"
+    - type: group
+    - value:
+      - type: text
+        value: "巨大的骸骨"
+      - type: text
+        value: "(绿卫星 - 视觉基因强化)"
+    - type: text
+      value: "完整的兽人之魂  使用：冈布奥降低敌人攻击+1"
+    - type: group
+    - value:
+      - type: text
+        value: "头骨祭坛"
+      - type: text
+        value: "(蓝卫星 - 骨骼解析与强化)"
+    - type: text
+      value: "完整的佣兵之魂  使用：冈布奥生命值+20"
+    - type: text
+      value: "完整的法师之魂 使用：冈布奥魔力+1"
+    - type: group
+    - value:
+      - type: text
+        value: "骸骨堆"
+      - type: text
+        value: "(绿卫星 - 变异恶魔基因)"
+    - type: text
+      value: "完整的恶魔之魂  使用：所有伤害类魔法效果+1%"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "补给液"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "机械培养液*1 (机械小怪掉落)"
+    - type: text
+      value: "燃油添加剂*1 (机械小怪掉落)"
+    - type: text
+      value: "食用：冈布奥攻击及魔力+1、闪避+1%"
+    - type: text
+      value: "复合推进剂(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "燃速调节剂*1 (工程学手册航天学-追踪者卫星研究)"
+    - type: text
+      value: "氧化剂*1 (坠毁的卫星30%掉落，上限4)"
+    - type: text
+      value: "食用：冈布奥闪避+5%、闪避上限+3%；\t航天学知识（追踪者卫星研究）赋予：\t飞艇出战时，机动+10"
+    - type: text
+      value: "混合燃料(隐藏)"
+    - type: text
+      value: "爆炸性溶剂*1 (工程学手册航天学-歼灭者卫星研究)"
+    - type: text
+      value: "氧化剂*1 (坠毁的卫星30%掉落，上限4)"
+    - type: text
+      value: "食用：冈布奥攻击提升3%（以使用时的攻击数值为准，最小提升1点）；\t航天学知识（歼灭者卫星研究）赋予：\t飞艇出战时，火力+10"
+    - type: text
+      value: "装甲强化液(隐藏)"
+    - type: text
+      value: "液态金属*1 (工程学手册航天学-守护者卫星研究)"
+    - type: text
+      value: "氧化剂*1 (坠毁的卫星30%掉落，上限4)"
+    - type: text
+      value: "食用：冈布奥降低敌人攻击+3；\t航天学知识（守护者卫星研究）赋予：\t飞艇出战时，装甲+10"
+    - type: text
+      value: "动力循环液(隐藏)"
+    - type: text
+      value: "催化剂*1 (工程学手册航天学-猎法者卫星研究)"
+    - type: text
+      value: "氧化剂*1 (坠毁的卫星30%掉落，上限4)"
+    - type: text
+      value: "食用：冈布奥魔力提升3%（以使用时的魔力数值为准，最小提升1点）；\t航天学知识（猎法者卫星研究）赋予：\t飞艇出战时，幸运+10"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "实验机甲的照片"
+    - type: text
+      value: "使用：飞艇出战时，全属性+5"
+    - type: text
+      value: "来源：进入卫星时 7.5%概率 获取 (上限3)"
+    - type: text
+      value: "狙击机甲的照片"
+    - type: text
+      value: "使用：降低所受远程伤害+3%"
+    - type: text
+      value: "来源：进入坠毁的飞船时 12.5%概率 获取 (上限3)"
+    - type: text
+      value: "DP难点"
+    - type: text
+      value: "弹头勋章、金鹰勋章、拳击术奥义、激光发射器杀敌"
+    - type: text
+      value: "这几个dp相互关联，放一起说"
+    - type: text
+      value: "巨恶心，迷宫中在洞内每局出现三组尸体中的一组，分别是——"
+    - type: text
+      value: "魂斗罗系列：金鹰勋章6-10，两把武器"
+    - type: text
+      value: "合金弹头系列：弹头勋章6-10，两把武器，其中含激光发射器"
+    - type: text
+      value: "拳皇系列：拳击术奥义，背摔术奥义"
+    - type: text
+      value: "灯系异界游侠翻魂斗罗组合会翻出得到30金鹰勋章的灵魂，合金弹头组合会得到30弹头勋章灵魂，可以一次搞定两个勋章dp"
+    - type: text
+      value: "至于拳击术奥义，实在出的少刷不动就大sl吧，进洞发现不是拳皇尸体直接大sl即可，简便快捷……"
+    - type: text
+      value: "激光发射器杀敌，武器的伤害还算可以，可以控boss血杀boss双倍杀敌数，两局就能搞定更快一点"
+    - type: text
+      value: "医疗健康芯片"
+    - type: text
+      value: "大白的尸体50%几率出，另外50%几率出空手道芯片"
+    - type: text
+      value: "所有种类的奥普蒂克斯"
+    - type: text
+      value: "出自每层随机遇到的那个每3轮给机械生物回血的那个机器上，每破坏一个均有几率获得"
+    - type: text
+      value: "一共有6种，\t在点出手册对应强化符项之后，增加特殊效果，晚一点使用收益更大哦"
+    - type: text
+      value: "黏土雕像、异兽之卵、蜡烛、锢魂头骨"
+    - type: text
+      value: "黏土雕像、蜡烛——出自守护者卫星（蓝）"
+    - type: text
+      value: "异兽之卵、锢魂头骨——出自追踪者卫星（绿）"
+    - type: text
+      value: "详情见前文对埃拉西亚的卫星总结"
+    - type: text
+      value: "三本书"
+    - type: text
+      value: "商店出率太低，除商店外的获取方式如下——"
+    - type: text
+      value: "帮派干部抢夺特色商店出暴击可各拿一本"
+    - type: text
+      value: "大盗神在洞中几率各获得一本"
+    - type: text
+      value: "未知生物图中其中一个猴子尸体可各获得一本"
+    - type: text
+      value: "杀死未知生物"
+    - type: text
+      value: "高层攒资源大地飞回来，算着轮数冰锥时停静电瓦解毁灭砍砍砍，一两个时停必死（用了3个建议看看工程学手册是不是没升级好）"
+    - type: text
+      value: "不摧毁卫星情况下杀死boss"
+    - type: text
+      value: "这个前期比较麻烦，建议后期手册有了干扰再做，不打算省资源在60708090就直接进屋扔个时停砸死boss就是了= = 而且大后期基本是进门就时停，不然完全扛不住boss的特性攻击……这时候打不打卫星其实无所谓了……几率砸下来掉boss点血而已"
+    - type: text
+      value: "不摧毁卫星上30"
+    - type: text
+      value: "很难，进卫星杀小怪之后出卫星会自动帮你摧毁，所以连卫星都不能进的"
+    - type: text
+      value: "方案1. 佐罗+斯巴达+孙悟空 遇到卫星利用大闹天宫快速下楼"
+    - type: text
+      value: "方案2. 一层直接放狗  利用狗的侦查特性快速下楼"
+    - type: text
+      value: "不需要称号 可带梦境药水防止脸黑"
+    - type: text
+      value: "不强化工程手册上50"
+    - type: text
+      value: "建议和上面的一起做，爬个50层爽完就走绝不停留"
+    - type: text
+      value: "注意装备不能造，电池不能造，古代科技芯片不能使用"
+    - type: text
+      value: "工程学手册全部强化满级"
+    - type: text
+      value: "难点在于古代芯片和研究报告比较紧缺，所以针对的方法很简单——"
+    - type: text
+      value: "既然高层卫星里的小怪不好打，就在低层打呗"
+    - type: text
+      value: "既然资源紧缺，那我就拼命刷呗"
+    - type: text
+      value: "推荐组合："
+    - type: text
+      value: "未来猫+帮派干部+魔法少年/奥丁神"
+    - type: text
+      value: "未来猫提供大量道具+时光机"
+    - type: text
+      value: "帮派干部路上见谁抢谁抢不到无所谓反正再遇见还会继续抢的"
+    - type: text
+      value: "魔法少年速出位面先知称号缓解没探索点的尴尬；奥丁神提供了打boss的高伤害；两者按喜好选其一"
+    - type: text
+      value: "带上仙人掌药水，一路AAA挺疼的；带上竖琴，点称号时候穿上舒服很多，记得切回次元袋"
+    - type: text
+      value: "称号：大盗神/异界游侠+位面先知+毁灭公爵"
+    - type: text
+      value: "冒险系主要为了贵族套，位面不解释，毁灭公爵是原因是100+打boss需要毁灭之刃，毕竟有电气套，不缺卷轴，大量加成的情况下满足你一刀9999的梦想"
+    - type: text
+      value: "60层之前无脑AAA，穿着两个套装到处骚，35左右时光机，一路烧杀抢掠，到了56左右飞1次，然后飞第2次，然后飞第3次，肝个痛快"
+    - type: text
+      value: "一般在第一次大地之后电气套就该点满了，每层能拿一个高阶卷轴，一路下来卷轴多到爆炸，蒸汽套可以不急，自己看情况"
+    - type: text
+      value: "芯片首选降低反射效果和免疫干扰，配合你的仙人掌药，反射怪和干扰怪都要跪下叫爸爸"
+    - type: text
+      value: "其他芯片拿着可不急着升，攒出大量的芯片之后根据自己的喜好进行选取使用"
+    - type: text
+      value: "70+的小怪层差不多就一层一飞艇吧，A不动了……反正海量航天零件"
+    - type: text
+      value: "按理说没有龙力龙语爬个200层也完全不是问题= = 加油"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "因为是必扫图，不建议速刷，仅推荐几种速刷方法"
+    - type: group
+    - value:
+      - type: text
+        value: "1."
+      - type: text
+        value: "昭夜帝"
+      - type: text
+        value: "：王昭君出战 链接夜叉帝释天，可以做龙鳞套，黄色卫星科技有能量回复\t。"
+    - type: group
+    - value:
+      - type: text
+        value: "2."
+      - type: text
+        value: "撒雕王"
+      - type: text
+        value: "：撒旦之子出战 链接雕刻家骷髅王，带竖琴，三级冒险后，只把法系称号升满就可以，探索点足够。买光商店2、3级卷轴，一层就可以开始建雕像。零件只要升级个头盔的每层加零件，凑齐一套电气套，升级加法术伤害的， 剩下的全升级中间的\t。"
+    - type: group
+    - value:
+      - type: text
+        value: "3."
+      - type: text
+        value: "放狗"
+      - type: text
+        value: "：奥丁出战，链接二郎神贵族，飞艇比较强力时用，航天元件全做电池，一层一飞艇，商店只买航天元件，卫星控制台摧毁，捡卫星残骸，50+招狗只用来打BOSS\t。"

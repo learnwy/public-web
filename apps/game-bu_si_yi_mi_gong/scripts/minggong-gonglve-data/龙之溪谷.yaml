@@ -1,0 +1,758 @@
+  - type: group
+  - value:
+    - type: text
+      value: "地图机制介绍"
+    - type: group
+    - value:
+      - type: text
+        value: "在迷宫中探索会从各种途径获得"
+      - type: text
+        value: "幻龙"
+      - type: text
+        value: "伙伴"
+    - type: group
+    - value:
+      - type: text
+        value: "保存在技能栏的"
+      - type: text
+        value: "幻龙小屋"
+      - type: text
+        value: "中"
+    - type: text
+      value: "幻龙伙伴是本迷宫的最特色系统"
+    - type: image
+      value: data:,
+    - type: text
+      value: "幻龙小屋中，可对幻龙进行上下阵和喂食操作"
+    - type: text
+      value: "研究驯龙手册后，最多可出战3只幻龙"
+    - type: text
+      value: "幻龙伙伴的操作类似出云岛伙伴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "1. 幻龙的分类"
+    - type: group
+    - value:
+      - type: text
+        value: "幻龙分为3类："
+      - type: text
+        value: "陆生、飞行、水生，"
+      - type: text
+        value: "不同类型的幻龙喂食需要的"
+      - type: text
+        value: "食物不同，"
+      - type: text
+        value: "释放主动技需要的"
+      - type: text
+        value: "龙果不同"
+      - type: text
+        value: "。"
+    - type: group
+    - value:
+      - type: text
+        value: "陆生幻龙："
+      - type: text
+        value: "幻影龙、烈焰魔龙。食物是肉块，主动技需要龙晶果"
+    - type: group
+    - value:
+      - type: text
+        value: "飞行幻龙："
+      - type: text
+        value: "尖刺飞龙、咒符龙。食物是蕨叶，主动技需要龙翔果"
+    - type: group
+    - value:
+      - type: text
+        value: "水生幻龙："
+      - type: text
+        value: "瘟疫沼龙、洋流御守龙。食物是鳍鱼，主动技需要龙溪果"
+    - type: text
+      value: "2. 幻龙的升级"
+    - type: group
+    - value:
+      - type: text
+        value: "幻龙通过"
+      - type: text
+        value: "击败怪物、喂食"
+      - type: text
+        value: "和"
+      - type: text
+        value: "训龙大师"
+      - type: text
+        value: "获得经验值进行升级，最高等级99。击败怪物获得的经验随层数增高，只有出战的幻龙可以获得击败经验值。"
+    - type: text
+      value: "1级需要400点经验升级，后续每级增加50点经验。幻龙升级可增加生命值和攻击力。"
+    - type: text
+      value: "3. 幻龙的战斗"
+    - type: text
+      value: "幻龙拥有4个技能，第一个技能为自动攻击，第二个技能为主动技，需要消耗龙果手动施放，第三四技能为被动技能，在场生效。"
+    - type: text
+      value: "除第一个技能为自动解锁只有1级外，其余三个技能需要在驯龙手册学习，均为5级满级。"
+    - type: text
+      value: "幻龙没有魔力，所有技能伤害与攻击力挂钩，幻龙生命值归0后将进入休养状态，6层内无法上阵。"
+    - type: text
+      value: "4. 幻龙技能介绍"
+    - type: text
+      value: "幻影龙 (陆生)"
+    - type: text
+      value: "初始攻击36 初始生命400"
+    - type: group
+    - value:
+      - type: text
+        value: "迅猛攻势"
+      - type: text
+        value: "：每2轮发动一次攻击"
+    - type: group
+    - value:
+      - type: text
+        value: "幻影突袭"
+      - type: text
+        value: "：对目标造成(1+ 技能等级*0.2)*攻击点伤害，并偷取一件物品"
+    - type: group
+    - value:
+      - type: text
+        value: "敏锐嗅觉"
+      - type: text
+        value: "：每进入下一层，(25 + 技能等级*15)%概率获得1个食物"
+    - type: group
+    - value:
+      - type: text
+        value: "寻宝高手"
+      - type: text
+        value: "：每进入下一层，(10 + 技能等级*5)%概率获得1个龙果"
+    - type: text
+      value: "尖刺飞龙 (飞行)"
+    - type: text
+      value: "初始攻击40 初始生命500"
+    - type: group
+    - value:
+      - type: text
+        value: "尖刺飞弹"
+      - type: text
+        value: "：每4轮发动一次攻击"
+    - type: group
+    - value:
+      - type: text
+        value: "尖盾屏障"
+      - type: text
+        value: "：对己方全体附加尖盾屏障（护盾，伤害减免，持续本层）"
+    - type: group
+    - value:
+      - type: text
+        value: "尖盾防御"
+      - type: text
+        value: "：为己方全体抵挡(技能等级*8)%伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "尖刺反射"
+      - type: text
+        value: "：受创时，反射(技能等级*6)%敌人伤害"
+    - type: text
+      value: "瘟疫沼龙 (水生)"
+    - type: text
+      value: "初始攻击48 初始生命460"
+    - type: group
+    - value:
+      - type: text
+        value: "毒性喷发"
+      - type: text
+        value: "：每3轮发动一次攻击，并对目标及其他2名敌人附加瘟疫效果（每轮损失生命值，持续2轮）"
+    - type: group
+    - value:
+      - type: text
+        value: "瘟疫蔓延"
+      - type: text
+        value: "：翻开所有石板，对所有敌人造成(0.6+ 技能等级*0.2)*攻击点伤害，并附加瘟疫效果（持续2轮）"
+    - type: group
+    - value:
+      - type: text
+        value: "毒素溶解"
+      - type: text
+        value: "：瘟疫效果提升：所受伤害提升(技能等级*15)%"
+    - type: group
+    - value:
+      - type: text
+        value: "弱化折磨"
+      - type: text
+        value: "：每轮对陷入异常状态的敌人造成(技能等级*0.5)*攻击点伤害"
+    - type: text
+      value: "洋流御守龙 (水生)"
+    - type: text
+      value: "初始攻击32 初始生命320"
+    - type: group
+    - value:
+      - type: text
+        value: "洋流洗礼"
+      - type: text
+        value: "：每4轮发动，恢复一名友军(1.5+ 技能等级*0.5)*攻击点生命值并清除所有负面状态"
+    - type: group
+    - value:
+      - type: text
+        value: "洋流滋润"
+      - type: text
+        value: "：恢复己方全体(1.5+ 技能等级*0.5)*攻击点生命值，减少1层(5级提升为2层)幻龙休养的层数"
+    - type: group
+    - value:
+      - type: text
+        value: "洋流守护"
+      - type: text
+        value: "：在场时，己方全体所受伤害降低(技能等级*4)%"
+    - type: group
+    - value:
+      - type: text
+        value: "纯净圣域"
+      - type: text
+        value: "：在场时，降低敌人攻击+(技能等级*2)，且己方全体所受负面状态的持续时间减少1轮"
+    - type: text
+      value: "咒符龙 (飞行)"
+    - type: text
+      value: "初始攻击45 初始生命430"
+    - type: group
+    - value:
+      - type: text
+        value: "咒符之力"
+      - type: text
+        value: "：每4轮发动一次攻击，有50%概率附加符文诅咒状态（所受伤害提升20%，持续4轮）"
+    - type: group
+    - value:
+      - type: text
+        value: "咒符吟唱"
+      - type: text
+        value: "：对所有敌人造成(0.9+ 技能等级*0.3)*攻击点伤害，并令其沙漏时间延长2轮(3级提升为3轮，5级提升为4轮)"
+    - type: group
+    - value:
+      - type: text
+        value: "祷告之音"
+      - type: text
+        value: "：在场时，所有幻龙主动技效果提升(技能等级*5)%"
+    - type: group
+    - value:
+      - type: text
+        value: "祝福之语"
+      - type: text
+        value: "：在场时，己方全体攻击提升(技能等级*5)%"
+    - type: text
+      value: "烈焰魔龙 (陆生)"
+    - type: text
+      value: "初始攻击56 初始生命600"
+    - type: group
+    - value:
+      - type: text
+        value: "烈焰焚烧"
+      - type: text
+        value: "：每2轮发动一次攻击，造成3倍伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "烈焰洗礼"
+      - type: text
+        value: "：对目标造成(2.4+ 技能等级*0.6)*攻击点伤害，可以摧毁Boss层猎人小屋。"
+    - type: group
+    - value:
+      - type: text
+        value: "毁灭之力"
+      - type: text
+        value: "：忽视敌人物理抗性+(技能等级*6)%，对生命值低于(15+ 技能等级*5)%的敌人造成伤害时直接斩杀（对BOSS起效生命值减半）"
+    - type: group
+    - value:
+      - type: text
+        value: "霸主争夺"
+      - type: text
+        value: "：对BOSS造成伤害提升(技能等级*10)%，场上存在BOSS时，攻击提升(技能等级*6)%"
+    - type: text
+      value: "4. 驯龙手册介绍"
+    - type: text
+      value: "驯龙手册在1层翻驯龙师的残骸获得，使用幻龙资料和龙之精魄研究项目，驯龙手册的所有项目只对幻龙生效。"
+    - type: text
+      value: "幻龙资料获取途径较多，也可在商店购买；龙之精魄主要来源为龙神雕像供奉和幻影龙偷Boss。"
+    - type: text
+      value: "研究项目每级消耗均相同。需要研究前置至少1级才能研究后续项目，但前置研究等级不影响下层研究的等级提升。"
+    - type: image
+      value: data:,
+    - type: text
+      value: "表中MAX为该研究项目最大等级，资料和精魄为该项目每级需要的数量。"
+    - type: image
+      value: data:,
+    - type: text
+      value: "主线和隐藏冈布奥"
+    - type: text
+      value: "主线: 自然巡查员 (奥刃冒险系)"
+    - type: image
+      value: data:,
+    - type: image
+      value: data:,
+    - type: text
+      value: "隐藏: 自然之子 (启示魔法系)"
+    - type: image
+      value: data:,
+    - type: image
+      value: data:,
+    - type: group
+    - value:
+      - type: text
+        value: "自然之力"
+      - type: text
+        value: "：开启后每轮消耗1点魔法值，令所有幻龙及召唤生物攻击提升75%,并且攻击时，30%概率进行一次额外攻击"
+    - type: group
+    - value:
+      - type: text
+        value: "自然守护"
+      - type: text
+        value: "：开启后每轮消耗1点魔法值，令所有幻龙及召唤生物所受伤害降低40%,并且攻击时，并且每10轮恢复5%生命值"
+    - type: text
+      value: "隐藏拿法"
+    - type: text
+      value: "1.  获得6种幻龙伙伴。"
+    - type: group
+    - value:
+      - type: text
+        value: "1.1"
+      - type: text
+        value: "幻影龙"
+      - type: text
+        value: "：首次开启【牢笼】"
+    - type: group
+    - value:
+      - type: text
+        value: "1.2"
+      - type: text
+        value: "尖刺飞龙"
+      - type: text
+        value: "：使用【治疗术】或【痊愈术】治疗【受伤的尖刺飞龙】"
+    - type: group
+    - value:
+      - type: text
+        value: "1.3"
+      - type: text
+        value: "瘟疫沼龙"
+      - type: text
+        value: "：使用伙伴【幻影龙】主动技能攻击小怪【幻龙研究员】，获得【研究员电子卡】，在尾数为5的楼层进入【研究所】，打开【奇怪的防护罩】获得"
+    - type: group
+    - value:
+      - type: text
+        value: "1.4"
+      - type: text
+        value: "洋流御守龙"
+      - type: text
+        value: "：在【澄澈之溪】概率获得【龙蛋】，携带龙蛋【前进5层】获得 (过程中受伤不能超过20次)"
+    - type: group
+    - value:
+      - type: text
+        value: "1.5"
+      - type: text
+        value: "咒符龙"
+      - type: text
+        value: "：在【贪吃的寻宝者】累计交换10个龙果获得【藏宝图】，使用【藏宝图】后，在下一次尾数为7的楼层遇到【藏宝洞】，进入【藏宝洞】获得【龙玉】，在【龙神雕像】供奉【龙玉】获得"
+    - type: group
+    - value:
+      - type: text
+        value: "1.6"
+      - type: text
+        value: "烈焰魔龙"
+      - type: text
+        value: "：在60以上的Boss层遇到【烈焰魔龙】雕像，喂食【肉块】和【龙晶果】获得"
+    - type: text
+      value: "2. 在尾数为5的楼层进入研究所，与黯淡的琥珀对话获得 隐藏冈布奥 [自然之子] 。"
+    - type: text
+      value: "地图重要彩蛋"
+    - type: text
+      value: "在【贪吃的寻宝者】累计交换10个龙果获得【藏宝图】，使用【藏宝图】后，在下一次尾数为7的楼层遇到【藏宝洞】，进入【藏宝洞】获得【5钻】，限1次。"
+    - type: text
+      value: "地图怪物介绍"
+    - type: text
+      value: "本图怪物全部为人类怪，无反伤。Boss战带一个cd3轮刷怪的帐篷。"
+    - type: image
+      value: data:,
+    - type: text
+      value: "地图建筑介绍"
+    - type: text
+      value: "橙色为重要的dp相关"
+    - type: text
+      value: "牢笼"
+    - type: text
+      value: "1层必定出现，首次开启可获得幻影龙，后续开启获得随机食物*2~3"
+    - type: text
+      value: "幻龙尸骸"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找"
+      - type: text
+        value: "获得 肉块x5~7、40%概率获得龙晶果*1"
+    - type: text
+      value: "澄澈之溪"
+    - type: group
+    - value:
+      - type: text
+        value: "捕鱼"
+      - type: text
+        value: "获得 鳍鱼x3~5、50%概率获得龙溪果*1"
+    - type: group
+    - value:
+      - type: text
+        value: "40%概率获得龙蛋，3次保底，携带龙蛋前进5层后，龙蛋可孵化为"
+      - type: text
+        value: "洋流御守龙"
+    - type: text
+      value: "Tips: 携带龙蛋时，遭受超过20次伤害会使龙蛋破损消失，消失后可重新获取"
+    - type: text
+      value: "火山林"
+    - type: group
+    - value:
+      - type: text
+        value: "调查"
+      - type: text
+        value: "获得 蕨叶x3~4、40%概率获得龙翔果*1"
+    - type: text
+      value: "驯龙高手"
+    - type: text
+      value: "消耗100探索点，为指定幻龙增加500点经验，50%概率为幻龙额外增加2点攻击"
+    - type: text
+      value: "受伤的尖刺飞龙"
+    - type: text
+      value: "持续15轮，对其使用治疗术/治愈术可获得幻龙伙伴尖刺飞龙 (注意选择治疗目标为飞龙)"
+    - type: text
+      value: "龙神雕像"
+    - type: group
+    - value:
+      - type: text
+        value: "供奉"
+      - type: text
+        value: "：消耗1个食物，获得龙之精魄*1 和随机龙果*1"
+    - type: text
+      value: "供奉龙玉时，获得幻龙伙伴 咒符龙"
+    - type: group
+    - value:
+      - type: text
+        value: "参拜："
+      - type: text
+        value: "随机获得攻击+1、魔力+1、生命+10、魔法值+10"
+    - type: text
+      value: "贪吃的寻宝者"
+    - type: text
+      value: "根据选择的食物可换取不同的龙果 (3换1)"
+    - type: text
+      value: "换取10次可获得 藏宝图  使用：找寻藏宝洞"
+    - type: text
+      value: "使用后在下一个x7层出现藏宝洞，进入可获得："
+    - type: text
+      value: "钻石x5 (限1次，后续变为卷轴)"
+    - type: text
+      value: "金币x5000"
+    - type: text
+      value: "4~5阶卷轴x1"
+    - type: text
+      value: "龙玉x1 (在龙神雕像供奉)"
+    - type: text
+      value: "5阶装备x1"
+    - type: text
+      value: "3种龙果x3"
+    - type: text
+      value: "研究所"
+    - type: text
+      value: "x5层出现，内有①培育仓、②研究台、③黯淡的琥珀、④奇怪的防护罩"
+    - type: image
+      value: data:,
+    - type: group
+    - value:
+      - type: text
+        value: "①培育仓"
+      - type: text
+        value: "：所有幻龙生命值+10"
+    - type: group
+    - value:
+      - type: text
+        value: "②研究台"
+      - type: text
+        value: "：获得幻龙资料*6~9"
+    - type: group
+    - value:
+      - type: text
+        value: "③黯淡的琥珀"
+      - type: text
+        value: "(拥有6只幻龙可用)：获得隐藏冈布奥 自然之子"
+    - type: group
+    - value:
+      - type: text
+        value: "④"
+      - type: text
+        value: "奇怪的防护罩"
+      - type: text
+        value: "(拥有研究员电子卡可用)：首次获得 瘟疫沼龙，后续 瘟疫沼龙攻击+2"
+    - type: text
+      value: "研究员电子卡来源：幻影龙主动技 攻击 幻龙研究员 获得。电子卡不会消耗，只需要拿一次即可一直使用。"
+    - type: text
+      value: "驯龙商会"
+    - type: group
+    - value:
+      - type: text
+        value: "固定出售6件商品"
+      - type: text
+        value: "。使用探索点换取道具"
+    - type: text
+      value: "肉块*3 (100)"
+    - type: text
+      value: "鳍鱼*3 (100)"
+    - type: text
+      value: "蕨叶*3 (100)"
+    - type: text
+      value: "随机龙果*2 (250)"
+    - type: text
+      value: "特制罐头*1 (200)"
+    - type: text
+      value: "幻龙资料*5 (150)"
+    - type: text
+      value: "50%概率额外售卖龙之精髓*1 (400)"
+    - type: text
+      value: "勒索可获得幻龙资料x20 或 龙之精魄x1 ，各上限2次"
+    - type: text
+      value: "龙穴：夹层入口"
+    - type: text
+      value: "可出现 牢笼、幻龙尸骸、驯龙师的残骸、研究员的残骸"
+    - type: text
+      value: "烈焰魔龙"
+    - type: group
+    - value:
+      - type: text
+        value: "在60+ boss层出现，喂食"
+      - type: text
+        value: "肉块"
+      - type: text
+        value: "和"
+      - type: text
+        value: "龙晶果"
+      - type: text
+        value: "后，获得伙伴 烈焰魔龙"
+    - type: text
+      value: "残骸和异界彩蛋"
+    - type: text
+      value: "橙色为dp相关"
+    - type: text
+      value: "驯龙师的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "1层必定出现，首次获得驯龙手册"
+    - type: text
+      value: "获得特制罐头*1，50%概率获得随机龙果*1"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【残破的驯龙师灵魂】使用：所有幻龙攻击+1"
+    - type: text
+      value: "【完整的驯龙师灵魂】使用：所有幻龙攻击+3"
+    - type: text
+      value: "研究员的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "获得 幻龙资料x3 (驯龙手册研究材料)"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【残破的研究员灵魂】使用：所有幻龙生命值+10"
+    - type: text
+      value: "【完整的研究员灵魂】使用：所有幻龙生命值+30"
+    - type: text
+      value: "机械龙人的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "【红豆年糕汤】使用：己方全体恢复50%生命值"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【机械龙人的灵魂】使用：幻龙主动技效果提升10%"
+    - type: text
+      value: "恶龙的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "财宝箱  每翻开一块石板获得1点探索点（你只需要将它放在包裹里）"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【恶龙的灵魂】使用：获得屠龙勇士之剑"
+    - type: text
+      value: "屠龙勇士之剑 (5星圣物) 攻击提升10%，对BOSS伤害提升30%"
+    - type: text
+      value: "暴烈骑士的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "套索 (1星圣物) 生命值+10"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【暴烈骑士的灵魂】使用：套索，能力提升"
+    - type: text
+      value: "飞索捕熊器  生命值+30，攻击后，与目标展开决斗"
+    - type: text
+      value: "飞行员的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "龙鳞 所有幻龙攻击+10（你只需要将它放在包裹里）"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【飞行员的灵魂】使用：龙鳞，能力提升"
+    - type: text
+      value: "红色龙鳞  所有幻龙攻击+20（你只需要将它放在包裹里）"
+    - type: text
+      value: "捕猎者的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "电棍 (2星手套) 所有出战幻龙攻击提升15%，每轮对所有出战幻龙造成3点伤害"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【捕猎者的灵魂】使用：电棍，能力提升"
+    - type: text
+      value: "电击枪 (3星手套) 所有出战幻龙攻击提升30%，每轮对所有出战幻龙造成5点伤害"
+    - type: text
+      value: "大盗神彩蛋"
+    - type: text
+      value: "被封印的巴哈姆特"
+    - type: text
+      value: "这头巨龙陷入了深深的沉睡，它的身上绑着许多充满魔力的锁链。"
+    - type: group
+    - value:
+      - type: text
+        value: "破坏封印 (魔力≥100)："
+      - type: text
+        value: "对下三层造成毁灭打击"
+    - type: text
+      value: "维京少年"
+    - type: text
+      value: "“你也在躲避猎龙人的追捕吗？这是我特制的滑翔伞，可以帮助你快速摆脱他们，我想你应该需要它，就送给你吧。”"
+    - type: group
+    - value:
+      - type: text
+        value: "获得滑翔伞"
+      - type: text
+        value: "使用：直接进入下一层（特殊层无效）"
+    - type: text
+      value: "巨大的脚印"
+    - type: text
+      value: "这个巨大的脚印似乎是某只巨龙留下的，上面还残留着一些能量波动。"
+    - type: group
+    - value:
+      - type: text
+        value: "按压脚印："
+      - type: text
+        value: "(需要红龙/神龙/黑暗龙/神圣巨龙/仙女龙出战) 攻击、魔力提升5%"
+    - type: text
+      value: "隐藏食谱"
+    - type: text
+      value: "魔龙圣水"
+    - type: text
+      value: "食用：冈布奥魔力提升5%"
+    - type: text
+      value: "隐藏食材【龙之泪】"
+    - type: text
+      value: "翻找 恶龙的残骸 获得"
+    - type: text
+      value: "抓拍照片"
+    - type: text
+      value: "资深捕猎者的照片 (限3次)"
+    - type: text
+      value: "照片中的资深捕猎者，正准备向你发起攻击。"
+    - type: group
+    - value:
+      - type: text
+        value: "途径："
+      - type: text
+        value: "遇到资深捕猎者抓拍(10%)"
+    - type: group
+    - value:
+      - type: text
+        value: "使用："
+      - type: text
+        value: "冈布奥攻击+1"
+    - type: text
+      value: "维京少年的照片 (限1次)"
+    - type: text
+      value: "照片中的维京少年不再躲在阴暗的角落，"
+    - type: text
+      value: "他收拾装备，似乎准备直面猎龙人。"
+    - type: group
+    - value:
+      - type: text
+        value: "途径："
+      - type: text
+        value: "遇到大盗神彩蛋维京少年"
+    - type: group
+    - value:
+      - type: text
+        value: "使用："
+      - type: text
+        value: "幻龙主动技效果提升10%"
+    - type: text
+      value: "捕猎团主脑的照片 (限1次)"
+    - type: text
+      value: "照片中的捕猎团主脑，正准备向你发起攻击。"
+    - type: group
+    - value:
+      - type: text
+        value: "途径："
+      - type: text
+        value: "进入BOSS层抓拍(30%)"
+    - type: group
+    - value:
+      - type: text
+        value: "使用："
+      - type: text
+        value: "冈布奥攻击及魔力+3；获得1个龙之精魄"
+    - type: text
+      value: "扫荡 和 DP"
+    - type: text
+      value: "本图特产为 古遗迹碎片x1500"
+    - type: text
+      value: "扫荡收益与神锻之地相同，并列第8"
+    - type: text
+      value: "下图排序为扫荡金币"
+    - type: image
+      value: data:,
+    - type: text
+      value: "最后来看一下特殊DP"
+    - type: text
+      value: "这个迷宫比较缺资源，推荐商帮灯刷第一把DP，注意驯龙伙伴会占召唤位，不要使用召唤类打法。"
+    - type: text
+      value: "推荐阵容：商人出战 链接帮派干部+ 神灯  神器竖琴，探索点类药剂，称号 异界 + 毁灭 + 大地。"
+    - type: text
+      value: "大概说一下怎么打，因为幻龙食物有限，初期每种类型的幻龙选一只养，陆生的烈焰魔龙很强，但初期拿不到，所以只有2种配队："
+    - type: text
+      value: "幻影龙 + 尖刺飞龙 (减伤) +  瘟疫沼龙 (输出)"
+    - type: text
+      value: "幻影龙 + 洋流御守龙 (减伤) + 咒符龙 (输出)"
+    - type: text
+      value: "因为测服洋流龙有BUG，我用的是第一种组合"
+    - type: text
+      value: "驯龙手册先把经验点满，有精魄了先点2技能，幻影龙偷电子卡越早越好，每次到x5层研究所都可以给瘟疫龙加攻击，后边再有精魄了可以平均点三四技能，都点完后边就随便了"
+    - type: text
+      value: "商人的罐头和幻龙资料必买，罐头买了直接吃掉，其他前期可以不买，后边探索点充裕了可以买点输出位的食物，比如养瘟疫龙就买鱼。驯龙大师优先训练输出位。"
+    - type: text
+      value: "Boss战幻影龙偷一下Boss，尖刺飞龙开盾，瘟疫龙一直用技能就可以，后边输出不够了可以上瓦解之类的。"
+    - type: text
+      value: "打到30多层直接魔毯回去再刷一波资源，后边就可以往高打了，高层小怪的经验要多一些。打到打不动再大地刷资源就好了。"
+    - type: image
+      value: data:,
+    - type: text
+      value: "这个尽量在主线做掉，注意做的时候不要摸监牢和水池"
+    - type: image
+      value: data:,
+    - type: text
+      value: "特殊残骸产物，一局一次"
+    - type: image
+      value: data:,
+    - type: text
+      value: "培育仓在X5层的研究所里，龙蛋在水池里拿，拿到后下5层就孵化了，注意期间受伤不能超过20次，每局可以孵化一个。"
+    - type: image
+      value: data:,
+    - type: text
+      value: "这个是所有任务里最难的，材料比较缺，注意就是每次遇到龙神雕像一定要供奉，遇到Boss都用幻影龙偷一下，商店记得勒索，幻龙资料要买。"
+    - type: text
+      value: "大地魔毯来回刷，基本上这个任务做完，其它的肯定也就完成了。"

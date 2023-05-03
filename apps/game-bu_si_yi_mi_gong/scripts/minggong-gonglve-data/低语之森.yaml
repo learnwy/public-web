@@ -1,0 +1,434 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制 - 花园"
+    - type: text
+      value: "可以种植 \"魔藤\" 或 \"太阳花\""
+    - type: text
+      value: "1. 种植魔藤"
+    - type: text
+      value: "在1层杰克的尸体可获得杰克的魔豆，种植后出现魔藤"
+    - type: text
+      value: "魔藤每5轮攻击1次(如果没有攻击目标则恢复生命及魔法1点)，每层恢复生命及魔法"
+    - type: text
+      value: "初始属性：攻击20，生命值70，魔力15，魔法值50"
+    - type: text
+      value: "魔藤属性受召唤物类技能加成"
+    - type: text
+      value: "魔藤的升级"
+    - type: text
+      value: "魔藤消耗黑棘种子进行升级，满级为50级"
+    - type: text
+      value: "升级分为三个阶段"
+    - type: text
+      value: "第一阶段 1-9级"
+    - type: text
+      value: "升级消耗10颗种子，攻击及魔力+1，生命值及魔法值+10"
+    - type: text
+      value: "第二阶段 10-19级"
+    - type: text
+      value: "升级消耗15颗种子，攻击及魔力+1.5 (舍弃小数)，生命值及魔法值+10"
+    - type: text
+      value: "第三阶段 20-50级"
+    - type: text
+      value: "升级消耗20颗种子，攻击及魔力+2 ，生命值及魔法值+20"
+    - type: text
+      value: "魔藤的寄生植物"
+    - type: text
+      value: "共有四种魔幻植物可供魔藤寄生，每次消耗1个魔幻植物寄生或升星"
+    - type: text
+      value: "寄生植物初始星级上限为5星，可通过用魔藤杀死boss层的蘑菇获取4种孢子来提升上限至6星"
+    - type: text
+      value: "血腥菟丝子：寄生后获得主动技能"
+    - type: text
+      value: "消耗25点魔法值；对单个敌人造成【魔力*(1+(星级-1)*0.25)】点伤害（若用该技能杀死敌人，则吞噬其尸体，并恢复生命值，恢复血量为怪物被杀死时的血量）"
+    - type: text
+      value: "爆裂南瓜"
+    - type: text
+      value: "魔藤攻击+(3*星级)，生命值+(10*星级)；魔藤攻击时，(4*星级)%的概率造成3倍伤害"
+    - type: text
+      value: "水晶蘑菇"
+    - type: text
+      value: "魔藤魔力+(3*星级)，魔法值+(10*星级)；魔藤攻击时，(5*星级)%的概率不被反击"
+    - type: text
+      value: "黄金曼陀罗：寄生后给予冈布奥属性加成"
+    - type: text
+      value: "冈布奥全属性加成：魔藤属性的(6*星级)%"
+    - type: text
+      value: "魔藤的恢复和复活"
+    - type: text
+      value: "消耗黑棘种子*5恢复，每次恢复25点生命和魔法值"
+    - type: text
+      value: "消耗魔泉*1复活，复活后恢复1/10的生命和魔法值"
+    - type: text
+      value: "魔藤常用特性"
+    - type: text
+      value: "杀死食人花会掉落双倍黑棘种子"
+    - type: text
+      value: "杀死蘑菇掉落孢子，提升寄生植物星级上限"
+    - type: text
+      value: "蘑菇死亡后三轮内攻击BOSS，百分比扣血"
+    - type: text
+      value: "2. 种植太阳花"
+    - type: text
+      value: "30+BOSS层概率获得太阳花种子，种植出现太阳花"
+    - type: text
+      value: "可消耗30颗黑棘种子制造太阳光，共可制造10次"
+    - type: text
+      value: "太阳光 使用：冈布奥攻击及魔力+2"
+    - type: text
+      value: "10次后获得太阳花冈布奥或碎片*20，\t太阳花消失，可继续种植魔藤"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "太阳花获得方法"
+    - type: text
+      value: "1. 花园不要种植魔藤！"
+    - type: text
+      value: "2. \t30+BOSS层概率获得\t太阳花种子\t，在花园种植太阳花"
+    - type: text
+      value: "3. \t消耗30颗黑棘种子制造太阳光，\t制造10次太阳光\t(共需300颗种子)\t后获得太阳花冈布奥，之后是20碎片。"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: group
+    - value:
+      - type: text
+        value: "木灵树"
+      - type: text
+        value: "（99层保底），\t首次获得木灵，离开迷宫后获得世界树上的\t木灵宝宝\t，效果：魔法瓶恢复量+15%"
+    - type: group
+    - value:
+      - type: text
+        value: "大盗神"
+      - type: text
+        value: "，翻找寒冰蘑菇获得1~3个寒冰蘑菇，使用后50%概率获得钻石*2，上限5次，如果拿到2个以上的蘑菇，可以下楼小SL第2个和第3个的钻石，如果只拿到1个就只能大SL。"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: group
+    - value:
+      - type: text
+        value: "植物洞窟"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "进入可出现一簇植物"
+    - type: group
+    - value:
+      - type: text
+        value: "一簇植物"
+      - type: text
+        value: "（夹层）"
+    - type: text
+      value: "获得 黑棘种子*5或10/血腥菟丝子*1/爆裂南瓜*1/水晶蘑菇*1/黄金曼陀罗*1"
+    - type: group
+    - value:
+      - type: text
+        value: "戴夫的小屋"
+      - type: text
+        value: "(地图特色商店 货币：探索点)"
+    - type: text
+      value: "出售3件商品，魔藤寄生植物未满级时优先出现"
+    - type: text
+      value: "黑棘种子*5 (30)  黑棘种子*10 (60)  魔泉*1 (150)"
+    - type: text
+      value: "血腥菟丝子*1(100)  爆裂南瓜*1(100)"
+    - type: text
+      value: "水晶蘑菇*1(100)  金曼陀罗*1(100)"
+    - type: text
+      value: "特殊勒索"
+    - type: text
+      value: "破烂的铁桶*1(限1次) 8320"
+    - type: text
+      value: "破西装*1(限1次) 8321"
+    - type: text
+      value: "------------------------------------------------"
+    - type: text
+      value: "破烂的铁桶\t【头盔】闪避-5%，降低所受伤害+15%"
+    - type: text
+      value: "破西装\t【铠甲】生命值+50"
+    - type: text
+      value: "僵尸\t【套装】(\t破\t烂\t的\t铁桶 + \t破西装) 攻击植物时，造成额外伤害+20%"
+    - type: text
+      value: "果树"
+    - type: text
+      value: "冈布奥属性提升："
+    - type: text
+      value: "攻击+1/魔力+1/生命值+10或20/魔法值+10或20"
+    - type: group
+    - value:
+      - type: text
+        value: "木灵树"
+      - type: text
+        value: "（99层保底）"
+    - type: text
+      value: "首次获得 木灵 离开迷宫后，可将木灵放在世界树上"
+    - type: text
+      value: "木灵宝宝效果：魔法瓶恢复量+15%"
+    - type: text
+      value: "之后获得 木灵 使用：唤醒木灵"
+    - type: text
+      value: "木灵：侦测钥匙的位置，且拾取探索点时，额外获得30%探索点"
+    - type: group
+    - value:
+      - type: text
+        value: "杰克的尸体"
+      - type: text
+        value: "（固定在第一层）"
+    - type: text
+      value: "获得 杰克的魔豆*1"
+    - type: text
+      value: "杰克的魔豆 魔幻植物，可在花园中种植魔藤"
+    - type: text
+      value: "皇后的尸体"
+    - type: text
+      value: "获得 有毒的苹果*1+魔镜*1"
+    - type: text
+      value: "有毒的苹果  使用：获得200点探索点、食用后中毒"
+    - type: text
+      value: "魔镜【宝物】魔力+3、魔法值+30；攻击比你漂亮的敌人时，造成双倍伤害"
+    - type: text
+      value: "胖子的尸体"
+    - type: text
+      value: "获得  水管工的背带裤*1"
+    - type: text
+      value: "水管工的背带裤*1【腰带】生命值+40"
+    - type: text
+      value: "瘦子的尸体"
+    - type: text
+      value: "获得  水管工的帽子*1"
+    - type: text
+      value: "水管工的帽子*1【头盔】生命值+40"
+    - type: text
+      value: "超级水管工套装 【套装】(水管工的背带裤、水管工的帽子)  生命值+40、攻击+4；攻击蘑菇时，造成额外伤害+50%"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 魔泉*1 + 血腥菟丝子/爆裂南瓜/水晶蘑菇/黄金曼陀罗*2"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 冬青木魔棒*1"
+    - type: text
+      value: "冬青木魔棒【宝物】 魔力+4、魔法值+40；所有火系魔法效果+20%"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 黑棘种子*20"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 虫卵*3"
+    - type: text
+      value: "虫卵  使用：召唤虫族生物（本层有效）"
+    - type: text
+      value: "彩虹蘑菇"
+    - type: text
+      value: "获得 彩虹蘑菇*1~3"
+    - type: text
+      value: "彩虹蘑菇  使用：施放神圣重生；某些特定情况下使用，获得3颗世界树果实"
+    - type: text
+      value: "寒冰蘑菇"
+    - type: text
+      value: "获得 寒冰蘑菇*1~3"
+    - type: text
+      value: "寒冰蘑菇  使用：施放极光屏障；某些特定情况下使用，获得2颗钻石"
+    - type: text
+      value: "毁灭蘑菇"
+    - type: text
+      value: "获得 毁灭蘑菇*1~3"
+    - type: text
+      value: "毁灭蘑菇  使用：施放末日审判；某些特定情况下使用，获得10颗黑棘种子"
+    - type: text
+      value: "灯异界"
+    - type: text
+      value: "杰克的尸体"
+    - type: text
+      value: "杰克的灵魂"
+    - type: text
+      value: "使用：升级魔藤时，黑棘种子消耗降低1"
+    - type: text
+      value: "皇后的尸体"
+    - type: text
+      value: "皇后的灵魂"
+    - type: text
+      value: "使用：攻击时，附带嫉妒心效果（在你的眼中，所有敌人都比你漂亮）"
+    - type: text
+      value: "胖子的尸体"
+    - type: text
+      value: "路易基的灵魂  使用：随机获得1～2颗蘑菇"
+    - type: text
+      value: "必定获得1个下水道蘑菇  使用：施放石肤术（持续本层）"
+    - type: text
+      value: "概率获得1个毁灭蘑菇"
+    - type: text
+      value: "瘦子的尸体"
+    - type: text
+      value: "马里奥的灵魂  使用：随机获得1～2颗蘑菇"
+    - type: text
+      value: "必定获得1个下水道蘑菇"
+    - type: text
+      value: "概率获得1个彩虹蘑菇"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "丛林大杂烩"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "快孵化的蜥蜴蛋*1(蜥蜴掉落)"
+    - type: text
+      value: "蜘蛛腿*3(蜘蛛掉落)"
+    - type: text
+      value: "食用：获得50点探索点，森之树屋攻击时，额外造成5点伤害"
+    - type: text
+      value: "食人花炒蛋"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "食人花花瓣*3 (食人花掉落)"
+    - type: text
+      value: "快孵化的蜥蜴蛋*2 (蜥蜴掉落)"
+    - type: text
+      value: "食用：随机获得1株魔幻植物"
+    - type: text
+      value: "上品素食拼盘"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "豌豆粒*3 (豌豆炮掉落)"
+    - type: text
+      value: "裂开的坚果*2 (坚果墙掉落)"
+    - type: text
+      value: "食人花花瓣*2 (食人花掉落)"
+    - type: text
+      value: "食用：魔藤攻击及魔力+1、生命值+10"
+    - type: text
+      value: "豪华蘑菇宴(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "毒伞菇*2 (BOSS层蘑菇掉落)"
+    - type: text
+      value: "洞穴菇*2 (大盗神：彩虹蘑菇/寒冰蘑菇/毁灭蘑菇)"
+    - type: text
+      value: "七彩菇*1 (翻找胖子的尸体)"
+    - type: text
+      value: "红斑菇*1 (翻找瘦子的尸体)"
+    - type: text
+      value: "食用：所有魔法效果+5%；降低所受中毒效果+50%"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "太阳花的照片"
+    - type: text
+      value: "使用：每进入下一层，恢复10点魔法值"
+    - type: text
+      value: "来源：种植太阳花 100% 获取 (上限1)"
+    - type: text
+      value: "DP难点"
+    - type: text
+      value: "(来源:\t贴吧-云尘尽转c)"
+    - type: text
+      value: "获得太阳花种子与使用太阳光—隐藏冈布奥"
+    - type: text
+      value: "这两个dp比较靠前， 一下子就把压轴的隐藏提前了QAQ"
+    - type: text
+      value: "因为开局一块地，种子全靠捡，所以种植物就是该地图的特色，\t本图有两种植物，分别是魔藤与太阳花，其中魔藤后述，先说太阳花——"
+    - type: text
+      value: "太阳花种子获取方式：30—80的boss层几率出， 与大部分隐藏相反， 太阳花在30、40、50 层出的几率更高"
+    - type: text
+      value: "获得种子后种植进园子，太阳花冈布奥出现，特点：完全无战斗能力，不受攻击，除了种出来看之外毫无作用，自带一个技能生产阳光，一次消耗30种子，最多生产十个阳光"
+    - type: text
+      value: "生产十个阳光之后(共需要300种子)，作为隐藏冈布奥加入(土地重置，可继续种植魔藤) 之后获取方式不变，一次20碎"
+    - type: text
+      value: "太阳光可使用，攻击+2、魔力+2"
+    - type: text
+      value: "注意：如果先种植了魔藤种子，太阳花种子将无法种植!就算魔藤是死亡状态也不能替换!"
+    - type: text
+      value: "不种植魔藤到达40层"
+    - type: text
+      value: "一般拿太阳花的肯定不种魔藤，基本只要刷隐藏一定会保证不种植魔藤到60层......(没错就是60层，我不信你在不往回飞的情况下60层就能刷够300种子)"
+    - type: text
+      value: "魔藤系列"
+    - type: text
+      value: "好了，低语也只有这个需要仔细的说说了，其他的基本都很简单很轻松"
+    - type: text
+      value: "首先说下魔藤的机制，魔藤种子获取方式：1层杰克的尸体翻出(好吧正常人都知道)"
+    - type: text
+      value: "魔藤特性：5轮攻击一次，受反击(用习惯了地狱的失乐园就觉得魔藤好辣鸡......)，如果轮数走完没有可输出的怪物则恢复生命魔法各1点，可用种子强化"
+    - type: text
+      value: "魔藤有四种强化的寄生植物：菟丝子给了魔藤一个主动技能，随时可用，消耗魔法，杀怪回血；爆裂南瓜加成了魔藤攻击及生命值，附带了几率三倍伤害；水晶蘑菇加成魔藤魔力和魔法值，附 带攻击几率不受反击；黄金曼陀罗把魔藤属性按百分比给予冈布奥加成"
+    - type: text
+      value: "下面开始解读"
+    - type: group
+    - value:
+      - type: text
+        value: "四个寄生植物升到五级"
+      - type: text
+        value: "——只要一路商店的寄生植物全买，植物洞全进，肯定能搞定"
+    - type: group
+    - value:
+      - type: text
+        value: "恢复与复活魔藤"
+      - type: text
+        value: "——恢复就是直接5种子回血，复活需要买商店出的魔泉(也可能在洞中几率出)，这两个都不难，魔藤掉血就恢复很快就做完了，复活只需要把魔藤送死就可以复活了"
+    - type: group
+    - value:
+      - type: text
+        value: "魔藤达到50级"
+      - type: text
+        value: "说实话我一直不觉得这个有多麻烦，可能是欧气比较重吧"
+    - type: text
+      value: "经计算魔藤升级到上限50级共需要840个种子(惊不惊喜意不意外开不开心hhh) 做这个dp，阵容自已随便选就是了，推荐冒险系出战，且链接的冈布奥必须有一个魔法系(你再欧也不可能不用大地回层做出来)"
+    - type: text
+      value: "注意事项：药水可带上植物萃取液(非必须)，有六星竖琴可以带上(非必须)，一层点出异界(这就是冒险系出战的好处)，翻尸体拿到灵魂(升级魔藤消耗种子-1，太阳花无效)，拿到这个灵魂， 就直接减少了50个种子的消耗。战斗系称号随意，魔法系速出位面(冒险系做出贵族套之后再点魔法系称号，位面出的快)，位面点满后只要到45层立刻大地(如果45层没点满位面，那之后点满位面就大地)，再到45层的时候再次大地。一路上所有的洞都进，商店种子必买，拼命的肝种子，注意尽量让魔藤杀死食人花，保证种子收入增加，同时其他的怪自己点杀，最大化保证魔藤不死"
+    - type: text
+      value: "关于这个刷法的几个问题―"
+    - type: text
+      value: "为什么那么低层用大地?我想6070再用大地行不行?"
+    - type: text
+      value: "低层大地的原因：魔藤杀死的食人花种子双倍掉落，50+的层数魔藤容易被反击死，越低越好"
+    - type: text
+      value: "开局种了魔藤太阳花怎么办?隐藏拿不到了啊"
+    - type: text
+      value: "开局魔藤不浪费前期的双倍种子，而且要了太阳花又是300个种子，虽然可以做到隐藏拿了再"
+    - type: text
+      value: "魔藤50级，但是爬起来会很累的，几乎100+层才能搞定50级十分不稳。设想一下太阳花70\t层左右拿到了，然后你大地飞到20层左右，叫出来魔藤发现很快就死了，但是不叫又没法杀食\t人花拿双倍种子，那才是尴尬啊"
+    - type: text
+      value: "脸黑双大地后在70多层魔藤死了复活了又死了，没法升级了怎么办啊"
+    - type: text
+      value: "高层魔藤死了就死着吧，别救了，救起来也活不了多久，等攒够了一波升级的种子之后复活了直\t接升到50级做完完美GG"
+    - type: text
+      value: "我的猫/狗/传销......不给魔藤的输出机会怎么办啊"
+    - type: text
+      value: "别带召唤小弟的那种冈布奥了，魔藤杀怪本身就很不容易，你小弟还要抢的话很烦的"
+    - type: text
+      value: "有什么快一点的组合推荐吗"
+    - type: text
+      value: "其实非召唤类的任意组合冒险系出战魔法系链接(暗系流派除外，没大地)都没什么问题，毕竟\t位面两次下来，配合魇藤怎么也能稳上100了吧"
+    - type: text
+      value: "个人喜欢用的——特种兵+吸血鬼+任意魔法系，推荐巫妖王/开罗姬"
+    - type: text
+      value: "特种兵吸血鬼就不多谈了，深渊随便一个冈布奥带上他俩稳一点打都能上\t100==，注意\t为了1\t层异界特种兵出战"
+    - type: text
+      value: "巫妖王主要是为了凑个魔法系(划掉划掉，正经一点)，主要是因为他的技能自带了十级的雕像，\t魔法物品发现几率增加，应该大概也许可能对出种子有帮助......吧(好吧就是为了凑个魔法系)\t开罗姬主要也是为了凑个魔法系(其他魔法系对于特吸邪教基本无作用......) ， boss层吃个兴奋\t剂叫出大量小弟和古树蘑菇打群架挺爽的......(强行找理由掩盖凑魔法系的事实)"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "(来源:论坛-宅之小天)"
+    - type: text
+      value: "boss层有四蘑菇，同样出产古树之心。所以在手刷过程中，无论是否出了隐藏尽量都爬个100。"
+    - type: text
+      value: "1.狼大阵容：特吸巫 ，其实很好用的。异界拿皇后魂。或者特吸寄生恶魔/龙，特吸白。"
+    - type: text
+      value: "2.养狗阵容：二郎神，瑞，南瓜。气系光辉+圣符文师。狼人静电祝福招狗。注意战士系3阶称号一定要点能用气系的（给圣徽那个，还能白嫖凤凰圣徽复活），90层boss方便时停保狗。"
+    - type: text
+      value: "平常保持残血，boss层直接往boss脸上撞即可清掉四蘑菇。圣符文师把光辉送的神恩术合成重生。"
+    - type: text
+      value: "自爆狗的狗主要用来过小怪层祝福就够（其实是用不了毁灭），boss层只需保住狗子（失明术时停），自己在狗子前死掉就行。圣符文师重生炸到足100够用。100层就不用理狗子死活了。"

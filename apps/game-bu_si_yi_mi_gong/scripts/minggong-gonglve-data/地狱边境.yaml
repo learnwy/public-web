@@ -1,0 +1,1792 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制"
+    - type: image
+      value: data:,
+    - type: text
+      value: "失乐园"
+    - type: text
+      value: "使用元素结晶可升级失乐园技能"
+    - type: text
+      value: "1. 堕落之光 (满级50)"
+    - type: text
+      value: "每级消耗：六种元素结晶*3"
+    - type: group
+    - value:
+      - type: text
+        value: "初始效果"
+      - type: text
+        value: "：每3轮发动，造成 (等级*20) 点伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "5级增加"
+      - type: text
+        value: "：攻击时，(等级*0.2)%概率附带堕落效果（持续3轮）"
+    - type: text
+      value: "50级10%概率附带堕落效果：攻击力降低为1"
+    - type: group
+    - value:
+      - type: text
+        value: "10级增加"
+      - type: text
+        value: "：攻击时，驱散敌人1层恶魔印记"
+    - type: text
+      value: "30级驱散2层，50级驱散3层"
+    - type: group
+    - value:
+      - type: text
+        value: "50级增加"
+      - type: text
+        value: "：攻击时，斩杀生命值低于20%的敌人"
+    - type: text
+      value: "2. 混沌晶核 (无上限)"
+    - type: text
+      value: "每级消耗：六种元素结晶*50"
+    - type: group
+    - value:
+      - type: text
+        value: "效果"
+      - type: text
+        value: "：失乐园对敌人造成的伤害提升(20*等级)%"
+    - type: text
+      value: "每次升级获得 恶魔礼盒*1"
+    - type: text
+      value: "恶魔礼盒 使用：获得恶魔的礼物"
+    - type: group
+    - value:
+      - type: text
+        value: "必定获得 撒旦之心*3"
+      - type: text
+        value: "(隐藏必须，不要使用)"
+    - type: text
+      value: "撒旦之心  使用：冈布奥攻击及魔力+1、食用后燃烧；撒旦之子冈布奥使用时，效果翻倍"
+    - type: text
+      value: "随机获得 恶魔荆棘/雷神印记/野兽的牙齿 *3"
+    - type: text
+      value: "50%概率\t获得 恶魔的契约 (2次保底)"
+    - type: text
+      value: "恶魔的契约  使用：流失100点生命值，掌握【恶魔系】称号"
+    - type: text
+      value: "5%概率获得 黑暗圣器套装*1"
+    - type: text
+      value: "黑暗圣器套装：亡者呼吸+邪神指骨+地狱漫步者+深红之翼"
+    - type: text
+      value: "第二次打开时(跨迷宫累计)，获得 失乐园钥匙*1"
+    - type: text
+      value: "失乐\t园钥匙 古遗迹中获得 \t僚机\t【失乐园\t】"
+    - type: text
+      value: "失乐园：天空探索战斗中，战斗开始时5%概率出现，随机提升10点属性"
+    - type: text
+      value: "3. 烈焰晶核 (满级20)"
+    - type: text
+      value: "每级消耗：火元素结晶*5"
+    - type: group
+    - value:
+      - type: text
+        value: "1-19级效果"
+      - type: text
+        value: "：降低法力燃烧效果+(等级*5)%，所有火系魔法效果+(等级*1)%"
+    - type: group
+    - value:
+      - type: text
+        value: "满级效果："
+      - type: text
+        value: "免疫法力燃烧，所有火系魔法效果+20%；攻击时，50%概率造成双倍伤害"
+    - type: text
+      value: "4. 寒冰晶核 (满级20)"
+    - type: text
+      value: "每级消耗：水元素结晶*5"
+    - type: group
+    - value:
+      - type: text
+        value: "1-19级效果"
+      - type: text
+        value: "：降低死亡凋零效果+(等级*5)%，所有水系魔法效果+(等级*1)%"
+    - type: group
+    - value:
+      - type: text
+        value: "满级效果："
+      - type: text
+        value: "免疫死亡凋零，所有水系魔法效果+20%；每杀死一个敌人，10%概率施放寒冰护盾"
+    - type: text
+      value: "5. 大地晶核 (满级20)"
+    - type: text
+      value: "每级消耗：土元素结晶*5"
+    - type: group
+    - value:
+      - type: text
+        value: "1-19级效果"
+      - type: text
+        value: "：降低重击效果+(等级*5)%，所有土系魔法效果+(等级*1)%"
+    - type: group
+    - value:
+      - type: text
+        value: "满级效果："
+      - type: text
+        value: "免疫重击，所有土系魔法效果+20%；攻击、魔力+20，生命、魔法值+200"
+    - type: text
+      value: "6. 飓风晶核 (满级20)"
+    - type: text
+      value: "每级消耗：气元素结晶*5"
+    - type: group
+    - value:
+      - type: text
+        value: "1-19级效果"
+      - type: text
+        value: "：降低瓦解效果+(等级*5)%，所有气系魔法效果+(等级*1)%"
+    - type: group
+    - value:
+      - type: text
+        value: "满级效果："
+      - type: text
+        value: "免疫瓦解，所有气系魔法效果+20%；施放魔法时，10%概率不消耗魔法值"
+    - type: text
+      value: "7. 圣光晶核 (满级20)"
+    - type: text
+      value: "每级消耗：光元素结晶*5"
+    - type: group
+    - value:
+      - type: text
+        value: "1-19级效果"
+      - type: text
+        value: "：(等级*5)%概率免疫状态消除，所有光系魔法效果+(等级*1)%"
+    - type: group
+    - value:
+      - type: text
+        value: "满级效果："
+      - type: text
+        value: "免疫状态消除，所有光系魔法效果+20%；受创时，5%概率免疫所有伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "阿撒兹勒的雕像赋予："
+      - type: text
+        value: "免疫诅咒"
+    - type: text
+      value: "8. 黑暗晶核 (满级20)"
+    - type: text
+      value: "每级消耗：暗元素结晶*5"
+    - type: group
+    - value:
+      - type: text
+        value: "1-19级效果"
+      - type: text
+        value: "：降低禁魔效果+(等级*5)%，所有暗系魔法效果+(等级*1)%"
+    - type: group
+    - value:
+      - type: text
+        value: "满级效果："
+      - type: text
+        value: "免疫禁魔，所有光系魔法效果+20%；获得5张内爆术"
+    - type: group
+    - value:
+      - type: text
+        value: "阿撒兹勒的雕像赋予："
+      - type: text
+        value: "所有敌人无法复活"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "撒旦之子获得方法"
+    - type: text
+      value: "前提条件：在上一次地狱边境时，死于某一层，留下墓碑"
+    - type: text
+      value: "1. 强化失乐园的\"混沌晶核\"，会获得恶魔礼盒，使用后获得3个\"撒旦之心\" (留着不要使用)"
+    - type: text
+      value: "2. 到达墓碑层后，在墓碑选择使用1个暗元素结晶，墓碑转化为恶魔之门"
+    - type: text
+      value: "3. 恶魔之门选择解除封印，出现撒旦之子，点击提交3个撒旦之心，获得撒旦之子冈布奥，之后为20碎片"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: group
+    - value:
+      - type: text
+        value: "失乐园"
+      - type: text
+        value: "，使用六种元素结晶*50升级混沌晶核，每次升级会获得1个恶魔礼盒，第二次打开恶魔礼盒时(跨迷宫累计)，获得 僚机【失乐园】"
+    - type: group
+    - value:
+      - type: text
+        value: "植物系冈布奥出战"
+      - type: text
+        value: "，遇到枯萎的食人花，使用水结晶*10\t 救活后选择移栽"
+      - type: text
+        value: "，"
+      - type: text
+        value: "首次获得世界树宝宝\t\"食人花\"\t。"
+    - type: text
+      value: "植物系：世界树、仙人掌、太阳花、爆裂南瓜、嗜血藤蔓"
+    - type: group
+    - value:
+      - type: text
+        value: "被魔化的冈布奥"
+      - type: text
+        value: "，选择净化 (光结晶*5)"
+    - type: text
+      value: "选择【帮我干活吧】：获得冈布奥工匠*1（限1次）"
+    - type: text
+      value: "选择【赶紧离开吧】：20%获得3钻（限3次）"
+    - type: text
+      value: "神器：炎魔之手 (称号必须灯异界)"
+    - type: text
+      value: "翻找【拉格纳罗斯的残骸】获得【熔岩之核】*10 和【拉格纳罗斯的灵魂】，使用灵魂获得【炎魔之眼】"
+    - type: text
+      value: "在【暗淡的魔法阵】注入火元素结晶*3 后 制作萨弗隆战锤 (\t材料：魔铁*100，暗钢*50，恒金*8，火元素结晶*25，熔岩之核*10，山脉之血*10，炽热之核*10)"
+    - type: text
+      value: "使用【炎魔之眼】融合【萨弗隆战锤】，获得【炎魔之手】。通关结算\t获得80神器碎片"
+    - type: group
+    - value:
+      - type: text
+        value: "坍塌的大门，"
+      - type: text
+        value: "注入不同的元素结晶，概率召唤出冈布奥，召唤的冈布奥不会与出战或链接的冈布奥相同"
+      - type: text
+        value: "。"
+    - type: group
+    - value:
+      - type: text
+        value: "冈布奥50%概率掉落碎片*2(部分为土罐*1)\t，表格中后2种为金罐冈布奥 (\t蓝色的碎片在古代竞技场也出，红色为地狱边境特有\t)"
+      - type: text
+        value: "。"
+    - type: text
+      value: "碎片每日掉落上限5次，即10个碎片。土罐每日掉落上限3次。\t单次\t迷宫不能超出日上限。"
+    - type: group
+    - value:
+      - type: text
+        value: "大门元素召唤表\t火：\t剑士\t地狱火(土罐)\t恶魔猎手\t破坏神\t水：\t幽灵船长\t巫妖王"
+      - type: text
+        value: "鱼人"
+      - type: text
+        value: "冰霜女王"
+      - type: text
+        value: "土：\t冒险者\t魔法傀儡(土罐)\t美杜莎"
+      - type: text
+        value: "法老王"
+      - type: text
+        value: "气：\t魔法师\t佐罗\t矮人王\t圣堂武士\t光：\t吟游诗人\t太阳花"
+      - type: text
+        value: "天使神"
+      - type: text
+        value: "丘比特"
+      - type: text
+        value: "暗：\t死亡骑士\t黑暗龙"
+      - type: text
+        value: "骷髅王"
+      - type: text
+        value: "潘多拉"
+    - type: group
+    - value:
+      - type: text
+        value: "暗淡的魔法阵"
+      - type: text
+        value: "，使用\t水结晶*3"
+    - type: text
+      value: "较低概\t率获得 钻石*3 (限6次) / 钻石*1 (限2次) / 土罐*5 (限6次) / 金罐*1 (限2次)"
+    - type: group
+    - value:
+      - type: text
+        value: "地狱裂缝"
+      - type: text
+        value: "，9层出现，之后每5层出现一次。使用6次不同\t的结晶*1，进入夹层，夹层下方有个桶可以点爆，10%出现5钻石（限1次，10次保底）"
+    - type: group
+    - value:
+      - type: text
+        value: "孙悟空雕像出战"
+      - type: text
+        value: "，\t踢翻炼丹炉，后续出现火焰山，用水结晶*30熄灭后，和土地公对话得到3钻，限1次"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: text
+      value: "主要建筑会按照 废弃的据点 → 坍塌的大门 → 暗淡的魔法阵 → 交易所废墟 的顺序循环出现"
+    - type: group
+    - value:
+      - type: text
+        value: "1. 废弃的据点"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "注入不同的元素结晶，进入不同的夹层"
+    - type: text
+      value: "火元素结晶*3 => 地狱犬的据点"
+    - type: text
+      value: "可出现 骸骨堆"
+    - type: text
+      value: "获得 火元素结晶*5 / 野兽的牙齿*1 / 异域之矢图纸*1"
+    - type: text
+      value: "水元素结晶*3 => 巫妖的据点"
+    - type: text
+      value: "可出现 储物箱"
+    - type: text
+      value: "获得 水元素结晶*5 或 10"
+    - type: text
+      value: "土元素结晶*3 => 傀儡的据点"
+    - type: text
+      value: "可出现 元素矿脉"
+    - type: text
+      value: "获得 随机元素结晶*5 或 10"
+    - type: text
+      value: "气元素结晶*3 => 鬼魂的据点"
+    - type: text
+      value: "可出现 储物箱"
+    - type: text
+      value: "获得 气元素结晶*5 / 雷神印记*1 / 传奇之矢图纸*1"
+    - type: text
+      value: "光元素结晶*3 => 天使的据点"
+    - type: text
+      value: "可出现 恶魔的残骸"
+    - type: text
+      value: "获得 暗元素结晶*5 / 恶魔荆棘*1 / 深红之翼图纸*1(上限1)"
+    - type: text
+      value: "暗元素结晶*3 => 恶魔的据点"
+    - type: text
+      value: "可出现 天使的残骸"
+    - type: text
+      value: "获得 光元素结晶*5 / 天使的羽翼*1 / 圣荆棘冠图纸*1(上限1)"
+    - type: text
+      value: "2. 坍塌的大门"
+    - type: text
+      value: "注入不同的元素结晶，召唤对应的元素协战，20%概率召唤出冈布奥，召唤的冈布奥不会与出战或链接的冈布奥相同。"
+    - type: text
+      value: "冈布奥50%概率掉落碎片*2(地狱火、魔法傀儡对应土罐*1)"
+    - type: text
+      value: "碎片每日上限5次，土罐每日上限3次。"
+    - type: text
+      value: "单次迷宫获取不能超出每日上限\t。"
+    - type: text
+      value: "注入 火元素结晶*3"
+    - type: text
+      value: "火元素"
+    - type: text
+      value: "灼烧：攻击时，附带燃烧效果（每轮损失生命值，持续3轮）"
+    - type: text
+      value: "掉落 火元素结晶*1"
+    - type: text
+      value: "剑士冈布奥"
+    - type: text
+      value: "古剑术：攻击时，50%概率造成1.5倍伤害"
+    - type: text
+      value: "掉落 剑士碎片*2 / 随机剑术卷轴*1"
+    - type: text
+      value: "地狱火冈布奥"
+    - type: text
+      value: "火焰专精：攻击时，50%概率施放火球术"
+    - type: text
+      value: "掉落 冈布奥之罐*1 / 火球术*5"
+    - type: text
+      value: "恶魔猎手冈布奥"
+    - type: text
+      value: "献祭：攻击时，附带燃烧效果（每轮损失生命值，持续3轮）"
+    - type: text
+      value: "掉落  恶魔猎手碎片*2 / 诅咒视界*1"
+    - type: text
+      value: "诅咒视界【头盔】攻击+1、闪避+3%；每层侦测敌人的初始位置+1；升级魔法系称号时，探索点消耗降低10%"
+    - type: text
+      value: "破坏神冈布奥"
+    - type: text
+      value: "毁灭印记 攻击时，50%概率造成2倍伤害"
+    - type: text
+      value: "掉落  破坏神碎片*2 / 毁灭之刃*1"
+    - type: text
+      value: "注入 水元素结晶*3"
+    - type: text
+      value: "水元素"
+    - type: text
+      value: "宁静之雨  每2轮发动，为冈布奥恢复生命值"
+    - type: text
+      value: "掉落 水元素结晶*1"
+    - type: text
+      value: "幽灵船长冈布奥"
+    - type: text
+      value: "冰锥术  攻击时，20%概率施放冰锥术"
+    - type: text
+      value: "掉落  幽灵船长碎片*2 / 冰锥术*2"
+    - type: text
+      value: "巫妖王冈布奥"
+    - type: text
+      value: "寒冰护盾  每6轮发动，为冈布奥施放寒冰护盾"
+    - type: text
+      value: "掉落 巫妖王碎片*2 / 寒冰护盾*2"
+    - type: text
+      value: "鱼人冈布奥"
+    - type: text
+      value: "水雾术  每进入下一层，为冈布奥施放水雾术"
+    - type: text
+      value: "掉落 鱼人碎片*2 / 治疗术*5"
+    - type: text
+      value: "冰霜女王冈布奥"
+    - type: text
+      value: "冰霜新星  攻击时，20%概率施放冰霜新星"
+    - type: text
+      value: "掉落 冰霜女王碎片*2 / 冰锥术*3"
+    - type: text
+      value: "注入 土元素结晶*3"
+    - type: text
+      value: "土元素"
+    - type: text
+      value: "守护者  为冈布奥抵挡伤害"
+    - type: text
+      value: "掉落 土元素结晶*1"
+    - type: text
+      value: "冒险者冈布奥"
+    - type: text
+      value: "英雄的足迹  每进入下一层，20%概率遇见村民"
+    - type: text
+      value: "掉落 冒险者碎片*2 / 原谅之帽*1"
+    - type: text
+      value: "原谅之帽【头盔】降低敌人攻击+1"
+    - type: text
+      value: "魔法傀儡冈布奥"
+    - type: text
+      value: "魔力熔炉  所受伤害降低30%"
+    - type: text
+      value: "掉落 冈布奥之罐*1 / 石肤术*5"
+    - type: text
+      value: "美杜莎冈布奥"
+    - type: text
+      value: "石化凝视  攻击时，10%概率施放石化凝视"
+    - type: text
+      value: "掉落 美杜莎碎片*2 / 戈耳工之眼*1"
+    - type: text
+      value: "戈耳工之眼【头盔】攻击+1，生命值+20，攻击被石化的敌人，造成额外伤害+50%"
+    - type: text
+      value: "法老王冈布奥"
+    - type: text
+      value: "法老王诅咒  攻击时，20%概率施放法老王诅咒"
+    - type: text
+      value: "掉落 法老王碎片*2 / 诅咒术*2"
+    - type: text
+      value: "注入 气元素结晶*3"
+    - type: text
+      value: "气元素"
+    - type: text
+      value: "闪避  拥有较高的闪避"
+    - type: text
+      value: "掉落 气元素结晶*1"
+    - type: text
+      value: "魔法师冈布奥"
+    - type: text
+      value: "魔法艺术  每3轮发动，施放闪电术，50%概率造成2倍伤害"
+    - type: text
+      value: "掉落 魔法师碎片*2 / 闪电术*5"
+    - type: text
+      value: "佐罗冈布奥"
+    - type: text
+      value: "Z字必杀剑  攻击时，20%概率施放Z字必杀剑"
+    - type: text
+      value: "掉落 佐罗碎片*2 / 佐罗的面罩*1"
+    - type: text
+      value: "佐罗的面罩【头盔】攻击+1，生命+10；攻击地狱犬时，造成额外伤害+50%，击败一定数量的地狱犬，可升级面罩 (0/20)"
+    - type: text
+      value: "矮人王冈布奥"
+    - type: text
+      value: "雷神之锤  攻击时，50%概率施放闪电术"
+    - type: text
+      value: "掉落 矮人王碎片*2 / 淬火精华*1"
+    - type: text
+      value: "淬火精华  使用：锋锐状态（攻击提升20%、攻击时20%概率不受反击，持续本层），炼金师及锻造师冈布奥使用时，效果翻倍"
+    - type: text
+      value: "圣堂武士冈布奥"
+    - type: text
+      value: "离子风暴  攻击时，20%概率施放闪电链"
+    - type: text
+      value: "掉落 圣堂武士碎片*2 / 闪电链*2"
+    - type: text
+      value: "注入 光元素结晶*3"
+    - type: text
+      value: "光元素"
+    - type: text
+      value: "光之守护  概率免疫所有伤害"
+    - type: text
+      value: "掉落 光元素结晶*1"
+    - type: text
+      value: "吟游诗人冈布奥"
+    - type: text
+      value: "冒险者之歌  每击败一个敌人，获得8点探索点"
+    - type: text
+      value: "掉落 吟游诗人碎片*2 / 探索点*100"
+    - type: text
+      value: "太阳花冈布奥"
+    - type: text
+      value: "光合作用  每进入下一层，随机提升冈布奥属性"
+    - type: text
+      value: "掉落 太阳花碎片*2 / 太阳光*1"
+    - type: text
+      value: "太阳光 使用：冈布奥攻击及魔力+2"
+    - type: text
+      value: "天使神冈布奥"
+    - type: text
+      value: "神之裁决  攻击时，20%概率施放天堂之拳"
+    - type: text
+      value: "掉落 天使神碎片*2 / 天使之翼*1"
+    - type: text
+      value: "天使之翼【披风】魔力+2、魔法值+20；攻击时，5%概率施放天堂之拳"
+    - type: text
+      value: "丘比特冈布奥"
+    - type: text
+      value: "爱神之箭  攻击时，20%概率施放爱神之箭"
+    - type: text
+      value: "掉落 丘比特碎片*2 / 黄金箭*1"
+    - type: text
+      value: "黄金箭【宝物】魔力+5；所有光系魔法效果+10%"
+    - type: text
+      value: "注入 暗元素结晶*3"
+    - type: text
+      value: "暗元素"
+    - type: text
+      value: "诅咒 攻击时，附带诅咒效果（攻击降低，持续3轮）"
+    - type: text
+      value: "掉落 暗元素结晶*1"
+    - type: text
+      value: "死亡骑士冈布奥"
+    - type: text
+      value: "亡灵契约  攻击时，20%概率将敌人变为骷髅（消除特性及有益状态，对BOSS无效，持续3轮）"
+    - type: text
+      value: "掉落 死亡骑士碎片*2 / 亡灵契约*1"
+    - type: text
+      value: "亡灵契约【宝物】免疫中毒；攻击亡灵时，造成额外伤害+30%"
+    - type: text
+      value: "黑暗龙冈布奥"
+    - type: text
+      value: "腐蚀龙息  攻击时，概率附带衰老效果（攻击降低，且每轮损失生命值，持续3轮）"
+    - type: text
+      value: "掉落 黑暗龙碎片*2 / 内爆术*1"
+    - type: text
+      value: "骷髅王冈布奥"
+    - type: text
+      value: "斯克强吸能术  攻击时，将所造成伤害的30%恢复到生命值"
+    - type: text
+      value: "掉落 骷髅王碎片*2 / 断掉的指骨*1"
+    - type: text
+      value: "断掉的指骨  使用：冈布奥攻击+2、使用时施放神圣重生"
+    - type: text
+      value: "潘多拉冈布奥"
+    - type: text
+      value: "灾厄之源  攻击时，10%概率施放末日审判"
+    - type: text
+      value: "掉落 潘多拉碎片*2 / 魔盒*1"
+    - type: text
+      value: "魔盒  使用：施放腐蚀之云，随机获得5张火系及暗系魔法卷轴"
+    - type: text
+      value: "3. 暗淡的魔法阵"
+    - type: text
+      value: "注入不同的元素结晶，转化为不同的魔法阵"
+    - type: text
+      value: "火元素结晶*3 => 炼金师法阵"
+    - type: text
+      value: "功能：使用图纸和材料锻造道具"
+    - type: text
+      value: "制作传奇之矢"
+    - type: text
+      value: "材料：野兽的牙齿*3，暗元素结晶*5"
+    - type: text
+      value: "制作异域之矢"
+    - type: text
+      value: "材料：雷神印记*3，气元素结晶*5"
+    - type: text
+      value: "制作萨弗隆战锤"
+    - type: text
+      value: "材料：魔铁*100，暗钢*50，恒金*8，火元素结晶*25，熔岩之核*10，山脉之血*10，炽热之核*10"
+    - type: text
+      value: "制作圣荆棘冠"
+    - type: text
+      value: "材料：恶魔荆棘*3，光元素结晶*30"
+    - type: text
+      value: "制作深红之翼"
+    - type: text
+      value: "材料：天使的羽翼*3，暗元素结晶*30"
+    - type: text
+      value: "水元素结晶*3 => 祈愿术法阵"
+    - type: text
+      value: "功能：许愿获得随机道具或探索点"
+    - type: text
+      value: "较低概率获得特殊奖励："
+    - type: text
+      value: "冈布奥之罐*5 (上限6次) / \t黄金之罐*1 (上限2次) /"
+    - type: text
+      value: "钻石*3 (上限6次) / \t钻石*1 (上限2次)"
+    - type: text
+      value: "未获得特殊奖励时，随机获得："
+    - type: text
+      value: "65%概率：100~200探索点"
+    - type: text
+      value: "15%概率：随机1阶食材*10 / 2阶*5 / 3阶*3"
+    - type: text
+      value: "15%概率：随机1阶炼金材料*10 / 2阶*5 / 3阶*3"
+    - type: text
+      value: "5%概率：金币*2000"
+    - type: text
+      value: "土元素结晶*3 => 聚尸术法阵"
+    - type: text
+      value: "功能：随机出现1~3具残骸"
+    - type: text
+      value: "冒险者残骸"
+    - type: text
+      value: "60%获得 锻造工匠 / 符文工匠 / 猎人 / 贵族 套装部件*1"
+    - type: text
+      value: "30%获得  命运之轮 / 永恒 套装部件*1"
+    - type: text
+      value: "10%获得  全职猎人之证*1 (上限1)"
+    - type: text
+      value: "全职猎人之证【宝物】：升级冒险系称号时，探索点消耗降低10%"
+    - type: text
+      value: "魔法师残骸"
+    - type: text
+      value: "60%获得 随机元素结晶*5"
+    - type: text
+      value: "15%获得  魔法太妃糖*1"
+    - type: text
+      value: "15%获得  橡木魔棒*1"
+    - type: text
+      value: "10%获得  黄岑木魔棒 或 胡桃木魔棒*1"
+    - type: text
+      value: "魔法太妃糖 使用：恢复35%魔法值"
+    - type: text
+      value: "橡木魔棒【宝物】魔力+2、魔法值+20；每进入下一层，恢复魔法值+2"
+    - type: text
+      value: "黄岑木魔棒【宝物】魔力+3、魔法值+30；所有治疗类魔法效果+15%"
+    - type: text
+      value: "胡桃木魔棒【宝物】魔力+3、魔法值+30；所有伤害类魔法效果+15%"
+    - type: text
+      value: "天使的残骸"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找"
+      - type: text
+        value: "获得 光元素结晶*5 / 天使的羽翼*1 / 圣荆棘冠图纸*1(上限1)"
+    - type: group
+    - value:
+      - type: text
+        value: "复活 (暗结晶*5)"
+      - type: text
+        value: "击杀获得 暗元素结晶*10"
+    - type: text
+      value: "恶魔的残骸"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找"
+      - type: text
+        value: "获得 暗元素结晶*5 / 恶魔荆棘*1 / 深红之翼图纸*1(上限1)"
+    - type: group
+    - value:
+      - type: text
+        value: "复活  (光结晶*5)"
+      - type: text
+        value: "击杀获得 光元素结晶*10"
+    - type: text
+      value: "泰瑞尔的残骸 (限1次)"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找"
+      - type: text
+        value: "获得 泰瑞尔的力量*1"
+    - type: group
+    - value:
+      - type: text
+        value: "复活  (光结晶*20)"
+      - type: text
+        value: "复活\t 泰瑞尔 协战"
+    - type: text
+      value: "圣剑之力：\t攻击时，20%概率施放圣剑之力（对亡灵及恶魔效果提升100%）"
+    - type: text
+      value: "大天使之怒\t：死亡时自爆，对场上所有敌人造成10倍伤害"
+    - type: text
+      value: "死亡掉落 \t泰瑞尔的力量*1"
+    - type: text
+      value: "泰瑞尔的力量【铠甲】生命值+60、降低敌人攻击+3；攻击时，15%概率施放圣光弹"
+    - type: text
+      value: "迪亚布罗的残骸 (限1次)"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找"
+      - type: text
+        value: "获得 毁灭*1"
+    - type: group
+    - value:
+      - type: text
+        value: "复活  (暗结晶*20)"
+      - type: text
+        value: "复活\t 迪亚布罗 协战"
+    - type: text
+      value: "火焰践踏：\t攻击时，20%概率施放火焰践踏"
+    - type: text
+      value: "末世浩劫\t：每5轮发动，施放末世浩劫"
+    - type: text
+      value: "死亡掉落 毁灭\t*1"
+    - type: text
+      value: "毁灭(包裹内起效)  攻击+3，魔力+3\t；生命值+30，魔法值+30\t；元素结晶发现概率+30%"
+    - type: text
+      value: "气元素结晶*3 => 奥术法阵"
+    - type: text
+      value: "功能：获得探索点100~200"
+    - type: text
+      value: "根据出战冈布奥获得额外奖励"
+    - type: text
+      value: "恶魔、堕天使、天使神 出战"
+    - type: text
+      value: "获得 变形术*1"
+    - type: text
+      value: "剑士、勇者、十字军 出战"
+    - type: text
+      value: "获得 降低敌人攻击+1"
+    - type: text
+      value: "考古家、塔罗牌、星月学者、贤者、大祭祀 出战"
+    - type: text
+      value: "获得 魔力+1"
+    - type: text
+      value: "创世神、潘多拉、美杜莎、魔法少年 出战"
+    - type: text
+      value: "获得  诅咒术*10"
+    - type: text
+      value: "恶魔猎手、血猎者、猛禽、利爪 出战"
+    - type: text
+      value: "获得 攻击+1"
+    - type: text
+      value: "巫妖王、骷髅王、死亡骑士、吸血伯爵 出战"
+    - type: text
+      value: "获得  吸能术*2"
+    - type: text
+      value: "光元素结晶*3 => 力量增幅矩阵"
+    - type: text
+      value: "获得：攻击+1，最大生命值+10"
+    - type: text
+      value: "每5次获得：降低敌人攻击+1"
+    - type: text
+      value: "暗元素结晶*3 => 魔力增幅矩阵"
+    - type: text
+      value: "获得：魔力+1，最大魔法值+10"
+    - type: text
+      value: "每5次获得：所有伤害类魔法效果+1%"
+    - type: group
+    - value:
+      - type: text
+        value: "4. 交易所废墟"
+      - type: text
+        value: "(地图特色商店 货币：探索点)"
+    - type: text
+      value: "注入光/暗元素结晶，进入不同的商店"
+    - type: text
+      value: "在售商品 (4~5件)"
+    - type: text
+      value: "前2件为不同的元素结晶  第3件为图纸 第4件为材料"
+    - type: text
+      value: "第5件为装备(概率刷出)，限次商品未够买可重复出现"
+    - type: text
+      value: "光元素结晶*3 => 远征军补给站"
+    - type: text
+      value: "水/气/光元素结晶*5 (150)"
+    - type: text
+      value: "水/气/光\t元素结晶*10 (300)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "异域之矢图纸*1 (300)  \t传奇之矢图纸*1 (300)"
+    - type: text
+      value: "萨弗隆战锤图纸*1 (500 上限1)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "炽热之核*1 (300)  \t炽热之核*2 (600)"
+    - type: text
+      value: "雷神印记*1 (100)  \t恶魔荆棘*1 (200)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "都灵裹尸布*1 (1000 上限1)"
+    - type: text
+      value: "朗基奴斯枪*1 (1000 上限1)"
+    - type: text
+      value: "圣甲虫*1 (1000 上限1)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索  水、气、光\t元素结晶*10  (限1次)"
+    - type: text
+      value: "暗元素结晶*3 => 远征军补给站"
+    - type: text
+      value: "火/土/暗元素结晶*5 (150)"
+    - type: text
+      value: "火/土/暗\t元素结晶*10 (300)"
+    - type: text
+      value: "------------"
+    - type: text
+      value: "异域之矢图纸*1 (300)  \t传奇之矢图纸*1 (300)"
+    - type: text
+      value: "萨弗隆战锤图纸*1 (500 上限1)"
+    - type: text
+      value: "-------------"
+    - type: text
+      value: "山脉之血*1 (300)  \t山脉之血*2 (600)"
+    - type: text
+      value: "野兽的牙齿*1 (100)  \t天使的羽翼*1 (200)"
+    - type: text
+      value: "-------------"
+    - type: text
+      value: "亡者呼吸*1 (1000\t 上限1)"
+    - type: text
+      value: "地狱漫步者*1 (1000 上限1)"
+    - type: text
+      value: "邪神指骨*1 (1000\t 上限1)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索  火、土、暗\t元素结晶*10  (限1次)"
+    - type: text
+      value: "道具介绍："
+    - type: text
+      value: "炽热之核  (萨弗隆战锤制作材料) 使用：流失20点生命值、使用后燃烧；所有火系魔法效果+1%"
+    - type: text
+      value: "雷神印记 (异域之矢制作材料)  使用：每10轮自动施放闪电术（持续本层）"
+    - type: text
+      value: "恶魔荆棘 (圣荆棘冠制作材料)  使用：投掷后，对敌人造成50点伤害，附带流血效果（持续3轮）"
+    - type: text
+      value: "山脉之血  (萨弗隆战锤制作材料)  使用：冈布奥生命值+10；降低敌人攻击+1"
+    - type: text
+      value: "野兽的牙齿 (传奇之矢制作材料)  使用：对敌人造成5点伤害，1%概率拘禁其灵魂（被拘禁灵魂的敌人，将直接死亡，对亡灵及元素等无生命敌人无效）"
+    - type: text
+      value: "天使的羽翼\t  (深红之翼制作材料)  使用：冈布奥攻击+1\t；天使神冈布奥使用时，效果翻倍"
+    - type: text
+      value: "套装介绍："
+    - type: text
+      value: "黑暗圣器：亡者呼吸+邪神指骨+地狱漫步者+深红之翼"
+    - type: text
+      value: "亡者呼吸【戒指】魔法值+100，所有暗系魔法效果+100%"
+    - type: text
+      value: "邪神指骨【手套】魔力+8，诅咒术持续轮数+3"
+    - type: text
+      value: "地狱漫步者【鞋子】闪避上限+5%，每前进10层迷宫闪避+2%"
+    - type: text
+      value: "深红之翼【披风】魔力+5，降低敌人攻击+1，每进入下一层恢复魔法值+10"
+    - type: text
+      value: "套装属性：魔力+10%；杀死敌人时，20%概率提升1点魔力；释放伤害类魔法时，50%概率造成双倍伤害）"
+    - type: text
+      value: "光明圣器：圣甲虫+都灵裹尸布+朗基奴斯枪+圣荆棘冠"
+    - type: text
+      value: "圣甲虫【项链】魔法值+100，所有辅助类魔法效果+100%"
+    - type: text
+      value: "都灵裹尸布【盔甲】生命值+100，神圣重生魔法效果+100%"
+    - type: text
+      value: "朗基奴斯枪【宝物】攻击+5，攻击恶魔及亡灵时，20%概率直接斩杀（对BOSS无效）"
+    - type: text
+      value: "圣荆棘冠【披风】攻击+8，每进入下一层流失生命值+5%"
+    - type: text
+      value: "套装属性：攻击+10%；杀死敌人时，20%概率提升1点魔力；冈布奥死亡时，20%概率回复100%生命"
+    - type: text
+      value: "元素法师残骸 (固定1层出现)"
+    - type: text
+      value: "获得 六种元素结晶*5"
+    - type: text
+      value: "无名氏的残骸"
+    - type: text
+      value: "获得 不朽之剑*1"
+    - type: text
+      value: "不朽之剑【宝物】攻击+5；攻击时，20%概率造成双倍伤害"
+    - type: text
+      value: "拉格纳罗斯的残骸"
+    - type: text
+      value: "获得 熔岩之核*10"
+    - type: text
+      value: "熔岩之核  使用：施放流星雨"
+    - type: text
+      value: "但丁的残骸"
+    - type: text
+      value: "获得 黑檀木*1 和 白象牙*1"
+    - type: text
+      value: "黑檀木  使用：对敌人造成50点伤害（子弹7/7）"
+    - type: text
+      value: "白象牙  使用：对敌人造成50点伤害（子弹7/7）"
+    - type: text
+      value: "凝固的蜡池"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 蜡烛*1"
+    - type: text
+      value: "蜡烛  使用：侦测钥匙的位置（持续本层）"
+    - type: group
+    - value:
+      - type: text
+        value: "火结晶*10："
+      - type: text
+        value: "获得 浸了蜡的头盔*1"
+    - type: text
+      value: "浸了蜡的头盔【头盔】免疫诅咒，降低所受鬼魂伤害+15%"
+    - type: text
+      value: "恶魔殿废墟"
+    - type: text
+      value: "恶魔、撒旦之子出战时："
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "深红之翼*1 + \t恶魔的拥抱套装*1"
+    - type: text
+      value: "恶魔的腰带【腰带】每杀死一个敌人，攻击+1，当层起效"
+    - type: text
+      value: "恶魔的护腕【手套】每杀死一个敌人，攻击+2，当层起效"
+    - type: text
+      value: "恶魔的肉翼【披风】每杀死一个敌人，攻击+3，当层起效"
+    - type: text
+      value: "套装属性：攻击+10"
+    - type: group
+    - value:
+      - type: text
+        value: "暗结晶*10："
+      - type: text
+        value: "攻击、魔力+3，最大生命、魔法值+30"
+    - type: text
+      value: "其他冈布奥出战时："
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "恶魔的拥抱套装*1"
+    - type: group
+    - value:
+      - type: text
+        value: "暗结晶*10："
+      - type: text
+        value: "召唤3个恶魔怪，杀死后每个掉落暗元素结晶*10"
+    - type: text
+      value: "亚巴顿的雕像"
+    - type: group
+    - value:
+      - type: text
+        value: "膜拜："
+      - type: text
+        value: "无光之盾卷轴*1"
+    - type: text
+      value: "无光之盾卷轴  使用：施放无光之盾（将所受伤害转换为恢复生命值，持续1轮）"
+    - type: group
+    - value:
+      - type: text
+        value: "暗结晶*30："
+      - type: text
+        value: "无光之盾技能卷轴*1"
+    - type: text
+      value: "无光之盾技能卷轴  使用：掌握【无光之盾】魔法（主动施放）"
+    - type: text
+      value: "血骑士的雕像"
+    - type: group
+    - value:
+      - type: text
+        value: "膜拜："
+      - type: text
+        value: "最大生命值+30，每进入下一层，恢复生命值+5"
+    - type: group
+    - value:
+      - type: text
+        value: "暗结晶*20："
+      - type: text
+        value: "复活血骑士，杀死获得 血之结晶*1"
+    - type: text
+      value: "血之结晶  使用：恢复100%生命值；吸血伯爵冈布奥使用时，生命值提升10%"
+    - type: text
+      value: "阿撒兹勒的雕像"
+    - type: group
+    - value:
+      - type: text
+        value: "膜拜："
+      - type: text
+        value: "获得光元素结晶*5 + 暗元素结晶*5；堕天使出战额外获得：所有光系、暗系魔法效果+5%"
+    - type: group
+    - value:
+      - type: text
+        value: "光结晶*10："
+      - type: text
+        value: "赋予失乐园圣光晶核特性：免疫诅咒"
+    - type: group
+    - value:
+      - type: text
+        value: "暗结晶*10："
+      - type: text
+        value: "赋予失乐园黑暗晶核特性：所有敌人无法复活"
+    - type: text
+      value: "恶魔汤锅"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 未知的肉块*3"
+    - type: text
+      value: "未知的肉块  使用：恢复100点生命值、食用后中毒"
+    - type: group
+    - value:
+      - type: text
+        value: "火结晶*10："
+      - type: text
+        value: "获得 恶魔肝脏*1 + 恶魔肉块*1"
+    - type: text
+      value: "恶魔肝脏  使用：冈布奥攻击及魔力+1；恶魔冈布奥使用时，效果翻倍；撒旦之子冈布奥使用时，所有魔法效果+1%"
+    - type: text
+      value: "恶魔肉块  使用：每击败一个敌人，恢复生命值+2；恶魔冈布奥使用时，效果翻倍；撒旦之子冈布奥使用时，降低敌人攻击+1"
+    - type: text
+      value: "坍塌的圣坛"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "获得 随机元素结晶*3"
+    - type: group
+    - value:
+      - type: text
+        value: "火水土气结晶*1："
+      - type: text
+        value: "转化为元素祭坛 (使用效果见"
+      - type: group
+      - value:
+        - type: text
+          value: "遗落圣坛攻略"
+        - type: text
+          value: "琼斯的日记)"
+    - type: text
+      value: "骨灰瓦瓮"
+    - type: group
+    - value:
+      - type: text
+        value: "取走："
+      - type: text
+        value: "获得 骨灰瓦瓮*1"
+    - type: text
+      value: "骨灰瓦瓮  使用：随机获得3个残破的灵魂"
+    - type: group
+    - value:
+      - type: text
+        value: "光暗结晶*10："
+      - type: text
+        value: "获得 克尔苏加德灵魂容器*1"
+    - type: text
+      value: "克尔苏加德灵魂容器【宝物】所有魔法效果+10%；死亡骑士冈布奥装备时，攻击+10；巫妖王冈布奥装备时，魔力+10"
+    - type: text
+      value: "残破的瞭望塔"
+    - type: group
+    - value:
+      - type: text
+        value: "光结晶*1："
+      - type: text
+        value: "转化为点亮的灯塔"
+    - type: text
+      value: "点亮的灯塔"
+    - type: group
+    - value:
+      - type: text
+        value: "瞭望："
+      - type: text
+        value: "探测所有怪物，并标记钥匙怪位置"
+    - type: group
+    - value:
+      - type: text
+        value: "把塔托走 (托塔天王出战可选)："
+      - type: text
+        value: "获得 点亮的灯塔*1"
+    - type: text
+      value: "点亮的灯塔  使用：放置一个点亮的灯塔"
+    - type: text
+      value: "被魔化的冈布奥"
+    - type: group
+    - value:
+      - type: text
+        value: "交谈："
+      - type: text
+        value: "冈布奥变为怪物，杀死后掉落探索点*50"
+    - type: group
+    - value:
+      - type: text
+        value: "净化(光结晶*5)："
+      - type: text
+        value: "转化为被净化的冈布奥"
+    - type: text
+      value: "被净化的冈布奥"
+    - type: group
+    - value:
+      - type: text
+        value: "赶紧离开吧："
+      - type: text
+        value: "20%概率获得钻石*3 (上限3次)，否则获得金币*2000"
+    - type: group
+    - value:
+      - type: text
+        value: "帮我干活吧："
+      - type: text
+        value: "获得冈布奥工匠*1 (限1次)，后续冈布奥变为怪物，杀死后掉落探索点*50"
+    - type: text
+      value: "地狱裂缝"
+    - type: text
+      value: "9层出现，之后每隔5层出现一次，共需扩大6次，每次消耗随机一种结晶*1(不会重复)，第6次进入夹层，内有元素矿脉*6、矿车*1、木桶*1，之后裂缝不再出现。"
+    - type: text
+      value: "元素矿脉：土水火气矿脉各1个，随机矿脉2个"
+    - type: text
+      value: "矿车(点50次)：1~3个魔铁*10、1~2个暗钢*10、概率出现恒金*10"
+    - type: text
+      value: "木桶(点30次)：1~3个探索点*100、1~2个金币*1000、概率出现钻石*5(10次保底)"
+    - type: text
+      value: "废弃的传送门"
+    - type: text
+      value: "共出现2次，每次消耗火结晶*10"
+    - type: text
+      value: "第二次固定出现在第一次的20层后，可传送到第一次的层数"
+    - type: text
+      value: "枯萎的食人花"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "随机1阶食材*2"
+    - type: group
+    - value:
+      - type: text
+        value: "水结晶*10"
+      - type: text
+        value: "：转化为食人花"
+    - type: text
+      value: "食人花"
+    - type: group
+    - value:
+      - type: text
+        value: "祝你好运："
+      - type: text
+        value: "获得食人花唾液*1"
+    - type: group
+    - value:
+      - type: text
+        value: "移栽："
+      - type: text
+        value: "植物系冈布奥 (世界树、仙人掌、太阳花、爆裂南瓜、嗜血藤蔓) 出战，首次获得世界树宝宝\"食人花\"，非首次或非植物系出战，食人花变为怪物，杀死获得食人花唾液*5"
+    - type: text
+      value: "食人花唾液  使用：投掷后，对敌人造成50点伤害，附带腐蚀效果（攻击降低30点，持续9轮）"
+    - type: text
+      value: "战地厕所"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找："
+      - type: text
+        value: "沾草的粪块*5"
+    - type: text
+      value: "沾草的粪块  使用：投掷后，对敌人造成1点伤害，附带中毒效果（持续3轮）"
+    - type: group
+    - value:
+      - type: text
+        value: "火结晶*5"
+      - type: text
+        value: "：立即翻开本层所有石板，对所有敌人造成1点伤害，并附带中毒效果（持续3轮）"
+    - type: group
+    - value:
+      - type: text
+        value: "水结晶*5"
+      - type: text
+        value: "：未消化的野果*1"
+    - type: text
+      value: "未消化的野果  使用：投掷后，对敌人造成10点伤害，附带眩晕效果（持续3轮）"
+    - type: text
+      value: "末日之刃"
+    - type: group
+    - value:
+      - type: text
+        value: "强化："
+      - type: text
+        value: "共可强化6次，每次强化需注入火结晶 2 / 4 / 8 / 16 / 32 / 64 个"
+    - type: group
+    - value:
+      - type: text
+        value: "拔出："
+      - type: text
+        value: "获得 末日之刃*1，之后不再出现。如不拔出，会固定在原层数，可以大地回来强化满再拔。"
+    - type: text
+      value: "末日之刃【手套】(未满级) 攻击+(强化次数+1)，所有火系魔法效果+(强化次数+1)%，每杀死一个敌人，(强化次数+1)%概率释放末日审判"
+    - type: text
+      value: "满级：攻击+10，所有火系魔法效果+10%，每杀死一个敌人，10%概率释放末日审判，每进入下一层，释放末日审判"
+    - type: text
+      value: "非迷宫特有，但可使用元素结晶的建筑"
+    - type: text
+      value: "装备商店"
+    - type: group
+    - value:
+      - type: text
+        value: "随机结晶*3："
+      - type: text
+        value: "额外售卖2件结晶元素的套装部件"
+    - type: text
+      value: "卷轴商店"
+    - type: group
+    - value:
+      - type: text
+        value: "随机结晶*3："
+      - type: text
+        value: "额外售卖2件结晶元素的法术卷轴"
+    - type: text
+      value: "墓碑"
+    - type: group
+    - value:
+      - type: text
+        value: "暗结晶*1："
+      - type: text
+        value: "转化为恶魔之门，撒旦之子协战"
+    - type: group
+    - value:
+      - type: text
+        value: "元素漩涡"
+      - type: text
+        value: "(称号)"
+    - type: group
+    - value:
+      - type: text
+        value: "水结晶*5"
+      - type: text
+        value: "：转化为 稳定的元素漩涡"
+    - type: group
+    - value:
+      - type: text
+        value: "取走 (额外选项)"
+      - type: text
+        value: "："
+      - type: text
+        value: "获得 稳定的元素漩涡*1"
+    - type: text
+      value: "稳定的元素漩涡  使用：引爆元素漩涡"
+    - type: text
+      value: "炎龙刃 (称号)"
+    - type: group
+    - value:
+      - type: text
+        value: "火结晶*2："
+      - type: text
+        value: "伤害提升50% (每个剑限1次)"
+    - type: text
+      value: "冰雪城堡 (冰霜女王)"
+    - type: text
+      value: "水结晶*20：城堡光环增强 (每种效果限1次)"
+    - type: text
+      value: "在场时，冈布奥所受伤害降低20→25%"
+    - type: text
+      value: "在场时，冈布奥每10轮恢复3→4点魔法值"
+    - type: text
+      value: "在场时，冈布奥水系魔法效果+20→25%"
+    - type: text
+      value: "艺术雕像 (雕刻家)"
+    - type: text
+      value: "使用结晶减少雕刻次数 (每个雕像限1次)"
+    - type: group
+    - value:
+      - type: text
+        value: "抱鹅的少年(原3次)"
+      - type: text
+        value: "气结晶*10 雕刻次数-2"
+    - type: group
+    - value:
+      - type: text
+        value: "掷铁饼者(原5次)"
+      - type: text
+        value: "火结晶*10  雕刻次数-3"
+    - type: group
+    - value:
+      - type: text
+        value: "沉思者(原5次)"
+      - type: text
+        value: "土结晶*10  雕刻次数-3"
+    - type: group
+    - value:
+      - type: text
+        value: "维纳斯(原6次)"
+      - type: text
+        value: "水结晶*10  雕刻次数-4"
+    - type: group
+    - value:
+      - type: text
+        value: "圣母怜子(原6次)"
+      - type: text
+        value: "光结晶*10  雕刻次数-4"
+    - type: text
+      value: "奇观 (建筑师)"
+    - type: text
+      value: "使用结晶提升1级 (可多次)"
+    - type: group
+    - value:
+      - type: text
+        value: "世界树"
+      - type: text
+        value: "水结晶*15"
+    - type: group
+    - value:
+      - type: text
+        value: "永恒之塔"
+      - type: text
+        value: "土结晶*15"
+    - type: group
+    - value:
+      - type: text
+        value: "大雪山神庙"
+      - type: text
+        value: "水结晶*15"
+    - type: group
+    - value:
+      - type: text
+        value: "巨大的雕像"
+      - type: text
+        value: "土结晶*15"
+    - type: group
+    - value:
+      - type: text
+        value: "创世之门"
+      - type: text
+        value: "光结晶*15"
+    - type: text
+      value: "沙漠祭坛 (神灯)"
+    - type: group
+    - value:
+      - type: text
+        value: "光结晶*30："
+      - type: text
+        value: "灯油消耗-1 (限1次)"
+    - type: text
+      value: "排炮 (海怪船长)"
+    - type: group
+    - value:
+      - type: text
+        value: "火结晶*20："
+      - type: text
+        value: "威力+100 (限1次)"
+    - type: text
+      value: "鲜血祭坛 (血猎者)"
+    - type: group
+    - value:
+      - type: text
+        value: "暗结晶*30："
+      - type: text
+        value: "精血消耗-3 (限1次)"
+    - type: text
+      value: "半神巫妖雕像 (巫妖王)"
+    - type: group
+    - value:
+      - type: text
+        value: "水结晶*20："
+      - type: text
+        value: "获得雕像经验300"
+      - type: text
+        value: "(可多次)"
+    - type: text
+      value: "草薙剑 (草薙武士)"
+    - type: group
+    - value:
+      - type: text
+        value: "火结晶*3："
+      - type: text
+        value: "伤害提升50% (每个剑限1次)"
+    - type: text
+      value: "古树 (Deemo)"
+    - type: group
+    - value:
+      - type: text
+        value: "水结晶*5："
+      - type: text
+        value: "古树生长5m (限1次)"
+    - type: text
+      value: "八部天龙像 (六重天冈布奥)"
+    - type: group
+    - value:
+      - type: text
+        value: "光结晶*15："
+      - type: text
+        value: "攻击+5，最大生命值+50 或 魔力+5，最大魔法值+50  (限1次)"
+    - type: text
+      value: "提线傀儡 (傀儡师)"
+    - type: group
+    - value:
+      - type: text
+        value: "土结晶*20："
+      - type: text
+        value: "傀儡获得特性 魔钛装甲 (限1次，重新召唤也生效)"
+    - type: text
+      value: "魔钛装甲：所受伤害降低30%"
+    - type: text
+      value: "幽灵船 (幽灵船长雕像)"
+    - type: group
+    - value:
+      - type: text
+        value: "水结晶*5："
+      - type: text
+        value: "攻击翻倍 (限1次)"
+    - type: text
+      value: "八卦炉 (孙悟空雕像)"
+    - type: group
+    - value:
+      - type: text
+        value: "火结晶*15："
+      - type: text
+        value: "奖励提升 (限1次)"
+    - type: text
+      value: "火眼金睛：每层 5%→10% 概率侦测钥匙的位置"
+    - type: text
+      value: "仙丹*3 → 仙丹*5"
+    - type: text
+      value: "火焰山 (孙悟空雕像)"
+    - type: group
+    - value:
+      - type: text
+        value: "水结晶*30："
+      - type: text
+        value: "熄灭火焰山 (限1次)"
+    - type: text
+      value: "熄灭后与土地公对话，首次获得3钻，后续获得炽热之核*5 + 山脉之血*5"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 六种元素结晶*5"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 雷神印记*3"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 恶魔荆棘*3"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 野兽的牙齿*1 + 恶魔肉块*2"
+    - type: text
+      value: "浮士德的残骸"
+    - type: text
+      value: "获得 《浮士德》*1"
+    - type: text
+      value: "《浮士德》 使用：获得300点探索点、升级冒险系称号时，探索点消耗降低3%"
+    - type: text
+      value: "魔鬼的契约书"
+    - type: text
+      value: "扣除最大血量50%的生命值"
+    - type: text
+      value: "获得 审判之眼*1"
+    - type: text
+      value: "冈布奥属性提升：所有火系魔法效果+25%"
+    - type: text
+      value: "审判之眼【头盔】 生命值+80、魔法值+80；攻击时，5%概率不被反击"
+    - type: text
+      value: "恶魔之卵"
+    - type: text
+      value: "获得 小恶魔*1"
+    - type: text
+      value: "小恶魔  使用：获得守护兽（冈布奥攻击及魔力提升30%，持续9层）"
+    - type: text
+      value: "灯异界"
+    - type: text
+      value: "元素法师残骸 (固定1层出现)"
+    - type: text
+      value: "元素法师之魂  使用：获得六种元素结晶各5颗"
+    - type: text
+      value: "骸骨堆 (地狱犬的据点)"
+    - type: text
+      value: "残破的野兽之魂  使用：攻击+10（持续本层）"
+    - type: text
+      value: "完整的野兽之魂  使用：冈布奥攻击+1"
+    - type: text
+      value: "恶魔的残骸 (天使的据点、聚尸术法阵)"
+    - type: text
+      value: "残破的恶魔之魂  使用：所有魔法效果+15%（持续本层）"
+    - type: text
+      value: "完整的恶魔之魂  使用：所有伤害类魔法效果+1%"
+    - type: text
+      value: "天使的残骸 (恶魔的据点、聚尸术法阵)"
+    - type: text
+      value: "残破的天使之魂  使用：施放祝福术（持续本层）"
+    - type: text
+      value: "完整的天使之魂  使用：所有光系魔法效果+1%"
+    - type: text
+      value: "冒险者残骸 (聚尸术法阵)"
+    - type: text
+      value: "残破的旅者之魂  使用：随机获得50～100点探索点"
+    - type: text
+      value: "完整的旅者之魂  使用：随机获得100～200点探索点"
+    - type: text
+      value: "魔法师残骸 (聚尸术法阵)"
+    - type: text
+      value: "残破的法师之魂  使用：魔力+10（持续本层）"
+    - type: text
+      value: "完整的法师之魂  使用：冈布奥魔力+1"
+    - type: text
+      value: "泰瑞尔的残骸 (聚尸术法阵)"
+    - type: text
+      value: "泰瑞尔的灵魂  使用：冈布奥降低敌人攻击+1；攻击恶魔时，造成额外伤害+10%"
+    - type: text
+      value: "迪亚布罗的残骸 (聚尸术法阵)"
+    - type: text
+      value: "迪亚布罗的灵魂  使用：获得3张【毁灭之刃】"
+    - type: text
+      value: "无名氏的残骸"
+    - type: text
+      value: "无名氏的灵魂  使用：冈布奥攻击+1；升级战斗系称号时，探索点消耗降低10%"
+    - type: text
+      value: "拉格纳罗斯的残骸"
+    - type: text
+      value: "拉格纳罗斯的灵魂  使用：获得1颗【炎魔之眼】；所有火系魔法效果+5%"
+    - type: text
+      value: "炎魔之眼  使用：与萨弗隆战锤融合，获得炎魔之手"
+    - type: text
+      value: "炎魔之手【手套】攻击+10%，生命值+100，攻击时20%概率施放火球术；通关结算时获得炎魔之手碎片*80"
+    - type: text
+      value: "但丁的残骸"
+    - type: text
+      value: "但丁的灵魂  使用：融合黑檀木、白象牙"
+    - type: text
+      value: "黑檀木与白象牙[宝物]：攻击+5，每5轮自动射击一名敌人，造成50点伤害"
+    - type: text
+      value: "浮士德的残骸 (大盗神)"
+    - type: text
+      value: "浮士德的灵魂  使用：魔力+15、攻击-10"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "珍味元素汤"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "元素之尘*3 (鬼魂掉落)"
+    - type: text
+      value: "食用：元素圣坛射线威力+10，元素操控状态（所有魔法效果+10%，且施法时，造成伤害翻倍，持续1轮）"
+    - type: text
+      value: "火山石烧烤"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "火山石*2 (熔岩傀儡掉落)"
+    - type: text
+      value: "元素之尘*3 (鬼魂掉落)"
+    - type: text
+      value: "食用：随机获得3颗元素结晶"
+    - type: text
+      value: "香辣肉翼串烧"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "火山石*1 (熔岩傀儡掉落)"
+    - type: text
+      value: "恶魔之翼*2 (深渊恶魔掉落)"
+    - type: text
+      value: "天使之翼*2 (天使掉落)"
+    - type: text
+      value: "食用：冈布奥攻击及魔力+2；降低敌人攻击+1"
+    - type: text
+      value: "深渊风味小吃"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "恶魔之翼*1 (深渊恶魔掉落)"
+    - type: text
+      value: "巫妖头骨*1 (巫妖掉落)"
+    - type: text
+      value: "地狱犬之爪*1 (地狱犬掉落)"
+    - type: text
+      value: "食用：冈布奥生命值+30；随机获得200~300探索点"
+    - type: text
+      value: "蜜汁多味羹(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "元素之尘*1 (鬼魂掉落)"
+    - type: text
+      value: "食人花花瓣*1 (移植食人花失败击杀后掉落)"
+    - type: text
+      value: "食用：所有气系魔法效果+10%；静电场持续轮数+1；时间停止持续轮数+1"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "一直把这个忘了，前边的也补了一下"
+    - type: text
+      value: "查阅时推荐直接回复迷宫名，可以查看最新版本"
+    - type: text
+      value: "地狱犬的照片"
+    - type: text
+      value: "使用：施放毁灭之刃；所有火系魔法效果+3%"
+    - type: text
+      value: "来源：进入地狱犬的据点 15% 获取 (上限3)"
+    - type: text
+      value: "巫妖的照片"
+    - type: text
+      value: "使用：冈布奥生命值+20；每进入下一层，恢复生命值+2"
+    - type: text
+      value: "来源：进入巫妖的据点 15% 获取 (上限3)"
+    - type: text
+      value: "熔岩傀儡的照片"
+    - type: text
+      value: "使用：降低敌人攻击+2"
+    - type: text
+      value: "来源：进入傀儡的据点 15% 获取 (上限3)"
+    - type: text
+      value: "鬼魂的照片"
+    - type: text
+      value: "使用：冈布奥魔力+1；随机获得3张魔法卷轴"
+    - type: text
+      value: "来源：进入鬼魂的据点 15% 获取 (上限3)"
+    - type: text
+      value: "天使的照片"
+    - type: text
+      value: "使用：施放神圣重生；祝福术持续轮数+1"
+    - type: text
+      value: "来源：进入天使的据点 15% 获取 (上限3)"
+    - type: text
+      value: "深渊恶魔的照片"
+    - type: text
+      value: "使用：冈布奥攻击+1、生命值+20"
+    - type: text
+      value: "来源：进入恶魔的据点 15% 获取 (上限3)"
+    - type: text
+      value: "DP难点"
+    - type: text
+      value: "(来源:\t贴吧-云尘尽转c)"
+    - type: text
+      value: "浸了蜡的头盔"
+    - type: text
+      value: "地图中几率遇见一个蜡池，拿10个火结晶烧一下把头伸进去（会掉血）获得"
+    - type: text
+      value: "复活泰瑞尔、迪亚布罗"
+    - type: text
+      value: "法阵用土结晶点亮，几率出其一尸体（也可能一个都不出，也可能两个都出）"
+    - type: text
+      value: "复活泰瑞尔需要20光\t结晶，复活迪亚布罗需要20暗\t结晶"
+    - type: text
+      value: "光明圣器&黑暗圣器套装"
+    - type: text
+      value: "每个商店里有对应的三件，几率出（挺低的），不买以后还会出（更低了），做套装dp时建议开商店之前手里时刻拿着1000+探索点，优先买圣器，探索点不够就把boss层的六星装备分解了"
+    - type: text
+      value: "光图纸暗洞出，暗图纸光洞出，别走错了"
+    - type: text
+      value: "末日之刃达到满级"
+    - type: text
+      value: "满级总共需要火晶核2+4+8+16+32+64=126个，出现之后若不拔出，就会一直留在原地等待有缘人来拔，为数不多的留在当前层数等待的物品，火晶核不够可以之后大地什么的飞回来再拔，比较良心"
+    - type: text
+      value: "学会一种特殊魔法"
+    - type: text
+      value: "迷宫几率碰见亚巴顿的雕像——"
+    - type: text
+      value: "30暗晶：学会技能无光之盾"
+    - type: text
+      value: "无光之盾：花费大量魔法值释放一个护盾，可以把所受伤害变成恢复生命"
+    - type: text
+      value: "杀死血骑士"
+    - type: text
+      value: "迷宫几率碰见血骑士的雕像——"
+    - type: text
+      value: "20暗晶：跟他打架，打赢了给一个使用回满血的结晶"
+    - type: text
+      value: "杀死魔化冈布奥"
+    - type: text
+      value: "迷宫几率碰见魔化冈布奥（红脸那个家伙）——"
+    - type: text
+      value: "交谈：直接开打，打赢+探索点"
+    - type: text
+      value: "移栽食人花"
+    - type: text
+      value: "迷宫几率碰见枯萎的食人花——"
+    - type: text
+      value: "10水晶救活之后移栽，\t移栽需要植物类的冈布奥出战才能成功"
+    - type: text
+      value: "地狱裂缝"
+    - type: text
+      value: "迷宫中有几率碰到一个有微微发亮的地板，每次需要用\t结晶射一下，每种\t结晶都射一次以后，裂缝开启把你吸入"
+    - type: text
+      value: "地狱之门"
+    - type: text
+      value: "迷宫几率碰见一个大门一样的东西，10个火结晶射一下，什么也没发生"
+    - type: text
+      value: "在第一次碰见大门后第20层，会再碰见一个大门，再用10火\t结晶射一下，你就惊喜的发现你回到第一个大门那层了"
+    - type: text
+      value: "黑檀木白象牙杀敌"
+    - type: text
+      value: "和之前杀敌类dp的区别是异界的魂不会强化枪了，而是融合枪（就不能发子弹了）= ="
+    - type: text
+      value: "所以如果是走异界称号，记得别急着融合，先开几枪"
+    - type: text
+      value: "召唤冈布奥"
+    - type: text
+      value: "大门召唤几率出冈布奥"
+    - type: text
+      value: "堕落之光满级"
+    - type: text
+      value: "总需要150各系\t结晶，做好护肝准备"
+    - type: text
+      value: "在这里开始进入刷dp的推荐环节，地狱是一个三局就能满dp的思路非常清晰的地图——（适用于任何刷dp组合，）"
+    - type: text
+      value: "推荐阵容：商帮灯"
+    - type: text
+      value: "称号异界+位面+毁灭"
+    - type: text
+      value: "带竖琴，一层点出异界（异界在地狱可以拿海量资源），翻一层尸体，强化二级堕落之光，靠堕落之光输出，下楼走人（一层就怼洞有点头铁，有召唤类的随意，进洞推荐土洞，前期土晶核奇缺）"
+    - type: text
+      value: "8层后每次必进商店，根据缺少的晶核种类选择商店种类，\t商店的圣器可以根据情况决定不买，但\t萨弗隆战锤图纸必买\t（不急，可以等探索点富裕时买）"
+    - type: text
+      value: "10+层保证身上的晶核足够，能留的尽量留，堕落之光不急着强化，能一击杀怪就足够了，\t地狱之门必射，裂缝必射，其他根据情况自定"
+    - type: text
+      value: "据点根据情况选择属性进去打，50+的据点适当放弃；晶核有大量富裕就大门叫小弟，没血就叫水元素补血；商店刷出装备看情况买，刷出的晶核必买，山脉之血和炽热之核必买（千万别使用，留着）"
+    - type: text
+      value: "boss的五星六星直接分解，别管太多，探索点实在是不够，开始乏力之后速出位面，大地，爬一会儿，再大地，疯狂搞资源"
+    - type: text
+      value: "若想三次满dp，推荐把末日之刃满级和堕落之光满级分开做，其他视情况自"
+    - type: text
+      value: "注意事项："
+    - type: text
+      value: "（1）保证进特色商店时有足够的探索点；"
+    - type: text
+      value: "（2）除了boss划划水，据点怼一怼，其他能不出手坚决不出手；"
+    - type: text
+      value: "（3）地狱门必飞，裂缝必进；"
+    - type: text
+      value: "（4）出现阿撒兹勒的雕像拿10个暗晶核射他，可以阻止天使复活，复活太烦人了；"
+    - type: text
+      value: "（5）厕所、汤锅和骨灰瓶都是坑爹的，浪费资源且没什么价值，缺晶核的话别往里扔晶核；"
+    - type: text
+      value: "（6）那个废弃的祭坛用火电水土晶核各1可以修复，机制同遗落圣坛，关键是你肯定没几个知道的晶核组合去实现中国祭坛的价值，所以安心翻找吧，还能获得晶核；"
+    - type: text
+      value: "（7）手中一定要有足够的晶核，多少次都是因为差一两个晶核翻车的。"
+    - type: text
+      value: "一些有帮助的事件——"
+    - type: text
+      value: "恶魔殿：10个暗晶核射一下，出现三个恶魔，每个爆10个暗晶核"
+    - type: text
+      value: "天使、恶魔尸体：用5相应晶核复活，揍死之后爆相应晶核10个（也有几率爆恶魔荆棘、天使羽翼、圣器图纸）"
+    - type: text
+      value: "阿撒兹勒的雕像：10个暗晶核射一下，从此再也不怕天使复活恶心人了"
+    - type: group
+    - value:
+      - type: text
+        value: "获得炎魔之手"
+      - type: text
+        value: "（冒险系称号必须为异界）"
+    - type: text
+      value: "（1）迷宫几率发现一坨红色的石头，翻找获得10个熔岩之核，异界游侠称号获得灵魂，使用灵魂获得炎魔之眼；"
+    - type: text
+      value: "（2）用熔岩之核、山脉之血和炽热之核各10个以及25火晶核把萨弗隆战锤在火法阵上做出来（注意需求部分迷宫外矿石），获得垃圾装备萨弗隆战锤；"
+    - type: text
+      value: "（3）使用炎魔之眼融合萨弗隆战锤，获得神器：炎魔之手（可带出迷宫）。\t之后获得方式不变，做出一次获得80碎"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "前提条件：在之前的迷宫中，死于某一层，留下了墓碑"
+    - type: text
+      value: "强化失乐园的第二个强化——混沌晶核，会获得恶魔礼盒，使用后获得三个撒旦之心"
+    - type: text
+      value: "当到达有墓碑这层时（只能是第一次到达，第二次墓碑会消失），用1个暗晶核射一下墓碑，撒旦出现，和你一起战斗，属性一般"
+    - type: text
+      value: "送他3个撒旦之心后撒旦之子冈布奥加入（不再一起战斗），之后获取方式不变，一次20碎"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "必扫图，不建议浪费体力\t速刷，要刷的话可以猫狗奥"
+    - type: text
+      value: "因为不需要爬很高(一般最多到70)，低层直接招狗即可"

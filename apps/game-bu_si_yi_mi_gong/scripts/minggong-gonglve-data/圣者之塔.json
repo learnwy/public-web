@@ -1,5772 +1,1008 @@
-{
-  "groups": [
-    [
+[
+  {
+    "type": "group",
+    "value": [
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "怪物图鉴"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "怪物图鉴"
       },
       {
         "type": "image",
         "value": "data:,"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "迷宫特殊机制"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "光暗石柱"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "1. 石柱规则"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "普通层：石柱翻出后生效，或5轮后自动出现并生效"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "BOSS层：暗之石柱直接生效，解除结界会导致BOSS切换状态，3轮后新的元素石柱开始生效"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "石柱生效后产生结界效果，"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "可使用1颗对应属性元素结晶解除结界"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "光之石柱：禁魔结界，无法施放魔法（持续本层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "暗之石柱：诅咒结界，攻击降低50%（持续本层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "解除结界后可使用4颗对应结晶抄写圣者之语"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "光之石柱：甘道夫的怒吼(光系单体)/瑞达斯特的意志(+攻击)/拉德瑞尔的守护(+生命值)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "暗之石柱：索伦的咆哮(暗系单体)/萨鲁曼的恐惧(+魔力)/安格玛的魔咒(+魔法值)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "2. 圣者之语"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "出现规律"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "光怒吼--暗咆哮--光意志--暗恐惧--光怒吼--暗咆哮--光守护--暗魔咒"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "以8层为一个循环出现， 遇到BOSS层顺延，大地不影响层数，当圣语学习到满级时，会替换为同属性加成，再替换为伤害法术"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "image",
-        "value": "data:,"
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "一个比较简单的计算方法："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "4的倍数层和它前边1层，就是属性石柱，如果路过boss层要加上boss的次数"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "光系圣语"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "A、甘道夫的怒吼（最高99级）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗10点魔法值，对单个敌人造成伤害（对暗元素效果翻倍），除明确声明对该圣语的加成外，\t伤害只与圣语等级和魔力有关 ，暗系相同"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "1~10级 伤害 = (魔力+3)*(1+等级*0.2)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "11~30级  伤害 = (魔力+3)*(2+等级*0.1)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "31~99级  伤害 = (魔力+3)*(3.5+等级*0.05)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "B、瑞达斯特的意志（最高5级）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗魔法值，自身提升攻击，本次迷宫永久有效"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "一级（消耗30点魔法值）：提升1点攻击（最多10点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "二级（消耗56点魔法值）：提升2点攻击（最多20点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "三级（消耗70点魔法值）：提升3点攻击（最多30点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "四级（消耗96点魔法值）：提升4点攻击（最多40点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "五级（消耗110点魔法值）：提升5点攻击（最多50点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "C、拉德瑞尔的守护（最高5级）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗魔法值，自身提升最大生命值，本次迷宫永久有效"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "一级（消耗15点魔法值）：提升10点生命值（最多100点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "二级（消耗28点魔法值）：提升20点生命值（最多200点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "三级（消耗35点魔法值）：提升30点生命值（最多300点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "四级（消耗48点魔法值）：提升40点生命值（最多400点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "五级（消耗55点魔法值）：提升50点生命值（最多500点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "暗系圣语"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "A、索伦的咆哮\t（最高99级）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗10点魔法值，对单个敌人造成伤害（对光元素效果翻倍）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "B、萨鲁曼的恐惧（最高5级）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗魔法值，自身提升魔力，本次迷宫永久有效"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "一级（消耗30点魔法值）：提升1点魔力（最多10点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "二级（消耗56点魔法值）：提升2点魔力（最多20点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "三级（消耗70点魔法值）：提升3点魔力（最多30点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "四级（消耗96点魔法值）：提升4点魔力（最多40点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "五级（消耗110点魔法值）：提升5点魔力（最多50点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "C、安格玛的魔咒（最高5级）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗魔法值，自身提升最大魔法值，本次迷宫永久有效"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "一级（消耗15点魔法值）：提升10点魔法值（最多100点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "二级（消耗28点魔法值）：提升20点魔法值（最多200点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "三级（消耗35点魔法值）：提升30点魔法值（最多300点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "四级（消耗48点魔法值）：提升40点魔法值（最多400点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "五级（消耗55点魔法值）：提升50点魔法值（最多500点）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "隐藏冈布奥"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "王子获得方法"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "1. 普通层魔法商店概率售卖\"南瓜马车\"(初始售价2000探索点，只会出现一次)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "2. 普通层遇到\"王子的尸体\" ，翻找获得\"水晶鞋\" 和 \"公主舞服\""
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "3. 60+BOSS层遇到王子，\t穿戴\t\"水晶鞋\"、\"公主舞服\" 和 \"南瓜马车\"\t对话，初次\t获得王子冈布奥，后续获得碎片*20"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "迷宫重要彩蛋"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "火焰恶魔"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "，\t首次提交\t接骨木魔杖\t，获得3钻，限1次，后续是魔力+3"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "大盗神"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "，翻找奇怪的书架\t，15%概率获得3钻，限3次"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "大盗神"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "，高颜值冈布奥出战，翻找圣者的穿衣镜，获得3钻，限3次"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "下边列出默认装束下的高颜值冈布奥："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "Peter、九尾狐、加文、兰斯洛特、乾闼婆、唐玄奘、西施、王昭君、貂蝉、杨玉环、狩猎女神、剑仙、\t吸血伯爵、神龙、怪盗、创世神、美杜莎、装甲、王子、虫族女王、雅典娜、哈迪斯、狮心王、天使神、仙女龙、黑白皇后、凤凰、潘多拉、冰霜女王、仓鼠、阿瓦隆、Cytus、海拉、枪械商、獬豸、麒麟、白泽、貔貅、拉斐尔"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "全部冈布奥和装束的颜值请在公众号回复\"\t颜值\t\"进行查看"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "迷宫特殊建筑"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "元素洞窟"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "（夹层入口）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "进入可出现元素矿脉、魔法喷泉"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "元素矿脉"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "（夹层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 (光元素结晶+暗元素结界)*1~2"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "魔法喷泉"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "（夹层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "恢复15%魔法值"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "魔法商店"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "(地图特色商店 货币：探索点)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "在售商品 (3件)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔法太妃糖*1 (200) 橡木魔棒*1 (150)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "黄岑木魔棒*1 (300)  \t胡桃木魔棒*1 (300)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "冬青木魔棒*1 (600) 接骨木魔棒*1 (1200)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔法扫帚*1 (100)  \t限量版扫帚*1 (300 限1次)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "南瓜马车*1\t (2000 限1次)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊勒索"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔法手札 (限3次) 限量版扫帚(限1次，与商店不共上限)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "------------------------------------------------------"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔法太妃糖 使用：恢复35%魔法值"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "橡木魔棒【宝物】魔力+2、魔法值+20；每进入下一层，恢复魔法值+2"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "黄岑木魔棒【宝物】魔力+3、魔法值+30；所有治疗类魔法效果+15%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "胡桃木魔棒【宝物】魔力+3、魔法值+30；所有伤害类魔法效果+15%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "冬青木魔棒【宝物】魔力+4、魔法值+40；所有火系魔法效果+20%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "接骨木魔棒【宝物】魔力+6、魔法值+60；所有暗系魔法效果+30%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔法扫帚 使用：直接进入下一层（特殊层无效）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "限量版扫帚 使用：立即回退15层迷宫（特殊层无效）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "南瓜马车【宝物】闪避+6%；闪避上限+3%；所有辅助类魔法效果+20%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔法手札  使用：随机提升1级【贤者之语】等级"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "魔法工坊"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "消耗探索点进阶元素系套装部件一次"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "火焰恶魔"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "(可提交魔杖类装备)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "提交3星魔杖  \t获得 火球术*1~3 或 失明术*1~2"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "提交4星魔杖  获得 流星雨*1~2 或 毁灭之刃*1 或 末日审判*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "提交5星魔杖  获得 所有魔法伤害+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "提交6星魔杖  首次获得 3钻 后续获得 魔力+3"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "魔法师残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "随机获得 光元素结晶*2 / 暗元素结晶*2 /\t 魔法太妃糖*1 /\t 橡木魔棒\t*1 /\t黄岑木魔棒\t*1 / \t胡桃木魔棒\t*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "王尔德的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得道林格雷的画像*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "道林格雷的画像 使用：冈布奥魔力+2；获得500点探索点"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "少年法师残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得魔法师的眼镜*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "魔法师的眼镜【头盔】魔力+3（魔法师冈布奥装备时，效果翻倍）；每进入下一层，获得1颗元素结晶"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "王子的尸体"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 水晶鞋*1 + 公主舞服*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "水晶鞋【鞋子】攻击+2、生命值+20；攻击时，10%概率不被反击"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "公主舞服【铠甲】降低敌人攻击+2；攻击时，10%概率不被反击"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "灰姑娘的盛装【套装】(水晶鞋+公主舞服+南瓜马车) 魔力+8、攻击+8"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "大盗神"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "隐藏的储物箱"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 巫妖的意志套装*1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "巫妖的指轮【戒指】所有魔法效果+2%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "巫妖护符【项链】所有魔法效果+4%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "巫妖的魂匣【宝物】所有魔法效果+6%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "巫妖的意志【套装】魔力+5；所有魔法效果+8%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "松动的地砖"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 光元素结晶*5 + 暗元素结晶*5"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "散落的物件"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 魔法太妃糖*3"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "残破的巢穴"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 眼球酊剂*1 + 兽人的肝脏*2"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "眼球酊剂  使用：冈布奥攻击及魔力+1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "兽人的肝脏  使用：冈布奥生命值及魔法值+10"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "圣者的衣柜"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 魔法系的遗物*2~3"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "圣者的穿衣镜"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "根据出战冈布奥的颜值获得奖励"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "(想看看谁的颜值最高？在公众号回复\"颜值\"查看颜值全表)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值≥90：攻击+5，魔力+5，探索点*1000，钻石*3(限3次)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值≥80：攻击+3，魔力+3，探索点*700"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值≥70：攻击+2，魔力+2，探索点*500"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值≥60：攻击+1，魔力+1，探索点*300"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值≥50：探索点*200"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值≥40：探索点*100"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值≥30：扣除5%的生命值和魔法值"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值≥20：扣除10%的生命值和魔法值"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值≥10：扣除20%的生命值和魔法值"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "颜值<10：扣除30%的生命值和魔法值"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "奇怪的书架"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获得 出战冈布奥喜欢的书籍(只是名字不同)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "15%获得3钻石(上限3次)，15%获得20000~30000金币，30%获得10000~20000金币，40%获得5000~10000金币"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "灯异界"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "魔法师残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "残破的法师之魂 使用：魔力+10（持续本层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "完整的法师之魂 使用：冈布奥魔力+1"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "王尔德的残骸"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "王尔德的灵魂 使用：恢复冈布奥的生命值及魔法值（回溯至刚进入本层时的状态）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "少年法师残骸"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "(2种灵魂一起获得)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "少年法师的灵魂  使用：所有魔法效果+3%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "伏地魔的灵魂  使用：黑魔标记状态（恢复50点魔法值、索伦的咆哮魔法效果+300%，持续本层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "王子的尸体"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "王子的灵魂  使用：魔法商店中，探索点消耗降低20%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "厨师菜谱"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "珍味元素汤"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊食材："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "元素之尘*3 (普通元素小怪掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "食用：元素圣坛射线威力+10，元素操控状态（所有魔法效果+10%，且施法时，造成伤害翻倍，持续1轮）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "火山石烧烤"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊食材："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "火山石*2 (岩石傀儡掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "元素之尘*3 (普通元素小怪掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "食用：随机获得3颗元素结晶"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "元素焗蜗牛"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊食材："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "元素之尘*2 (普通元素小怪掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "蜗牛肉*3 (秘法蜗牛掉落)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "食用：冈布奥魔法值+10；索伦的咆哮魔法效果+1%；甘道夫的怒吼魔法效果+1%"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "怪味尾羽汤(隐藏)"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "特殊食材："
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "夜骐尾羽*1 (分解装备：接骨木魔棒)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "怪味豆*1 (翻找少年法师残骸)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "食用：魔力+3、冈布奥魔法值+50；施放索伦的咆哮时，10%概率额外施放一次"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "特殊照片"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "阿斯塔纳的照片"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "使用：魔法印记状态（魔力提升60%、所有魔法持续轮数+1，持续本层）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "来源：进入BOSS层 40% 获取 (上限3)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "DP难点"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "(来源:\t贴吧-云尘尽转c)"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "迷宫特色"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：boss的黑白转换，地图赠送的不限量法术，每层坑爹的debuff"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "迷宫优点"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：不必担心法术卷轴和伤害不足，高属性免费送"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "迷宫缺点"
-                  }
-                ]
-              ]
-            },
-            {
-              "type": "text",
-              "value": "：boss暗状态扛不住，光状态砍不动，切换烦人，升级赠送法术时结晶需求量大"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "各种魔棒"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "推主线时留心收集一些，很容易搞定的"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "如果错过了主线，只能买买买了，当然可以用一只特别给力的冈布奥——帮派干部去抢商店，用过都说好，配合商人冈布奥一路抢下来保证让你翻背包都嫌烦"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "限量版扫帚"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "这玩意儿在商店里正常购买时每局只出一个，作用是回15层，但脸黑一局见不到一次也有可能"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "所以刷这个依然推荐帮派干部，每局迷宫抢地图特色商店时第一次抢出暴击会额外送你一个，当然之后再出暴击就没有了……也就是说带上帮派干部一局可以使用两个"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "南瓜马车"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "2000探索点的巨无霸，拿隐藏必备物品，其本身属性也算不错，无尽模式必出在前30层中"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "为了拿这玩意儿，注定了前期称号什么的都不能乱点，必须保证自身探索点在2000左右（如果拿到了道林格雷画像，探索点会稍稍宽裕一些），10层之前出现几率低，10层之后的商店有极高几率出现"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "帮派干部再一次闪亮登场，不脸黑的话，轻轻松松就能把南瓜马车抢到手"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "如果点了异界游侠，翻王子尸体会翻出探索点消耗-20%的魂，会有一点帮助"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "魔法工坊强化装备"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "这个dp提一下是因为有了这个东西的存在，这个地图做元素套装的成就非常方便"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "顺便扯一下思路——奥丁神（魔法能力高加成，没有就魔法师也将就）+帮派干部（打劫）+商人（更爽的打劫），魔法系位面先知，其他称号随意，一路打劫商店，打劫不到就买，可以顺便慢慢做出各元素套装做成就"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "圣者之语5级和30级"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "我没计算过具体的升级顺序，不过只要按我这个方法肯定不会缺晶核升级"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "前10层清怪，无视柱子，11层开始点柱子抄法术，全程每个洞都进，拿到哈利波特的眼镜立刻戴上增加掉落率，遇到召唤师开地板拖回合，等其召唤够三只元素再杀，这样完全保证了晶核足够，在50层之前加属性的4个技能保证全部5级，至于30级的两个伤害技能，正常爬迷宫抄卷轴即可，爬着爬着就搞定了（11层开始，除去20级的4个加属性技能和boss层，大约10+20+60+7=97层），觉得高层累不够稳可以选择位面飞啊肝啊"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "不解除结界到30层"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "不使用地图机制系列dp中最简单的没有之一，男巫的猫挠一挠在主线就顺手搞定了，可以理解为是为后期的不使用地图机制系列dp做热身"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "隐藏冈布奥"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "60~100的boss层几率出现王子，把晚会礼服套装（水晶鞋、晚会礼服、南瓜马车）穿上和他对话并送给他，即可获得隐藏冈布奥——王子冈布奥"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "水晶鞋和晚会礼服翻王子尸体必出，南瓜马车买法上文有详述"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "之后获取方式不变，一次20碎片"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "获取的唯一难点就是看脸，此图boss层萌新打起来挺累的，在80或90层还没遇到而且觉得自己爬不动了就在boss层大sl刷吧= ="
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "总体来说圣者之塔的dp比较容易不算麻烦（后期疯狂扔卷轴有点累除外）"
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "group",
-              "value": [
-                [
-                  {
-                    "type": "text",
-                    "value": "速刷阵容"
-                  }
-                ]
-              ]
-            }
-          ]
-        ]
-      },
-      {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "(来源:论坛-宅之小天)"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "迷宫特殊机制"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "阵容：二郎神，贵族，寄生龙。竖琴狼人。"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "光暗石柱"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "称号：气系毁灭，灯系精灵王，邪龙。"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "1. 石柱规则"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "圣塔圣者之语顺序：光暗伤害，光暗属性，循环。只关和抄光暗属性。"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "普通层：石柱翻出后生效，或5轮后自动出现并生效"
       },
       {
-        "type": "group",
-        "value": [
-          [
-            {
-              "type": "text",
-              "value": "留探索点买糖和南瓜车。\t点满毁灭和龙系2阶加血，40层前加属性招狗。找钥匙下楼飞奔100就行，王子60层及以后的boss层出（非洲人表示特容易呆在100）。"
-            }
-          ]
-        ]
+        "type": "text",
+        "value": "BOSS层：暗之石柱直接生效，解除结界会导致BOSS切换状态，3轮后新的元素石柱开始生效"
       },
       {
         "type": "group",
         "value": [
-          [
-            {
-              "type": "text",
-              "value": "毁灭狗一般选个3的倍数或5的倍数层，有六只怪基本保证触发毁灭，不用sl。不过这图有法师召唤无所谓。光暗圣者之语打对应属性元素也可以拖回合让狗子攻击到极限。"
-            }
-          ]
-        ]
-      }
-    ]
-  ],
-  "cur_group": [
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "怪物图鉴"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "image",
-      "value": "data:,"
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "迷宫特殊机制"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "光暗石柱"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "1. 石柱规则"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
           {
             "type": "text",
-            "value": "普通层：石柱翻出后生效，或5轮后自动出现并生效"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "BOSS层：暗之石柱直接生效，解除结界会导致BOSS切换状态，3轮后新的元素石柱开始生效"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "石柱生效后产生结界效果，"
-                }
-              ]
-            ]
+            "value": "石柱生效后产生结界效果，"
           },
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "可使用1颗对应属性元素结晶解除结界"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "可使用1颗对应属性元素结晶解除结界"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "光之石柱：禁魔结界，无法施放魔法（持续本层）"
+      },
+      {
+        "type": "text",
+        "value": "暗之石柱：诅咒结界，攻击降低50%（持续本层）"
+      },
+      {
+        "type": "text",
+        "value": "解除结界后可使用4颗对应结晶抄写圣者之语"
+      },
+      {
+        "type": "text",
+        "value": "光之石柱：甘道夫的怒吼(光系单体)/瑞达斯特的意志(+攻击)/拉德瑞尔的守护(+生命值)"
+      },
+      {
+        "type": "text",
+        "value": "暗之石柱：索伦的咆哮(暗系单体)/萨鲁曼的恐惧(+魔力)/安格玛的魔咒(+魔法值)"
+      },
+      {
+        "type": "text",
+        "value": "2. 圣者之语"
+      },
+      {
+        "type": "text",
+        "value": "出现规律"
+      },
+      {
+        "type": "text",
+        "value": "光怒吼--暗咆哮--光意志--暗恐惧--光怒吼--暗咆哮--光守护--暗魔咒"
+      },
+      {
+        "type": "text",
+        "value": "以8层为一个循环出现， 遇到BOSS层顺延，大地不影响层数，当圣语学习到满级时，会替换为同属性加成，再替换为伤害法术"
+      },
+      {
+        "type": "image",
+        "value": "data:,"
+      },
+      {
+        "type": "text",
+        "value": "一个比较简单的计算方法："
+      },
+      {
+        "type": "text",
+        "value": "4的倍数层和它前边1层，就是属性石柱，如果路过boss层要加上boss的次数"
+      },
+      {
+        "type": "text",
+        "value": "光系圣语"
+      },
+      {
+        "type": "text",
+        "value": "A、甘道夫的怒吼（最高99级）"
+      },
+      {
+        "type": "text",
+        "value": "消耗10点魔法值，对单个敌人造成伤害（对暗元素效果翻倍），除明确声明对该圣语的加成外，\t伤害只与圣语等级和魔力有关 ，暗系相同"
+      },
+      {
+        "type": "text",
+        "value": "1~10级 伤害 = (魔力+3)*(1+等级*0.2)"
+      },
+      {
+        "type": "text",
+        "value": "11~30级  伤害 = (魔力+3)*(2+等级*0.1)"
+      },
+      {
+        "type": "text",
+        "value": "31~99级  伤害 = (魔力+3)*(3.5+等级*0.05)"
+      },
+      {
+        "type": "text",
+        "value": "B、瑞达斯特的意志（最高5级）"
+      },
+      {
+        "type": "text",
+        "value": "消耗魔法值，自身提升攻击，本次迷宫永久有效"
+      },
+      {
+        "type": "text",
+        "value": "一级（消耗30点魔法值）：提升1点攻击（最多10点）"
+      },
+      {
+        "type": "text",
+        "value": "二级（消耗56点魔法值）：提升2点攻击（最多20点）"
+      },
+      {
+        "type": "text",
+        "value": "三级（消耗70点魔法值）：提升3点攻击（最多30点）"
+      },
+      {
+        "type": "text",
+        "value": "四级（消耗96点魔法值）：提升4点攻击（最多40点）"
+      },
+      {
+        "type": "text",
+        "value": "五级（消耗110点魔法值）：提升5点攻击（最多50点）"
+      },
+      {
+        "type": "text",
+        "value": "C、拉德瑞尔的守护（最高5级）"
+      },
+      {
+        "type": "text",
+        "value": "消耗魔法值，自身提升最大生命值，本次迷宫永久有效"
+      },
+      {
+        "type": "text",
+        "value": "一级（消耗15点魔法值）：提升10点生命值（最多100点）"
+      },
+      {
+        "type": "text",
+        "value": "二级（消耗28点魔法值）：提升20点生命值（最多200点）"
+      },
+      {
+        "type": "text",
+        "value": "三级（消耗35点魔法值）：提升30点生命值（最多300点）"
+      },
+      {
+        "type": "text",
+        "value": "四级（消耗48点魔法值）：提升40点生命值（最多400点）"
+      },
+      {
+        "type": "text",
+        "value": "五级（消耗55点魔法值）：提升50点生命值（最多500点）"
+      },
+      {
+        "type": "text",
+        "value": "暗系圣语"
+      },
+      {
+        "type": "text",
+        "value": "A、索伦的咆哮\t（最高99级）"
+      },
+      {
+        "type": "text",
+        "value": "消耗10点魔法值，对单个敌人造成伤害（对光元素效果翻倍）"
+      },
+      {
+        "type": "text",
+        "value": "B、萨鲁曼的恐惧（最高5级）"
+      },
+      {
+        "type": "text",
+        "value": "消耗魔法值，自身提升魔力，本次迷宫永久有效"
+      },
+      {
+        "type": "text",
+        "value": "一级（消耗30点魔法值）：提升1点魔力（最多10点）"
+      },
+      {
+        "type": "text",
+        "value": "二级（消耗56点魔法值）：提升2点魔力（最多20点）"
+      },
+      {
+        "type": "text",
+        "value": "三级（消耗70点魔法值）：提升3点魔力（最多30点）"
+      },
+      {
+        "type": "text",
+        "value": "四级（消耗96点魔法值）：提升4点魔力（最多40点）"
+      },
+      {
+        "type": "text",
+        "value": "五级（消耗110点魔法值）：提升5点魔力（最多50点）"
+      },
+      {
+        "type": "text",
+        "value": "C、安格玛的魔咒（最高5级）"
+      },
+      {
+        "type": "text",
+        "value": "消耗魔法值，自身提升最大魔法值，本次迷宫永久有效"
+      },
+      {
+        "type": "text",
+        "value": "一级（消耗15点魔法值）：提升10点魔法值（最多100点）"
+      },
+      {
+        "type": "text",
+        "value": "二级（消耗28点魔法值）：提升20点魔法值（最多200点）"
+      },
+      {
+        "type": "text",
+        "value": "三级（消耗35点魔法值）：提升30点魔法值（最多300点）"
+      },
+      {
+        "type": "text",
+        "value": "四级（消耗48点魔法值）：提升40点魔法值（最多400点）"
+      },
+      {
+        "type": "text",
+        "value": "五级（消耗55点魔法值）：提升50点魔法值（最多500点）"
+      },
+      {
+        "type": "text",
+        "value": "隐藏冈布奥"
+      },
+      {
+        "type": "text",
+        "value": "王子获得方法"
+      },
+      {
+        "type": "text",
+        "value": "1. 普通层魔法商店概率售卖\"南瓜马车\"(初始售价2000探索点，只会出现一次)"
+      },
+      {
+        "type": "text",
+        "value": "2. 普通层遇到\"王子的尸体\" ，翻找获得\"水晶鞋\" 和 \"公主舞服\""
+      },
+      {
+        "type": "text",
+        "value": "3. 60+BOSS层遇到王子，\t穿戴\t\"水晶鞋\"、\"公主舞服\" 和 \"南瓜马车\"\t对话，初次\t获得王子冈布奥，后续获得碎片*20"
+      },
+      {
+        "type": "text",
+        "value": "迷宫重要彩蛋"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "光之石柱：禁魔结界，无法施放魔法（持续本层）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "暗之石柱：诅咒结界，攻击降低50%（持续本层）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "解除结界后可使用4颗对应结晶抄写圣者之语"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "光之石柱：甘道夫的怒吼(光系单体)/瑞达斯特的意志(+攻击)/拉德瑞尔的守护(+生命值)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "暗之石柱：索伦的咆哮(暗系单体)/萨鲁曼的恐惧(+魔力)/安格玛的魔咒(+魔法值)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "2. 圣者之语"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "出现规律"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "光怒吼--暗咆哮--光意志--暗恐惧--光怒吼--暗咆哮--光守护--暗魔咒"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "以8层为一个循环出现， 遇到BOSS层顺延，大地不影响层数，当圣语学习到满级时，会替换为同属性加成，再替换为伤害法术"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "image",
-      "value": "data:,"
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "一个比较简单的计算方法："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "4的倍数层和它前边1层，就是属性石柱，如果路过boss层要加上boss的次数"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "光系圣语"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "A、甘道夫的怒吼（最高99级）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗10点魔法值，对单个敌人造成伤害（对暗元素效果翻倍），除明确声明对该圣语的加成外，\t伤害只与圣语等级和魔力有关 ，暗系相同"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "1~10级 伤害 = (魔力+3)*(1+等级*0.2)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "11~30级  伤害 = (魔力+3)*(2+等级*0.1)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "31~99级  伤害 = (魔力+3)*(3.5+等级*0.05)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "B、瑞达斯特的意志（最高5级）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗魔法值，自身提升攻击，本次迷宫永久有效"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "一级（消耗30点魔法值）：提升1点攻击（最多10点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "二级（消耗56点魔法值）：提升2点攻击（最多20点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "三级（消耗70点魔法值）：提升3点攻击（最多30点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "四级（消耗96点魔法值）：提升4点攻击（最多40点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "五级（消耗110点魔法值）：提升5点攻击（最多50点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "C、拉德瑞尔的守护（最高5级）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗魔法值，自身提升最大生命值，本次迷宫永久有效"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "一级（消耗15点魔法值）：提升10点生命值（最多100点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "二级（消耗28点魔法值）：提升20点生命值（最多200点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "三级（消耗35点魔法值）：提升30点生命值（最多300点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "四级（消耗48点魔法值）：提升40点生命值（最多400点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "五级（消耗55点魔法值）：提升50点生命值（最多500点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "暗系圣语"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "A、索伦的咆哮\t（最高99级）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗10点魔法值，对单个敌人造成伤害（对光元素效果翻倍）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "B、萨鲁曼的恐惧（最高5级）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗魔法值，自身提升魔力，本次迷宫永久有效"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "一级（消耗30点魔法值）：提升1点魔力（最多10点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "二级（消耗56点魔法值）：提升2点魔力（最多20点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "三级（消耗70点魔法值）：提升3点魔力（最多30点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "四级（消耗96点魔法值）：提升4点魔力（最多40点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "五级（消耗110点魔法值）：提升5点魔力（最多50点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "C、安格玛的魔咒（最高5级）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗魔法值，自身提升最大魔法值，本次迷宫永久有效"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "一级（消耗15点魔法值）：提升10点魔法值（最多100点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "二级（消耗28点魔法值）：提升20点魔法值（最多200点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "三级（消耗35点魔法值）：提升30点魔法值（最多300点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "四级（消耗48点魔法值）：提升40点魔法值（最多400点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "五级（消耗55点魔法值）：提升50点魔法值（最多500点）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "隐藏冈布奥"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "王子获得方法"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "1. 普通层魔法商店概率售卖\"南瓜马车\"(初始售价2000探索点，只会出现一次)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "2. 普通层遇到\"王子的尸体\" ，翻找获得\"水晶鞋\" 和 \"公主舞服\""
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "3. 60+BOSS层遇到王子，\t穿戴\t\"水晶鞋\"、\"公主舞服\" 和 \"南瓜马车\"\t对话，初次\t获得王子冈布奥，后续获得碎片*20"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "迷宫重要彩蛋"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "火焰恶魔"
-                }
-              ]
-            ]
+            "value": "火焰恶魔"
           },
           {
             "type": "text",
             "value": "，\t首次提交\t接骨木魔杖\t，获得3钻，限1次，后续是魔力+3"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "group",
+        "value": [
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "大盗神"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "大盗神"
           },
           {
             "type": "text",
             "value": "，翻找奇怪的书架\t，15%概率获得3钻，限3次"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "group",
+        "value": [
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "大盗神"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "大盗神"
           },
           {
             "type": "text",
             "value": "，高颜值冈布奥出战，翻找圣者的穿衣镜，获得3钻，限3次"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "下边列出默认装束下的高颜值冈布奥："
+      },
+      {
+        "type": "text",
+        "value": "Peter、九尾狐、加文、兰斯洛特、乾闼婆、唐玄奘、西施、王昭君、貂蝉、杨玉环、狩猎女神、剑仙、\t吸血伯爵、神龙、怪盗、创世神、美杜莎、装甲、王子、虫族女王、雅典娜、哈迪斯、狮心王、天使神、仙女龙、黑白皇后、凤凰、潘多拉、冰霜女王、仓鼠、阿瓦隆、Cytus、海拉、枪械商、獬豸、麒麟、白泽、貔貅、拉斐尔"
+      },
+      {
+        "type": "text",
+        "value": "全部冈布奥和装束的颜值请在公众号回复\"\t颜值\t\"进行查看"
+      },
+      {
+        "type": "text",
+        "value": "迷宫特殊建筑"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "下边列出默认装束下的高颜值冈布奥："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "Peter、九尾狐、加文、兰斯洛特、乾闼婆、唐玄奘、西施、王昭君、貂蝉、杨玉环、狩猎女神、剑仙、\t吸血伯爵、神龙、怪盗、创世神、美杜莎、装甲、王子、虫族女王、雅典娜、哈迪斯、狮心王、天使神、仙女龙、黑白皇后、凤凰、潘多拉、冰霜女王、仓鼠、阿瓦隆、Cytus、海拉、枪械商、獬豸、麒麟、白泽、貔貅、拉斐尔"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "全部冈布奥和装束的颜值请在公众号回复\"\t颜值\t\"进行查看"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "迷宫特殊建筑"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "元素洞窟"
-                }
-              ]
-            ]
+            "value": "元素洞窟"
           },
           {
             "type": "text",
             "value": "（夹层入口）"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "进入可出现元素矿脉、魔法喷泉"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "进入可出现元素矿脉、魔法喷泉"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "元素矿脉"
-                }
-              ]
-            ]
+            "value": "元素矿脉"
           },
           {
             "type": "text",
             "value": "（夹层）"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "获得 (光元素结晶+暗元素结界)*1~2"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "获得 (光元素结晶+暗元素结界)*1~2"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "魔法喷泉"
-                }
-              ]
-            ]
+            "value": "魔法喷泉"
           },
           {
             "type": "text",
             "value": "（夹层）"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "恢复15%魔法值"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "恢复15%魔法值"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "魔法商店"
-                }
-              ]
-            ]
+            "value": "魔法商店"
           },
           {
             "type": "text",
             "value": "(地图特色商店 货币：探索点)"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "在售商品 (3件)"
+      },
+      {
+        "type": "text",
+        "value": "魔法太妃糖*1 (200) 橡木魔棒*1 (150)"
+      },
+      {
+        "type": "text",
+        "value": "黄岑木魔棒*1 (300)  \t胡桃木魔棒*1 (300)"
+      },
+      {
+        "type": "text",
+        "value": "冬青木魔棒*1 (600) 接骨木魔棒*1 (1200)"
+      },
+      {
+        "type": "text",
+        "value": "魔法扫帚*1 (100)  \t限量版扫帚*1 (300 限1次)"
+      },
+      {
+        "type": "text",
+        "value": "南瓜马车*1\t (2000 限1次)"
+      },
+      {
+        "type": "text",
+        "value": "特殊勒索"
+      },
+      {
+        "type": "text",
+        "value": "魔法手札 (限3次) 限量版扫帚(限1次，与商店不共上限)"
+      },
+      {
+        "type": "text",
+        "value": "------------------------------------------------------"
+      },
+      {
+        "type": "text",
+        "value": "魔法太妃糖 使用：恢复35%魔法值"
+      },
+      {
+        "type": "text",
+        "value": "橡木魔棒【宝物】魔力+2、魔法值+20；每进入下一层，恢复魔法值+2"
+      },
+      {
+        "type": "text",
+        "value": "黄岑木魔棒【宝物】魔力+3、魔法值+30；所有治疗类魔法效果+15%"
+      },
+      {
+        "type": "text",
+        "value": "胡桃木魔棒【宝物】魔力+3、魔法值+30；所有伤害类魔法效果+15%"
+      },
+      {
+        "type": "text",
+        "value": "冬青木魔棒【宝物】魔力+4、魔法值+40；所有火系魔法效果+20%"
+      },
+      {
+        "type": "text",
+        "value": "接骨木魔棒【宝物】魔力+6、魔法值+60；所有暗系魔法效果+30%"
+      },
+      {
+        "type": "text",
+        "value": "魔法扫帚 使用：直接进入下一层（特殊层无效）"
+      },
+      {
+        "type": "text",
+        "value": "限量版扫帚 使用：立即回退15层迷宫（特殊层无效）"
+      },
+      {
+        "type": "text",
+        "value": "南瓜马车【宝物】闪避+6%；闪避上限+3%；所有辅助类魔法效果+20%"
+      },
+      {
+        "type": "text",
+        "value": "魔法手札  使用：随机提升1级【贤者之语】等级"
+      },
+      {
+        "type": "text",
+        "value": "魔法工坊"
+      },
+      {
+        "type": "text",
+        "value": "消耗探索点进阶元素系套装部件一次"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "在售商品 (3件)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔法太妃糖*1 (200) 橡木魔棒*1 (150)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "黄岑木魔棒*1 (300)  \t胡桃木魔棒*1 (300)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "冬青木魔棒*1 (600) 接骨木魔棒*1 (1200)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔法扫帚*1 (100)  \t限量版扫帚*1 (300 限1次)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "南瓜马车*1\t (2000 限1次)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊勒索"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔法手札 (限3次) 限量版扫帚(限1次，与商店不共上限)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "------------------------------------------------------"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔法太妃糖 使用：恢复35%魔法值"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "橡木魔棒【宝物】魔力+2、魔法值+20；每进入下一层，恢复魔法值+2"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "黄岑木魔棒【宝物】魔力+3、魔法值+30；所有治疗类魔法效果+15%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "胡桃木魔棒【宝物】魔力+3、魔法值+30；所有伤害类魔法效果+15%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "冬青木魔棒【宝物】魔力+4、魔法值+40；所有火系魔法效果+20%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "接骨木魔棒【宝物】魔力+6、魔法值+60；所有暗系魔法效果+30%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔法扫帚 使用：直接进入下一层（特殊层无效）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "限量版扫帚 使用：立即回退15层迷宫（特殊层无效）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "南瓜马车【宝物】闪避+6%；闪避上限+3%；所有辅助类魔法效果+20%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔法手札  使用：随机提升1级【贤者之语】等级"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "魔法工坊"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "消耗探索点进阶元素系套装部件一次"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "火焰恶魔"
-                }
-              ]
-            ]
+            "value": "火焰恶魔"
           },
           {
             "type": "text",
             "value": "(可提交魔杖类装备)"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "提交3星魔杖  \t获得 火球术*1~3 或 失明术*1~2"
+      },
+      {
+        "type": "text",
+        "value": "提交4星魔杖  获得 流星雨*1~2 或 毁灭之刃*1 或 末日审判*1"
+      },
+      {
+        "type": "text",
+        "value": "提交5星魔杖  获得 所有魔法伤害+2%"
+      },
+      {
+        "type": "text",
+        "value": "提交6星魔杖  首次获得 3钻 后续获得 魔力+3"
+      },
+      {
+        "type": "text",
+        "value": "魔法师残骸"
+      },
+      {
+        "type": "text",
+        "value": "随机获得 光元素结晶*2 / 暗元素结晶*2 /\t 魔法太妃糖*1 /\t 橡木魔棒\t*1 /\t黄岑木魔棒\t*1 / \t胡桃木魔棒\t*1"
+      },
+      {
+        "type": "text",
+        "value": "王尔德的残骸"
+      },
+      {
+        "type": "text",
+        "value": "获得道林格雷的画像*1"
+      },
+      {
+        "type": "text",
+        "value": "道林格雷的画像 使用：冈布奥魔力+2；获得500点探索点"
+      },
+      {
+        "type": "text",
+        "value": "少年法师残骸"
+      },
+      {
+        "type": "text",
+        "value": "获得魔法师的眼镜*1"
+      },
+      {
+        "type": "text",
+        "value": "魔法师的眼镜【头盔】魔力+3（魔法师冈布奥装备时，效果翻倍）；每进入下一层，获得1颗元素结晶"
+      },
+      {
+        "type": "text",
+        "value": "王子的尸体"
+      },
+      {
+        "type": "text",
+        "value": "获得 水晶鞋*1 + 公主舞服*1"
+      },
+      {
+        "type": "text",
+        "value": "水晶鞋【鞋子】攻击+2、生命值+20；攻击时，10%概率不被反击"
+      },
+      {
+        "type": "text",
+        "value": "公主舞服【铠甲】降低敌人攻击+2；攻击时，10%概率不被反击"
+      },
+      {
+        "type": "text",
+        "value": "灰姑娘的盛装【套装】(水晶鞋+公主舞服+南瓜马车) 魔力+8、攻击+8"
+      },
+      {
+        "type": "text",
+        "value": "大盗神"
+      },
+      {
+        "type": "text",
+        "value": "隐藏的储物箱"
+      },
+      {
+        "type": "text",
+        "value": "获得 巫妖的意志套装*1"
+      },
+      {
+        "type": "text",
+        "value": "巫妖的指轮【戒指】所有魔法效果+2%"
+      },
+      {
+        "type": "text",
+        "value": "巫妖护符【项链】所有魔法效果+4%"
+      },
+      {
+        "type": "text",
+        "value": "巫妖的魂匣【宝物】所有魔法效果+6%"
+      },
+      {
+        "type": "text",
+        "value": "巫妖的意志【套装】魔力+5；所有魔法效果+8%"
+      },
+      {
+        "type": "text",
+        "value": "松动的地砖"
+      },
+      {
+        "type": "text",
+        "value": "获得 光元素结晶*5 + 暗元素结晶*5"
+      },
+      {
+        "type": "text",
+        "value": "散落的物件"
+      },
+      {
+        "type": "text",
+        "value": "获得 魔法太妃糖*3"
+      },
+      {
+        "type": "text",
+        "value": "残破的巢穴"
+      },
+      {
+        "type": "text",
+        "value": "获得 眼球酊剂*1 + 兽人的肝脏*2"
+      },
+      {
+        "type": "text",
+        "value": "眼球酊剂  使用：冈布奥攻击及魔力+1"
+      },
+      {
+        "type": "text",
+        "value": "兽人的肝脏  使用：冈布奥生命值及魔法值+10"
+      },
+      {
+        "type": "text",
+        "value": "圣者的衣柜"
+      },
+      {
+        "type": "text",
+        "value": "获得 魔法系的遗物*2~3"
+      },
+      {
+        "type": "text",
+        "value": "圣者的穿衣镜"
+      },
+      {
+        "type": "text",
+        "value": "根据出战冈布奥的颜值获得奖励"
+      },
+      {
+        "type": "text",
+        "value": "(想看看谁的颜值最高？在公众号回复\"颜值\"查看颜值全表)"
+      },
+      {
+        "type": "text",
+        "value": "颜值≥90：攻击+5，魔力+5，探索点*1000，钻石*3(限3次)"
+      },
+      {
+        "type": "text",
+        "value": "颜值≥80：攻击+3，魔力+3，探索点*700"
+      },
+      {
+        "type": "text",
+        "value": "颜值≥70：攻击+2，魔力+2，探索点*500"
+      },
+      {
+        "type": "text",
+        "value": "颜值≥60：攻击+1，魔力+1，探索点*300"
+      },
+      {
+        "type": "text",
+        "value": "颜值≥50：探索点*200"
+      },
+      {
+        "type": "text",
+        "value": "颜值≥40：探索点*100"
+      },
+      {
+        "type": "text",
+        "value": "颜值≥30：扣除5%的生命值和魔法值"
+      },
+      {
+        "type": "text",
+        "value": "颜值≥20：扣除10%的生命值和魔法值"
+      },
+      {
+        "type": "text",
+        "value": "颜值≥10：扣除20%的生命值和魔法值"
+      },
+      {
+        "type": "text",
+        "value": "颜值<10：扣除30%的生命值和魔法值"
+      },
+      {
+        "type": "text",
+        "value": "奇怪的书架"
+      },
+      {
+        "type": "text",
+        "value": "获得 出战冈布奥喜欢的书籍(只是名字不同)"
+      },
+      {
+        "type": "text",
+        "value": "15%获得3钻石(上限3次)，15%获得20000~30000金币，30%获得10000~20000金币，40%获得5000~10000金币"
+      },
+      {
+        "type": "text",
+        "value": "灯异界"
+      },
+      {
+        "type": "text",
+        "value": "魔法师残骸"
+      },
+      {
+        "type": "text",
+        "value": "残破的法师之魂 使用：魔力+10（持续本层）"
+      },
+      {
+        "type": "text",
+        "value": "完整的法师之魂 使用：冈布奥魔力+1"
+      },
+      {
+        "type": "text",
+        "value": "王尔德的残骸"
+      },
+      {
+        "type": "text",
+        "value": "王尔德的灵魂 使用：恢复冈布奥的生命值及魔法值（回溯至刚进入本层时的状态）"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "提交3星魔杖  \t获得 火球术*1~3 或 失明术*1~2"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "提交4星魔杖  获得 流星雨*1~2 或 毁灭之刃*1 或 末日审判*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "提交5星魔杖  获得 所有魔法伤害+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "提交6星魔杖  首次获得 3钻 后续获得 魔力+3"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "魔法师残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "随机获得 光元素结晶*2 / 暗元素结晶*2 /\t 魔法太妃糖*1 /\t 橡木魔棒\t*1 /\t黄岑木魔棒\t*1 / \t胡桃木魔棒\t*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "王尔德的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得道林格雷的画像*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "道林格雷的画像 使用：冈布奥魔力+2；获得500点探索点"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "少年法师残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得魔法师的眼镜*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "魔法师的眼镜【头盔】魔力+3（魔法师冈布奥装备时，效果翻倍）；每进入下一层，获得1颗元素结晶"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "王子的尸体"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 水晶鞋*1 + 公主舞服*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "水晶鞋【鞋子】攻击+2、生命值+20；攻击时，10%概率不被反击"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "公主舞服【铠甲】降低敌人攻击+2；攻击时，10%概率不被反击"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "灰姑娘的盛装【套装】(水晶鞋+公主舞服+南瓜马车) 魔力+8、攻击+8"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "大盗神"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "隐藏的储物箱"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 巫妖的意志套装*1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "巫妖的指轮【戒指】所有魔法效果+2%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "巫妖护符【项链】所有魔法效果+4%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "巫妖的魂匣【宝物】所有魔法效果+6%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "巫妖的意志【套装】魔力+5；所有魔法效果+8%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "松动的地砖"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 光元素结晶*5 + 暗元素结晶*5"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "散落的物件"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 魔法太妃糖*3"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "残破的巢穴"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 眼球酊剂*1 + 兽人的肝脏*2"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "眼球酊剂  使用：冈布奥攻击及魔力+1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "兽人的肝脏  使用：冈布奥生命值及魔法值+10"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "圣者的衣柜"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 魔法系的遗物*2~3"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "圣者的穿衣镜"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "根据出战冈布奥的颜值获得奖励"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "(想看看谁的颜值最高？在公众号回复\"颜值\"查看颜值全表)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值≥90：攻击+5，魔力+5，探索点*1000，钻石*3(限3次)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值≥80：攻击+3，魔力+3，探索点*700"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值≥70：攻击+2，魔力+2，探索点*500"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值≥60：攻击+1，魔力+1，探索点*300"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值≥50：探索点*200"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值≥40：探索点*100"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值≥30：扣除5%的生命值和魔法值"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值≥20：扣除10%的生命值和魔法值"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值≥10：扣除20%的生命值和魔法值"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "颜值<10：扣除30%的生命值和魔法值"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "奇怪的书架"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获得 出战冈布奥喜欢的书籍(只是名字不同)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "15%获得3钻石(上限3次)，15%获得20000~30000金币，30%获得10000~20000金币，40%获得5000~10000金币"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "灯异界"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "魔法师残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "残破的法师之魂 使用：魔力+10（持续本层）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "完整的法师之魂 使用：冈布奥魔力+1"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "王尔德的残骸"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "王尔德的灵魂 使用：恢复冈布奥的生命值及魔法值（回溯至刚进入本层时的状态）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "少年法师残骸"
-                }
-              ]
-            ]
+            "value": "少年法师残骸"
           },
           {
             "type": "text",
             "value": "(2种灵魂一起获得)"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "text",
+        "value": "少年法师的灵魂  使用：所有魔法效果+3%"
+      },
+      {
+        "type": "text",
+        "value": "伏地魔的灵魂  使用：黑魔标记状态（恢复50点魔法值、索伦的咆哮魔法效果+300%，持续本层）"
+      },
+      {
+        "type": "text",
+        "value": "王子的尸体"
+      },
+      {
+        "type": "text",
+        "value": "王子的灵魂  使用：魔法商店中，探索点消耗降低20%"
+      },
+      {
+        "type": "text",
+        "value": "厨师菜谱"
+      },
+      {
+        "type": "text",
+        "value": "珍味元素汤"
+      },
+      {
+        "type": "text",
+        "value": "特殊食材："
+      },
+      {
+        "type": "text",
+        "value": "元素之尘*3 (普通元素小怪掉落)"
+      },
+      {
+        "type": "text",
+        "value": "食用：元素圣坛射线威力+10，元素操控状态（所有魔法效果+10%，且施法时，造成伤害翻倍，持续1轮）"
+      },
+      {
+        "type": "text",
+        "value": "火山石烧烤"
+      },
+      {
+        "type": "text",
+        "value": "特殊食材："
+      },
+      {
+        "type": "text",
+        "value": "火山石*2 (岩石傀儡掉落)"
+      },
+      {
+        "type": "text",
+        "value": "元素之尘*3 (普通元素小怪掉落)"
+      },
+      {
+        "type": "text",
+        "value": "食用：随机获得3颗元素结晶"
+      },
+      {
+        "type": "text",
+        "value": "元素焗蜗牛"
+      },
+      {
+        "type": "text",
+        "value": "特殊食材："
+      },
+      {
+        "type": "text",
+        "value": "元素之尘*2 (普通元素小怪掉落)"
+      },
+      {
+        "type": "text",
+        "value": "蜗牛肉*3 (秘法蜗牛掉落)"
+      },
+      {
+        "type": "text",
+        "value": "食用：冈布奥魔法值+10；索伦的咆哮魔法效果+1%；甘道夫的怒吼魔法效果+1%"
+      },
+      {
+        "type": "text",
+        "value": "怪味尾羽汤(隐藏)"
+      },
+      {
+        "type": "text",
+        "value": "特殊食材："
+      },
+      {
+        "type": "text",
+        "value": "夜骐尾羽*1 (分解装备：接骨木魔棒)"
+      },
+      {
+        "type": "text",
+        "value": "怪味豆*1 (翻找少年法师残骸)"
+      },
+      {
+        "type": "text",
+        "value": "食用：魔力+3、冈布奥魔法值+50；施放索伦的咆哮时，10%概率额外施放一次"
+      },
+      {
+        "type": "text",
+        "value": "特殊照片"
+      },
+      {
+        "type": "text",
+        "value": "阿斯塔纳的照片"
+      },
+      {
+        "type": "text",
+        "value": "使用：魔法印记状态（魔力提升60%、所有魔法持续轮数+1，持续本层）"
+      },
+      {
+        "type": "text",
+        "value": "来源：进入BOSS层 40% 获取 (上限3)"
+      },
+      {
+        "type": "text",
+        "value": "DP难点"
+      },
+      {
+        "type": "text",
+        "value": "(来源:\t贴吧-云尘尽转c)"
+      },
+      {
+        "type": "group",
+        "value": [
           {
             "type": "text",
-            "value": "少年法师的灵魂  使用：所有魔法效果+3%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "伏地魔的灵魂  使用：黑魔标记状态（恢复50点魔法值、索伦的咆哮魔法效果+300%，持续本层）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "王子的尸体"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "王子的灵魂  使用：魔法商店中，探索点消耗降低20%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "厨师菜谱"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "珍味元素汤"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊食材："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "元素之尘*3 (普通元素小怪掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "食用：元素圣坛射线威力+10，元素操控状态（所有魔法效果+10%，且施法时，造成伤害翻倍，持续1轮）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "火山石烧烤"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊食材："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "火山石*2 (岩石傀儡掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "元素之尘*3 (普通元素小怪掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "食用：随机获得3颗元素结晶"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "元素焗蜗牛"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊食材："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "元素之尘*2 (普通元素小怪掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "蜗牛肉*3 (秘法蜗牛掉落)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "食用：冈布奥魔法值+10；索伦的咆哮魔法效果+1%；甘道夫的怒吼魔法效果+1%"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "怪味尾羽汤(隐藏)"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "特殊食材："
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "夜骐尾羽*1 (分解装备：接骨木魔棒)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "怪味豆*1 (翻找少年法师残骸)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "食用：魔力+3、冈布奥魔法值+50；施放索伦的咆哮时，10%概率额外施放一次"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "特殊照片"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "阿斯塔纳的照片"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "使用：魔法印记状态（魔力提升60%、所有魔法持续轮数+1，持续本层）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "来源：进入BOSS层 40% 获取 (上限3)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "DP难点"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "(来源:\t贴吧-云尘尽转c)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "迷宫特色"
-                }
-              ]
-            ]
+            "value": "迷宫特色"
           },
           {
             "type": "text",
             "value": "：boss的黑白转换，地图赠送的不限量法术，每层坑爹的debuff"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "group",
+        "value": [
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "迷宫优点"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "迷宫优点"
           },
           {
             "type": "text",
             "value": "：不必担心法术卷轴和伤害不足，高属性免费送"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
+      },
+      {
+        "type": "group",
+        "value": [
           {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "迷宫缺点"
-                }
-              ]
-            ]
+            "type": "text",
+            "value": "迷宫缺点"
           },
           {
             "type": "text",
             "value": "：boss暗状态扛不住，光状态砍不动，切换烦人，升级赠送法术时结晶需求量大"
           }
         ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "各种魔棒"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "推主线时留心收集一些，很容易搞定的"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "如果错过了主线，只能买买买了，当然可以用一只特别给力的冈布奥——帮派干部去抢商店，用过都说好，配合商人冈布奥一路抢下来保证让你翻背包都嫌烦"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "限量版扫帚"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "这玩意儿在商店里正常购买时每局只出一个，作用是回15层，但脸黑一局见不到一次也有可能"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "所以刷这个依然推荐帮派干部，每局迷宫抢地图特色商店时第一次抢出暴击会额外送你一个，当然之后再出暴击就没有了……也就是说带上帮派干部一局可以使用两个"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "南瓜马车"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "2000探索点的巨无霸，拿隐藏必备物品，其本身属性也算不错，无尽模式必出在前30层中"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "为了拿这玩意儿，注定了前期称号什么的都不能乱点，必须保证自身探索点在2000左右（如果拿到了道林格雷画像，探索点会稍稍宽裕一些），10层之前出现几率低，10层之后的商店有极高几率出现"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "帮派干部再一次闪亮登场，不脸黑的话，轻轻松松就能把南瓜马车抢到手"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "如果点了异界游侠，翻王子尸体会翻出探索点消耗-20%的魂，会有一点帮助"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "魔法工坊强化装备"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "这个dp提一下是因为有了这个东西的存在，这个地图做元素套装的成就非常方便"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "顺便扯一下思路——奥丁神（魔法能力高加成，没有就魔法师也将就）+帮派干部（打劫）+商人（更爽的打劫），魔法系位面先知，其他称号随意，一路打劫商店，打劫不到就买，可以顺便慢慢做出各元素套装做成就"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "圣者之语5级和30级"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "我没计算过具体的升级顺序，不过只要按我这个方法肯定不会缺晶核升级"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "前10层清怪，无视柱子，11层开始点柱子抄法术，全程每个洞都进，拿到哈利波特的眼镜立刻戴上增加掉落率，遇到召唤师开地板拖回合，等其召唤够三只元素再杀，这样完全保证了晶核足够，在50层之前加属性的4个技能保证全部5级，至于30级的两个伤害技能，正常爬迷宫抄卷轴即可，爬着爬着就搞定了（11层开始，除去20级的4个加属性技能和boss层，大约10+20+60+7=97层），觉得高层累不够稳可以选择位面飞啊肝啊"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "不解除结界到30层"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "不使用地图机制系列dp中最简单的没有之一，男巫的猫挠一挠在主线就顺手搞定了，可以理解为是为后期的不使用地图机制系列dp做热身"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "隐藏冈布奥"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "60~100的boss层几率出现王子，把晚会礼服套装（水晶鞋、晚会礼服、南瓜马车）穿上和他对话并送给他，即可获得隐藏冈布奥——王子冈布奥"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "水晶鞋和晚会礼服翻王子尸体必出，南瓜马车买法上文有详述"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "之后获取方式不变，一次20碎片"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "获取的唯一难点就是看脸，此图boss层萌新打起来挺累的，在80或90层还没遇到而且觉得自己爬不动了就在boss层大sl刷吧= ="
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "总体来说圣者之塔的dp比较容易不算麻烦（后期疯狂扔卷轴有点累除外）"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "group",
-            "value": [
-              [
-                {
-                  "type": "text",
-                  "value": "速刷阵容"
-                }
-              ]
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "(来源:论坛-宅之小天)"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "阵容：二郎神，贵族，寄生龙。竖琴狼人。"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "称号：气系毁灭，灯系精灵王，邪龙。"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "圣塔圣者之语顺序：光暗伤害，光暗属性，循环。只关和抄光暗属性。"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "留探索点买糖和南瓜车。\t点满毁灭和龙系2阶加血，40层前加属性招狗。找钥匙下楼飞奔100就行，王子60层及以后的boss层出（非洲人表示特容易呆在100）。"
-          }
-        ]
-      ]
-    },
-    {
-      "type": "group",
-      "value": [
-        [
-          {
-            "type": "text",
-            "value": "毁灭狗一般选个3的倍数或5的倍数层，有六只怪基本保证触发毁灭，不用sl。不过这图有法师召唤无所谓。光暗圣者之语打对应属性元素也可以拖回合让狗子攻击到极限。"
-          }
-        ]
-      ]
-    }
-  ]
-}
+      },
+      {
+        "type": "text",
+        "value": "各种魔棒"
+      },
+      {
+        "type": "text",
+        "value": "推主线时留心收集一些，很容易搞定的"
+      },
+      {
+        "type": "text",
+        "value": "如果错过了主线，只能买买买了，当然可以用一只特别给力的冈布奥——帮派干部去抢商店，用过都说好，配合商人冈布奥一路抢下来保证让你翻背包都嫌烦"
+      },
+      {
+        "type": "text",
+        "value": "限量版扫帚"
+      },
+      {
+        "type": "text",
+        "value": "这玩意儿在商店里正常购买时每局只出一个，作用是回15层，但脸黑一局见不到一次也有可能"
+      },
+      {
+        "type": "text",
+        "value": "所以刷这个依然推荐帮派干部，每局迷宫抢地图特色商店时第一次抢出暴击会额外送你一个，当然之后再出暴击就没有了……也就是说带上帮派干部一局可以使用两个"
+      },
+      {
+        "type": "text",
+        "value": "南瓜马车"
+      },
+      {
+        "type": "text",
+        "value": "2000探索点的巨无霸，拿隐藏必备物品，其本身属性也算不错，无尽模式必出在前30层中"
+      },
+      {
+        "type": "text",
+        "value": "为了拿这玩意儿，注定了前期称号什么的都不能乱点，必须保证自身探索点在2000左右（如果拿到了道林格雷画像，探索点会稍稍宽裕一些），10层之前出现几率低，10层之后的商店有极高几率出现"
+      },
+      {
+        "type": "text",
+        "value": "帮派干部再一次闪亮登场，不脸黑的话，轻轻松松就能把南瓜马车抢到手"
+      },
+      {
+        "type": "text",
+        "value": "如果点了异界游侠，翻王子尸体会翻出探索点消耗-20%的魂，会有一点帮助"
+      },
+      {
+        "type": "text",
+        "value": "魔法工坊强化装备"
+      },
+      {
+        "type": "text",
+        "value": "这个dp提一下是因为有了这个东西的存在，这个地图做元素套装的成就非常方便"
+      },
+      {
+        "type": "text",
+        "value": "顺便扯一下思路——奥丁神（魔法能力高加成，没有就魔法师也将就）+帮派干部（打劫）+商人（更爽的打劫），魔法系位面先知，其他称号随意，一路打劫商店，打劫不到就买，可以顺便慢慢做出各元素套装做成就"
+      },
+      {
+        "type": "text",
+        "value": "圣者之语5级和30级"
+      },
+      {
+        "type": "text",
+        "value": "我没计算过具体的升级顺序，不过只要按我这个方法肯定不会缺晶核升级"
+      },
+      {
+        "type": "text",
+        "value": "前10层清怪，无视柱子，11层开始点柱子抄法术，全程每个洞都进，拿到哈利波特的眼镜立刻戴上增加掉落率，遇到召唤师开地板拖回合，等其召唤够三只元素再杀，这样完全保证了晶核足够，在50层之前加属性的4个技能保证全部5级，至于30级的两个伤害技能，正常爬迷宫抄卷轴即可，爬着爬着就搞定了（11层开始，除去20级的4个加属性技能和boss层，大约10+20+60+7=97层），觉得高层累不够稳可以选择位面飞啊肝啊"
+      },
+      {
+        "type": "text",
+        "value": "不解除结界到30层"
+      },
+      {
+        "type": "text",
+        "value": "不使用地图机制系列dp中最简单的没有之一，男巫的猫挠一挠在主线就顺手搞定了，可以理解为是为后期的不使用地图机制系列dp做热身"
+      },
+      {
+        "type": "text",
+        "value": "隐藏冈布奥"
+      },
+      {
+        "type": "text",
+        "value": "60~100的boss层几率出现王子，把晚会礼服套装（水晶鞋、晚会礼服、南瓜马车）穿上和他对话并送给他，即可获得隐藏冈布奥——王子冈布奥"
+      },
+      {
+        "type": "text",
+        "value": "水晶鞋和晚会礼服翻王子尸体必出，南瓜马车买法上文有详述"
+      },
+      {
+        "type": "text",
+        "value": "之后获取方式不变，一次20碎片"
+      },
+      {
+        "type": "text",
+        "value": "获取的唯一难点就是看脸，此图boss层萌新打起来挺累的，在80或90层还没遇到而且觉得自己爬不动了就在boss层大sl刷吧= ="
+      },
+      {
+        "type": "text",
+        "value": "总体来说圣者之塔的dp比较容易不算麻烦（后期疯狂扔卷轴有点累除外）"
+      },
+      {
+        "type": "text",
+        "value": "速刷阵容"
+      },
+      {
+        "type": "text",
+        "value": "(来源:论坛-宅之小天)"
+      },
+      {
+        "type": "text",
+        "value": "阵容：二郎神，贵族，寄生龙。竖琴狼人。"
+      },
+      {
+        "type": "text",
+        "value": "称号：气系毁灭，灯系精灵王，邪龙。"
+      },
+      {
+        "type": "text",
+        "value": "圣塔圣者之语顺序：光暗伤害，光暗属性，循环。只关和抄光暗属性。"
+      },
+      {
+        "type": "text",
+        "value": "留探索点买糖和南瓜车。\t点满毁灭和龙系2阶加血，40层前加属性招狗。找钥匙下楼飞奔100就行，王子60层及以后的boss层出（非洲人表示特容易呆在100）。"
+      },
+      {
+        "type": "text",
+        "value": "毁灭狗一般选个3的倍数或5的倍数层，有六只怪基本保证触发毁灭，不用sl。不过这图有法师召唤无所谓。光暗圣者之语打对应属性元素也可以拖回合让狗子攻击到极限。"
+      }
+    ]
+  }
+]

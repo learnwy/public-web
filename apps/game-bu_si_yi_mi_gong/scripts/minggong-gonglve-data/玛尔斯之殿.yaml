@@ -1,0 +1,468 @@
+  - type: group
+  - value:
+    - type: text
+      value: "地图机制介绍"
+    - type: group
+    - value:
+      - type: text
+        value: "在迷宫中探索会从各种途径获得"
+      - type: text
+        value: "战利品"
+    - type: group
+    - value:
+      - type: text
+        value: "保存在物品栏的"
+      - type: text
+        value: "战利品背包"
+      - type: text
+        value: "中"
+    - type: image
+      value: data:,
+    - type: text
+      value: "战利品为角色提供各种强力属性和技能"
+    - type: text
+      value: "是本迷宫最特色的系统"
+    - type: text
+      value: "战利品分为4类，从低到高"
+    - type: text
+      value: "普通、稀有、至高、特殊"
+    - type: text
+      value: "至高和特殊每种只能获得一个"
+    - type: text
+      value: "普通和稀有战利品主要就是刷怪和开箱子出"
+    - type: text
+      value: "至高战利品主要2个出处"
+    - type: text
+      value: "boss层箱子和战神雕像捐稀有战利品换"
+    - type: text
+      value: "特殊战利品有固定出处，来源看下边的表"
+    - type: image
+      value: data:,
+    - type: text
+      value: "收集战利品达到指定数量"
+    - type: text
+      value: "还可额外获得各种特性"
+    - type: image
+      value: data:,
+    - type: text
+      value: "主线和隐藏冈布奥"
+    - type: text
+      value: "主线: 神官 (游荡战斗系)"
+    - type: image
+      value: data:,
+    - type: image
+      value: data:,
+    - type: text
+      value: "隐藏: 灵魂法师 (启示魔法系)"
+    - type: image
+      value: data:,
+    - type: image
+      value: data:,
+    - type: group
+    - value:
+      - type: text
+        value: "摄魂魔法"
+      - type: text
+        value: "：每层获得20点能量，施放需要50点能量，可获得以下状态，持续5轮："
+    - type: group
+    - value:
+      - type: text
+        value: "恶魔之魂"
+      - type: text
+        value: "攻击提升150%"
+    - type: group
+    - value:
+      - type: text
+        value: "野兽之魂"
+      - type: text
+        value: "攻击时，令敌人流血（每轮损失生命值）"
+    - type: group
+    - value:
+      - type: text
+        value: "植物之魂"
+      - type: text
+        value: "每轮恢复9%生命值"
+    - type: group
+    - value:
+      - type: text
+        value: "人类之魂"
+      - type: text
+        value: "施放伤害类魔法时，60%概率施放两次"
+    - type: text
+      value: "隐藏拿法"
+    - type: text
+      value: "1.  获得至高战利品[圣十字架]。"
+    - type: text
+      value: "至高战利品来源：Boss箱子、战神雕像用稀有战利品换、休息室头等奖、神官技能、神官1层翻残骸 等。至高战利品随机获得，每种只能获得一个。"
+    - type: text
+      value: "2. 携带圣十字架在普通层（非BOSS层、非夹层）死亡时自动复活进入英灵殿，与神秘的棺椁对话获得 隐藏冈布奥 [灵魂法师] 。"
+    - type: text
+      value: "地图重要彩蛋"
+    - type: group
+    - value:
+      - type: text
+        value: "至高战利品 [黄金头盔]"
+      - type: text
+        value: "结算5钻，上限2次。"
+    - type: text
+      value: "地图怪物介绍"
+    - type: text
+      value: "本图怪物全部为元素怪，无反伤。Boss开局带两只哨兵小怪。Boss死亡会复活一次，恢复25%血量并增强技能。"
+    - type: image
+      value: data:,
+    - type: text
+      value: "地图建筑介绍"
+    - type: text
+      value: "战神的赏赐"
+    - type: text
+      value: "奇数层出现，每次随机出现3种普通或稀有战利品 (收集80战利品后数量+1)，开启可获得其中一件"
+    - type: text
+      value: "若当前层存在挑战者石碑，先挑战后开启，可同时获得全部战利品"
+    - type: text
+      value: "挑战者石碑"
+    - type: text
+      value: "开启后出现两只怪，击败后再开启同层的战神的赏赐时获得全部战利品"
+    - type: text
+      value: "战神的至高赏赐"
+    - type: text
+      value: "只在BOSS后出现，击败Boss后随机4种至高战利品，开启可获得其中一件。"
+    - type: text
+      value: "全部至高战利品都获得后，随机出现普通和稀有战利品，一次全部获得。"
+    - type: text
+      value: "先行者的箴言"
+    - type: text
+      value: "会出现7次，每次获得一个特殊战利品[先行者的箴言·I~VII]"
+    - type: text
+      value: "战神的雕像"
+    - type: group
+    - value:
+      - type: text
+        value: "献上战利品"
+      - type: text
+        value: "：献上一件战利品，返还一件更高等战利品"
+    - type: text
+      value: "普通返还稀有，稀有返还至高，当目前没有可获得的至高战利品时，返还3个稀有战利品"
+    - type: text
+      value: "献上至高战利品时（限1次），获得特殊战利品[玛尔斯之钥]，在这里捐掉的至高战利品可以在后续的迷宫探索中重新获得。"
+    - type: group
+    - value:
+      - type: text
+        value: "偷走战利品："
+      - type: text
+        value: "获得1件普通战利品"
+    - type: text
+      value: "偶遇的挑战者"
+    - type: text
+      value: "可用不同的同级战利品，交换指定战利品，每次遇到可交换10个"
+    - type: text
+      value: "累计交换75个时(稀有算2个)，获得特殊战利品 [无畏者的庇佑]"
+    - type: text
+      value: "休息室"
+    - type: text
+      value: "Boss层的前一层出现，内有浴池、餐桌、投币机"
+    - type: image
+      value: data:,
+    - type: group
+    - value:
+      - type: text
+        value: "上半部分是浴池，"
+      - type: text
+        value: "点击浴池"
+      - type: text
+        value: "浸泡"
+      - type: text
+        value: "可恢复生命及魔法值，"
+      - type: text
+        value: "使用范围伤害"
+      - type: text
+        value: "攻击泡澡的怪会出现愤怒的挑战者(DP任务)。击败挑战者会掉落普通和稀有战利品。"
+    - type: text
+      value: "左下餐桌可使用以下食物，效果持续至Boss层："
+    - type: text
+      value: "斗士食谱: 攻击提升50%，攻击时20%概率不受反击"
+    - type: text
+      value: "忍者食谱: 闪避及闪避上限+40%"
+    - type: text
+      value: "智者食谱: 所有魔法效果提升75%"
+    - type: text
+      value: "勇者食谱: 所受伤害降低50%"
+    - type: text
+      value: "右下投币机，每次使用5个硬币抽奖，可抽10次："
+    - type: text
+      value: "不同图案：无奖励"
+    - type: text
+      value: "3个探索点：小奖，获得探索点"
+    - type: text
+      value: "3个剑：中奖，获得普通战利品"
+    - type: text
+      value: "3个闪电：大奖，获得稀有战利品"
+    - type: text
+      value: "3个果实：头等奖，获得至高战利品"
+    - type: text
+      value: "3个7：特等奖，获得特殊战利品 [千之手] (约3%概率，35次保底)"
+    - type: text
+      value: "初始抽奖概率："
+    - type: text
+      value: "无(24%) 探索点(34%)"
+    - type: text
+      value: "普通(32%) 稀有(8%) 至高(2%)"
+    - type: text
+      value: "收集30战利品奖励可提升抽奖质量："
+    - type: text
+      value: "无(19%)  探索点(28.5%)"
+    - type: text
+      value: "普通(40%)  稀有(10%)  至高(2.5%)"
+    - type: text
+      value: "特等奖未获得时为额外权重，即3/103，概率不会变化"
+    - type: text
+      value: "遗迹商人"
+    - type: text
+      value: "使用探索点和胜者硬币作为货币，出售4~7件商品。初始20%概率售卖稀有战利品，可被收集奖励加成。"
+    - type: text
+      value: "商品包括普通战利品(10币)、稀有战利品(25币)、便携水壶 (100探索点) 、压缩肉干 (100探索点) 等。"
+    - type: text
+      value: "30层以上，12%概率出售特殊战利品[收藏家的宝盒](3000探索点)"
+    - type: text
+      value: "勒索可获得随机稀有战利品x1 或 胜者硬币x20 ，各上限2次"
+    - type: text
+      value: "深岩密室：夹层入口"
+    - type: text
+      value: "内有挑战者的残骸、盗贼的残骸、战神的赏赐"
+    - type: text
+      value: "神秘的棺椁"
+    - type: group
+    - value:
+      - type: text
+        value: "携带至高战利品[圣十字架]，在普通层（非BOSS层、非夹层）死亡，"
+      - type: text
+        value: "自动复活进入英灵殿，与神秘的棺椁对话获得 隐藏冈布奥 [灵魂法师] 和 特殊战利品 [永恒棺椁]"
+    - type: text
+      value: "残骸和异界彩蛋"
+    - type: text
+      value: "挑战者的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "1层必定出现，首次获得战利品背包 和 普通战利品[长剑]*1，后续获得胜者硬币*3~5，随机获得普通战利品*1、压缩肉干*1"
+    - type: text
+      value: "12%获得特殊战利品[历战之剑]，7次保底"
+    - type: text
+      value: "神官出战或链接时，首次翻找获得 随机至高战利品*1"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【残破的挑战者灵魂】使用：攻击提升50%（持续本层）"
+    - type: text
+      value: "【完整的挑战者灵魂】使用：冈布奥攻击及魔力+2"
+    - type: text
+      value: "盗贼的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "获得 胜者硬币x2~3、随机获得普通战利品*1、便携水壶x1"
+    - type: text
+      value: "16%获得特殊战利品[窃贼拳套]，5次保底"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【残破的盗贼灵魂】使用：获得50点探索点"
+    - type: text
+      value: "【完整的盗贼灵魂】使用：降低敌人攻击+1"
+    - type: text
+      value: "战争之灵的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "【星陨之枪】使用：翻开所有石板，并对所有敌人造成500点伤害（对BOSS效果提升100%）"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【战争之灵的灵魂】使用：星陨之枪，能力提升"
+    - type: text
+      value: "【星陨之枪】→【击坠神明之枪】使用：翻开所有石板，并对所有敌人造成1000点伤害。若只命中1名敌人，则造成1500点伤害（对BOSS效果提升200%）"
+    - type: text
+      value: "洋葱骑士的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "特殊战利品 [双手巨剑]"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【洋葱骑士的灵魂】使用：双手巨剑，能力提升"
+    - type: text
+      value: "[双手巨剑] → [巨人管束者]"
+    - type: text
+      value: "欺诈者的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "特殊战利品 [雁形枪]"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【欺诈者的灵魂】使用：雁形枪，能力提升"
+    - type: text
+      value: "[雁形枪] → [欺诈者之枪]"
+    - type: text
+      value: "巴德尔的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "特殊战利品 [女神的加护]"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【巴德尔的灵魂】使用：冈布奥攻击+5、魔力+5"
+    - type: text
+      value: "提尔的残骸"
+    - type: text
+      value: "翻找："
+    - type: text
+      value: "特殊战利品 [提尔的符文]"
+    - type: text
+      value: "异界："
+    - type: text
+      value: "【提尔的灵魂】使用：获得格雷菲耶"
+    - type: text
+      value: "【格雷菲耶】使用：令敌人无法行动，持续8轮"
+    - type: text
+      value: "大盗神彩蛋"
+    - type: text
+      value: "兵马俑"
+    - type: text
+      value: "这具完好无损的兵马俑，被人随意的放在了这个角落。长年累月下，它似乎产生了某种意识，或许你可以尝试唤醒它。"
+    - type: group
+    - value:
+      - type: text
+        value: "唤醒："
+      - type: text
+        value: "召唤兵马俑"
+    - type: text
+      value: "破碎的双刃"
+    - type: text
+      value: "这对双刃曾属于某位逆神者，据说那位逆神者利用这两柄利刃，屠戮了无数神明。当你握住它们时，某种力量流入了你的体内。"
+    - type: group
+    - value:
+      - type: text
+        value: "握住双刃(攻击≥120)"
+      - type: text
+        value: "：获得特殊战利品 [破碎的双刃]，携带战利品击败Boss后，战利品转换为 [阿瑞斯之刃]"
+    - type: text
+      value: "温暖的篝火"
+    - type: text
+      value: "这堆尚未完全熄灭的篝火，散发出的热量让你感到非常舒适。它似乎有着扭转时空的力量，只要把手靠近篝火，就能将这片时空中的所有事物恢复到初始的样子。"
+    - type: group
+    - value:
+      - type: text
+        value: "靠近篝火："
+      - type: text
+        value: "离开夹层后回退10层"
+    - type: text
+      value: "隐藏食谱"
+    - type: text
+      value: "灵魂沙拉"
+    - type: text
+      value: "食用：冈布奥攻击及魔力+8"
+    - type: text
+      value: "隐藏食材【魂之屑】"
+    - type: text
+      value: "进入英灵殿 (隐藏冈布奥那里) 获得"
+    - type: text
+      value: "抓拍照片"
+    - type: text
+      value: "神殿剑士的照片 (限3次)"
+    - type: text
+      value: "照片中的神殿剑士，正准备向你发起攻击。"
+    - type: text
+      value: "途径：遇到神殿剑士抓拍(5%)"
+    - type: text
+      value: "使用：冈布奥攻击+5；获得10枚胜者硬币"
+    - type: text
+      value: "灵魂法师的照片 (限1次)"
+    - type: text
+      value: "照片中的灵魂法师，正在棺椁中沉睡。"
+    - type: text
+      value: "途径：进入英灵殿(隐藏冈布奥那，100%)"
+    - type: text
+      value: "使用：冈布奥攻击+3、生命值+60"
+    - type: text
+      value: "战神意志的照片 (限1次)"
+    - type: text
+      value: "照片中的战神意志，正准备向你发起攻击。"
+    - type: text
+      value: "途径：进入BOSS层抓拍(30%)"
+    - type: text
+      value: "使用：冈布奥攻击及魔力+3；获得1件稀有战利品"
+    - type: text
+      value: "扫荡 和 DP"
+    - type: text
+      value: "本图特产为金币30000"
+    - type: text
+      value: "金币经验非常高，必扫图+1"
+    - type: text
+      value: "下图排序为扫荡金币"
+    - type: image
+      value: data:,
+    - type: text
+      value: "最后来看一下特殊DP"
+    - type: text
+      value: "这个迷宫非常简单，不太缺资源且加成非常强力，DP需要大盗神，推荐昭夜帝、商帮灯之类的，注意拿隐藏需要普通层送死，最好不要带特别强力的召唤类打法。"
+    - type: text
+      value: "推荐阵容：王昭君出战 链接帝释天 + 夜叉/宇宙刑警  神器竖琴，圣者的凝视，称号 大盗神 + 毁灭 + 大地。"
+    - type: image
+      value: data:,
+    - type: text
+      value: "这个尽量在主线做掉，注意做的时候不要进洞，洞里也会出箱子而且出洞会自动捡，如果不小心进洞了就小sl吧"
+    - type: image
+      value: data:,
+    - type: text
+      value: "特殊残骸产物，一局一次"
+    - type: image
+      value: data:,
+    - type: image
+      value: data:,
+    - type: group
+    - value:
+      - type: text
+        value: "普通和稀有战利品"
+      - type: text
+        value: "主要就是刷怪和开箱子出，至高战利品一局16个，特殊战利品一局19个。"
+    - type: text
+      value: "前边的4个dp是累计完成，后边2个dp需要同一局内全部获得才能完成。"
+    - type: group
+    - value:
+      - type: text
+        value: "至高战利品"
+      - type: text
+        value: "主要2个出处，boss层箱子和战神雕像捐稀有战利品换，摇奖头等奖也能拿到，但几率非常非常低。"
+    - type: text
+      value: "至高战利品需要注意的是泰坦之足除了摇奖可以在低层拿到外 (不确定是不是BUG)，boss和雕像都必须在81+层才能拿到。"
+    - type: group
+    - value:
+      - type: text
+        value: "特殊战利品"
+      - type: text
+        value: "来源看下表，改版后是必须要拿大盗神那个战利品才能完成DP的。（只需要拿到破碎的双刃，不需要转换为阿瑞斯之刃）"
+    - type: image
+      value: data:,
+    - type: text
+      value: "建议拿到圣十字架就一直往高爬，直到死了拿到隐藏冈布奥的战利品后，再大地回去刷别的，注意一定要死在普通层。"
+    - type: text
+      value: "商店一开始可以买几个稀有战利品，防止遇到战神雕像没的捐，普通战利品没必要买，不如留着币摇奖，后边币多了就随便了。"
+    - type: text
+      value: "另外需要注意的是30层以后留3000探索点买商店的特殊，这个战利品也设置了保底，不会很高层才出，不要错过了。"
+    - type: image
+      value: data:,
+    - type: image
+      value: data:,
+    - type: group
+    - value:
+      - type: text
+        value: "这4个都是x9层休息室系列的，点上半部分的池子休息，用群攻打泡澡的挑战者出愤怒的挑战者，"
+      - type: text
+        value: "每次进休息室 泡澡、吃饭、抽奖、打挑战者，不要漏了"
+    - type: image
+      value: data:,
+    - type: text
+      value: "做这个的时候注意每次开箱子都尽量拿一样的，遇到交换的时候有这种也可以换，这样可以快速攒满100个"

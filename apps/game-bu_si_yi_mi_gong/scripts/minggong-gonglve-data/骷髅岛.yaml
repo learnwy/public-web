@@ -1,0 +1,470 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制"
+    - type: image
+      value: data:,
+    - type: text
+      value: "幽灵船"
+    - type: text
+      value: "首次击败后可雇佣帮你杀敌"
+    - type: text
+      value: "1. 基本规则"
+    - type: text
+      value: "幽灵船每层右上角格子刷出，首次击败幽灵船后， 花费200探索点可以雇佣幽灵船，幽灵船转变为友方单位。（本次迷宫持续有效）"
+    - type: text
+      value: "幽灵船初始属性：攻击20，魔力20。每10轮自动攻击1次。"
+    - type: text
+      value: "幽灵船初始带有1个幽灵水手，幽灵水手每增加1个，幽灵船攻击+2、魔力+2。\t（水手上限30)"
+    - type: text
+      value: "幽灵船无法被攻击，但海怪触手在场时无法行动 (自动攻击和主动技能均无法使用，轮数会继续走)。"
+    - type: text
+      value: "2. 幽灵船装置"
+    - type: group
+    - value:
+      - type: text
+        value: "幽灵船共有4种物品可装置：魔龙臼炮、地精速射装置、黄金弹药箱、女妖船首雕像"
+      - type: text
+        value: "，"
+      - type: text
+        value: "装置在商店\t幽灵船坞\t购买和翻找\t夹层沉船\t获得。"
+    - type: text
+      value: "魔龙臼炮 (最高5级)"
+    - type: text
+      value: "赋予\t魔龙炮击\t技能【主动施放，冷却时间8轮】"
+    - type: text
+      value: "魔龙炮击：发射3颗炮弹，每颗炮弹造成500/600/700/800/900威力的魔法伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "技能无消耗，实际伤害为"
+      - type: text
+        value: "威力*魔力/1000，"
+      - type: text
+        value: "攻击目标为已显形的随机目标\t，目标死亡后剩余的炮弹会继续攻击其他随机目标"
+    - type: text
+      value: "地精速射装置 (最高5级)"
+    - type: text
+      value: "赋予\t疾速射击\t技能【被动技能】"
+    - type: text
+      value: "疾\t速射击\t：\t攻击+2/4/6/8/10；幽灵船攻击后，冷却时间降低1/2/3/4/5轮"
+    - type: text
+      value: "黄金弹药箱 (最高5级)"
+    - type: text
+      value: "赋予\t无尽弹药\t技\t能【被动技能】"
+    - type: text
+      value: "无尽弹药：魔力+2/4/6/8/10；施放魔龙炮击时，可发射4/5/6/7/8颗炮弹"
+    - type: text
+      value: "女妖船首雕像 (最高5级)"
+    - type: text
+      value: "赋予\t女妖之歌\t技\t能【被动技能】"
+    - type: text
+      value: "女妖之歌：\t攻击+1/2/3/4/5、魔力+1/2/3/4/5；降低全场敌人攻击+1/2/3/4/5"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "幽灵船长获得方法"
+    - type: text
+      value: "1. 收集5个\"幽魂水晶\" (主要在幽灵船坞购买)"
+    - type: text
+      value: "2. 50+普通层概率遇到\"船长小屋\"，提交5个幽魂水晶，首次获得幽灵船长冈布奥，后续获得20碎片"
+    - type: text
+      value: "*船长小屋不会重复出现，尽量保证进入50层前身上有足够的水晶，否则在遇到时只能通过大sl推迟小屋的层数"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: text
+      value: "大漩涡 (根据本次迷宫的行为进入不同地点)"
+    - type: text
+      value: "在遇到前吃过\"奇怪的果实\"\t，进入荒野小岛，翻找碎石堆获得破旧的铁锹，挖掘第1行第3个格子，获得\t3钻\t，限1次"
+    - type: text
+      value: "在遇到前没吃过\"奇怪的果实\"\t，进入海底祭坛，提交\"\t海洋之心\t\"项链，如果玩家拥有鱼人冈布奥，获得\t鱼人装束【海洋之心】"
+    - type: group
+    - value:
+      - type: text
+        value: "大盗神"
+      - type: text
+        value: "，海怪巢穴内概率发现散落的陶罐，40%概率\t获得 黄金之罐*3 (上限3次) ，否则获得 冈布奥之罐*1~2"
+    - type: group
+    - value:
+      - type: text
+        value: "幽魂水晶，"
+      - type: text
+        value: "使用后10%概率获得1钻，上限10次，刷这个可以下楼小sl，注意从第二个开始sl，第一个是不会变的"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: group
+    - value:
+      - type: text
+        value: "海怪巢穴"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "可出现 沉船"
+    - type: group
+    - value:
+      - type: text
+        value: "沉船"
+      - type: text
+        value: "（夹层)"
+    - type: text
+      value: "随机获得 幽灵水手*1 / 幽灵船装置*1"
+    - type: group
+    - value:
+      - type: text
+        value: "幽灵船坞"
+      - type: text
+        value: "(地图特色商店 货币：探索点)"
+    - type: text
+      value: "在售商品 (最多4件)"
+    - type: text
+      value: "必定售卖1个幽魂水晶，售卖1个幽灵水手(可升级时)和随机2个可升级的装置。"
+    - type: text
+      value: "幽魂水晶*1 (150)  幽灵水手*1 (80)"
+    - type: text
+      value: "魔龙臼炮*1 (120)  \t地精速射装置*1 (120)"
+    - type: text
+      value: "黄金弹药箱*1 (120)  \t女妖船首雕像*1 (120)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索  幽灵水手\t*3  (限3次)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "幽魂水晶  使用：随机获得100～200点探索点；某些特定情况下使用，获得1颗钻石\t(10%概率获得1钻，上限10次)"
+    - type: text
+      value: "椰子树"
+    - type: text
+      value: "80% 获得 椰子*1 或 \t坏掉的椰子*1"
+    - type: text
+      value: "20% 获得 奇怪的果实(蓝)*1 或 奇怪的果实(红)*1"
+    - type: group
+    - value:
+      - type: text
+        value: "漂流瓶"
+      - type: text
+        value: "(蓝色)"
+    - type: text
+      value: "随机获得 10~100探索点"
+    - type: group
+    - value:
+      - type: text
+        value: "漂流瓶"
+      - type: text
+        value: "(红色)"
+    - type: text
+      value: "获得 鲁滨逊的漂流瓶*1"
+    - type: text
+      value: "鲁滨逊的漂流瓶  使用：获得1000点探索点"
+    - type: text
+      value: "奇怪的残骸"
+    - type: text
+      value: "获得 原始的石锤*1"
+    - type: text
+      value: "原始的石锤 使用：投掷后，对敌人造成100点伤害；攻击低于20时，无法使用"
+    - type: text
+      value: "杰克的尸体"
+    - type: text
+      value: "获得 海洋之心*1"
+    - type: text
+      value: "海洋之心【项链】魔力+3；所有水系魔法效果+30%"
+    - type: text
+      value: "王子的尸体"
+    - type: text
+      value: "获得 小美人鱼匕首*1"
+    - type: text
+      value: "小美人鱼匕首 使用：投掷后，对敌人造成10点伤害，被匕首杀死的怪物，掉落 背信者之心*1"
+    - type: text
+      value: "背信者之心  使用：冈布奥魔力+3、降低敌人攻击+1"
+    - type: text
+      value: "船匠的残骸"
+    - type: text
+      value: "翻找  获得 锻造分光镜 + 怀表项链 + 精密工具组"
+    - type: text
+      value: "埋葬 获得 幽灵船 攻击+5、魔力+5"
+    - type: text
+      value: "水手的残骸"
+    - type: text
+      value: "翻找 获得 金币*100~1000/探索点*10~100/随机1阶宝物"
+    - type: text
+      value: "埋葬 获得 幽灵船 幽灵水手+1 (上限30)"
+    - type: text
+      value: "船长小屋"
+    - type: text
+      value: "幽魂水晶不足5颗，有异界游侠称号可选 \"拘禁灵魂\""
+    - type: text
+      value: "获得 幽灵船长的灵魂  \t使用：幽灵船攻击及魔力+10，幽灵船攻击冷却时间降低2轮"
+    - type: text
+      value: "花费5颗幽魂水晶\t，获得幽灵船长，后续获得碎片*20"
+    - type: text
+      value: "大漩涡"
+    - type: text
+      value: "在遇到前\t吃过\t\"奇怪的果实\""
+    - type: group
+    - value:
+      - type: text
+        value: "进入"
+      - type: text
+        value: "荒野小岛"
+      - type: text
+        value: "，可遇到椰子树、船员的残骸、碎石堆、9个地缝"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找"
+      - type: text
+        value: "椰子树"
+      - type: text
+        value: "获得 椰子*1 或 坏掉的椰子*1"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找"
+      - type: text
+        value: "船员的残骸"
+      - type: text
+        value: "获得  船员的笔记*1"
+    - type: text
+      value: "船员的笔记  使用：获得300点探索点"
+    - type: group
+    - value:
+      - type: text
+        value: "翻找"
+      - type: text
+        value: "碎石堆"
+      - type: text
+        value: "获得  破旧的铁锹"
+    - type: text
+      value: "破旧的铁锹  使用：进行挖掘（使用次数3/3）"
+    - type: group
+    - value:
+      - type: text
+        value: "使用 破旧的铁锹 挖掘地缝, 可获得"
+      - type: text
+        value: "："
+    - type: text
+      value: "1-1格子：随机2~4阶装备"
+    - type: text
+      value: "1-2格子：探索点*100"
+    - type: text
+      value: "1-3格子：首次为钻石*3+金币*30k\t，第2~3次为金币*10k+幽魂水晶*2，之后为幽魂水晶*2"
+    - type: text
+      value: "2-1格子：探索点*100"
+    - type: text
+      value: "2-2格子：随机2~4阶卷轴*3"
+    - type: text
+      value: "2-3格子：劣质酒*2 使用：恢复20点生命值"
+    - type: text
+      value: "3-1格子：劣质酒*2"
+    - type: text
+      value: "3-2格子：随机2~4阶装备"
+    - type: text
+      value: "3-3格子：随机2~4阶装备"
+    - type: text
+      value: "在遇到前\t没吃过\t\"奇怪的果实\""
+    - type: group
+    - value:
+      - type: text
+        value: "进入"
+      - type: text
+        value: "海底祭坛，"
+      - type: text
+        value: "可提交"
+      - type: text
+        value: "项链装备"
+      - type: text
+        value: "换取奖励"
+    - type: group
+    - value:
+      - type: text
+        value: "提交\"海洋之心\""
+      - type: text
+        value: "：如果玩家拥有鱼人冈布奥，且未获得鱼人装束【海洋之心】，则获得 闪光的鳞片*1 (通关结算时，获得鱼人装束【海洋之心】)，未满足条件时获得 冈布奥属性提升：降低敌人攻击+3，所有水系魔法效果+15%"
+    - type: group
+    - value:
+      - type: text
+        value: "提交1~3阶项链"
+      - type: text
+        value: "：获得  冈布奥属性提升：生命和魔法值+10"
+    - type: group
+    - value:
+      - type: text
+        value: "提交4~5阶项链"
+      - type: text
+        value: "：获得  冈布奥属性提升：攻击力和魔力+2"
+    - type: group
+    - value:
+      - type: text
+        value: "提交6阶以上项链"
+      - type: text
+        value: "：获得 冈布奥属性提升：降低敌人攻击+3，所有水系魔法效果+15%"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 魔龙臼炮*1 + 黄金弹药箱*1"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 幽魂水晶*2"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 地精速射装置*1 + 女妖船首雕像*1"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 奇怪的果实(红)*1 + 奇怪的果实(蓝)*1"
+    - type: text
+      value: "散落的陶罐"
+    - type: text
+      value: "40%获得 黄金之罐*3 (上限3次) 否则获得 冈布奥之罐*1~2"
+    - type: text
+      value: "散落的邮递包裹"
+    - type: text
+      value: "获得 排球*1 + 冰刀鞋*1"
+    - type: text
+      value: "排球  使用：施放神圣重生（耐久2/3）"
+    - type: text
+      value: "冰刀鞋【鞋子】攻击+2、闪避+6%"
+    - type: text
+      value: "骸骨堆"
+    - type: text
+      value: "获得 金刚头骨*1"
+    - type: text
+      value: "金刚头骨*1【头盔】攻击+8，攻击野兽时，造成额外伤害+100%"
+    - type: text
+      value: "灯异界"
+    - type: text
+      value: "奇怪的残骸"
+    - type: text
+      value: "高桥名人的灵魂  使用：原始的石锤，威力提升"
+    - type: text
+      value: "原始的石锤 使用：投掷后，对敌人造成999点伤害，使用后，飞回投掷者手中，耐久3/3"
+    - type: text
+      value: "杰克的尸体"
+    - type: text
+      value: "杰克的灵魂  使用：获得1张女人的素描画"
+    - type: text
+      value: "女人的素描画  使用：获得500点探索点"
+    - type: text
+      value: "王子的尸体"
+    - type: text
+      value: "背信者的灵魂  用：获得3颗幽魂水晶"
+    - type: text
+      value: "船匠的残骸 (翻找)"
+    - type: text
+      value: "水手的灵魂  使用：幽灵船攻击+1"
+    - type: text
+      value: "水手的残骸 (翻找)"
+    - type: text
+      value: "水手的灵魂  使用：幽灵船攻击+1"
+    - type: text
+      value: "船长小屋 (只有水晶不足5个时可拘禁灵魂)"
+    - type: text
+      value: "幽灵船长的灵魂 使用：幽灵船攻击及魔力+10；幽灵船攻击冷却时间降低2轮"
+    - type: text
+      value: "骸骨堆 (大盗神)"
+    - type: text
+      value: "残破的恶徒之魂  使用：施放石肤术（持续5轮）"
+    - type: text
+      value: "残破的佣兵之魂  使用：恢复30点生命值"
+    - type: text
+      value: "残破的旅者之魂  使用：随机获得50～100点探索点"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "煮水母"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "水母触须*3 (水母掉落)"
+    - type: text
+      value: "食用：降低所受中毒伤害+10%"
+    - type: text
+      value: "荒岛水果色拉"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "仙人掌果肉*4 (仙人掌掉落)"
+    - type: text
+      value: "被咬过的香蕉*2 (猴子掉落)"
+    - type: text
+      value: "食用：受创时，反射敌人伤害+5%"
+    - type: text
+      value: "珍味海鲜大餐"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "黄金蟹鳌*3 (潮汐蟹掉落)"
+    - type: text
+      value: "鱿鱼丝*3 (海怪触手掉落)"
+    - type: text
+      value: "水母触须*1  (水母掉落)"
+    - type: text
+      value: "食用：冈布奥魔力+1、魔法值+5；所有水系魔法效果+2%"
+    - type: text
+      value: "清蒸椰汁龙心(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "海龙心脏*1 (使用小美人鱼匕首击杀带钥匙的寄居龙)"
+    - type: text
+      value: "成熟的椰子*2 (翻找椰子树)"
+    - type: text
+      value: "食用：所有辅助类魔法效果+10%；石肤术持续轮数+1；静电场持续轮数+1"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "水手的照片"
+    - type: text
+      value: "使用：冈布奥生命值+10；击败敌人后，1%概率拘禁其灵魂（对亡灵及元素等无生命敌人无效）"
+    - type: text
+      value: "来源：埋葬水手的残骸 20% 获取 (上限3)"
+    - type: text
+      value: "DP难点"
+    - type: text
+      value: "背信者之心"
+    - type: text
+      value: "翻找王子的尸体得到小美人鱼匕首，小美人鱼匕首投掷可造成10点伤害，用它击杀普通层小怪即可获得dp道具，可以配合诅咒术压低血量来完成。"
+    - type: text
+      value: "特别注意："
+    - type: text
+      value: "1. 钥匙怪、宝箱怪死后不会掉落dp道具，可以打出钥匙再用匕首杀怪，避免杀到钥匙怪"
+    - type: text
+      value: "2. 非本迷宫小怪不会掉落dp道具，比如各种乱入怪和BOSS等"
+    - type: text
+      value: "使用椰子、奇怪的果实、坏掉的椰子杀敌"
+    - type: text
+      value: "树上摘果子几率获得椰子、奇怪的果实、坏掉的椰子之一"
+    - type: text
+      value: "幽灵船达到30级"
+    - type: text
+      value: "在特色商店里水手全买，翻尸体时全选埋葬，很快就可以完成"
+    - type: text
+      value: "四部件满级"
+    - type: text
+      value: "商店全买、遇洞必进，商店不会出已升满的装置，所以拿到后及时升级不要只是放在包里"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "(来源:论坛-宅之小天)"
+    - type: text
+      value: "骷髅岛的高层boss不好打，水盾神烦，还有仙人掌+螃蟹这种恶心的怪，\t所以还是养狗吧。\t隐藏跟铁血一样，都是普通层出的，因此可采用相同阵容。"
+    - type: text
+      value: "1.狗+国王+贵族，竖琴狼人药剂。不能保底101。点满土系光辉和灯系大精灵王所有加血量的称号。狼人静电祝福狗，不要拖太多回合，500攻2500血比较合适，攻击再高容易咬死自己。"
+    - type: text
+      value: "国王能秒到80，然后大地继续普通层找小屋+攒探索，秒90爬到99还没那告辞。"
+    - type: text
+      value: "挂树低点称号慢的话30层boss可以招个黑豹帮忙打打水盾，不过幽灵船也占召唤位，需要送掉黑豹再招狗。"
+    - type: text
+      value: "有贵族幽灵水晶遇到就买，后面开了拿探索打boss。"
+    - type: text
+      value: "2.特吸龙。特种兵（也可驯兽师），吸血鬼，寄生龙。带竖琴仙人掌药剂，走异界勇者传奇，\t点点点就完事儿了，能101。我个人更偏爱狗子过图快。\t地图元素有个鲁滨孙的漂流瓶1000探索。"
+    - type: text
+      value: "顺便提一个网上搜到的套路，神龙出战，链接猛犸哪吒。强力地震术下楼挺爽的。元素领主，战士走流星雨或死波。但是高层不太好爬。"

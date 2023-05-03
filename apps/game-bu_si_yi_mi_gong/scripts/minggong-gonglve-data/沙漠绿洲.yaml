@@ -1,0 +1,586 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制 - 沙漠祭坛"
+    - type: text
+      value: "在得到阿拉丁神灯后，可以在祭坛用灯油许愿"
+    - type: text
+      value: "1. 许愿规则"
+    - type: text
+      value: "迷宫一层翻找阿拉丁的尸体获得阿拉丁神灯\t，之后可以在祭坛用三种灯油许愿。许愿无需装备神灯，但未装备神灯时神灯属性不会生效。"
+    - type: text
+      value: "许愿初始需要4瓶灯油，使用黄金灯油许愿强化神灯有几率出现\"灯油消耗-1\"的属性，之后许愿只需要3瓶灯油(\t需要装备神灯\t)。"
+    - type: text
+      value: "三种灯油分别是劣质灯油、黄金灯油和圣灯油，点击对应按钮进行许愿，最多同时出现3个可选愿望\t。"
+    - type: text
+      value: "2. 劣质灯油"
+    - type: text
+      value: "你能升级神灯么？【优先选择】"
+    - type: text
+      value: "强化阿拉丁神灯（全部完成后不再出现该选项）"
+    - type: text
+      value: "以下4类强化每种出现15次，共需强化60次"
+    - type: text
+      value: "A、攻击+1、降低反射伤害+7%，第15次免疫反射伤害；"
+    - type: text
+      value: "B、魔力+1、降低摄魔效果+7%，第15次免疫摄魔效果；"
+    - type: text
+      value: "C、生命值+10、降低僵化效果+7%，第15次免疫僵化效果；"
+    - type: text
+      value: "D、魔法值+10、黄金灯油掉落概率+7%，第15次黄金灯油掉落概率+100%；"
+    - type: text
+      value: "你能协助我战斗么？"
+    - type: text
+      value: "召唤神灯巨人协助战斗（本层有效）"
+    - type: text
+      value: "斩击：攻击时，概率附带诅咒效果或瓦解效果（攻击力下降，或受到的伤害增加，持续3轮）"
+    - type: text
+      value: "自爆（穿戴神灵的召唤套装）：死亡时自爆，对场上所有敌人造成2倍伤害"
+    - type: text
+      value: "我受伤了，帮帮我！"
+    - type: text
+      value: "恢复50生命值和20魔法值"
+    - type: text
+      value: "我需要物资援助！"
+    - type: text
+      value: "获得探索点*50 + 蝎粉/牛皮水袋*1 或  苏丹的旗帜*1 + 波斯火药*3"
+    - type: text
+      value: "3. 黄金灯油"
+    - type: text
+      value: "请进一步强化神灯！【优先选择】"
+    - type: text
+      value: "强化阿拉丁神灯（全部完成后不再出现该选项）"
+    - type: text
+      value: "以下强化每种只出现1次"
+    - type: text
+      value: "A、魔法值消耗-1"
+    - type: text
+      value: "B、灯油消耗-1"
+    - type: text
+      value: "你有啥稀罕的东西？"
+    - type: text
+      value: "获得稀有道具（全部拿到后不再出现该选项）"
+    - type: text
+      value: "以下道具每种只出现1次"
+    - type: text
+      value: "A、魔毯×1"
+    - type: text
+      value: "魔毯 使用：立即回退30层迷宫（特殊层无效）"
+    - type: text
+      value: "*在本地图获得魔毯，不与时光机互斥"
+    - type: text
+      value: "B、天方夜谭×1"
+    - type: text
+      value: "天方夜谭 使用：冈布奥攻击及魔力+2，生命值及魔法值+30，每前进5层迷宫随机获得1瓶灯油"
+    - type: text
+      value: "你有啥厉害的装备？"
+    - type: text
+      value: "获得神灵的召唤套装（全部拿到后不再出现该选项）"
+    - type: text
+      value: "以下道具每种只出现1次"
+    - type: text
+      value: "A、红宝石头巾×1"
+    - type: text
+      value: "红宝石头巾【头盔】生命值+60"
+    - type: text
+      value: "B、辛巴达手套×1"
+    - type: text
+      value: "辛巴达手套【手套】攻击+6"
+    - type: text
+      value: "C、锡印戒指×1"
+    - type: text
+      value: "锡印戒指【戒指】魔力+6"
+    - type: text
+      value: "神灵的召唤【套装】魔力+6、攻击+6；神灯巨人能力加成，并掌握自爆特性"
+    - type: text
+      value: "你还能提升战力么？【最多3次】"
+    - type: text
+      value: "召唤的神灯巨人攻击系数+1，生命系数+2"
+    - type: text
+      value: "我想变得更强大！"
+    - type: text
+      value: "随机强化冈布奥属性："
+    - type: text
+      value: "攻击+3 / 魔力+3 / 最大生命值+100 / 最大魔法值+100 /"
+    - type: text
+      value: "闪避+10(上限2) / 降低敌人攻击+2 (上限2) /"
+    - type: text
+      value: "探索点+1000(上限2)"
+    - type: text
+      value: "再给我3个愿望【神灯雕像出战】"
+    - type: text
+      value: "获得 黄金灯油×12，每局限1次"
+    - type: text
+      value: "4. 圣灯油"
+    - type: text
+      value: "你能加入我么？/ 我需要你的碎片！"
+    - type: text
+      value: "获得 神灯冈布奥 或 碎片x20"
+    - type: text
+      value: "我需要一些钻石！【限19次】"
+    - type: text
+      value: "首次获得 钻石x10  \t后续获得 钻石x5 (共100钻)"
+    - type: text
+      value: "我需要很多金币！"
+    - type: text
+      value: "获得 金币×100000"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "神灯获得方法"
+    - type: text
+      value: "1. 60-80的BOSS层概率出\"圣灯油x3\""
+    - type: text
+      value: "2. 黄金灯油许愿强化阿拉丁神灯，概率获得\"消耗灯油-1\"属性"
+    - type: text
+      value: "3. 装备阿拉丁神灯，使用圣灯油许愿，选择你能加入我么？获得神灯冈布奥，后续选择我需要你的碎片！获得碎片x20"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: group
+    - value:
+      - type: text
+        value: "60-80的BOSS层概率出\""
+      - type: text
+        value: "圣灯油x3"
+      - type: text
+        value: "\"，\t黄金灯油许愿强化阿拉丁神灯，概率获得\"消耗灯油-1\"属性\t，装备阿拉丁神灯，使用圣灯油许愿，选择"
+      - type: text
+        value: "我需要一些钻石！"
+      - type: text
+        value: "，"
+      - type: text
+        value: "首次获得钻石x10"
+      - type: text
+        value: "，"
+      - type: text
+        value: "后续获得钻石x5"
+      - type: text
+        value: "，"
+      - type: text
+        value: "限19次，"
+      - type: text
+        value: "共100钻"
+    - type: group
+    - value:
+      - type: text
+        value: "普通层概率遇到"
+      - type: text
+        value: "戴斗篷的女子，"
+      - type: text
+        value: "护送女子下5层，\t女子一共300点生命值，每3轮减少10点生命值\t，遇到马车完成护送，\t建议用地震直接拿到钥匙下楼\t，\t首次\t成功护送获得"
+      - type: text
+        value: "蜜渍罐头配方"
+    - type: group
+    - value:
+      - type: text
+        value: "大盗神"
+      - type: text
+        value: "，翻找"
+      - type: text
+        value: "阿努比斯雕塑"
+      - type: text
+        value: "，"
+      - type: text
+        value: "正确回答 \""
+      - type: text
+        value: "玛特之羽"
+      - type: text
+        value: "\" 获得奖励，30%概率获得\t黄金之罐x3\t，上限3次"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: group
+    - value:
+      - type: text
+        value: "金字塔"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "进入可出现法老的储物箱"
+    - type: group
+    - value:
+      - type: text
+        value: "法老的储物箱"
+      - type: text
+        value: "（夹层）"
+    - type: text
+      value: "必定获得：2~3瓶【劣质灯油】（60%、40%）"
+    - type: text
+      value: "60%概率：2个普通道具（蝎粉、牛皮水袋、波斯火药）"
+    - type: text
+      value: "20%概率：1个稀有道具（鲜血之瓶 、烧焦羊皮卷）"
+    - type: text
+      value: "20%概率：1瓶【黄金灯油】"
+    - type: group
+    - value:
+      - type: text
+        value: "沙漠商队"
+      - type: text
+        value: "(地图特色商店 货币：探索点)"
+    - type: text
+      value: "在售商品 (3件)"
+    - type: text
+      value: "黄金灯油*1 (100)  \t苏丹的旗帜*1 (100)"
+    - type: text
+      value: "蝎粉*1 (50)  \t牛皮水袋*1 (50)  波斯火药*1 (30)"
+    - type: text
+      value: "特殊勒索"
+    - type: text
+      value: "黄金灯油*3  (限3次)"
+    - type: text
+      value: "神秘山洞"
+    - type: text
+      value: "选择正确答案\"芝麻开门\"获得 圣杯、苏丹的旗帜、5000金币、3瓶【劣质灯油】或【黄金灯油】，山洞消失"
+    - type: text
+      value: "选择错误答案出现2个强盗，最多出现10个强盗"
+    - type: text
+      value: "狮身人面像"
+    - type: text
+      value: "答对谜语获得 攻击+1 / 魔法+1 / 黄金灯油*1~2"
+    - type: text
+      value: "答错谜语 扣除生命上限10%的血量 (最少10点)"
+    - type: text
+      value: "谜语1：什么东西早晨四条腿，中午两条腿，晚上三条腿？"
+    - type: text
+      value: "答案：人"
+    - type: text
+      value: "谜语2：什么东西开始很长，然后会变短，最后又会变长？"
+    - type: text
+      value: "答案：影子"
+    - type: text
+      value: "谜语3：什么东西一旦你说出来之后，就打破了它？"
+    - type: text
+      value: "答案：沉默"
+    - type: text
+      value: "谜语4：什么东西对两个人来说太多，一个人刚刚好？"
+    - type: text
+      value: "答案：秘密"
+    - type: text
+      value: "谜语5：什么东西是你的，但别人用的比你多？"
+    - type: text
+      value: "答案：名字"
+    - type: text
+      value: "谜语6：什么东西是越洗越洗不干净的？"
+    - type: text
+      value: "答案：清水"
+    - type: text
+      value: "谜语7：什么东西就在右脚旁边，但左脚却踢不到？"
+    - type: text
+      value: "答案：左脚"
+    - type: text
+      value: "谜语8：什么东西你对它笑，它就对你笑？"
+    - type: text
+      value: "答案：镜子"
+    - type: text
+      value: "谜语9：什么东西有四条腿，却不会走路？"
+    - type: text
+      value: "答案：桌子"
+    - type: text
+      value: "谜语10：什么东西买和卖的人知道，用的人却不知道？"
+    - type: text
+      value: "答案：棺材"
+    - type: text
+      value: "谜语11：什么东西被打破了，大家却很高兴？"
+    - type: text
+      value: "答案：纪录"
+    - type: text
+      value: "谜语12：什么东西干净时是黑色，脏了时却是白色？"
+    - type: text
+      value: "答案：黑板"
+    - type: text
+      value: "戴斗篷的女子 / 马车"
+    - type: text
+      value: "护送女子下5层，遇到马车完成护送"
+    - type: text
+      value: "女子一共300点生命值，每3轮减少10点生命，\t建议用地震术拿钥匙下楼"
+    - type: text
+      value: "成功护送获得 黄金灯油*3  \t+ 蜜渍罐头配方(首次) / 蜜渍罐头*1"
+    - type: text
+      value: "蜜渍罐头 使用：每翻开一块石板，5%概率恢复20点生命值和魔法值"
+    - type: text
+      value: "砂葫芦"
+    - type: text
+      value: "获得 砂葫芦  使用：召唤沙貉（持续3层）"
+    - type: text
+      value: "沙貉技能："
+    - type: text
+      value: "沙盾：在场时，自身及冈布奥所受伤害降低30%,"
+    - type: text
+      value: "沙弹：攻击时，20%概率附带眩晕效果（持续3轮）"
+    - type: text
+      value: "沙暴：每5轮发动，翻开所有石板，对所有敌人造成2倍伤害，并附带失明效果（命中降低50%，持续3轮）"
+    - type: text
+      value: "阿拉丁的尸体（固定1层出现）"
+    - type: text
+      value: "获得 阿拉丁神灯*1 + 劣质灯油*3"
+    - type: text
+      value: "阿拉丁神灯【宝物】每进入下一层，恢复魔法值+6 （可在祭坛升级）"
+    - type: text
+      value: "探险者的尸体（与 大祭司的残骸 互斥）"
+    - type: text
+      value: "获得 太阳金经*1"
+    - type: text
+      value: "太阳金经 使用：冈布奥魔力+3，攻击亡灵时造成额外伤害+20%"
+    - type: text
+      value: "大祭司的残骸（与 探险者的尸体 互斥）"
+    - type: text
+      value: "获得 亡灵黑经*1"
+    - type: text
+      value: "亡灵黑经  使用：冈布奥魔力+3，所有暗系魔法效果+10%"
+    - type: text
+      value: "王子的尸体"
+    - type: text
+      value: "获得 凯琳娜匕首*1"
+    - type: text
+      value: "凯琳娜匕首 使用：恢复冈布奥的生命值及魔法值（回溯至刚进入本层时的状态）"
+    - type: text
+      value: "刺客的尸体"
+    - type: text
+      value: "获得刺客斗篷*1"
+    - type: text
+      value: "刺客斗篷【披风】降低敌人攻击+2、闪避+6%；暗影刺客冈布奥装备时，免疫僵化"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 劣质灯油*3 + 黄金灯油*2"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 烧焦羊皮卷*2"
+    - type: text
+      value: "烧焦羊皮卷 使用：施放爆裂火球魔法（命中时，产生爆裂效果，概率造成2～8倍伤害）"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 黄金灯油*2 + 苏丹的旗帜*1"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 黄金灯油*2 + 蝎粉*1 + 牛皮水袋*1"
+    - type: text
+      value: "遗落的辎重"
+    - type: text
+      value: "获得 冒险系的遗物*2~3"
+    - type: text
+      value: "水晶球"
+    - type: text
+      value: "获得 贾方的水晶球*1"
+    - type: text
+      value: "贾方的水晶球 使用：对敌人造成大量伤害（伤害值为冈布奥的10倍基础魔力值，对BOSS翻倍）"
+    - type: text
+      value: "阿努比斯雕塑"
+    - type: group
+    - value:
+      - type: text
+        value: "正确回答 \""
+      - type: text
+        value: "玛特之羽"
+      - type: text
+        value: "\" 获得奖励，否则直接死亡"
+    - type: text
+      value: "奖励为冈布奥之罐*1~2 或 黄金之罐*3（30% 上限3次）"
+    - type: text
+      value: "灯异界"
+    - type: text
+      value: "阿拉丁的尸体（固定1层出现，同时获得2种魂）"
+    - type: text
+      value: "阿拉丁的灵魂  使用：神灯巨人攻击+10、生命值+100"
+    - type: text
+      value: "阿布的灵魂  使用：波斯火药，威力提升"
+    - type: text
+      value: "波斯火药 使用：投掷后，对敌人造成50点伤害；对仙人掌造成10倍伤害"
+    - type: text
+      value: "探险者的尸体（与 大祭司的残骸 互斥）"
+    - type: text
+      value: "欧康纳的灵魂  使用：冈布奥命中+20%；攻击沙漠蝎时，造成额外伤害+20%"
+    - type: text
+      value: "大祭司的残骸（与 探险者的尸体 互斥）"
+    - type: text
+      value: "尹莫顿的灵魂  使用：所有暗系魔法效果+5%"
+    - type: text
+      value: "王子的尸体"
+    - type: text
+      value: "达斯坦的灵魂  使用：施放时间停止"
+    - type: text
+      value: "刺客的尸体"
+    - type: text
+      value: "阿泰尔的灵魂  使用：刺客斗篷，能力提升"
+    - type: text
+      value: "刺客斗篷【披风】降低敌人攻击+6、闪避+6%；暗影刺客冈布奥装备时，免疫僵化"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "怪味虫卵酱"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "沙虫之卵*3 (沙虫掉落)"
+    - type: text
+      value: "食用：每进入下一层，恢复生命值+3"
+    - type: text
+      value: "美味油炸果"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "仙人掌果肉*2 (仙人掌掉落)"
+    - type: text
+      value: "粘稠的灯油*3 (邪恶灯灵掉落)"
+    - type: text
+      value: "食用：获得2个劣质灯油；植物亲和状态（免疫反射，持续本层）"
+    - type: text
+      value: "荒漠蝎子煲"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "仙人掌果肉*1(仙人掌掉落)"
+    - type: text
+      value: "异种蝎*3 (沙漠蝎掉落)"
+    - type: text
+      value: "食用：冈布奥攻击+2、闪避+1%；使用蝎粉时，20%概率随机提升某项属性"
+    - type: text
+      value: "杂粮餐包(隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "干面包*1 (狮身人面像谜语4或10选择面包)"
+    - type: text
+      value: "发芽的黄豆*1 (神秘山洞选黄豆开门)"
+    - type: text
+      value: "被虫蛀的小麦*1 (神秘山洞选小麦开门)"
+    - type: text
+      value: "变质的大麦*1 (神秘山洞选大麦开门)"
+    - type: text
+      value: "食用：冈布奥生命值及魔法值+20；每翻开一块石板，获得1点探索点；每击败一个敌人，恢复魔法值+1"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "神灯巨人的照片"
+    - type: text
+      value: "使用：冈布奥攻击+1、降低敌人攻击+1"
+    - type: text
+      value: "来源：召唤神灯巨人 10% 获取 (上限2)"
+    - type: text
+      value: "神灯巨人的照片"
+    - type: text
+      value: "使用：神灯巨人攻击+10"
+    - type: text
+      value: "来源：召唤神灯巨人 10% 获取 (上限2)"
+    - type: text
+      value: "木乃伊的照片"
+    - type: text
+      value: "使用：永生状态（降低敌人攻击+10、每轮恢复10点生命值，持续本层）"
+    - type: text
+      value: "来源：翻出木乃伊 4% 获取 (上限3)"
+    - type: text
+      value: "DP难点"
+    - type: text
+      value: "(来源:\t贴吧-云尘尽转c)"
+    - type: group
+    - value:
+      - type: text
+        value: "迷宫特色"
+      - type: text
+        value: "：神灯许愿"
+    - type: group
+    - value:
+      - type: text
+        value: "迷宫优点"
+      - type: text
+        value: "：神灯提供的魔毯、boss低魔抗、有好多钻!"
+    - type: group
+    - value:
+      - type: text
+        value: "迷宫缺点"
+      - type: text
+        value: "：仙人掌反伤；神灯许愿动画太慢"
+    - type: text
+      value: "神灯三件套、魔毯、天方夜谭"
+    - type: text
+      value: "高级灯油许愿会出现以下情况——"
+    - type: text
+      value: "进一步强化神灯(只可许愿两次，一次是神灯灯油消耗-1，一 个是魔法值消耗-1，顺序随机)、有啥好东西(只可许愿两次，一次魔毯一次天方夜谭，顺序随机)、有啥装备(只可许愿三次，红宝石头巾、辛巴达的手套和锡印戒指)、你能提高战力么(只可许愿3次，加强神灯巨人能力)、能让我变强么(无限次，加各属性，几率+1000探索点)"
+    - type: text
+      value: "神灯雕像后出战，第六次使用黄金灯油许愿可以许愿每局限定一次的-—再给我三个愿望：获得黄金灯油12个"
+    - type: text
+      value: "装备和好东西全部许愿完成即可完成"
+    - type: text
+      value: "优先升级强化神灯，之后只需要3个灯油就能强化神灯，大大增加了效率"
+    - type: text
+      value: "神灯巨人杀死敌人"
+    - type: text
+      value: "拿到三件套之后，强化一下神灯巨人，然后用地图自带的魔毯飞回低层叫出巨人连砍带炸就好， 很容易的"
+    - type: text
+      value: "波斯火药杀死敌人"
+    - type: text
+      value: "伤害只有可怜的20， 但是打仙人掌是200， 而且杀boss一样遵循“杀boss进度双倍定律\" ， 看见就买， 买了就扔给仙人掌， 控boss血扔boss， 也不难， 满七星神灯dp的路上顺手就做了 (实在着急用佣兵出战自带20个，狠狠的砸吧)"
+    - type: text
+      value: "太阳金经和亡灵黑经"
+    - type: text
+      value: "特别提醒：二者一次只会出一个， 其他的没什么好说的， 简单(MMP这都没有限定必须在无尽 获得能难到哪去)"
+    - type: text
+      value: "不许愿到30层"
+    - type: text
+      value: "==说实话我巴不得不许愿"
+    - type: text
+      value: "神秘山洞出现强盗"
+    - type: text
+      value: "迷宫中几率碰见让你喊口号的山洞，参照阿里巴巴与四十大盗，一直喊错误的口号，就是不喊芝麻开门，就会一直刷强盗，喊错一次出2个，一局最多出现10个"
+    - type: text
+      value: "另外不用担心喊错了奖励会减少，最后喊出芝麻开门奖励是不变的"
+    - type: text
+      value: "神灯七星"
+    - type: text
+      value: "七星神灯强无敌!免疫反弹、免疫诅咒、免疫僵直、攻击+15、魔力+15、生命值+150、魔法值 +150、黄金灯油爆率+100%、魔法值消耗-1、灯油消耗-1、每进入下一层+6魔法值"
+    - type: text
+      value: "嗯，强无敌，所以做的过程就很累 每层强化啊强化，看动画啊看动画，强化啊强化，看动画啊看动画......"
+    - type: text
+      value: "不难，比低语之森的魔藤简单多了，许愿出灯油消耗-1之后再也不担心没灯油的问题了，40多层了就魔毯飞回去继续刷啊刷，一般一个魔毯足够，爬到70多层怎么也能强化满七星了......."
+    - type: text
+      value: "其中黄金灯油需要许愿两次强化神灯，否则达不到七星；普通灯油很多很多次，干脆直接点了位面把其他的神灯巨人杀敌啦用许愿获得治疗啦物资啦加属性啦什么的一次肝完，早肝完早省事"
+    - type: text
+      value: "神灯七星无需圣灯油，不用担心用什么组合，就捡垃圾就行， 猫死了就复活呗， 反正一直在低层转悠， 高层还是捡垃圾刷jjc点镇龙骑士的老把戏(觉得不想位面就点土系传奇法师或者元素领主)"
+    - type: text
+      value: "圣灯油许愿&隐藏冈布奥"
+    - type: text
+      value: "圣灯油每局游戏只有三个，是获得隐藏冈布奥的必要条件"
+    - type: text
+      value: "在60、70、80的boss身后几率出，拿到圣灯油后，进行圣灯油许愿(注意必须保证神灯经过高级灯油的强化，消耗-1，否则无法使 用圣灯油)"
+    - type: text
+      value: "会出现三个选项："
+    - type: text
+      value: "请您加入我(我想要您的碎片)，获得隐藏神灯冈布奥，之后一次20碎"
+    - type: text
+      value: "我想获得钻石!(5钻，上限100钻，拿光钻石后，该选项消失)"
+    - type: text
+      value: "我想获得金币!(100000金币，无限，感觉这也是个刷金币的好地方)"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "(来源:论坛-宅之小天)"
+    - type: text
+      value: "地图特点：圣灯油保底80层，不用爬那么高。地图仙人掌很烦，沙虫输出高。灯油-1有时候死活不出影响效率。"
+    - type: text
+      value: "1.传销大法好（冒险者匹诺曹雅典娜）。可在这个图拿完比诺曹的钻。拿完了可以换大圣或者圣骑。大圣3的倍数5的倍数层大闹，不用找第六只怪。"
+    - type: text
+      value: "圣灯油60-80层boss层。此图普通层出产精灵尘埃，许愿还有的选5钻/10w金币。"
+    - type: text
+      value: "有兴趣可以来这里魔毯大地顺便刷小美勇者。"
+    - type: text
+      value: "称号大精灵王位面/元素领主战士随意。"
+    - type: text
+      value: "2.超快超省心养狗速刷：国王出战，链接狗，cytus/神灯\t。竖琴，药剂阿拉丁神油。"
+    - type: text
+      value: "称号异界，重装，法系点2阶学徒能用变形。点完贵族套再点点加血10层左右就差不多可以静电祝福狗了。"
+    - type: text
+      value: "求稳选异界（对付高层远程怪），想刷大盗神阿努比斯金罐彩蛋点大盗神进洞。"
+    - type: text
+      value: "有国王的征税令加boss层的资源，Cy可以一路捡钥匙下楼记忆打击秒到80层。神灯则是出灯油-1快且稳，但70.80层要清几层普通层。"
+    - type: text
+      value: "70层，cy记忆后秒杀Boss需探索点2345，加变形需1759"
+    - type: text
+      value: "80层，cy记忆后秒杀Boss需探索点4263，加变形需3197"

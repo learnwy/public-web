@@ -1,0 +1,898 @@
+  - type: group
+  - value:
+    - type: text
+      value: "怪物图鉴"
+    - type: image
+      value: data:,
+    - type: text
+      value: "迷宫特殊机制"
+    - type: image
+      value: data:,
+    - type: text
+      value: "邪神雕像"
+    - type: text
+      value: "献祭邪神，可获得强大的能力"
+    - type: text
+      value: "反抗邪神，可获得黑棋主教的帮助"
+    - type: text
+      value: "1. 路线的选择"
+    - type: text
+      value: "在进入迷宫1层时，可自行选择是否激活邪神雕像。"
+    - type: text
+      value: "选择激活，进入献祭邪神路线，后续每层出现邪神雕像，可解锁祭祀书的能力，迷宫BOSS为神之投影。"
+    - type: text
+      value: "选择不激活，进入反抗邪神路线，2层会遇到黑棋主教塞缪尔，对话后其作为召唤物加入冒险，11层会遇到受伤的反抗军，迷宫BOSS为邪神投影。"
+    - type: text
+      value: "西洋棋或黑白皇后出战时，无法激活邪神雕像。"
+    - type: text
+      value: "白棋主教出战时，黑棋主教无法加入冒险。"
+    - type: text
+      value: "2. 邪神雕像 (献祭邪神路线)"
+    - type: text
+      value: "进入迷宫后，会获得\"奥斯迪加祭祀书\"和\"希拉克略祭祀书\"两本祭祀书，将它献给邪神，将逐一解锁书里的能力。新激活的能力会永久保存在选择的祭祀书中。两本书功能一样，可以各自保存一套能力选择。"
+    - type: text
+      value: "如未选择祭祀书直接激活雕像，将随机解锁能力，此时可选择一本书进行保存，保存后该祭祀书的内容会被完全替换。"
+    - type: text
+      value: "能力的类型"
+    - type: text
+      value: "邪神能力分为6种类型，对应6种棋子。升级已有的能力可获得经验值，经验值的增长可以解锁更多的能力，\t最多可解锁20条能力。"
+    - type: text
+      value: "解锁1~20条能力需要的经验为："
+    - type: image
+      value: data:,
+    - type: text
+      value: "能力的品质"
+    - type: text
+      value: "邪神能力分为金、银、铜3种品质，不同品质的能力，相同能力允许出现的次数不同，\t铜品质最多5次、银品质最多3次、金品质最多1次\t。"
+    - type: text
+      value: "能力的升级"
+    - type: text
+      value: "融入棋子可提升能力的等级，能力可升级的最大等级与条目位置相关："
+    - type: text
+      value: "第1~3条能力最大等级3级"
+    - type: text
+      value: "第4~6条能力最大等级6级"
+    - type: text
+      value: "第7~9条能力最大等级9级"
+    - type: text
+      value: "第10~12条能力最大等级12级"
+    - type: text
+      value: "第12~15条能力最大等级15级"
+    - type: text
+      value: "第16~20条能力最大等级20级"
+    - type: text
+      value: "融入普通棋子可获得50Exp，琥珀棋子350Exp，融入对应雕像经验翻倍。"
+    - type: text
+      value: "2级需要经验：50"
+    - type: text
+      value: "3级需要经验：100"
+    - type: text
+      value: "4~6每级需要经验：150"
+    - type: text
+      value: "7~9每级需要经验：200"
+    - type: text
+      value: "10~12每级需要经验：300"
+    - type: text
+      value: "13~15每级需要经验：400"
+    - type: text
+      value: "16~20每级需要经验：500"
+    - type: text
+      value: "能力的重置"
+    - type: text
+      value: "已解锁的能力可使用普通棋子*5或琥珀棋子*3进行重置。"
+    - type: text
+      value: "使用普通棋子重置时仅会出现普通能力，重置使用的棋子类型与重置出现的能力类型无关，出现铜色/银色/金色能力的概率分别为50%/30%/20%。"
+    - type: text
+      value: "使用琥珀棋子重置时，有60%概率出现琥珀能力，40%概率出现普通能力。出现普通能力时，能力品质概率与使用普通棋子重置时相同。"
+    - type: text
+      value: "使用契约后重置产生的效果均只作用于普通能力。"
+    - type: text
+      value: "能力一览表"
+    - type: image
+      value: data:,
+    - type: text
+      value: "3. 黑棋主教 (反抗邪神路线)"
+    - type: text
+      value: "不献祭邪神时，迷宫第二层出现，白棋主教出战时为敌对，其它出战会作为召唤物加入队伍。"
+    - type: text
+      value: "黑棋主教每2轮攻击一次。每杀死10个敌人，等级提升，最高50级。黑棋主教死亡后，可以花费100探索点复活。"
+    - type: text
+      value: "技能："
+    - type: text
+      value: "惩戒：攻击时，50%概率造成2倍伤害（LV5）"
+    - type: text
+      value: "主教光辉：所受伤害降低20%，闪避提升20%（LV10）"
+    - type: text
+      value: "祝福：死亡时，冈布奥恢复20%生命值（LV15）"
+    - type: text
+      value: "圣光领域：在场时，冈布奥魔法效果+20%（LV20）"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "西洋棋获得方法"
+    - type: text
+      value: "1. 必须选择献祭邪神路线。"
+    - type: text
+      value: "2. 邪神能力解锁到至少16条，然后用3个琥珀棋子把第16~20条能力其中的一条重置为王之宝藏。(推荐重置第16条能力方便以后速刷)"
+    - type: text
+      value: "3. 将王之宝藏升至20级，获得奇怪的象牙。"
+    - type: text
+      value: "4. 拿到象牙后5层会遇到\t西洋棋冈布奥\t，对话给予象牙，首次获得西洋棋冈布奥，之后为20碎片。"
+    - type: text
+      value: "迷宫重要彩蛋"
+    - type: text
+      value: "西洋棋装束"
+    - type: text
+      value: "西洋棋出战，91层首次遇到黑白皇后，答应请求，101层第二次遇到时对话获得胜利者权杖，通关结算时，获得西洋棋装束【领袖】"
+    - type: text
+      value: "创世神100钻 (大盗神)"
+    - type: text
+      value: "创世神出战，点大盗神洞里遇到布罗克的尸体，翻找获得第七封印，使用获得100钻，限1次"
+    - type: group
+    - value:
+      - type: text
+        value: "棋桌"
+      - type: text
+        value: "(召唤)"
+    - type: text
+      value: "有30%概率召唤出各种钻石棋子，钻石棋子死亡后掉落 钻石雕像，使用获得2钻，总上限3次。"
+    - type: text
+      value: "锻造琥珀棋子"
+    - type: text
+      value: "铸造熔炉锻造琥珀棋子，概率获得2钻，限1次"
+    - type: text
+      value: "*这里说一下禁魔水晶球拿钻石棋子的彩蛋，很多攻略有提到，但此彩蛋只存在于以前的限时活动迷宫，正式迷宫里没有。"
+    - type: text
+      value: "迷宫特殊建筑"
+    - type: group
+    - value:
+      - type: text
+        value: "象棋大师的尸体"
+      - type: text
+        value: "(1层出现，普通层、夹层概率出现)"
+    - type: text
+      value: "首次获得 禁魔之戒*1 + 普通棋子雕像 (5种)*1"
+    - type: text
+      value: "后续获得 随机普通棋子雕像*1~3，30%概率额外获得随机手稿*1 (每次迷宫只能获得1张，夹层中不会获得)"
+    - type: group
+    - value:
+      - type: text
+        value: "禁魔之戒"
+      - type: text
+        value: "【戒指】攻击和魔力+1/2/3/4/5/5；被击败的敌人，25/30/35/40/45/50％概率变为真实形态；翻开一定数量石板，可升级戒指（200/300/400/500/600）"
+    - type: text
+      value: "*真实形态：击败小怪可获得对应棋子雕像道具"
+    - type: group
+    - value:
+      - type: text
+        value: "尤伟的手稿【宝物】"
+      - type: text
+        value: "召唤生物能力提升（皇后、主教、禁卫军），通关结算时，额外增加10000金币"
+    - type: group
+    - value:
+      - type: text
+        value: "摩菲的手稿【宝物】"
+      - type: text
+        value: "所有魔法持续轮数+1，召唤生物能力提升（皇后、塔楼、主教）"
+    - type: group
+    - value:
+      - type: text
+        value: "斯坦尼茨的手稿【宝物】"
+      - type: text
+        value: "攻击时，10%概率不被反击，召唤生物能力提升（皇后、塔楼、骑士）"
+    - type: group
+    - value:
+      - type: text
+        value: "拉斯克的手稿【宝物】"
+      - type: text
+        value: "攻击时，10%概率造成双倍伤害，召唤生物能力提升（皇后、塔楼、禁卫军）"
+    - type: group
+    - value:
+      - type: text
+        value: "卡帕布兰卡的手稿【宝物】"
+      - type: text
+        value: "每进入下一层，恢复生命值+10，召唤生物能力提升（皇后、主教、骑士）"
+    - type: group
+    - value:
+      - type: text
+        value: "阿廖欣的手稿【宝物】"
+      - type: text
+        value: "所有魔法效果+10％，召唤生物能力提升（皇后、主教、禁卫军）"
+    - type: group
+    - value:
+      - type: text
+        value: "残局空间"
+      - type: text
+        value: "（夹层入口）"
+    - type: text
+      value: "可出现 象棋大师的尸体、巫师的残骸、扑克卫兵的尸体(红桃或黑桃之一)、杂物堆"
+    - type: group
+    - value:
+      - type: text
+        value: "巫师的残骸"
+      - type: text
+        value: "（\t\t普通层、夹层概率出现\t）"
+    - type: text
+      value: "67%概率 获得1~3阶卷轴*1~2"
+    - type: text
+      value: "33%概率 获得 邪能晶核*1"
+    - type: group
+    - value:
+      - type: text
+        value: "邪能晶核"
+      - type: text
+        value: "使用：随机提升1级邪神能力"
+    - type: group
+    - value:
+      - type: text
+        value: "扑克卫兵的尸体(\t红桃)"
+      - type: text
+        value: "（夹层\t，与黑桃互斥）"
+    - type: text
+      value: "获得 红桃之心*1"
+    - type: group
+    - value:
+      - type: text
+        value: "红桃之心"
+      - type: text
+        value: "使用：冈布奥攻击+2\t；每进入下一层，恢复生命值+5\""
+    - type: group
+    - value:
+      - type: text
+        value: "扑克卫兵的尸体(\t黑桃)"
+      - type: text
+        value: "（夹层\t，与红桃互斥）"
+    - type: text
+      value: "获得  黑桃之心*1"
+    - type: group
+    - value:
+      - type: text
+        value: "黑桃之心"
+      - type: text
+        value: "使用：冈布奥魔力+2；每进入下一层，恢复魔法值+5"
+    - type: group
+    - value:
+      - type: text
+        value: "杂物堆"
+      - type: text
+        value: "（夹层）"
+    - type: text
+      value: "未获得升兵令时，1/3概率获得升兵令*1 (限1次)"
+    - type: text
+      value: "否则获得："
+    - type: text
+      value: "30%概率 获得 禁魔水晶球*1"
+    - type: text
+      value: "50%概率 获得 随机普通棋子雕像*3"
+    - type: text
+      value: "10%概率 获得 探索点*300 + 圣杯*1"
+    - type: text
+      value: "10%概率 获得 探索点*300 + 十字架*1"
+    - type: group
+    - value:
+      - type: text
+        value: "升兵令"
+      - type: text
+        value: "使用：所有禁卫军雕像随机转化为其他雕像"
+    - type: group
+    - value:
+      - type: text
+        value: "禁魔水晶球"
+      - type: text
+        value: "使用：对敌人造成30点伤害，附带禁魔力场效果（被击败的棋子，变为真实形态）"
+    - type: group
+    - value:
+      - type: text
+        value: "棋子工厂"
+      - type: text
+        value: "(地图特色商店 货币：探索点)"
+    - type: text
+      value: "在售商品 (3~4件)"
+    - type: text
+      value: "必定售卖2组普通棋子雕像和1个禁魔水晶球，第4个物品概率出现邪能晶核、琥珀雕像、狰狞雕像。"
+    - type: text
+      value: "禁卫军雕像*2 (200)  骑士雕像*2 (200)"
+    - type: text
+      value: "主教雕像*2 (200)  塔楼雕像*2 (200)"
+    - type: text
+      value: "皇后雕像*2 (200)  禁卫军雕像*3 (300)"
+    - type: text
+      value: "骑士雕像*3 (300)  主教雕像*3 (300)"
+    - type: text
+      value: "塔楼雕像*3 (300)  皇后雕像*3 (300)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "禁魔水晶球*2 (200)  邪能晶核*1 (600)"
+    - type: text
+      value: "琥珀雕像*1 (600)  狰狞雕像*1 (1000，限1次)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "特殊勒索"
+    - type: text
+      value: "琥珀雕像*3 (限1次)"
+    - type: text
+      value: "--------------"
+    - type: text
+      value: "普通雕像可召唤对应棋子作为召唤物，本层有效"
+    - type: group
+    - value:
+      - type: text
+        value: "禁卫军"
+      - type: text
+        value: "【勇猛】每轮提升2点攻击"
+    - type: group
+    - value:
+      - type: text
+        value: "骑士"
+      - type: text
+        value: "【闪避】拥有较高的闪避"
+    - type: group
+    - value:
+      - type: text
+        value: "主教"
+      - type: text
+        value: "【治愈之光】每3轮发动，为冈布奥恢复生命值"
+    - type: group
+    - value:
+      - type: text
+        value: "塔楼"
+      - type: text
+        value: "【掩体】为冈布奥抵挡50%伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "皇后"
+      - type: text
+        value: "【女王威严】攻击元素时，额外造成30%伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "狰狞雕像"
+      - type: text
+        value: "使用：召唤狰狞（迷宫内起效，该棋子将吞噬己方所有在场的棋子，并根据被吞噬棋子的类型，获得相应能力）"
+    - type: text
+      value: "【罪恶之爪】攻击时，50％概率造成2倍伤害（初始）"
+    - type: text
+      value: "【狂热光环】在场时，自身及冈布奥攻击提升20％（禁卫军）"
+    - type: text
+      value: "【战争光环】在场时，自身及冈布奥闪避提升15％（骑士）"
+    - type: text
+      value: "【纯净光环】在场时，冈布奥忽略敌人物理及魔法抗性+20％（主教）"
+    - type: text
+      value: "【庇护光环】在场时，冈布奥所受伤害降低20％（塔楼）"
+    - type: text
+      value: "【复仇反击】死亡时自爆，对所有敌人造成3倍伤害（皇后）"
+    - type: group
+    - value:
+      - type: text
+        value: "棋桌"
+      - type: text
+        value: "(观看棋局)"
+    - type: text
+      value: "西洋棋、黑白皇后、白棋主教出战必定获得奖励，其它出战有25%的概率无法获得奖励"
+    - type: text
+      value: "获得奖励时为以下四种之一："
+    - type: group
+    - value:
+      - type: text
+        value: "策略大师状态："
+      - type: text
+        value: "攻击及魔力提升30% (持续本层)"
+    - type: group
+    - value:
+      - type: text
+        value: "灵光一闪状态："
+      - type: text
+        value: "击败怪物额外获得1个象棋雕像 (持续本层)"
+    - type: group
+    - value:
+      - type: text
+        value: "深度冥想状态："
+      - type: text
+        value: "融入邪神雕像时，额外获得10点Exp (持续本层)"
+    - type: group
+    - value:
+      - type: text
+        value: "属性提升："
+      - type: text
+        value: "攻击及魔力+1"
+    - type: group
+    - value:
+      - type: text
+        value: "棋桌"
+      - type: text
+        value: "(召唤)"
+    - type: text
+      value: "选择一种棋子作为召唤物本层出战，若敌方存在相同的棋子，则直接摧毁该棋子。"
+    - type: text
+      value: "有30%概率召唤出钻石棋子，钻石棋子死亡后掉落 钻石雕像*1 (使用：获得2颗钻石)，共享上限3次。"
+    - type: text
+      value: "棋盘召唤与使用雕像召唤的棋子技能相同"
+    - type: text
+      value: "铸造熔炉"
+    - type: text
+      value: "可锻造棋子雕像，锻造7次及以上概率出现炸炉(30-60-90-100%)，炸炉将损失材料且不会获得任何奖励。"
+    - type: image
+      value: data:,
+    - type: group
+    - value:
+      - type: text
+        value: "禁卫军/骑士/主教/塔楼/皇后契约"
+      - type: text
+        value: "使用：随机获得50~100探索点，获得禁卫军/骑士/主教/塔楼/皇后誓言状态（重置邪神能力时，必定出现禁卫军/骑士/主教/塔楼/皇后类能力，持续本层）"
+    - type: group
+    - value:
+      - type: text
+        value: "琥珀契约"
+      - type: text
+        value: "使用：随机获得100~200探索点，获得琥珀誓言状态（下次重置邪神能力时，必定出现金品质能力）"
+    - type: group
+    - value:
+      - type: text
+        value: "诸神之卷"
+      - type: text
+        value: "使用：施放神罚（对所有敌人造成伤害，对BOSS无效）"
+    - type: group
+    - value:
+      - type: text
+        value: "骑士长枪"
+      - type: text
+        value: "【手套】\t攻击+10，攻击时10％概率造成3倍伤害"
+    - type: group
+    - value:
+      - type: text
+        value: "禁卫军铠甲"
+      - type: text
+        value: "【铠甲】\t生命值+100，降低吸血效果30％"
+    - type: group
+    - value:
+      - type: text
+        value: "主教斗篷"
+      - type: text
+        value: "【披风】\t魔力+5，魔法值+30，每前进3层迷宫，随机获得一张光系卷轴"
+    - type: group
+    - value:
+      - type: text
+        value: "坚固塔盾"
+      - type: text
+        value: "【宝物】\t降低敌人伤害8，受创时，反射敌人伤害+20％"
+    - type: group
+    - value:
+      - type: text
+        value: "皇后之冠"
+      - type: text
+        value: "【头盔】\t生命值+50，魔法值+100，攻击元素时，造成额外伤害+20％"
+    - type: group
+    - value:
+      - type: text
+        value: "棋魂套装 (禁卫军铠甲+骑士长枪+主教斗篷+坚固塔盾+皇后之冠"
+      - type: text
+        value: ")\t：\t攻击和魔力+5％；攻击时，10％概率触发火球术；攻击时，10％概率触发死亡波纹"
+    - type: group
+    - value:
+      - type: text
+        value: "罪恶之爪"
+      - type: text
+        value: "【手套】\t攻击+6，攻击boss时，造成额外伤害+20％"
+    - type: text
+      value: "进藤光的尸体"
+    - type: text
+      value: "获得 折扇 *1"
+    - type: group
+    - value:
+      - type: text
+        value: "折扇"
+      - type: text
+        value: "【手套】\t魔力+3，每进入下一层看，15%概率获得神之一手状态 (\t下次施法时，所造成伤害翻倍)"
+    - type: text
+      value: "机器人残骸"
+    - type: text
+      value: "获得 灵活机械臂 *1"
+    - type: group
+    - value:
+      - type: text
+        value: "灵活机械臂"
+      - type: text
+        value: "使用：投掷后，对敌人造成50点伤害，并盗得其物品（耐久3/3）"
+    - type: text
+      value: "男性的残骸"
+    - type: text
+      value: "获得 尤曼吉棋盘*1"
+    - type: group
+    - value:
+      - type: text
+        value: "尤曼吉棋盘"
+      - type: text
+        value: "【宝物】所有敌人能力提升，且每层随机乱入怪物（蜘蛛，蝙蝠，马戏团狮子和大象，火枪手等）。\t穿戴之后，进入游戏模式：连续前进10层（中途不能脱下）迷宫，之后键盘消失，冈布奥攻击+6，魔力+6"
+    - type: text
+      value: "少年的残骸"
+    - type: text
+      value: "获得 \tD20*1"
+    - type: group
+    - value:
+      - type: text
+        value: "D20"
+      - type: text
+        value: "使用：把它丢出去试试运气！"
+    - type: text
+      value: "D20玩法是随机一个1~20的数字，加上 (攻击/12-5) 作为修正值 (最高加5) ，当最终数字>=15时，\t判定成功，攻击+5"
+    - type: text
+      value: "侍女的尸体"
+    - type: text
+      value: "获得 侍女的日记*1"
+    - type: group
+    - value:
+      - type: text
+        value: "侍女的日记"
+      - type: text
+        value: "使用：冈布奥攻击+1、生命值+20，随机获得100～300点探索点"
+    - type: text
+      value: "异教徒的残骸"
+    - type: text
+      value: "获得 深渊杂录*1 + 探索点*200"
+    - type: group
+    - value:
+      - type: text
+        value: "深渊杂录"
+      - type: text
+        value: "使用：冈布奥降低敌人攻击+3"
+    - type: group
+    - value:
+      - type: text
+        value: "受伤的反叛军"
+      - type: text
+        value: "(反抗邪神路线，11层出现)"
+    - type: text
+      value: "提交 戈耳工之眼/魔之右眼/宝石之眼/邪神之眼"
+    - type: text
+      value: "获得 诸神之卷*3 + 救赎之书*2"
+    - type: group
+    - value:
+      - type: text
+        value: "救赎之书"
+      - type: text
+        value: "使用：黑棋主教塞缪尔等级+5"
+    - type: text
+      value: "提交 诅咒视界/异族头盔/黑武士头盔"
+    - type: text
+      value: "获得 诸神之卷*2 + 救赎之书*1"
+    - type: text
+      value: "提交 其它头盔"
+    - type: text
+      value: "获得 诸神之卷*1"
+    - type: text
+      value: "黑白皇后"
+    - type: text
+      value: "西洋棋出战，91层首次遇到，答应请求"
+    - type: text
+      value: "101层第二次遇到时获得礼物："
+    - type: text
+      value: "首次获得 胜利者权杖*1"
+    - type: text
+      value: "后续为 诸神之卷*2"
+    - type: group
+    - value:
+      - type: text
+        value: "胜利者权杖"
+      - type: text
+        value: "通关结算时，获得西洋棋装束【领袖】"
+    - type: text
+      value: "西洋棋"
+    - type: text
+      value: "获得王之宝藏-象牙后5层可遇到"
+    - type: text
+      value: "首次获得 西洋棋冈布奥，后续为碎片*20"
+    - type: text
+      value: "大盗神"
+    - type: text
+      value: "隐藏的储物箱"
+    - type: text
+      value: "获得 禁卫军雕像*5"
+    - type: text
+      value: "松动的地砖"
+    - type: text
+      value: "获得 诸神之卷*1"
+    - type: text
+      value: "散落的物件"
+    - type: text
+      value: "获得 禁魔水晶球*5"
+    - type: text
+      value: "残破的巢穴"
+    - type: text
+      value: "获得 琥珀雕像*2"
+    - type: text
+      value: "深蓝"
+    - type: text
+      value: "获得 攻击及魔力+3，生命及魔法值+50"
+    - type: text
+      value: "玩具箱"
+    - type: text
+      value: "获得 飞行棋*1"
+    - type: group
+    - value:
+      - type: text
+        value: "飞行棋"
+      - type: text
+        value: "使用：立即回退20层迷宫（特殊层无效）"
+    - type: text
+      value: "布罗克的尸体"
+    - type: text
+      value: "获得 第七封印*1"
+    - type: group
+    - value:
+      - type: text
+        value: "第七封印"
+      - type: text
+        value: "使用：获得3张【末日审判】"
+    - type: text
+      value: "共有4种特殊效果："
+    - type: text
+      value: "1. 创世神冈布奥使用时，获得100颗钻石"
+    - type: text
+      value: "2. 十字军冈布奥使用时，获得20000枚金币"
+    - type: text
+      value: "3. 十字军冈布奥使用时，攻击+5"
+    - type: text
+      value: "4. 收魂者冈布奥使用时，效果翻倍"
+    - type: text
+      value: "创世神出战且未获得限定奖励1时，必定获得第一种"
+    - type: text
+      value: "十字军出战且未获得限定奖励2\t时，必定获得第二种"
+    - type: text
+      value: "其它情况，随机获得4种之一(已获得限定奖励的道具不会再出现)"
+    - type: text
+      value: "灯异界"
+    - type: group
+    - value:
+      - type: text
+        value: "象棋大师的尸体"
+      - type: text
+        value: "(1层出现，普通层、夹层概率出现)"
+    - type: text
+      value: "残破的大师之魂 使用：棋子工厂中，探索点消耗降低1%（探索点消耗最多降低30%）"
+    - type: text
+      value: "完整的大师之魂 使用：棋子工厂中，探索点消耗降低3%（探索点消耗最多降低30%）"
+    - type: group
+    - value:
+      - type: text
+        value: "巫师的残骸"
+      - type: text
+        value: "（\t\t普通层、夹层概率出现\t）"
+    - type: text
+      value: "残破的法师之魂  使用：魔力+10（持续本层）"
+    - type: text
+      value: "完整的法师之魂  使用：冈布奥魔力+1"
+    - type: group
+    - value:
+      - type: text
+        value: "扑克卫兵的尸体"
+      - type: text
+        value: "（夹层）"
+    - type: text
+      value: "红桃黑桃都一样"
+    - type: text
+      value: "扑克卫兵的灵魂  使用：获得300点探索点"
+    - type: text
+      value: "进藤光的尸体"
+    - type: text
+      value: "2个灵魂一起获得"
+    - type: text
+      value: "进藤光的灵魂  使用：棋魂状态（使用铸造熔炉时，熔炼出棋魂套装的概率+15%，持续本层）"
+    - type: text
+      value: "藤原佐为的灵魂  使用：折扇，能力提升"
+    - type: group
+    - value:
+      - type: text
+        value: "折扇"
+      - type: text
+        value: "【手套】魔力\t+6\t，每进入下一层看，\t30%\t概率获得神之一手状态"
+    - type: text
+      value: "机器人残骸"
+    - type: text
+      value: "数据芯片  使用：每进入下一层，获得探索点+10"
+    - type: text
+      value: "男性的残骸"
+    - type: text
+      value: "艾伦的灵魂  使用：每前进3层迷宫，获得一个象棋雕像"
+    - type: text
+      value: "少年的残骸"
+    - type: text
+      value: "小男孩的灵魂  使用：吃豆人状态（每击败一个敌人，恢复20%生命值，持续本层）"
+    - type: text
+      value: "侍女的尸体"
+    - type: text
+      value: "侍女的残魂  使用：施放治疗术"
+    - type: text
+      value: "异教徒的残骸"
+    - type: text
+      value: "异教徒的灵魂  使用：冈布奥攻击及魔力+3"
+    - type: group
+    - value:
+      - type: text
+        value: "布罗克的尸体"
+      - type: text
+        value: "(大盗神)"
+    - type: text
+      value: "布罗克的灵魂  使用：冈布奥攻击+3、魔力+3"
+    - type: text
+      value: "厨师菜谱"
+    - type: text
+      value: "桃花烈酒"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "桃木*3 (皇后、主教掉落)"
+    - type: text
+      value: "食用：重置邪神能力时，金品质能力出现概率+1%（最多提升30%）"
+    - type: text
+      value: "松柏清酒"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "松柏木*3 (塔楼、骑士、禁卫军掉落)"
+    - type: text
+      value: "食用：冈布奥魔力+1；所有水系魔法效果+1%"
+    - type: text
+      value: "野味杂煮"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "狮子尾*1 (狮子掉落)"
+    - type: text
+      value: "象鼻*1 (大象掉落)"
+    - type: text
+      value: "蜘蛛腿*1 (蜘蛛掉落)"
+    - type: text
+      value: "均为装备尤曼吉棋盘出现的乱入怪，可通过\"反复取下棋盘\"或\"后退楼层\"延长棋盘消失时间"
+    - type: text
+      value: "食用：冈布奥生命值+80；生机状态（每轮恢复3%生命值，持续本层）"
+    - type: text
+      value: "焖烤狰狞肋排 (隐藏)"
+    - type: text
+      value: "特殊食材："
+    - type: text
+      value: "狰狞肋排*1 (召唤狰狞死亡后掉落)"
+    - type: text
+      value: "松柏木*2 (塔楼、骑士、禁卫军掉落)"
+    - type: text
+      value: "桃木*2 (皇后、主教掉落)"
+    - type: text
+      value: "食用：冈布奥攻击提升3%（以使用时的攻击数值为准，最小提升1点）；攻击BOSS时，造成额外伤害+10%"
+    - type: text
+      value: "特殊照片"
+    - type: text
+      value: "神之投影的照片"
+    - type: text
+      value: "使用：随机获得5个雕像"
+    - type: text
+      value: "来源：进入神之投影BOSS层 30%概率 获取 (上限3)"
+    - type: text
+      value: "皇后的照片"
+    - type: text
+      value: "使用：召唤生物能力提升"
+    - type: text
+      value: "来源：翻出皇后 4%概率 获取 (上限3)"
+    - type: text
+      value: "DP难点"
+    - type: text
+      value: "(来源:\t贴吧-云尘尽转c)"
+    - type: text
+      value: "注意：在进图一层拿了戒指后一定要戴着！不然棋子奇缺！"
+    - type: text
+      value: "获得罪恶之爪"
+    - type: text
+      value: "无尽模式中献祭路线，商店里买了狰狞棋子之后扔进熔炉直接获得，买不起狰狞可以放一放，不买的话以后还会卖的"
+    - type: text
+      value: "棋魂套"
+    - type: text
+      value: "脸只要不太黑都能集齐，棋子那么多往熔炉里扔着玩就行~"
+    - type: text
+      value: "红桃和黑桃"
+    - type: text
+      value: "每局迷宫只会出一种，\t如\t果进洞发现不是需要的\t，可以小sl不进洞直接下楼，但这种方法有局限，如果是大sl之后第一个洞出\t特种兵\t那就\t改不了\t。"
+    - type: text
+      value: "这个涉及到序列激活问题，这里就不展开讲了，如果发现连续几个洞都是同一个\t尸体就说明小sl改不了，只能大sl。"
+    - type: text
+      value: "D20加属性"
+    - type: text
+      value: "令人头疼的看脸dp，用了没加属性就小sl下一层再用，攻击越高增加属性的几率越大"
+    - type: text
+      value: "诸神之卷"
+    - type: text
+      value: "出处一共有三个——"
+    - type: text
+      value: "在大盗神洞里拿、不献祭路线路上的受伤棋子、锻造琥珀棋子"
+    - type: text
+      value: "大盗神只有一个，受伤棋子只有一个（随便什么头盔）或两个（献祭铁血或恶魔猎手的头盔等等），所以建议在献祭路线玩命刷"
+    - type: text
+      value: "没有限定是无尽模式，所以记得在主线点大盗神多刷几个，减少肝量"
+    - type: text
+      value: "邪能晶核"
+    - type: text
+      value: "这玩意商店很多很多，正常刷着刷着就拿够了"
+    - type: text
+      value: "复活黑旗主教"
+    - type: text
+      value: "不献祭路线带着主教爬图，别看前期死不了，50+就很容易死了，80+后期基本出来就死"
+    - type: text
+      value: "100探索点复活一次，五次轻轻松松"
+    - type: text
+      value: "禁魔水晶球杀敌"
+    - type: text
+      value: "没必要压boss血线打双倍数量，这玩意也多的是，放心扔就好"
+    - type: text
+      value: "重置出琥珀类能力"
+    - type: text
+      value: "重置的时候使用三个琥珀棋子重置，有高几率（非必出）出现琥珀类能力（图标为金色的琥珀棋子），没出的话可以选择小sl之后随便重置个别的之后再用琥珀棋子试一次"
+    - type: text
+      value: "同时存在三条相同能力"
+    - type: text
+      value: "建议主线完成，可以挥霍大量棋子重置。使用某个契约限定一下重置出来的棋子能力类型，然后一顿重置，最好是铜品质的，基数大（上限5个）几率高，银色（上限3个）也可以接受，金色不可能（上限仅1个）"
+    - type: text
+      value: "同时三条金色传说"
+    - type: text
+      value: "这个很简单，打造自己的专属契约书的路上一定是需要刷金色传说的，慢慢来就好"
+    - type: text
+      value: "所有能力满级"
+    - type: text
+      value: "建议先把自己的契约书重置出自己需要的各种属性之后再刷，这玩意看似困难其实简单的不行，我在主线就完成了……"
+    - type: text
+      value: "重置好自己的专属属性之后，进入新的一局就可以无视掉重置的问题了，献祭每个能力的专属棋子（根据能力上面的棋子图标献祭），肝一肝很快就搞定了"
+    - type: text
+      value: "推荐组合——"
+    - type: text
+      value: "未来猫（大盗神）+帮派干部（毁灭公爵）+任意魔法系（推荐奥丁神或魔法少年，位面先知或传奇法师）"
+    - type: text
+      value: "神器：竖琴"
+    - type: text
+      value: "药水：邪神的秘药（选带）"
+    - type: text
+      value: "思路：低层刷资源，安逸点点点"
+    - type: text
+      value: "别忘了一层献祭书，否则走成了不献祭路线就可以跳楼了……"
+    - type: text
+      value: "未来猫提供任意门（拿额外道具）、时光机（飞30层），速点大盗神（洞里能拿飞行棋，又能飞20层）"
+    - type: text
+      value: "帮派干部提供见了商店就抢的酸爽（在棋子商店的暴击抢劫能抢三个琥珀棋子，后期装备多到甚至懒得抢普通商店），省下大量探索点"
+    - type: text
+      value: "魔法系提供使用大地之门的能力（奥丁神可以爬的高一点，魔法少年可以速出位面），根据时光机和飞行棋使用后自己献祭的情况选择点不点位面先知"
+    - type: text
+      value: "注意事项："
+    - type: text
+      value: "（1）邪能晶核是个好东西，不急着用，用在17+能力等级升级的时候，能节省大量棋子"
+    - type: text
+      value: "（2）飞行棋时光机40最好之前用了，低层刷资源（脸黑到40都没出那只能恭喜你了……）"
+    - type: text
+      value: "（3）位面不是必点，不用着急，看情况自定"
+    - type: text
+      value: "（4）砍累了用骑士棋子扔熔炉里做一套龙鳞（脸太黑可以小sl），把暗影之魂点了，低层暗影小弟带你飞"
+    - type: text
+      value: "（5）棋子拿手里别急着献祭，攒多了用个秘药再献祭，能省很多棋子"
+    - type: text
+      value: "（6）毁灭之刃状态时不要随便看棋盘，一旦有所感悟会顶掉毁灭的buff"
+    - type: text
+      value: "七星禁魔之戒"
+    - type: text
+      value: "只要别忘了戴手上就行，我在主线和能力满级一起完成的……"
+    - type: text
+      value: "隐藏冈布奥"
+    - type: text
+      value: "重置出来的琥珀能力中有一个王之宝藏，将其重置在等级16~20（建议16）"
+    - type: text
+      value: "献祭满后会获得奇怪的象牙，之后5层内必出西洋棋，把象牙给他即可获得西洋棋冈布奥"
+    - type: text
+      value: "之后获取方式不变，一次20碎"
+    - type: text
+      value: "速刷阵容"
+    - type: text
+      value: "(来源:论坛-宅之小天)"
+    - type: text
+      value: "西洋棋挂树的暗影之魂非常爽，且这图高贵的深渊×2，在我看来这图速刷最大的难点在于一层总是忘了点邪神雕像导致浪费3体…."
+    - type: text
+      value: "提前把王之宝藏固定在第一个20级，把前面的各个棋子的献祭弄平均。"
+    - type: text
+      value: "阵容：奥丁，猫，狗。竖琴，那个棋盘献祭额外+50经验的药（邪神秘药）"
+    - type: text
+      value: "二层奥丁给静电，直接静电祝福狗。\t猫提供6个贵族礼\t盒的旗子，狗速刷低层。\t一次任意门，基本50几层搞定，5层后拿隐藏走人。"
