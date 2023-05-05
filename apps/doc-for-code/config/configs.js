@@ -16,7 +16,12 @@ const webpackConfig = {
   mode: isProduction ? 'production' : 'development',
 };
 
+const toolsConfig = {
+  toolsPort: 4000,
+}
+
 module.exports.webpackConfig = webpackConfig;
+module.exports.toolsConfig = toolsConfig;
 module.exports.resolveProject = resolveProject;
 module.exports.isProduction = isProduction;
 module.exports.isNoProduction = isNoProduction;

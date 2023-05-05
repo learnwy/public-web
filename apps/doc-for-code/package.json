@@ -4,7 +4,7 @@
   "scripts": {
     "reset": "npx rimraf ./**/node_modules",
     "start": "NODE_ENV=development && webpack serve --config ./config/webpack.config.js",
-    "server": "node server.js",
+    "tools-server": "node config/tools-server.js",
     "watch": "webpack --watch",
     "build": "export NODE_ENV=production && webpack --config ./config/webpack.config.js",
     "analyze:build": "export NODE_ENV=production NODE_ANALYZE=true && webpack --config ./config/webpack.config.js --profile --json > analyze/stats.json",
